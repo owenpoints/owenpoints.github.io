@@ -2,7 +2,7 @@
 
 |Ranking|Name|Points|
 | ----------- | ----------- | ----------- |
-| 1. | Grace Pyon | 20,000,000,001 | 
+| 1. | Grace Pyon | 20,000,000,006 | 
 | 2. | Owen Bridges | 10,000,000,000 |
 | 3. | Thomas Clancy | 5 |
 | 4. | Alan Chen | 0 |
@@ -13,4 +13,4 @@
 | 9. | Mrs. Hart | -4 |
 | 10. | William Niemic-Andorfer | -4 |
 | 11. | Daniel Duke | -11 |
-| 12. | Aidan | -2,000,000,000 |
+| 12. | Aidan | -2,000,000,100 |
