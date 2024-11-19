@@ -1,18 +1,14 @@
-<DOCTYPE HTML>
+# Global Owen Points Rankings
 
-  <title>Global Owen Points Rankings</title>
-
-<ol>
-  <li>Grace Pyon: 20,000,000,001 </li>
-  <li>Owen Bridges: 10,000,000,000</li>
-  <li>Thomas Clancy: 5</li>
-  <li>Alan Chen: 0</li>
-  <li>Michael: 0</li>
-  <li>James Henry Southern: -1</li>
-  <li>Avery: -2</li>
-  <li>Koko: -3</li>
-  <li>Mrs. Hart: -4</li>
-  <li>William Niemic-Andorfer: -4</li>
-  <li>Daniel Duke: -11</li>
-  <li>Aidan: -2,000,000,000</li>
-</ol>
+1. Grace Pyon: 20,000,000,001 
+2. Owen Bridges: 10,000,000,000
+3. Thomas Clancy: 5
+4. Alan Chen: 0
+5. Michael: 0
+6. James Henry Southern: -1
+7. Avery: -2
+8. Koko: -3
+9. Mrs. Hart: -4
+10. William Niemic-Andorfer: -4
+11. Daniel Duke: -11
+12. Aidan: -2,000,000,000
