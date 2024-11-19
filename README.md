@@ -12,3 +12,9 @@
 10. William Niemic-Andorfer: -4
 11. Daniel Duke: -11
 12. Aidan: -2,000,000,000
+
+
+ 	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
