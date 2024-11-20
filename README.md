@@ -13,6 +13,6 @@
 | 9. | Koko | -3 |
 | 10. | Mrs. Hart | -4 |
 | 11. | William Niemic-Andorfer | -4 |
-| 12. | Alec Aris | -10 |
-| 13. | Daniel Duke | -11 |
+| 12. | Alec Aris | -11 |
+| 13. | Daniel Duke | -12 |
 | 14. | Aidan | -2,000,000,097 |
