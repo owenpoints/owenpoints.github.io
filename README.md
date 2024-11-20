@@ -14,4 +14,4 @@
 | 10. | Mrs. Hart | -4 |
 | 11. | William Niemic-Andorfer | -4 |
 | 12. | Daniel Duke | -11 |
-| 13. | Aidan | -2,000,000,100 |
+| 13. | Aidan | -2,000,000,097 |
