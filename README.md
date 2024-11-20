@@ -10,7 +10,7 @@
 | 6. | Avery | -2 |
 | 7. | Koko | -3 |
 | 8. | William Niemiec-Andorfer | -3 |
-| 9. | Mrs. Hart | -6 |
+| 9. | Mrs. Hart | -4 |
 | 10. | Alec Aris | -11 |
 | 11. | Daniel Duke | -16 |
 | 12. | Aidan | -2,000,000,118 |
