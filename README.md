@@ -1,6 +1,6 @@
 # Global Owen Points Rankings
 
-|Ranking|Name|Points|
+|Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 | 1. | Grace Pyon | 20,000,000,006 | 
 | 2. | Owen Bridges | 10,000,000,000 |
