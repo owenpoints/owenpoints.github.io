@@ -13,6 +13,6 @@
 | 9. | William Niemic-Andorfer | -4 |
 | 10. | Alec Aris | -11 |
 | 11. | Daniel Duke | -16 |
-| 12. | Aidan | -2,000,000,117 |
+| 12. | Aidan | -2,000,000,118 |
 
 Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
