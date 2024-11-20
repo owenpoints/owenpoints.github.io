@@ -15,4 +15,4 @@
 | 11. | Daniel Duke | -16 |
 | 12. | Aidan | -2,000,000,117 |
 
-Report Someone or Request Points [Here.](https://forms.gle/cc2Y95JU66t6gKew9)
+Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
