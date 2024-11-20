@@ -13,4 +13,4 @@
 | 9. | William Niemic-Andorfer | -4 |
 | 10. | Alec Aris | -11 |
 | 11. | Daniel Duke | -16 |
-| 12. | Aidan | -2,000,000,097 |
+| 12. | Aidan | -2,000,000,117 |
