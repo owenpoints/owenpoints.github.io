@@ -3,8 +3,8 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,000|
-|2.|Owen Bridges|21|
-|3.|Thomas Clancy|20|
+|2.|Thomas Clancy|21|
+|3.|Owen Bridges|21|
 |4.|Max Goldblatt|7|
 |5.|Sharleen Wang|5|
 |6.|Avery|4|
@@ -31,6 +31,8 @@
 
 
 ## Owen Points Log:
+2024-11-21 15:38:54.733446 \| Edit Points \| Thomas Clancy \| Change: 1 \| "Cutie patootie"
+
 2024-11-21 15:35:34.657010 \| Edit Points \| Alec Aris \| Change: -88 \| "Hit Grace with meter stick"
 
 2024-11-21 15:33:38.395277 \| Edit Points \| Alec Aris \| Change: -3 \| "Called Grace stinky and a loser"
