@@ -13,13 +13,15 @@
 |9.|Koko|-3|
 |10.|Mrs. Hart|-7|
 |11.|Alec Aris|-11|
-|12.|Daniel Duke|-24|
+|12.|Daniel Duke|-27|
 |13.|Aidan|-116|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
 
 ## Owen Points Log:
+2024-11-21 07:55:44.858219 \| Edit Points \| Daniel Duke \| Change: -3 \| "Looking at my legs, touching my legs, hitting me"
+
 2024-11-21 07:21:33.649104 \| Edit Points \| Person who woke up at 6:20 am to hate \| Change: -1 \| "Woke up at 6:20 am to hate"
 
 2024-11-21 07:21:07.468283 \| Add \| Person who woke up at 6:20 am to hate
