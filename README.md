@@ -13,15 +13,14 @@
 |9.|Silas|1|
 |10.|Rosie|1|
 |11.|Person who woke up at 6:20 am to hate|1|
-|12.|ClownPierce|-1|
-|13.|Koko|-1|
-|14.|Ben|-2|
-|15.|Mrs. Hart|-5|
-|16.|Alec Aris|-9|
-|17.|Daniel Duke|-30|
-|18.|Aidan|-111|
-|19.|Brenna|-500|
-|20.|Mr. Martin|-9,223,372,036,854,775,807|
+|12.|Koko|-1|
+|13.|Ben|-2|
+|14.|Mrs. Hart|-5|
+|15.|Alec Aris|-9|
+|16.|Daniel Duke|-30|
+|17.|Aidan|-111|
+|18.|Brenna|-500|
+|19.|Mr. Martin|-9,223,372,036,854,775,807|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -34,10 +33,6 @@
 2024-11-21 14:00:17.328478 \| Edit Points \| Owen Bridges \| Change: 2 \| "YAY"
 
 2024-11-21 13:59:53.059766 \| Edit Points \| Brenna \| Change: -400 \| "Funsies!"
-
-2024-11-21 13:59:38.882121 \| Edit Points \| ClownPierce \| Change: -1 \| "Gave BranzyCraft unspeakable things"
-
-2024-11-21 13:59:16.422948 \| Add \| ClownPierce
 
 2024-11-21 13:53:18.823984 \| Edit Points \| Owen Bridges \| Change: 2 \| "for letting grace be clownpierce when she compared us to branzy and clown"
 
