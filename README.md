@@ -2,7 +2,7 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|40,000,000,006|
+|1.|Grace Pyon|39,999,999,906|
 |2.|Thomas Clancy|15|
 |3.|Owen Bridges|10|
 |4.|Sharleen Wang|3|
@@ -19,6 +19,8 @@
 
 
 ## Owen Points Log:
+2024-11-20 22:55:32.627450 \| Edit Points \| Grace Pyon \| Change: -100 \| "the tragedy"
+
 2024-11-20 22:34:50.369441 \| Edit Points \| William Niemiec-Andorfer \| Change: 4 \| "Gave me scene 1 answers for Othello questions"
 
 2024-11-20 22:27:37.227857 \| Edit Points \| Aidan \| Change: 2,000,000,000 \| "Gave me scene 4 answers for Othello questions + deflating Owen Point Economy"
