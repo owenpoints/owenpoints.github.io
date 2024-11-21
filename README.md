@@ -6,11 +6,11 @@
 |2.|Thomas Clancy|15|
 |3.|Owen Bridges|10|
 |4.|Sharleen Wang|3|
-|5.|William Niemiec-Andorfer|1|
-|6.|Rosie|-1|
-|7.|Person who woke up at 6:20 am to hate|-1|
-|8.|James Henry Southern|-1|
-|9.|Avery|-2|
+|5.|Avery|2|
+|6.|William Niemiec-Andorfer|1|
+|7.|Rosie|-1|
+|8.|Person who woke up at 6:20 am to hate|-1|
+|9.|James Henry Southern|-1|
 |10.|Koko|-3|
 |11.|Mrs. Hart|-7|
 |12.|Alec Aris|-11|
@@ -21,6 +21,8 @@
 
 
 ## Owen Points Log:
+2024-11-21 08:18:35.206335 \| Edit Points \| Avery \| Change: 4 \| "Went to my birthday party"
+
 2024-11-21 07:57:51.465920 \| Edit Points \| Rosie \| Change: -1 \| "Said I have -10 Owen Points"
 
 2024-11-21 07:57:20.951067 \| Add \| Rosie
