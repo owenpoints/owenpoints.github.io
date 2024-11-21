@@ -2,7 +2,7 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|39,999,999,908|
+|1.|Grace Pyon|79,999,999,907|
 |2.|Thomas Clancy|20|
 |3.|Owen Bridges|18|
 |4.|Sharleen Wang|5|
@@ -18,8 +18,9 @@
 |14.|Mrs. Hart|-5|
 |15.|Alec Aris|-9|
 |16.|Daniel Duke|-30|
-|17.|Aidan|-111|
-|18.|Mr. Martin|-9,223,372,036,854,775,807|
+|17.|Brenna|-100|
+|18.|Aidan|-111|
+|19.|Mr. Martin|-9,223,372,036,854,775,807|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -27,6 +28,14 @@
 
 
 ## Owen Points Log:
+2024-11-21 13:47:04.442308 \| Edit Points \| Grace Pyon \| Change: 39,999,999,999 \| "Helping edit and add new Owen Pointers."
+
+2024-11-21 13:46:16.342354 \| Edit Points \| Brenna \| Change: -100 \| "Smells so bad I can smell from a different state."
+
+2024-11-21 13:45:51.793790 \| Add \| Brenna
+
+2024-11-21 13:44:06.292404 \| Add \| Brenna
+
 2024-11-21 12:38:05.450804 \| Add \| Mr. Martin
 
 2024-11-21 12:37:47.136229 \| Edit Points \| Thomas Clancy \| Change: 2 \| "Fart on Brother"
