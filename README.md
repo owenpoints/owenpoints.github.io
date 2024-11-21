@@ -4,7 +4,7 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|40,000,000,006|
 |2.|Owen Bridges|10,000,000,000|
-|3.|Thomas Clancy|13|
+|3.|Thomas Clancy|15|
 |4.|Sharleen Wang|3|
 |5.|James Henry Southern|-1|
 |6.|Avery|-2|
@@ -34,4 +34,6 @@ Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 2024-11-20 20:11:00.519810 \| Edit Points \| Owen Bridges \| Change: 2 \| "Made logs better"
 
 2024-11-20 20:12:13.905571 \| Edit Points \| Mrs. Hart \| Change: -1 \| "Othello quiz tomorrow"
+
+2024-11-20 20:54:56.742977 \| Edit Points \| Thomas Clancy \| Change: 2 \| "Gave me Act III Scene 2 answers for Othello questions"
 
