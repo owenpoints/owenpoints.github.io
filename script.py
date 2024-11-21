@@ -6,6 +6,15 @@ def pretty_num(num):
     out = f'{num:,}'
     return out
 
+def send_to_log(message):
+    log = open('log.txt', 'r')
+    content = log.read()
+    log.close()
+
+    log = open('log.txt', 'w')
+    log.seek(0,0)
+    log.write(message + '\n' + content)
+    log.close()
 
 def output(store):
 
@@ -64,16 +73,13 @@ while True:
             print("Enter Valid option.")
 
         scores.pop(remove_choice)
-        log = open('log.txt', 'a')
-        log.write(f'{datetime.datetime.now()} \| Remove \| {remove_choice}\n')
-        log.close()
+        
+        send_to_log(f'{datetime.datetime.now()} \| Remove \| {remove_choice}')
 
     elif choice == "add":
         name = input("Input name to add: ")
         scores[name] = 0
-        log = open('log.txt', 'a')
-        log.write(f'{datetime.datetime.now()} \| Add \| {name}\n')
-        log.close()
+        send_to_log(f'{datetime.datetime.now()} \| Add \| {name}')
     elif choice == "edit":
 
         while True:
@@ -94,9 +100,7 @@ while True:
 
         scores[edit_choice] += increment
 
-        log = open('log.txt', 'a')
-        log.write(f'{datetime.datetime.now()} \| Edit Points \| {edit_choice} \| Change: {increment} \| "{reason}"\n')
-        log.close()
+        send_to_log(f'{datetime.datetime.now()} \| Edit Points \| {edit_choice} \| Change: {increment} \| "{reason}"')
     
     os.system("cls")
 
