@@ -1,6 +1,7 @@
-2024-11-20 19:23:59.505740 \| Edit \| Daniel Duke \| -2 \| "Hit someone and nearly made them spill milk on their computer"
-2024-11-20 19:24:38.320113 \| Edit \| Daniel Duke \| -2 \| "Hit someone for not liking re:zero"
-2024-11-20 19:36:49.414995 \| Edit \| Owen Bridges \| 2 \| "made log system for website"
+2024-11-20 19:23:59.505740 \| Edit Points\| Daniel Duke \| Change: -2 \| "Hit someone and nearly made them spill milk on their computer"
+2024-11-20 19:24:38.320113 \| Edit Points\| Daniel Duke \| Change: -2 \| "Hit someone for not liking re:zero"
+2024-11-20 19:36:49.414995 \| Edit Points\| Owen Bridges \| Change: 2 \| "made log system for website"
 2024-11-20 20:03:04.251678 \| Add \| test entry
-2024-11-20 20:03:35.975531 \| Edit \| test entry \| 100 \| "test entry for log"
+2024-11-20 20:03:35.975531 \| Edit Points\| test entry \| Change: 100 \| "test entry for log"
 2024-11-20 20:03:43.798241 \| Remove \| test entry
+2024-11-20 20:08:13.639786 \| Edit Points \| Owen Bridges \| Change: 1 \| "made logs better"

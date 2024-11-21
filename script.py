@@ -95,7 +95,7 @@ while True:
         scores[edit_choice] += increment
 
         log = open('log.txt', 'a')
-        log.write(f'{datetime.datetime.now()} \| Edit \| {edit_choice} \| {increment} \| "{reason}"\n')
+        log.write(f'{datetime.datetime.now()} \| Edit Points \| {edit_choice} \| Change: {increment} \| "{reason}"\n')
         log.close()
     
     os.system("cls")
