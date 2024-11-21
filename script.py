@@ -20,13 +20,13 @@ def output(store):
 
     file = open('README.md', 'w')
 
-    output_str = ""
+    output_str = "# Global Owen Points Rankings\n\n|Ranking|Name|Owen Points|\n| ----------- | ----------- | ----------- |\n"
     
     store = dict(sorted(store.items(), key=lambda item: item[1]))
     store = {k: store[k] for k in reversed(store)}
 
     for i, item in enumerate(store):
-        output_str += f"{list(store)[i]} {pretty_num(store[item])}\n\n"
+        output_str += f"|{i + 1}.|{list(store)[i]}|{pretty_num(store[item])}|\n"
 
     output_str += "\n## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).\n"
     output_str += "\n## !! Those Under -500 Owen Points will be [Executed Live](https://www.twitch.tv/will_of_owen) !!\n\n\n## Owen Points Log:\n"

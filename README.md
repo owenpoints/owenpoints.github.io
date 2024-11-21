@@ -1,47 +1,29 @@
-Grace Pyon 80,000,000,000
+# Global Owen Points Rankings
 
-Owen Bridges 21
-
-Thomas Clancy 20
-
-Max Goldblatt 7
-
-Sharleen Wang 5
-
-Avery 4
-
-William Niemiec-Andorfer 3
-
-James Henry Southern 3
-
-Saanvi 2
-
-Silas 1
-
-Rosie 1
-
-Person who woke up at 6:20 am to hate 1
-
-Justin Ferrero 0
-
-Koko -1
-
-Ben -2
-
-Mrs. Hart -5
-
-Noam -6
-
-Alec Aris -12
-
-Daniel Duke -29
-
-Aidan -111
-
-Brenna -500
-
-Mr. Martin -9,223,372,036,854,775,807
-
+|Ranking|Name|Owen Points|
+| ----------- | ----------- | ----------- |
+|1.|Grace Pyon|80,000,000,000|
+|2.|Owen Bridges|21|
+|3.|Thomas Clancy|20|
+|4.|Max Goldblatt|7|
+|5.|Sharleen Wang|5|
+|6.|Avery|4|
+|7.|William Niemiec-Andorfer|3|
+|8.|James Henry Southern|3|
+|9.|Saanvi|2|
+|10.|Silas|1|
+|11.|Rosie|1|
+|12.|Person who woke up at 6:20 am to hate|1|
+|13.|Justin Ferrero|0|
+|14.|Koko|-1|
+|15.|Ben|-2|
+|16.|Mrs. Hart|-5|
+|17.|Noam|-6|
+|18.|Daniel Duke|-29|
+|19.|Alec Aris|-100|
+|20.|Aidan|-111|
+|21.|Brenna|-500|
+|22.|Mr. Martin|-9,223,372,036,854,775,807|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -49,6 +31,8 @@ Mr. Martin -9,223,372,036,854,775,807
 
 
 ## Owen Points Log:
+2024-11-21 15:35:34.657010 \| Edit Points \| Alec Aris \| Change: -88 \| "Hit Grace with meter stick"
+
 2024-11-21 15:33:38.395277 \| Edit Points \| Alec Aris \| Change: -3 \| "Called Grace stinky and a loser"
 
 2024-11-21 15:28:51.416675 \| Edit Points \| Max Goldblatt \| Change: 7 \| "Went to HackGwinnett with me"
