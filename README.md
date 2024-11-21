@@ -2,9 +2,9 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|79,999,999,907|
+|1.|Grace Pyon|79,999,999,908|
 |2.|Thomas Clancy|20|
-|3.|Owen Bridges|18|
+|3.|Owen Bridges|19|
 |4.|Sharleen Wang|5|
 |5.|Avery|4|
 |6.|William Niemiec-Andorfer|3|
@@ -28,6 +28,12 @@
 
 
 ## Owen Points Log:
+2024-11-21 13:53:18.823984 \| Edit Points \| Owen Bridges \| Change: 2 \| "for letting grace be clownpierce when she compared us to branzy and clown"
+
+2024-11-21 13:52:47.284084 \| Edit Points \| Grace Pyon \| Change: 1 \| "correcting owen on spelling mistake"
+
+2024-11-21 13:52:07.610782 \| Edit Points \| Owen Bridges \| Change: -1 \| "Using a fake word, and not even spelling that fake word correctly"
+
 2024-11-21 13:47:04.442308 \| Edit Points \| Grace Pyon \| Change: 39,999,999,999 \| "Helping edit and add new Owen Pointers."
 
 2024-11-21 13:46:16.342354 \| Edit Points \| Brenna \| Change: -100 \| "Smells so bad I can smell from a different state."
