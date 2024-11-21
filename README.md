@@ -20,8 +20,8 @@
 |16.|Ben|-2|
 |17.|Mrs. Hart|-5|
 |18.|Noam|-6|
-|19.|Daniel Duke|-29|
-|20.|Alec Aris|-98|
+|19.|Alec Aris|-10|
+|20.|Daniel Duke|-29|
 |21.|Aidan|-111|
 |22.|Brenna|-500|
 |23.|Mr. Martin|-9,223,372,036,854,775,807|
@@ -32,6 +32,8 @@
 
 
 ## Owen Points Log:
+2024-11-21 17:56:16.517881 \| Edit Points \| Alec Aris \| Change: 88 \| "Possibly didn't hit Grace with meter stick"
+
 2024-11-21 15:52:28.247771 \| Edit Points \| Grace Pyon \| Change: 3 \| "Called me cool"
 
 2024-11-21 15:50:21.608195 \| Edit Points \| Mr. Lee \| Change: 1 \| "Made funny joke"
