@@ -46,8 +46,6 @@
 
 2024-11-21 13:45:51.793790 \| Add \| Brenna
 
-2024-11-21 13:44:06.292404 \| Add \| Brenna
-
 2024-11-21 12:38:05.450804 \| Add \| Mr. Martin
 
 2024-11-21 12:37:47.136229 \| Edit Points \| Thomas Clancy \| Change: 2 \| "Fart on Brother"

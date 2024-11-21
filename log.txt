@@ -7,7 +7,6 @@
 2024-11-21 13:47:04.442308 \| Edit Points \| Grace Pyon \| Change: 39,999,999,999 \| "Helping edit and add new Owen Pointers."
 2024-11-21 13:46:16.342354 \| Edit Points \| Brenna \| Change: -100 \| "Smells so bad I can smell from a different state."
 2024-11-21 13:45:51.793790 \| Add \| Brenna
-2024-11-21 13:44:06.292404 \| Add \| Brenna
 2024-11-21 12:38:05.450804 \| Add \| Mr. Martin
 2024-11-21 12:37:47.136229 \| Edit Points \| Thomas Clancy \| Change: 2 \| "Fart on Brother"
 2024-11-21 11:58:32.203283 \| Edit Points \| Silas \| Change: 1 \| "He had three tests today"
