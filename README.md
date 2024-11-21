@@ -4,7 +4,7 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|40,000,000,006|
 |2.|Thomas Clancy|15|
-|3.|Owen Bridges|4|
+|3.|Owen Bridges|5|
 |4.|Sharleen Wang|3|
 |5.|James Henry Southern|-1|
 |6.|Avery|-2|
@@ -19,6 +19,8 @@
 
 
 ## Owen Points Log:
+2024-11-20 22:08:57.165004 \| Edit Points \| Owen Bridges \| Change: 1 \| "testing batch file loop"
+
 2024-11-20 22:08:12.629144 \| Edit Points \| Owen Bridges \| Change: -1 \| "how did i mess up the markdown so bad github stopped workingn"
 
 2024-11-20 22:06:31.345847 \| Edit Points \| Owen Bridges \| Change: 1 \| "At least I did my best to add a favicon and title"
