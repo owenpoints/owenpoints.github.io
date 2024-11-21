@@ -3,8 +3,8 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,003|
-|2.|Thomas Clancy|21|
-|3.|Owen Bridges|21|
+|2.|Owen Bridges|22|
+|3.|Thomas Clancy|21|
 |4.|Max Goldblatt|7|
 |5.|Sharleen Wang|5|
 |6.|Avery|4|
@@ -32,6 +32,8 @@
 
 
 ## Owen Points Log:
+2024-11-21 18:45:13.157521 \| Edit Points \| Owen Bridges \| Change: 1 \| "Added blog page and link at bottom of points page"
+
 2024-11-21 17:56:16.517881 \| Edit Points \| Alec Aris \| Change: 88 \| "Possibly didn't hit Grace with meter stick"
 
 2024-11-21 15:52:28.247771 \| Edit Points \| Grace Pyon \| Change: 3 \| "Called me cool"
@@ -178,3 +180,5 @@
 
 2024-11-20 19:23:59.505740 \| Edit Points \| Daniel Duke \| Change: -2 \| "Hit someone and nearly made them spill milk on their computer"
 
+
+## Top Owen Updates Can be Found [Here](https://owenpoints.github.io/blog)

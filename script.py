@@ -37,6 +37,8 @@ def output(store):
         output_str += i + '\n'
     log.close()
 
+    output_str += "\n## Top Owen Updates Can be Found [Here](https://owenpoints.github.io/blog)\n"
+
     file.write(output_str)
     file.close()
     
@@ -53,6 +55,9 @@ scores = ast.literal_eval(store.read())
 
 while True:
 
+    scores = dict(sorted(scores.items(), key=lambda item: item[1]))
+    scores = {k: scores[k] for k in reversed(scores)}
+    
     for i in scores:
         print(i, ":", scores[i])
 
