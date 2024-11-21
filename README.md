@@ -21,7 +21,7 @@
 
 
 ## Owen Points Log:
-2024-11-21 07:57:51.465920 \| Edit Points \| Rosie \| Change: -1 \| "Stinky"
+2024-11-21 07:57:51.465920 \| Edit Points \| Rosie \| Change: -1 \| "Said I have -10 Owen Points"
 
 2024-11-21 07:57:20.951067 \| Add \| Rosie
 
