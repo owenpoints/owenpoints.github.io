@@ -2,21 +2,21 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|39,999,999,906|
-|2.|Thomas Clancy|15|
-|3.|Owen Bridges|15|
-|4.|Sharleen Wang|3|
-|5.|Saanvi|2|
-|6.|Avery|2|
-|7.|William Niemiec-Andorfer|1|
-|8.|James Henry Southern|1|
-|9.|Rosie|-1|
-|10.|Person who woke up at 6:20 am to hate|-1|
-|11.|Koko|-3|
-|12.|Mrs. Hart|-7|
-|13.|Alec Aris|-11|
-|14.|Daniel Duke|-31|
-|15.|Aidan|-113|
+|1.|Grace Pyon|39,999,999,908|
+|2.|Thomas Clancy|17|
+|3.|Owen Bridges|17|
+|4.|Sharleen Wang|5|
+|5.|Avery|4|
+|6.|William Niemiec-Andorfer|3|
+|7.|James Henry Southern|3|
+|8.|Saanvi|2|
+|9.|Rosie|1|
+|10.|Person who woke up at 6:20 am to hate|1|
+|11.|Koko|-1|
+|12.|Mrs. Hart|-5|
+|13.|Alec Aris|-9|
+|14.|Daniel Duke|-29|
+|15.|Aidan|-111|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -26,7 +26,7 @@
 ## Owen Points Log:
 2024-11-21 10:22:17.088078 \| Edit Points \| Daniel Duke \| Change: -4 \| "Touching me in the hallways"
 
-2024-11-21 10:21:35.148568 \| Edit Points \| Saanvi \| Change: 2 \| "Thanksgiving break"
+2024-11-21 10:21:35.148568 \| Edit Points \| All \| Change: 2 \| "Thanksgiving break"
 
 2024-11-21 09:28:10.458457 \| Edit Points \| Saanvi \| Change: -1 \| "Cashed in Owen Points to Shake my Hand"
 
