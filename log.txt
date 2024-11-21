@@ -1,4 +1,4 @@
-2024-11-20 22:18:14.170854 \| Edit Points \| Owen Bridges \| Change: 1 \| "why is the ico working :sob:"
+2024-11-20 22:18:14.170854 \| Edit Points \| Owen Bridges \| Change: 1 \| "why is the ico working 😭"
 2024-11-20 22:17:05.643079 \| Edit Points \| Owen Bridges \| Change: 0 \| "Updating to account for discrepancy in logs"
 2024-11-20 22:14:13.342426 \| Edit Points \| Owen Bridges \| Change: 1 \| "Fixed Github pages"
 2024-11-20 22:08:12.629144 \| Edit Points \| Owen Bridges \| Change: -1 \| "how did i mess up the markdown so bad github stopped workingn"

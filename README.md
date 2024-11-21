@@ -19,7 +19,7 @@
 
 
 ## Owen Points Log:
-2024-11-20 22:18:14.170854 \| Edit Points \| Owen Bridges \| Change: 1 \| "why is the ico working :sob:"
+2024-11-20 22:18:14.170854 \| Edit Points \| Owen Bridges \| Change: 1 \| "why is the ico working 😭"
 
 2024-11-20 22:17:05.643079 \| Edit Points \| Owen Bridges \| Change: 0 \| "Updating to account for discrepancy in logs"
 
