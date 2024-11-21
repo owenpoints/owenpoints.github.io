@@ -64,8 +64,16 @@ while True:
             print("Enter Valid option.")
 
         scores.remove(remove_choice)
+        log = open('log.txt', 'a')
+        log.write(f'{datetime.datetime.now()} | Removed Entry | {remove_choice}\n')
+        log.close()
+
     elif choice == "add":
-        scores[input("Input name to add: ")] = 0
+        name = input("Input name to add: ")
+        scores[name] = 0
+        log = open('log.txt', 'a')
+        log.write(f'{datetime.datetime.now()} | Added Entry | {name}\n')
+        log.close()
     elif choice == "edit":
 
         while True:
@@ -88,7 +96,7 @@ while True:
 
         log = open('log.txt', 'a')
         log.write(f'{datetime.datetime.now()} | {edit_choice} | {increment} | "{reason}"\n')
-        log.close
+        log.close()
     
     os.system("cls")
 

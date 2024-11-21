@@ -1,3 +1,4 @@
 2024-11-20 19:23:59.505740 | Daniel Duke | -2 | "Hit someone and nearly made them spill milk on their computer"
 2024-11-20 19:24:38.320113 | Daniel Duke | -2 | "Hit someone for not liking re:zero"
 2024-11-20 19:36:49.414995 | Owen Bridges | 2 | "made log system for website"
+2024-11-20 19:48:00.789998 | Added Entry | Test Person
