@@ -4,7 +4,7 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|40,000,000,006|
 |2.|Thomas Clancy|15|
-|3.|Owen Bridges|9|
+|3.|Owen Bridges|10|
 |4.|Sharleen Wang|3|
 |5.|James Henry Southern|-1|
 |6.|Avery|-2|
@@ -19,6 +19,8 @@
 
 
 ## Owen Points Log:
+2024-11-20 22:18:14.170854 \| Edit Points \| Owen Bridges \| Change: 1 \| "why is the ico working :sob:"
+
 2024-11-20 22:17:05.643079 \| Edit Points \| Owen Bridges \| Change: 0 \| "Updating to account for discrepancy in logs"
 
 2024-11-20 22:14:13.342426 \| Edit Points \| Owen Bridges \| Change: 1 \| "Fixed Github pages"
