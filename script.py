@@ -65,14 +65,14 @@ while True:
 
         scores.pop(remove_choice)
         log = open('log.txt', 'a')
-        log.write(f'{datetime.datetime.now()} | Remove | {remove_choice}\n')
+        log.write(f'{datetime.datetime.now()} \| Remove \| {remove_choice}\n')
         log.close()
 
     elif choice == "add":
         name = input("Input name to add: ")
         scores[name] = 0
         log = open('log.txt', 'a')
-        log.write(f'{datetime.datetime.now()} | Add | {name}\n')
+        log.write(f'{datetime.datetime.now()} \| Add \| {name}\n')
         log.close()
     elif choice == "edit":
 
@@ -95,7 +95,7 @@ while True:
         scores[edit_choice] += increment
 
         log = open('log.txt', 'a')
-        log.write(f'{datetime.datetime.now()} | Edit | {edit_choice} | {increment} | "{reason}"\n')
+        log.write(f'{datetime.datetime.now()} \| Edit \| {edit_choice} \| {increment} \| "{reason}"\n')
         log.close()
     
     os.system("cls")
