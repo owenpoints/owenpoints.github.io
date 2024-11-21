@@ -7,9 +7,9 @@
 |3.|Owen Bridges|15|
 |4.|Sharleen Wang|3|
 |5.|Avery|2|
-|6.|Saanvi|1|
-|7.|William Niemiec-Andorfer|1|
-|8.|James Henry Southern|1|
+|6.|William Niemiec-Andorfer|1|
+|7.|James Henry Southern|1|
+|8.|Saanvi|0|
 |9.|Rosie|-1|
 |10.|Person who woke up at 6:20 am to hate|-1|
 |11.|Koko|-3|
@@ -24,6 +24,8 @@
 
 
 ## Owen Points Log:
+2024-11-21 09:28:10.458457 \| Edit Points \| Saanvi \| Change: -1 \| "Cashed in Owen Points to Shake my Hand"
+
 2024-11-21 09:24:32.009083 \| Edit Points \| Saanvi \| Change: 1 \| "Very cool"
 
 2024-11-21 09:23:47.575384 \| Add \| Saanvi
