@@ -13,12 +13,14 @@
 |9.|Mrs. Hart|-7|
 |10.|Alec Aris|-11|
 |11.|Daniel Duke|-24|
-|12.|Aidan|-2,000,000,116|
+|12.|Aidan|-116|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
 
 ## Owen Points Log:
+2024-11-20 22:27:37.227857 \| Edit Points \| Aidan \| Change: 2,000,000,000 \| "Gave me scene 4 answers for Othello questions + deflating Owen Point Economy"
+
 2024-11-20 22:22:13.299713 \| Edit Points \| Owen Bridges \| Change: 0 \| "favicon*"
 
 2024-11-20 22:18:14.170854 \| Edit Points \| Owen Bridges \| Change: 1 \| "why is the ico working 😭"
