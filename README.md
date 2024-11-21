@@ -1,28 +1,47 @@
-# Global Owen Points Rankings
+Grace Pyon 80,000,000,000
 
-|Ranking|Name|Owen Points|
-| ----------- | ----------- | ----------- |
-|1.|Grace Pyon|80,000,000,000|
-|2.|Owen Bridges|21|
-|3.|Thomas Clancy|20|
-|4.|Sharleen Wang|5|
-|5.|Avery|4|
-|6.|William Niemiec-Andorfer|3|
-|7.|James Henry Southern|3|
-|8.|Saanvi|2|
-|9.|Silas|1|
-|10.|Rosie|1|
-|11.|Person who woke up at 6:20 am to hate|1|
-|12.|Justin Ferrero|0|
-|13.|Koko|-1|
-|14.|Ben|-2|
-|15.|Mrs. Hart|-5|
-|16.|Noam|-6|
-|17.|Alec Aris|-9|
-|18.|Daniel Duke|-29|
-|19.|Aidan|-111|
-|20.|Brenna|-500|
-|21.|Mr. Martin|-9,223,372,036,854,775,807|
+Owen Bridges 21
+
+Thomas Clancy 20
+
+Max Goldblatt 7
+
+Sharleen Wang 5
+
+Avery 4
+
+William Niemiec-Andorfer 3
+
+James Henry Southern 3
+
+Saanvi 2
+
+Silas 1
+
+Rosie 1
+
+Person who woke up at 6:20 am to hate 1
+
+Justin Ferrero 0
+
+Koko -1
+
+Ben -2
+
+Mrs. Hart -5
+
+Noam -6
+
+Alec Aris -9
+
+Daniel Duke -29
+
+Aidan -111
+
+Brenna -500
+
+Mr. Martin -9,223,372,036,854,775,807
+
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -30,6 +49,10 @@
 
 
 ## Owen Points Log:
+2024-11-21 15:28:51.416675 \| Edit Points \| Max Goldblatt \| Change: 7 \| "Went to HackGwinnett with me"
+
+2024-11-21 15:28:13.358325 \| Add \| Max Goldblatt
+
 2024-11-21 15:24:55.135973 \| Edit Points \| Justin Ferrero \| Change: -2 \| "Saying Kenya joke loudly in class"
 
 2024-11-21 15:08:05.122018 \| Edit Points \| Noam \| Change: -3 \| "Made gyatt joke"
