@@ -1,1 +1,1 @@
-{'Grace Pyon': 40000000006, 'Owen Bridges': 10000000000, 'Thomas Clancy': 13, 'Sharleen Wang': 3, 'James Henry Southern': -1, 'Avery': -2, 'Koko': -3, 'William Niemiec-Andorfer': -3, 'Mrs. Hart': -6, 'Alec Aris': -11, 'Daniel Duke': -24, 'Aidan': -2000000118}
+{'Grace Pyon': 40000000006, 'Owen Bridges': 10000000000, 'Thomas Clancy': 13, 'Sharleen Wang': 3, 'James Henry Southern': -1, 'Avery': -2, 'Koko': -3, 'William Niemiec-Andorfer': -3, 'Mrs. Hart': -7, 'Alec Aris': -11, 'Daniel Duke': -24, 'Aidan': -2000000118}

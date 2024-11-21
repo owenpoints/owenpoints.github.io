@@ -10,7 +10,7 @@
 |6.|Avery|-2|
 |7.|William Niemiec-Andorfer|-3|
 |8.|Koko|-3|
-|9.|Mrs. Hart|-6|
+|9.|Mrs. Hart|-7|
 |10.|Alec Aris|-11|
 |11.|Daniel Duke|-24|
 |12.|Aidan|-2,000,000,118|
@@ -31,7 +31,7 @@ Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
 2024-11-20 20:03:43.798241 \| Remove \| test entry
 
-
-
 2024-11-20 20:11:00.519810 \| Edit Points \| Owen Bridges \| Change: 2 \| "Made logs better"
+
+2024-11-20 20:12:13.905571 \| Edit Points \| Mrs. Hart \| Change: -1 \| "Othello quiz tomorrow"
 
