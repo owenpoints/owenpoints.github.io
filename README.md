@@ -30,6 +30,8 @@
 
 ## !! Those Under -500 Owen Points will be [Executed Live](https://www.twitch.tv/will_of_owen) !!
 
+## Top Owen Updates Can be Found [Here](https://owenpoints.github.io/blog)
+
 
 ## Owen Points Log:
 2024-11-21 18:45:13.157521 \| Edit Points \| Owen Bridges \| Change: 1 \| "Added blog page and link at bottom of points page"
@@ -180,5 +182,3 @@
 
 2024-11-20 19:23:59.505740 \| Edit Points \| Daniel Duke \| Change: -2 \| "Hit someone and nearly made them spill milk on their computer"
 
-
-## Top Owen Updates Can be Found [Here](https://owenpoints.github.io/blog)
