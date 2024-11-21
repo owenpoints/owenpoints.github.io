@@ -3,8 +3,8 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|39,999,999,908|
-|2.|Thomas Clancy|17|
-|3.|Owen Bridges|17|
+|2.|Owen Bridges|18|
+|3.|Thomas Clancy|17|
 |4.|Sharleen Wang|5|
 |5.|Avery|4|
 |6.|William Niemiec-Andorfer|3|
@@ -24,6 +24,8 @@
 
 
 ## Owen Points Log:
+2024-11-21 10:27:51.151389 \| Edit Points \| Owen Bridges \| Change: 1 \| "Fixed problem with adding people to list using client"
+
 2024-11-21 10:22:17.088078 \| Edit Points \| Daniel Duke \| Change: -4 \| "Touching me in the hallways"
 
 2024-11-21 10:21:35.148568 \| Edit Points \| All \| Change: 2 \| "Thanksgiving break"
@@ -31,8 +33,6 @@
 2024-11-21 09:28:10.458457 \| Edit Points \| Saanvi \| Change: -1 \| "Cashed in Owen Points to Shake my Hand"
 
 2024-11-21 09:24:32.009083 \| Edit Points \| Saanvi \| Change: 1 \| "Very cool"
-
-2024-11-21 09:23:47.575384 \| Add \| Saanvi
 
 2024-11-21 09:23:43.063460 \| Add \| Saanvi
 

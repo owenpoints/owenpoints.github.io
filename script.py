@@ -78,7 +78,13 @@ while True:
         send_to_log(f'{datetime.datetime.now()} \| Remove \| {remove_choice}')
 
     elif choice == "add":
-        name = input("Input name to add: ")
+
+        while True:
+            name = input("Input name to add: ")
+            if name not in scores:
+                break
+            print("Person already exists.")
+        
         scores[name] = 0
         send_to_log(f'{datetime.datetime.now()} \| Add \| {name}')
     elif choice == "edit":
