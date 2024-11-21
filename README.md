@@ -7,22 +7,31 @@
 |3.|Owen Bridges|15|
 |4.|Sharleen Wang|3|
 |5.|Avery|2|
-|6.|William Niemiec-Andorfer|1|
-|7.|Rosie|-1|
-|8.|Person who woke up at 6:20 am to hate|-1|
-|9.|James Henry Southern|-1|
-|10.|Koko|-3|
-|11.|Mrs. Hart|-7|
-|12.|Alec Aris|-11|
-|13.|Daniel Duke|-27|
-|14.|Aidan|-113|
+|6.|Saanvi|1|
+|7.|William Niemiec-Andorfer|1|
+|8.|James Henry Southern|1|
+|9.|Rosie|-1|
+|10.|Person who woke up at 6:20 am to hate|-1|
+|11.|Koko|-3|
+|12.|Mrs. Hart|-7|
+|13.|Alec Aris|-11|
+|14.|Daniel Duke|-27|
+|15.|Aidan|-113|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
-## Those Under -500 Owen Points will be Publically Executed via Firing Squad
+## !! Those Under -500 Owen Points will be Publically Executed via Firing Squad !!
 
 
 ## Owen Points Log:
+2024-11-21 09:24:32.009083 \| Edit Points \| Saanvi \| Change: 1 \| "Very cool"
+
+2024-11-21 09:23:47.575384 \| Add \| Saanvi
+
+2024-11-21 09:23:43.063460 \| Add \| Saanvi
+
+2024-11-21 09:23:36.752926 \| Edit Points \| James Henry Southern \| Change: 2 \| "Gave me high five"
+
 2024-11-21 09:06:52.064741 \| Edit Points \| Owen Bridges \| Change: 4 \| "Gave Thomas Clancy Othello Act III answers"
 
 2024-11-21 09:06:24.629512 \| Edit Points \| Aidan \| Change: 3 \| "Gave me a high five"
