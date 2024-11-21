@@ -3,20 +3,22 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|39,999,999,908|
-|2.|Owen Bridges|18|
-|3.|Thomas Clancy|17|
+|2.|Thomas Clancy|18|
+|3.|Owen Bridges|18|
 |4.|Sharleen Wang|5|
 |5.|Avery|4|
 |6.|William Niemiec-Andorfer|3|
 |7.|James Henry Southern|3|
 |8.|Saanvi|2|
-|9.|Rosie|1|
-|10.|Person who woke up at 6:20 am to hate|1|
-|11.|Koko|-1|
-|12.|Mrs. Hart|-5|
-|13.|Alec Aris|-9|
-|14.|Daniel Duke|-29|
-|15.|Aidan|-111|
+|9.|Silas|1|
+|10.|Rosie|1|
+|11.|Person who woke up at 6:20 am to hate|1|
+|12.|Koko|-1|
+|13.|Ben|-2|
+|14.|Mrs. Hart|-5|
+|15.|Alec Aris|-9|
+|16.|Daniel Duke|-30|
+|17.|Aidan|-111|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -24,6 +26,20 @@
 
 
 ## Owen Points Log:
+2024-11-21 11:58:32.203283 \| Edit Points \| Silas \| Change: 1 \| "He had three tests today"
+
+2024-11-21 11:57:39.914391 \| Add \| Silas
+
+2024-11-21 11:57:35.993645 \| Edit Points \| Daniel Duke \| Change: -2 \| "Physically assaulting me"
+
+2024-11-21 11:56:21.748963 \| Edit Points \| Daniel Duke \| Change: 1 \| "Saying I look nice in jeans"
+
+2024-11-21 11:55:14.535662 \| Edit Points \| Thomas Clancy \| Change: 1 \| "Complimented Daniel"
+
+2024-11-21 11:54:51.543980 \| Edit Points \| Ben \| Change: -2 \| "Said anyone who follows Thomas Clancy must be a tortured soul"
+
+2024-11-21 11:54:30.693230 \| Add \| Ben
+
 2024-11-21 10:27:51.151389 \| Edit Points \| Owen Bridges \| Change: 1 \| "Fixed problem with adding people to list using client"
 
 2024-11-21 10:22:17.088078 \| Edit Points \| Daniel Duke \| Change: -4 \| "Touching me in the hallways"
