@@ -38,16 +38,43 @@ while True:
     for i in scores:
         print(i, ":", scores[i])
 
-    choice = input("Input operation (edit, add, remove, exit): ")
+    options = ("edit", "add", "remove", "exit")
+    while True:
+        choice = input(f"Input operation {options}: ")
+        if choice in options:
+            break
+        print("Enter valid option.")
 
     if choice == "exit":
         break
     elif choice == "remove":
-        scores.remove(input("Input person to remove: "))
+
+        while True:
+            remove_choice = input("Input person to remove: ")
+            if remove_choice in scores:
+                break
+            print("Enter Valid option.")
+
+        scores.remove(remove_choice)
     elif choice == "add":
         scores[input("Input name to add: ")] = 0
     elif choice == "edit":
-        scores[input("Input person to edit: ")] += int(input("Input number to increment by: "))
+
+        while True:
+            edit_choice = input("Input person to edit: ")
+            if edit_choice in scores:
+                break
+            print("Enter Valid option.")
+
+        while True:
+            increment = input("Input points to change by: ")
+            try:
+                increment = int(increment)
+                break
+            except ValueError:
+                print("Enter an integer.")
+
+        scores[edit_choice] += increment
     
     os.system("cls")
 
