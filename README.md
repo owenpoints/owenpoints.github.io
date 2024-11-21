@@ -23,7 +23,7 @@
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
-## !! Those Under -500 Owen Points will be Publically Executed via Firing Squad !!
+## !! Those Under -500 Owen Points will be Executed Live at <https://www.twitch.tv/will_of_owen> !!
 
 
 ## Owen Points Log:
