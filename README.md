@@ -19,7 +19,7 @@
 |15.|Alec Aris|-9|
 |16.|Daniel Duke|-30|
 |17.|Aidan|-111|
-|18.|Mr. Martin|-2,147,483,647|
+|18.|Mr. Martin|-9,223,372,036,854,775,807|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
