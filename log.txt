@@ -1,3 +1,5 @@
+2024-11-21 07:57:51.465920 \| Edit Points \| Rosie \| Change: -1 \| "Stinky"
+2024-11-21 07:57:20.951067 \| Add \| Rosie
 2024-11-21 07:55:44.858219 \| Edit Points \| Daniel Duke \| Change: -3 \| "Looking at my legs, touching my legs, hitting me"
 2024-11-21 07:21:33.649104 \| Edit Points \| Person who woke up at 6:20 am to hate \| Change: -1 \| "Woke up at 6:20 am to hate"
 2024-11-21 07:21:07.468283 \| Add \| Person who woke up at 6:20 am to hate

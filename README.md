@@ -7,19 +7,24 @@
 |3.|Owen Bridges|10|
 |4.|Sharleen Wang|3|
 |5.|William Niemiec-Andorfer|1|
-|6.|Person who woke up at 6:20 am to hate|-1|
-|7.|James Henry Southern|-1|
-|8.|Avery|-2|
-|9.|Koko|-3|
-|10.|Mrs. Hart|-7|
-|11.|Alec Aris|-11|
-|12.|Daniel Duke|-27|
-|13.|Aidan|-116|
+|6.|Rosie|-1|
+|7.|Person who woke up at 6:20 am to hate|-1|
+|8.|James Henry Southern|-1|
+|9.|Avery|-2|
+|10.|Koko|-3|
+|11.|Mrs. Hart|-7|
+|12.|Alec Aris|-11|
+|13.|Daniel Duke|-27|
+|14.|Aidan|-116|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
 
 ## Owen Points Log:
+2024-11-21 07:57:51.465920 \| Edit Points \| Rosie \| Change: -1 \| "Stinky"
+
+2024-11-21 07:57:20.951067 \| Add \| Rosie
+
 2024-11-21 07:55:44.858219 \| Edit Points \| Daniel Duke \| Change: -3 \| "Looking at my legs, touching my legs, hitting me"
 
 2024-11-21 07:21:33.649104 \| Edit Points \| Person who woke up at 6:20 am to hate \| Change: -1 \| "Woke up at 6:20 am to hate"
