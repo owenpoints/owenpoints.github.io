@@ -19,7 +19,7 @@
 
 
 ## Owen Points Log:
-2024-11-20 22:55:32.627450 \| Edit Points \| Grace Pyon \| Change: -100 \| "the tragedy"
+2024-11-20 22:55:32.627450 \| Edit Points \| Grace Pyon \| Change: -100 \| "The 'Alpha Owen' incident"
 
 2024-11-20 22:34:50.369441 \| Edit Points \| William Niemiec-Andorfer \| Change: 4 \| "Gave me scene 1 answers for Othello questions"
 
