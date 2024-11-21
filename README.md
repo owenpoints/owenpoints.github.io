@@ -32,7 +32,7 @@ Mrs. Hart -5
 
 Noam -6
 
-Alec Aris -9
+Alec Aris -12
 
 Daniel Duke -29
 
@@ -49,6 +49,8 @@ Mr. Martin -9,223,372,036,854,775,807
 
 
 ## Owen Points Log:
+2024-11-21 15:33:38.395277 \| Edit Points \| Alec Aris \| Change: -3 \| "Called Grace stinky and a loser"
+
 2024-11-21 15:28:51.416675 \| Edit Points \| Max Goldblatt \| Change: 7 \| "Went to HackGwinnett with me"
 
 2024-11-21 15:28:13.358325 \| Add \| Max Goldblatt
