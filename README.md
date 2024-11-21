@@ -19,10 +19,10 @@
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
+## Those Under -500 Owen Points will be Publically Executed via Firing Squad
+
 
 ## Owen Points Log:
-
-## Those Under -500 Owen Points will be Publically Executed via Firing Squad
 2024-11-21 09:06:52.064741 \| Edit Points \| Owen Bridges \| Change: 4 \| "Gave Thomas Clancy Othello Act III answers"
 
 2024-11-21 09:06:24.629512 \| Edit Points \| Aidan \| Change: 3 \| "Gave me a high five"
