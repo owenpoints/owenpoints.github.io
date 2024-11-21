@@ -4,7 +4,7 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|39,999,999,906|
 |2.|Thomas Clancy|15|
-|3.|Owen Bridges|11|
+|3.|Owen Bridges|15|
 |4.|Sharleen Wang|3|
 |5.|Avery|2|
 |6.|William Niemiec-Andorfer|1|
@@ -15,7 +15,7 @@
 |11.|Mrs. Hart|-7|
 |12.|Alec Aris|-11|
 |13.|Daniel Duke|-27|
-|14.|Aidan|-116|
+|14.|Aidan|-113|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -23,6 +23,10 @@
 ## Owen Points Log:
 
 ## Those Under -500 Owen Points will be Publically Executed via Firing Squad
+2024-11-21 09:06:52.064741 \| Edit Points \| Owen Bridges \| Change: 4 \| "Gave Thomas Clancy Othello Act III answers"
+
+2024-11-21 09:06:24.629512 \| Edit Points \| Aidan \| Change: 3 \| "Gave me a high five"
+
 2024-11-21 08:25:06.456291 \| Edit Points \| Owen Bridges \| Change: 1 \| "Added execution warning message to website"
 
 2024-11-21 08:18:35.206335 \| Edit Points \| Avery \| Change: 4 \| "Went to my birthday party"
