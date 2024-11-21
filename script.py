@@ -19,7 +19,7 @@ def output(store):
     for i, item in enumerate(store):
         output_str += f"|{i + 1}.|{list(store)[i]}|{pretty_num(store[item])}|\n"
 
-    output_str += "\nReport Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).\n\n\n## Log:\n"
+    output_str += "\nReport Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).\n\n\n## Owen Points Log:\n"
 
     log = open('log.txt', 'r')
     output_str += log.read()
