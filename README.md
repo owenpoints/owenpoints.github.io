@@ -5,7 +5,7 @@
 |1.|Grace Pyon|40,000,000,006|
 |2.|Thomas Clancy|15|
 |3.|Sharleen Wang|3|
-|4.|Owen Bridges|2|
+|4.|Owen Bridges|3|
 |5.|James Henry Southern|-1|
 |6.|Avery|-2|
 |7.|William Niemiec-Andorfer|-3|
@@ -19,9 +19,11 @@
 
 
 ## Owen Points Log:
+2024-11-20 21:27:43.338325 \| Edit Points \| Owen Bridges \| Change: 1 \| "Added commas to log edit entries"
+
 2024-11-20 21:25:53.015579 \| Edit Points \| Owen Bridges \| Change: 1 \| "Made points change request form text bigger"
 
-2024-11-20 21:25:19.306314 \| Edit Points \| Owen Bridges \| Change: -10000000000 \| "uninflatting Owen Points economy"
+2024-11-20 21:25:19.306314 \| Edit Points \| Owen Bridges \| Change: -10,000,000,000 \| "uninflatting Owen Points economy"
 
 2024-11-20 21:10:06.351060 \| Edit Points \| Owen Bridges \| Change: 1 \| "Reversed log order to make reading more recent changes easier"
 

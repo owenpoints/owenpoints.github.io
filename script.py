@@ -100,7 +100,7 @@ while True:
 
         scores[edit_choice] += increment
 
-        send_to_log(f'{datetime.datetime.now()} \| Edit Points \| {edit_choice} \| Change: {increment} \| "{reason}"')
+        send_to_log(f'{datetime.datetime.now()} \| Edit Points \| {edit_choice} \| Change: {pretty_num(increment)} \| "{reason}"')
     
     os.system("cls")
 
