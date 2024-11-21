@@ -3,7 +3,7 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|39,999,999,908|
-|2.|Thomas Clancy|18|
+|2.|Thomas Clancy|20|
 |3.|Owen Bridges|18|
 |4.|Sharleen Wang|5|
 |5.|Avery|4|
@@ -19,6 +19,7 @@
 |15.|Alec Aris|-9|
 |16.|Daniel Duke|-30|
 |17.|Aidan|-111|
+|18.|Mr. Martin|-501|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -26,6 +27,12 @@
 
 
 ## Owen Points Log:
+2024-11-21 12:38:17.399503 \| Edit Points \| Mr. Martin \| Change: -501 \| "Mr. Martin"
+
+2024-11-21 12:38:05.450804 \| Add \| Mr. Martin
+
+2024-11-21 12:37:47.136229 \| Edit Points \| Thomas Clancy \| Change: 2 \| "Fart on Brother"
+
 2024-11-21 11:58:32.203283 \| Edit Points \| Silas \| Change: 1 \| "He had three tests today"
 
 2024-11-21 11:57:39.914391 \| Add \| Silas
