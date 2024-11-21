@@ -7,18 +7,23 @@
 |3.|Owen Bridges|10|
 |4.|Sharleen Wang|3|
 |5.|William Niemiec-Andorfer|1|
-|6.|James Henry Southern|-1|
-|7.|Avery|-2|
-|8.|Koko|-3|
-|9.|Mrs. Hart|-7|
-|10.|Alec Aris|-11|
-|11.|Daniel Duke|-24|
-|12.|Aidan|-116|
+|6.|Person who woke up at 6:20 am to hate|-1|
+|7.|James Henry Southern|-1|
+|8.|Avery|-2|
+|9.|Koko|-3|
+|10.|Mrs. Hart|-7|
+|11.|Alec Aris|-11|
+|12.|Daniel Duke|-24|
+|13.|Aidan|-116|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
 
 ## Owen Points Log:
+2024-11-21 07:21:33.649104 \| Edit Points \| Person who woke up at 6:20 am to hate \| Change: -1 \| "Woke up at 6:20 am to hate"
+
+2024-11-21 07:21:07.468283 \| Add \| Person who woke up at 6:20 am to hate
+
 2024-11-20 22:55:32.627450 \| Edit Points \| Grace Pyon \| Change: -100 \| "The 'Alpha Owen' incident"
 
 2024-11-20 22:34:50.369441 \| Edit Points \| William Niemiec-Andorfer \| Change: 4 \| "Gave me scene 1 answers for Othello questions"
