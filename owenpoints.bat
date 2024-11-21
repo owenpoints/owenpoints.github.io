@@ -6,6 +6,4 @@ git add .
 
 git commit -m "Updating Points"
 
-git push origin main
-
-pause
+git push -f

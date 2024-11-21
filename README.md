@@ -19,7 +19,7 @@
 
 
 ## Owen Points Log:
-2024-11-20 22:08:57.165004 \| Edit Points \| Owen Bridges \| Change: 1 \| "testing batch file loop"
+2024-11-20 22:14:13.342426 \| Edit Points \| Owen Bridges \| Change: 1 \| "Fixed Github pages"
 
 2024-11-20 22:08:12.629144 \| Edit Points \| Owen Bridges \| Change: -1 \| "how did i mess up the markdown so bad github stopped workingn"
 
