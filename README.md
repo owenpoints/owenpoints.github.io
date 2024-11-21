@@ -20,7 +20,7 @@
 |16.|Mrs. Hart|-5|
 |17.|Noam|-6|
 |18.|Daniel Duke|-29|
-|19.|Alec Aris|-100|
+|19.|Alec Aris|-98|
 |20.|Aidan|-111|
 |21.|Brenna|-500|
 |22.|Mr. Martin|-9,223,372,036,854,775,807|
@@ -31,6 +31,8 @@
 
 
 ## Owen Points Log:
+2024-11-21 15:46:29.104166 \| Edit Points \| Alec Aris \| Change: 2 \| "Did a funny dance"
+
 2024-11-21 15:38:54.733446 \| Edit Points \| Thomas Clancy \| Change: 1 \| "Cutie patootie"
 
 2024-11-21 15:35:34.657010 \| Edit Points \| Alec Aris \| Change: -88 \| "Hit Grace with meter stick"
