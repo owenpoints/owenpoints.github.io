@@ -20,7 +20,8 @@ def output(store):
 
     file = open('README.md', 'w')
 
-    output_str = "# Global Owen Points Rankings\n\n|Ranking|Name|Owen Points|\n| ----------- | ----------- | ----------- |\n"
+    output_str = '<head> <link href="/favicon.ico" rel="icon" type="image/x-icon"> <title>Owen Points Rankings</title> </head>\n'
+    output_str += "# Global Owen Points Rankings\n\n|Ranking|Name|Owen Points|\n| ----------- | ----------- | ----------- |\n"
     
     store = dict(sorted(store.items(), key=lambda item: item[1]))
     store = {k: store[k] for k in reversed(store)}

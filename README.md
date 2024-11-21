@@ -1,11 +1,12 @@
+<head> <link href="/favicon.ico" rel="icon" type="image/x-icon"> <title>Owen Points Rankings</title> </head>
 # Global Owen Points Rankings
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|40,000,000,006|
 |2.|Thomas Clancy|15|
-|3.|Sharleen Wang|3|
-|4.|Owen Bridges|3|
+|3.|Owen Bridges|4|
+|4.|Sharleen Wang|3|
 |5.|James Henry Southern|-1|
 |6.|Avery|-2|
 |7.|William Niemiec-Andorfer|-3|
@@ -19,6 +20,8 @@
 
 
 ## Owen Points Log:
+2024-11-20 21:55:15.014823 \| Edit Points \| Owen Bridges \| Change: 1 \| "Added website favicon and title"
+
 2024-11-20 21:38:10.366098 \| Edit Points \| Aidan \| Change: 2 \| "Said I had a superb idea"
 
 2024-11-20 21:27:43.338325 \| Edit Points \| Owen Bridges \| Change: 1 \| "Added commas to log edit entries"
