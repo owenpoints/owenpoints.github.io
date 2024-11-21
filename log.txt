@@ -1,4 +1,3 @@
-2024-11-21 12:38:17.399503 \| Edit Points \| Mr. Martin \| Change: -501 \| "Mr. Martin"
 2024-11-21 12:38:05.450804 \| Add \| Mr. Martin
 2024-11-21 12:37:47.136229 \| Edit Points \| Thomas Clancy \| Change: 2 \| "Fart on Brother"
 2024-11-21 11:58:32.203283 \| Edit Points \| Silas \| Change: 1 \| "He had three tests today"
