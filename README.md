@@ -13,12 +13,14 @@
 |9.|Mrs. Hart|-7|
 |10.|Alec Aris|-11|
 |11.|Daniel Duke|-24|
-|12.|Aidan|-2,000,000,118|
+|12.|Aidan|-2,000,000,116|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
 
 ## Owen Points Log:
+2024-11-20 21:38:10.366098 \| Edit Points \| Aidan \| Change: 2 \| "Said I had a superb idea"
+
 2024-11-20 21:27:43.338325 \| Edit Points \| Owen Bridges \| Change: 1 \| "Added commas to log edit entries"
 
 2024-11-20 21:25:53.015579 \| Edit Points \| Owen Bridges \| Change: 1 \| "Made points change request form text bigger"
