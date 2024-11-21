@@ -1,5 +1,6 @@
 import os
 import ast
+import datetime
 
 def pretty_num(num):
     out = f'{num:,}'
@@ -7,6 +8,7 @@ def pretty_num(num):
 
 
 def output(store):
+
     file = open('README.md', 'w')
 
     output_str = "# Global Owen Points Rankings\n\n|Ranking|Name|Owen Points|\n| ----------- | ----------- | ----------- |\n"
@@ -17,7 +19,11 @@ def output(store):
     for i, item in enumerate(store):
         output_str += f"|{i + 1}.|{list(store)[i]}|{pretty_num(store[item])}|\n"
 
-    output_str += "\nReport Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).\n"
+    output_str += "\nReport Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).\n\n\n## Log:\n"
+
+    log = open('log.txt', 'r')
+    output_str += log.read()
+    log.close()
 
     file.write(output_str)
     file.close()
@@ -74,7 +80,13 @@ while True:
             except ValueError:
                 print("Enter an integer.")
 
+        reason = input("Input reason: ")
+
         scores[edit_choice] += increment
+
+        log = open('log.txt', 'a')
+        log.write(f'{datetime.datetime.now()} - {edit_choice} - {increment} - "{reason}"\n')
+        log.close
     
     os.system("cls")
 
