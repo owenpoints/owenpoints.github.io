@@ -3,9 +3,9 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|40,000,000,006|
-|2.|Owen Bridges|10,000,000,001|
-|3.|Thomas Clancy|15|
-|4.|Sharleen Wang|3|
+|2.|Thomas Clancy|15|
+|3.|Sharleen Wang|3|
+|4.|Owen Bridges|2|
 |5.|James Henry Southern|-1|
 |6.|Avery|-2|
 |7.|William Niemiec-Andorfer|-3|
@@ -15,10 +15,14 @@
 |11.|Daniel Duke|-24|
 |12.|Aidan|-2,000,000,118|
 
-Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
+## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
 
 ## Owen Points Log:
+2024-11-20 21:25:53.015579 \| Edit Points \| Owen Bridges \| Change: 1 \| "Made points change request form text bigger"
+
+2024-11-20 21:25:19.306314 \| Edit Points \| Owen Bridges \| Change: -10000000000 \| "uninflatting Owen Points economy"
+
 2024-11-20 21:10:06.351060 \| Edit Points \| Owen Bridges \| Change: 1 \| "Reversed log order to make reading more recent changes easier"
 
 2024-11-20 20:54:56.742977 \| Edit Points \| Thomas Clancy \| Change: 2 \| "Gave me Act III Scene 2 answers for Othello questions"
@@ -26,12 +30,6 @@ Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 2024-11-20 20:12:13.905571 \| Edit Points \| Mrs. Hart \| Change: -1 \| "Othello quiz tomorrow"
 
 2024-11-20 20:11:00.519810 \| Edit Points \| Owen Bridges \| Change: 2 \| "Made logs better"
-
-2024-11-20 20:03:43.798241 \| Remove \| test entry
-
-2024-11-20 20:03:35.975531 \| Edit Points \| test entry \| Change: 100 \| "test entry for log"
-
-2024-11-20 20:03:04.251678 \| Add \| test entry
 
 2024-11-20 19:36:49.414995 \| Edit Points \| Owen Bridges \| Change: 2 \| "made log system for website"
 
