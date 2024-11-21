@@ -2,7 +2,7 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|80,000,000,000|
+|1.|Grace Pyon|80,000,000,003|
 |2.|Thomas Clancy|21|
 |3.|Owen Bridges|21|
 |4.|Max Goldblatt|7|
@@ -11,19 +11,20 @@
 |7.|William Niemiec-Andorfer|3|
 |8.|James Henry Southern|3|
 |9.|Saanvi|2|
-|10.|Silas|1|
-|11.|Rosie|1|
-|12.|Person who woke up at 6:20 am to hate|1|
-|13.|Justin Ferrero|0|
-|14.|Koko|-1|
-|15.|Ben|-2|
-|16.|Mrs. Hart|-5|
-|17.|Noam|-6|
-|18.|Daniel Duke|-29|
-|19.|Alec Aris|-98|
-|20.|Aidan|-111|
-|21.|Brenna|-500|
-|22.|Mr. Martin|-9,223,372,036,854,775,807|
+|10.|Mr. Lee|1|
+|11.|Silas|1|
+|12.|Rosie|1|
+|13.|Person who woke up at 6:20 am to hate|1|
+|14.|Justin Ferrero|0|
+|15.|Koko|-1|
+|16.|Ben|-2|
+|17.|Mrs. Hart|-5|
+|18.|Noam|-6|
+|19.|Daniel Duke|-29|
+|20.|Alec Aris|-98|
+|21.|Aidan|-111|
+|22.|Brenna|-500|
+|23.|Mr. Martin|-9,223,372,036,854,775,807|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -31,6 +32,12 @@
 
 
 ## Owen Points Log:
+2024-11-21 15:52:28.247771 \| Edit Points \| Grace Pyon \| Change: 3 \| "Called me cool"
+
+2024-11-21 15:50:21.608195 \| Edit Points \| Mr. Lee \| Change: 1 \| "Made funny joke"
+
+2024-11-21 15:50:00.649296 \| Add \| Mr. Lee
+
 2024-11-21 15:46:29.104166 \| Edit Points \| Alec Aris \| Change: 2 \| "Did a funny dance"
 
 2024-11-21 15:38:54.733446 \| Edit Points \| Thomas Clancy \| Change: 1 \| "Cutie patootie"
