@@ -6,9 +6,9 @@
 |2.|Thomas Clancy|15|
 |3.|Owen Bridges|10|
 |4.|Sharleen Wang|3|
-|5.|James Henry Southern|-1|
-|6.|Avery|-2|
-|7.|William Niemiec-Andorfer|-3|
+|5.|William Niemiec-Andorfer|1|
+|6.|James Henry Southern|-1|
+|7.|Avery|-2|
 |8.|Koko|-3|
 |9.|Mrs. Hart|-7|
 |10.|Alec Aris|-11|
@@ -19,6 +19,8 @@
 
 
 ## Owen Points Log:
+2024-11-20 22:34:50.369441 \| Edit Points \| William Niemiec-Andorfer \| Change: 4 \| "Gave me scene 1 answers for Othello questions"
+
 2024-11-20 22:27:37.227857 \| Edit Points \| Aidan \| Change: 2,000,000,000 \| "Gave me scene 4 answers for Othello questions + deflating Owen Point Economy"
 
 2024-11-20 22:22:13.299713 \| Edit Points \| Owen Bridges \| Change: 0 \| "favicon*"
