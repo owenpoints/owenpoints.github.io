@@ -22,7 +22,9 @@ def output(store):
     output_str += "\nReport Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).\n\n\n## Owen Points Log:\n"
 
     log = open('log.txt', 'r')
-    output_str += log.read()
+    lines = log.readlines()
+    for i in lines:
+        output_str += i + '\n'
     log.close()
 
     file.write(output_str)
