@@ -4,7 +4,7 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|39,999,999,906|
 |2.|Thomas Clancy|15|
-|3.|Owen Bridges|10|
+|3.|Owen Bridges|11|
 |4.|Sharleen Wang|3|
 |5.|Avery|2|
 |6.|William Niemiec-Andorfer|1|
@@ -21,6 +21,10 @@
 
 
 ## Owen Points Log:
+
+## Those Under -500 Owen Points will be Publically Executed via Firing Squad
+2024-11-21 08:25:06.456291 \| Edit Points \| Owen Bridges \| Change: 1 \| "Added execution warning message to website"
+
 2024-11-21 08:18:35.206335 \| Edit Points \| Avery \| Change: 4 \| "Went to my birthday party"
 
 2024-11-21 07:57:51.465920 \| Edit Points \| Rosie \| Change: -1 \| "Said I have -10 Owen Points"
