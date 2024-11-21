@@ -17,7 +17,7 @@
 |13.|Ben|-2|
 |14.|Mrs. Hart|-5|
 |15.|Alec Aris|-9|
-|16.|Daniel Duke|-30|
+|16.|Daniel Duke|-29|
 |17.|Aidan|-111|
 |18.|Brenna|-500|
 |19.|Mr. Martin|-9,223,372,036,854,775,807|
@@ -28,6 +28,10 @@
 
 
 ## Owen Points Log:
+2024-11-21 14:38:32.869586 \| Edit Points \| Daniel Duke \| Change: 4 \| "Thumbs up Thursday"
+
+2024-11-21 14:38:19.512075 \| Edit Points \| Daniel Duke \| Change: -3 \| "Being mean to me"
+
 2024-11-21 14:00:46.515552 \| Edit Points \| Grace Pyon \| Change: 92 \| "For silly"
 
 2024-11-21 14:00:17.328478 \| Edit Points \| Owen Bridges \| Change: 2 \| "YAY"
