@@ -9,11 +9,11 @@
 |5.|Avery|4|
 |6.|William Niemiec-Andorfer|3|
 |7.|James Henry Southern|3|
-|8.|Justin Ferrero|2|
-|9.|Saanvi|2|
-|10.|Silas|1|
-|11.|Rosie|1|
-|12.|Person who woke up at 6:20 am to hate|1|
+|8.|Saanvi|2|
+|9.|Silas|1|
+|10.|Rosie|1|
+|11.|Person who woke up at 6:20 am to hate|1|
+|12.|Justin Ferrero|0|
 |13.|Koko|-1|
 |14.|Ben|-2|
 |15.|Mrs. Hart|-5|
@@ -30,6 +30,8 @@
 
 
 ## Owen Points Log:
+2024-11-21 15:24:55.135973 \| Edit Points \| Justin Ferrero \| Change: -2 \| "Saying Kenya joke loudly in class"
+
 2024-11-21 15:08:05.122018 \| Edit Points \| Noam \| Change: -3 \| "Made gyatt joke"
 
 2024-11-21 15:07:45.779465 \| Edit Points \| Noam \| Change: -3 \| "Unfunny"
