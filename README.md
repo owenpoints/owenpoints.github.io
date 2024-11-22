@@ -9,8 +9,8 @@
 |5.|Avery Jones|6|
 |6.|Sharleen Wang|5|
 |7.|Mr. Brown|5|
-|8.|William Niemiec-Andorfer|3|
-|9.|James Henry Southern|3|
+|8.|James Henry Southern|3|
+|9.|William Niemiec-Andorfer|2|
 |10.|Saanvi|2|
 |11.|Mr. Lee|1|
 |12.|Silas|1|
@@ -36,6 +36,8 @@
 
 
 ## Owen Points Log:
+2024-11-22 09:22:22.156824 \| Edit Points \| William Niemiec-Andorfer \| Change: -1 \| "Referenced 'Talk Tuah' podcast"
+
 2024-11-22 08:50:39.511465 \| Edit Points \| Mrs. Hart \| Change: 1 \| "Let us watch elf in class today"
 
 2024-11-22 08:46:13.315432 \| Edit Points \| Thomas Clancy \| Change: -1 \| "I said a lively chair sim game ended in a draw and he said 'ok, pass the pencil'"
