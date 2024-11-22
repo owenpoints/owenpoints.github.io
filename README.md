@@ -11,12 +11,12 @@
 |7.|James Henry Southern|3|
 |8.|William Niemiec-Andorfer|3|
 |9.|Saanvi|2|
-|10.|Person who woke up at 6:20 am to hate|1|
-|11.|Rosie|1|
-|12.|Silas|1|
-|13.|Mr. Lee|1|
-|14.|Justin Ferrero|0|
-|15.|Koko|-1|
+|10.|Rosie|1|
+|11.|Silas|1|
+|12.|Mr. Lee|1|
+|13.|Justin Ferrero|0|
+|14.|Koko|-1|
+|15.|Person who woke up at 6:20 am to hate|-2|
 |16.|Ben|-2|
 |17.|Mrs. Hart|-5|
 |18.|Noam|-6|
@@ -33,6 +33,8 @@
 
 
 ## Owen Points Log:
+2024-11-21 20:21:23.619129 \| Edit Points \| Person who woke up at 6:20 am to hate \| Change: -3 \| "Made an email 'owenhater865@gmail.com' to anonymously say that Owen Points suck"
+
 2024-11-21 20:11:21.599216 \| Remove \| Brenna
 
 2024-11-21 18:45:13.157521 \| Edit Points \| Owen Bridges \| Change: 1 \| "Added blog page and link at bottom of points page"
