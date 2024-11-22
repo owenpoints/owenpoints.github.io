@@ -60,7 +60,7 @@ while True:
     for i in scores:
         print(i, ":", scores[i])
 
-    options = ("edit", "add", "remove", "exit")
+    options = ("edit", "add", "name change", "remove", "exit")
     while True:
         choice = input(f"Input operation {options}: ")
         if choice in options:
@@ -97,7 +97,7 @@ while True:
             edit_choice = input("Input person to edit: ")
             if edit_choice in scores:
                 break
-            print("Enter Valid option.")
+            print("Person does not exist.")
 
         while True:
             increment = input("Input points to change by: ")
@@ -112,6 +112,21 @@ while True:
         scores[edit_choice] += increment
 
         send_to_log(f'{datetime.datetime.now()} \| Edit Points \| {edit_choice} \| Change: {pretty_num(increment)} \| "{reason}"')
+    elif choice == "name change":
+
+        while True:
+            old_name = input("Input person to name change: ")
+            if old_name in scores:
+                break
+            print("Person does not exist.")
+
+        new_name = input("Input new name: ")
+
+        scores[new_name] = scores[old_name]
+        scores.pop(old_name)
+
+        send_to_log(f'{datetime.datetime.now()} \| Name Change \| {old_name} \| New Name: {new_name}')
+
     
     os.system("cls")
 
