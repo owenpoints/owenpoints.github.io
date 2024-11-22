@@ -16,9 +16,9 @@
 |12.|Silas|1|
 |13.|Mr. Lee|1|
 |14.|James Henry Southern|1|
-|15.|Justin Ferrero|0|
-|16.|Koko|0|
-|17.|Owen Bridges' Iphone|-1|
+|15.|Owen Bridges' Iphone|1|
+|16.|Justin Ferrero|0|
+|17.|Koko|0|
 |18.|Thomas Clancy's airpods|-1|
 |19.|owenhater856@gmail.com|-2|
 |20.|Ben|-2|
@@ -40,6 +40,8 @@
 
 
 ## Owen Points Log:
+2024-11-22 12:56:57.268472 \| Edit Points \| Owen Bridges' Iphone \| Change: 2 \| "Let me watch instagram reels"
+
 2024-11-22 12:43:54.498718 \| Edit Points \| Coach Bombard \| Change: 2 \| "The test was easy"
 
 2024-11-22 12:43:41.901974 \| Add \| Coach Bombard
