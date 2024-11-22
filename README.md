@@ -6,26 +6,27 @@
 |2.|Thomas Clancy|21|
 |3.|Owen Bridges|11|
 |4.|Max Goldblatt|7|
-|5.|Sharleen Wang|5|
-|6.|Mr. Brown|5|
+|5.|Mr. Brown|5|
+|6.|Sharleen Wang|5|
 |7.|Avery|4|
-|8.|William Niemiec-Andorfer|3|
-|9.|James Henry Southern|3|
+|8.|James Henry Southern|3|
+|9.|William Niemiec-Andorfer|3|
 |10.|Saanvi|2|
-|11.|Mr. Lee|1|
+|11.|Rosie|1|
 |12.|Silas|1|
-|13.|Rosie|1|
+|13.|Mr. Lee|1|
 |14.|Justin Ferrero|0|
 |15.|Koko|-1|
-|16.|Aubrey Niemiec-Andorfer|-2|
+|16.|Person who woke up at 6:20 am to hate|-2|
 |17.|Ben|-2|
-|18.|Person who woke up at 6:20 am to hate|-2|
+|18.|Aubrey Niemiec-Andorfer|-2|
 |19.|Mrs. Hart|-5|
 |20.|Noam|-6|
 |21.|Alec Aris|-10|
-|22.|Daniel Duke|-29|
-|23.|Aidan|-111|
-|24.|Mr. Martin|-9,223,372,036,854,775,807|
+|22.|Guy in library who took my seat|-11|
+|23.|Daniel Duke|-29|
+|24.|Aidan|-111|
+|25.|Mr. Martin|-9,223,372,036,854,775,807|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -35,6 +36,10 @@
 
 
 ## Owen Points Log:
+2024-11-22 07:56:11.522114 \| Edit Points \| Guy in library who took my seat \| Change: -11 \| "Took my seat in library"
+
+2024-11-22 07:55:48.862061 \| Add \| Guy in library who took my seat
+
 2024-11-22 07:12:34.453592 \| Edit Points \| Aubrey Niemiec-Andorfer \| Change: -2 \| "Called William stinky"
 
 2024-11-22 07:12:08.025898 \| Add \| Aubrey Niemiec-Andorfer
