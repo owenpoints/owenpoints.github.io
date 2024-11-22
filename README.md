@@ -8,13 +8,13 @@
 |4.|Max Goldblatt|7|
 |5.|Sharleen Wang|5|
 |6.|Avery|4|
-|7.|William Niemiec-Andorfer|3|
-|8.|James Henry Southern|3|
+|7.|James Henry Southern|3|
+|8.|William Niemiec-Andorfer|3|
 |9.|Saanvi|2|
-|10.|Mr. Lee|1|
-|11.|Silas|1|
-|12.|Rosie|1|
-|13.|Person who woke up at 6:20 am to hate|1|
+|10.|Person who woke up at 6:20 am to hate|1|
+|11.|Rosie|1|
+|12.|Silas|1|
+|13.|Mr. Lee|1|
 |14.|Justin Ferrero|0|
 |15.|Koko|-1|
 |16.|Ben|-2|
