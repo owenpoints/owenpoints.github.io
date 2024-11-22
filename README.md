@@ -4,7 +4,7 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,003|
 |2.|Thomas Clancy|21|
-|3.|Owen Bridges|11|
+|3.|Owen Bridges|12|
 |4.|Max Goldblatt|7|
 |5.|Avery Jones|6|
 |6.|Sharleen Wang|5|
@@ -36,6 +36,8 @@
 
 
 ## Owen Points Log:
+2024-11-22 08:18:54.366068 \| Edit Points \| Owen Bridges \| Change: 1 \| "Saying owenpot because i was thinking about avery almost saying cockpot"
+
 2024-11-22 08:16:44.529259 \| Edit Points \| Avery \| Change: 2 \| "Almost said 'cockpot' when saying crockpot"
 
 2024-11-22 07:56:11.522114 \| Edit Points \| Guy in library who took my seat \| Change: -11 \| "Took my seat in library"
