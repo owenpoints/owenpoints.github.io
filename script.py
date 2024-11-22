@@ -60,7 +60,7 @@ while True:
     for i in scores:
         print(i, ":", scores[i])
 
-    options = ("edit", "add", "name change", "remove", "exit")
+    options = ("edit", "add", "namechange", "remove", "exit")
     while True:
         choice = input(f"Input operation {options}: ").strip()
         if choice in options:

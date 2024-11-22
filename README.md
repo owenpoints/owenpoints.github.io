@@ -27,7 +27,7 @@
 |23.|Mrs. Davis|-2|
 |24.|Aubrey Niemiec-Andorfer|-2|
 |25.|Ben|-2|
-|26.|owenhater856@gmail.com|-2|
+|26.|Mysterious OwenHater856|-2|
 |27.|Katie Hanson|-4|
 |28.|Mrs. Hart|-4|
 |29.|Noam|-6|
@@ -47,6 +47,8 @@
 
 
 ## Owen Points Log:
+2024-11-22 17:09:01.509406 \| Name Change \| owenhater856@gmail.com \| New Name: Mysterious OwenHater856
+
 2024-11-22 17:02:41.277246 \| Edit Points \| Owen Bridges \| Change: 5 \| "Created 'Owen Points' system"
 
 2024-11-22 17:01:48.156579 \| Edit Points \| Katie Hanson \| Change: -4 \| "Called William N-A redundant"
