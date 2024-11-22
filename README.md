@@ -3,7 +3,7 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,003|
-|2.|Thomas Clancy|19|
+|2.|Thomas Clancy|21|
 |3.|Owen Bridges|14|
 |4.|Max Goldblatt|7|
 |5.|Avery Jones|6|
@@ -17,17 +17,19 @@
 |13.|James Henry Southern|1|
 |14.|Justin Ferrero|0|
 |15.|Koko|0|
-|16.|owenhater856@gmail.com|-2|
-|17.|Ben|-2|
-|18.|Aubrey Niemiec-Andorfer|-2|
-|19.|Mrs. Hart|-4|
-|20.|Noam|-6|
-|21.|Mr. Yeats|-9|
-|22.|Alec Aris|-10|
-|23.|Guy in library who took my seat|-11|
-|24.|Daniel Duke|-29|
-|25.|Aidan|-111|
-|26.|Mr. Martin|-9,223,372,036,854,775,807|
+|16.|Owen Bridges' Iphone|-1|
+|17.|Thomas Clancy's airpods|-1|
+|18.|owenhater856@gmail.com|-2|
+|19.|Ben|-2|
+|20.|Aubrey Niemiec-Andorfer|-2|
+|21.|Mrs. Hart|-4|
+|22.|Noam|-6|
+|23.|Mr. Yeats|-9|
+|24.|Alec Aris|-10|
+|25.|Guy in library who took my seat|-11|
+|26.|Daniel Duke|-29|
+|27.|Aidan|-111|
+|28.|Mr. Martin|-9,223,372,036,854,775,807|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -37,6 +39,16 @@
 
 
 ## Owen Points Log:
+2024-11-22 12:03:50.597926 \| Edit Points \| Owen Bridges' Iphone \| Change: -1 \| "Playing loud music in the hallway"
+
+2024-11-22 12:03:38.784913 \| Add \| Owen Bridges' Iphone
+
+2024-11-22 12:03:28.095167 \| Edit Points \| Thomas Clancy \| Change: 2 \| "Being honest about Owen Points"
+
+2024-11-22 11:59:52.841850 \| Edit Points \| Thomas Clancy's airpods \| Change: -1 \| "Getting lost"
+
+2024-11-22 11:59:42.453605 \| Add \| Thomas Clancy's airpods
+
 2024-11-22 10:23:26.546345 \| Edit Points \| Mr. Yeats \| Change: -9 \| "Stinky + called me stinky"
 
 2024-11-22 10:23:09.482441 \| Add \| Mr. Yeats
