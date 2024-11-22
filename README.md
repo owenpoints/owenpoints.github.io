@@ -24,7 +24,7 @@
 |20.|Aubrey Niemiec-Andorfer|-2|
 |21.|Mrs. Hart|-4|
 |22.|Noam|-6|
-|23.|Mr. Yeats|-9|
+|23.|Mr. Yeats|-7|
 |24.|Alec Aris|-10|
 |25.|Guy in library who took my seat|-11|
 |26.|Daniel Duke|-29|
@@ -39,6 +39,8 @@
 
 
 ## Owen Points Log:
+2024-11-22 12:06:08.602038 \| Edit Points \| Mr. Yeats \| Change: 2 \| "Silly goober"
+
 2024-11-22 12:03:50.597926 \| Edit Points \| Owen Bridges' Iphone \| Change: -1 \| "Playing loud music in the hallway"
 
 2024-11-22 12:03:38.784913 \| Add \| Owen Bridges' Iphone
