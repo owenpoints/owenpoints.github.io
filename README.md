@@ -2,7 +2,7 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|80,000,000,153|
+|1.|Grace Pyon|80,000,000,152|
 |2.|Thomas Clancy|21|
 |3.|Owen Bridges|17|
 |4.|Max Goldblatt|7|
@@ -47,6 +47,8 @@
 
 
 ## Owen Points Log:
+2024-11-22 18:49:49.807064 \| Edit Points \| Grace Pyon \| Change: -1 \| "Took some of my chicken nuggets (NOT JUSTIFIED!!!!!)"
+
 2024-11-22 18:48:40.843357 \| Edit Points \| Mr. Martin \| Change: -1,000 \| "Told student that asian women are submissive"
 
 2024-11-22 18:47:52.548793 \| Edit Points \| Mr. Martin \| Change: -10 \| "Called student a foreigner"
