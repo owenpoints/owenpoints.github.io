@@ -6,9 +6,9 @@
 |2.|Thomas Clancy|21|
 |3.|Owen Bridges|11|
 |4.|Max Goldblatt|7|
-|5.|Mr. Brown|5|
-|6.|Sharleen Wang|5|
-|7.|Avery|4|
+|5.|Avery|6|
+|6.|Mr. Brown|5|
+|7.|Sharleen Wang|5|
 |8.|James Henry Southern|3|
 |9.|William Niemiec-Andorfer|3|
 |10.|Saanvi|2|
@@ -36,6 +36,8 @@
 
 
 ## Owen Points Log:
+2024-11-22 08:16:44.529259 \| Edit Points \| Avery \| Change: 2 \| "Almost said 'cockpot' when saying crockpot"
+
 2024-11-22 07:56:11.522114 \| Edit Points \| Guy in library who took my seat \| Change: -11 \| "Took my seat in library"
 
 2024-11-22 07:55:48.862061 \| Add \| Guy in library who took my seat
