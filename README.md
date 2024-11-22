@@ -4,33 +4,34 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,003|
 |2.|Thomas Clancy|21|
-|3.|Owen Bridges|14|
+|3.|Owen Bridges|12|
 |4.|Max Goldblatt|7|
 |5.|Avery Jones|6|
 |6.|Sharleen Wang|5|
-|7.|Mr. Brown|4|
-|8.|William Niemiec-Andorfer|2|
+|7.|Mr. Brown|5|
+|8.|Coach Bombard|2|
 |9.|Saanvi|2|
-|10.|Coach Bombard|2|
-|11.|Owen Bridges' Iphone|1|
-|12.|James Henry Southern|1|
+|10.|William Niemiec-Andorfer|2|
+|11.|Rosie|1|
+|12.|Silas|1|
 |13.|Mr. Lee|1|
-|14.|Silas|1|
-|15.|Rosie|1|
-|16.|Koko|0|
-|17.|Justin Ferrero|0|
-|18.|Thomas Clancy's airpods|-1|
-|19.|Aubrey Niemiec-Andorfer|-2|
-|20.|Ben|-2|
-|21.|owenhater856@gmail.com|-2|
-|22.|Mrs. Hart|-4|
-|23.|Noam|-6|
-|24.|Mr. Yeats|-7|
-|25.|Alec Aris|-10|
-|26.|Guy in library who took my seat|-11|
-|27.|Daniel Duke|-29|
-|28.|Aidan|-111|
-|29.|Mr. Martin|-9,223,372,036,854,775,807|
+|14.|James Henry Southern|1|
+|15.|Owen Bridges' Iphone|1|
+|16.|Justin Ferrero|0|
+|17.|Koko|0|
+|18.|Kaitlyn|-1|
+|19.|Thomas Clancy's airpods|-1|
+|20.|owenhater856@gmail.com|-2|
+|21.|Ben|-2|
+|22.|Aubrey Niemiec-Andorfer|-2|
+|23.|Mrs. Hart|-4|
+|24.|Noam|-6|
+|25.|Mr. Yeats|-7|
+|26.|Alec Aris|-10|
+|27.|Guy in library who took my seat|-11|
+|28.|Daniel Duke|-29|
+|29.|Aidan|-111|
+|30.|Mr. Martin|-9,223,372,036,854,775,807|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -40,6 +41,16 @@
 
 
 ## Owen Points Log:
+2024-11-22 13:46:07.501383 \| Edit Points \| Mr. Brown \| Change: 1 \| "Head hurt a lot today"
+
+2024-11-22 13:45:15.038003 \| Edit Points \| Owen Bridges \| Change: -2 \| "Forgot names of Graces friends"
+
+2024-11-22 13:45:00.101265 \| Edit Points \| Kaitlyn \| Change: -1 \| "Showed Mr.s Rivera picture of Grace at robotics"
+
+2024-11-22 13:44:38.919565 \| Add \| Kaitlyn
+
+2024-11-22 13:44:04.534555 \| Add \| Kaitlyn
+
 2024-11-22 13:05:34.309655 \| Edit Points \| Mr. Brown \| Change: -1 \| "Pretended we got the jeopardy question wrong when we got it right"
 
 2024-11-22 12:56:57.268472 \| Edit Points \| Owen Bridges' Iphone \| Change: 2 \| "Let me watch instagram reels"
