@@ -3,8 +3,8 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,003|
-|2.|Owen Bridges|22|
-|3.|Thomas Clancy|21|
+|2.|Thomas Clancy|21|
+|3.|Owen Bridges|11|
 |4.|Max Goldblatt|7|
 |5.|Sharleen Wang|5|
 |6.|Avery|4|
@@ -33,6 +33,8 @@
 
 
 ## Owen Points Log:
+2024-11-21 20:46:01.250667 \| Edit Points \| Owen Bridges \| Change: -11 \| "Instead of giving myself a point for each update, I will post it on the blogs site"
+
 2024-11-21 20:21:23.619129 \| Edit Points \| Person who woke up at 6:20 am to hate \| Change: -3 \| "Made an email 'owenhater865@gmail.com' to anonymously say that Owen Points suck"
 
 2024-11-21 20:11:21.599216 \| Remove \| Brenna
