@@ -125,7 +125,7 @@ while True:
         scores[new_name] = scores[old_name]
         scores.pop(old_name)
 
-        send_to_log(f'{datetime.datetime.now()} \| Name Change \| {old_name} \| New Name: {new_name}')
+        send_to_log(f'{datetime.datetime.now()} \| Name Change \| {old_name} \| Changed To: {new_name}')
 
     
     os.system("cls")
