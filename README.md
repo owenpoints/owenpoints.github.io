@@ -2,7 +2,7 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|80,000,000,053|
+|1.|Grace Pyon|80,000,000,153|
 |2.|Thomas Clancy|21|
 |3.|Owen Bridges|17|
 |4.|Max Goldblatt|7|
@@ -47,6 +47,8 @@
 
 
 ## Owen Points Log:
+2024-11-22 17:22:49.409584 \| Edit Points \| Grace Pyon \| Change: 100 \| "Gave me a yummy hot chocolate"
+
 2024-11-22 17:09:01.509406 \| Name Change \| owenhater856@gmail.com \| New Name: Mysterious OwenHater856
 
 2024-11-22 17:02:41.277246 \| Edit Points \| Owen Bridges \| Change: 5 \| "Created 'Owen Points' system"
