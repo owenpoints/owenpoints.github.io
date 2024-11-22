@@ -31,7 +31,7 @@
 |27.|Guy in library who took my seat|-11|
 |28.|Daniel Duke|-29|
 |29.|Aidan|-111|
-|30.|Mr. Martin|-9,223,372,036,854,775,812|
+|30.|Mr. Martin|-9,223,372,036,854,775,822|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -41,6 +41,8 @@
 
 
 ## Owen Points Log:
+2024-11-22 13:50:34.205874 \| Edit Points \| Mr. Martin \| Change: -10 \| "Felt like it"
+
 2024-11-22 13:47:30.495705 \| Edit Points \| Mr. Martin \| Change: -5 \| "Told Emerson Seagrave that she reminds him of his wife"
 
 2024-11-22 13:46:07.501383 \| Edit Points \| Mr. Brown \| Change: 1 \| "Head hurt a lot today"
