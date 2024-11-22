@@ -3,7 +3,7 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,003|
-|2.|Thomas Clancy|21|
+|2.|Thomas Clancy|20|
 |3.|Owen Bridges|12|
 |4.|Max Goldblatt|7|
 |5.|Avery Jones|6|
@@ -36,6 +36,8 @@
 
 
 ## Owen Points Log:
+2024-11-22 08:22:18.171524 \| Edit Points \| Thomas Clancy \| Change: -1 \| "Said 'im the woker baby, why so queerious?'"
+
 2024-11-22 08:18:54.366068 \| Edit Points \| Owen Bridges \| Change: 1 \| "Saying owenpot because i was thinking about avery almost saying cockpot"
 
 2024-11-22 08:16:44.529259 \| Edit Points \| Avery \| Change: 2 \| "Almost said 'cockpot' when saying crockpot"
