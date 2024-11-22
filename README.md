@@ -20,7 +20,7 @@
 |16.|Aubrey Niemiec-Andorfer|-2|
 |17.|Ben|-2|
 |18.|Person who woke up at 6:20 am to hate|-2|
-|19.|Mrs. Hart|-5|
+|19.|Mrs. Hart|-4|
 |20.|Noam|-6|
 |21.|Alec Aris|-10|
 |22.|Guy in library who took my seat|-11|
@@ -36,6 +36,8 @@
 
 
 ## Owen Points Log:
+2024-11-22 08:50:39.511465 \| Edit Points \| Mrs. Hart \| Change: 1 \| "Let us watch elf in class today"
+
 2024-11-22 08:46:13.315432 \| Edit Points \| Thomas Clancy \| Change: -1 \| "I said a lively chair sim game ended in a draw and he said 'ok, pass the pencil'"
 
 2024-11-22 08:22:18.171524 \| Edit Points \| Thomas Clancy \| Change: -1 \| "Said 'im the woker baby, why so queerious?'"
