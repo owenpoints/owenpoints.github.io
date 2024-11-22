@@ -8,21 +8,21 @@
 |4.|Max Goldblatt|7|
 |5.|Avery Jones|6|
 |6.|Sharleen Wang|5|
-|7.|Mr. Brown|5|
-|8.|William Niemiec-Andorfer|2|
+|7.|Mr. Brown|4|
+|8.|Coach Bombard|2|
 |9.|Saanvi|2|
-|10.|Coach Bombard|2|
-|11.|Owen Bridges' Iphone|1|
-|12.|James Henry Southern|1|
+|10.|William Niemiec-Andorfer|2|
+|11.|Rosie|1|
+|12.|Silas|1|
 |13.|Mr. Lee|1|
-|14.|Silas|1|
-|15.|Rosie|1|
-|16.|Koko|0|
-|17.|Justin Ferrero|0|
+|14.|James Henry Southern|1|
+|15.|Owen Bridges' Iphone|1|
+|16.|Justin Ferrero|0|
+|17.|Koko|0|
 |18.|Thomas Clancy's airpods|-1|
-|19.|Aubrey Niemiec-Andorfer|-2|
+|19.|owenhater856@gmail.com|-2|
 |20.|Ben|-2|
-|21.|owenhater856@gmail.com|-2|
+|21.|Aubrey Niemiec-Andorfer|-2|
 |22.|Mrs. Hart|-4|
 |23.|Noam|-6|
 |24.|Mr. Yeats|-7|
@@ -40,6 +40,8 @@
 
 
 ## Owen Points Log:
+2024-11-22 13:05:34.309655 \| Edit Points \| Mr. Brown \| Change: -1 \| "Pretended we got the jeopardy question wrong when we got it right"
+
 2024-11-22 12:56:57.268472 \| Edit Points \| Owen Bridges' Iphone \| Change: 2 \| "Let me watch instagram reels"
 
 2024-11-22 12:43:54.498718 \| Edit Points \| Coach Bombard \| Change: 2 \| "The test was easy"
