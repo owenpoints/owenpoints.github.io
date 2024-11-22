@@ -23,8 +23,7 @@
 |19.|Alec Aris|-10|
 |20.|Daniel Duke|-29|
 |21.|Aidan|-111|
-|22.|Brenna|-500|
-|23.|Mr. Martin|-9,223,372,036,854,775,807|
+|22.|Mr. Martin|-9,223,372,036,854,775,807|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -34,6 +33,8 @@
 
 
 ## Owen Points Log:
+2024-11-21 20:11:21.599216 \| Remove \| Brenna
+
 2024-11-21 18:45:13.157521 \| Edit Points \| Owen Bridges \| Change: 1 \| "Added blog page and link at bottom of points page"
 
 2024-11-21 17:56:16.517881 \| Edit Points \| Alec Aris \| Change: 88 \| "Possibly didn't hit Grace with meter stick"
