@@ -7,22 +7,22 @@
 |3.|Owen Bridges|14|
 |4.|Max Goldblatt|7|
 |5.|Avery Jones|6|
-|6.|Mr. Brown|5|
-|7.|Sharleen Wang|5|
-|8.|Coach Bombard|2|
+|6.|Sharleen Wang|5|
+|7.|Mr. Brown|5|
+|8.|William Niemiec-Andorfer|2|
 |9.|Saanvi|2|
-|10.|William Niemiec-Andorfer|2|
-|11.|Rosie|1|
-|12.|Silas|1|
+|10.|Coach Bombard|2|
+|11.|Owen Bridges' Iphone|1|
+|12.|James Henry Southern|1|
 |13.|Mr. Lee|1|
-|14.|James Henry Southern|1|
-|15.|Owen Bridges' Iphone|1|
-|16.|Justin Ferrero|0|
-|17.|Koko|0|
+|14.|Silas|1|
+|15.|Rosie|1|
+|16.|Koko|0|
+|17.|Justin Ferrero|0|
 |18.|Thomas Clancy's airpods|-1|
-|19.|owenhater856@gmail.com|-2|
+|19.|Aubrey Niemiec-Andorfer|-2|
 |20.|Ben|-2|
-|21.|Aubrey Niemiec-Andorfer|-2|
+|21.|owenhater856@gmail.com|-2|
 |22.|Mrs. Hart|-4|
 |23.|Noam|-6|
 |24.|Mr. Yeats|-7|
