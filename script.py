@@ -62,7 +62,7 @@ while True:
 
     options = ("edit", "add", "name change", "remove", "exit")
     while True:
-        choice = input(f"Input operation {options}: ")
+        choice = input(f"Input operation {options}: ").strip()
         if choice in options:
             break
         print("Enter valid option.")
@@ -100,7 +100,7 @@ while True:
             print("Person does not exist.")
 
         while True:
-            increment = input("Input points to change by: ")
+            increment = input("Input points to change by: ").strip()
             try:
                 increment = int(increment)
                 break
@@ -112,7 +112,7 @@ while True:
         scores[edit_choice] += increment
 
         send_to_log(f'{datetime.datetime.now()} \| Edit Points \| {edit_choice} \| Change: {pretty_num(increment)} \| "{reason}"')
-    elif choice == "name change":
+    elif choice == "namechange":
 
         while True:
             old_name = input("Input person to name change: ")
