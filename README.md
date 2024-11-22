@@ -7,23 +7,25 @@
 |3.|Owen Bridges|11|
 |4.|Max Goldblatt|7|
 |5.|Sharleen Wang|5|
-|6.|Avery|4|
-|7.|James Henry Southern|3|
+|6.|Mr. Brown|5|
+|7.|Avery|4|
 |8.|William Niemiec-Andorfer|3|
-|9.|Saanvi|2|
-|10.|Rosie|1|
-|11.|Silas|1|
-|12.|Mr. Lee|1|
-|13.|Justin Ferrero|0|
-|14.|Koko|-1|
-|15.|Person who woke up at 6:20 am to hate|-2|
-|16.|Ben|-2|
-|17.|Mrs. Hart|-5|
-|18.|Noam|-6|
-|19.|Alec Aris|-10|
-|20.|Daniel Duke|-29|
-|21.|Aidan|-111|
-|22.|Mr. Martin|-9,223,372,036,854,775,807|
+|9.|James Henry Southern|3|
+|10.|Saanvi|2|
+|11.|Mr. Lee|1|
+|12.|Silas|1|
+|13.|Rosie|1|
+|14.|Justin Ferrero|0|
+|15.|Koko|-1|
+|16.|Aubrey Niemiec-Andorfer|-2|
+|17.|Ben|-2|
+|18.|Person who woke up at 6:20 am to hate|-2|
+|19.|Mrs. Hart|-5|
+|20.|Noam|-6|
+|21.|Alec Aris|-10|
+|22.|Daniel Duke|-29|
+|23.|Aidan|-111|
+|24.|Mr. Martin|-9,223,372,036,854,775,807|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -33,6 +35,14 @@
 
 
 ## Owen Points Log:
+2024-11-22 07:12:34.453592 \| Edit Points \| Aubrey Niemiec-Andorfer \| Change: -2 \| "Called William stinky"
+
+2024-11-22 07:12:08.025898 \| Add \| Aubrey Niemiec-Andorfer
+
+2024-11-22 07:11:35.617948 \| Edit Points \| Mr. Brown \| Change: 5 \| "Finished fish tank and it is cool"
+
+2024-11-22 07:11:08.959538 \| Add \| Mr. Brown
+
 2024-11-21 20:46:01.250667 \| Edit Points \| Owen Bridges \| Change: -11 \| "Instead of giving myself a point for each update, I will post it on the blogs site"
 
 2024-11-21 20:21:23.619129 \| Edit Points \| Person who woke up at 6:20 am to hate \| Change: -3 \| "Made an email 'owenhater865@gmail.com' to anonymously say that Owen Points suck"
