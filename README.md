@@ -6,20 +6,20 @@
 |2.|Thomas Clancy|21|
 |3.|Owen Bridges|11|
 |4.|Max Goldblatt|7|
-|5.|Avery|6|
-|6.|Mr. Brown|5|
-|7.|Sharleen Wang|5|
-|8.|James Henry Southern|3|
-|9.|William Niemiec-Andorfer|3|
+|5.|Avery Jones|6|
+|6.|Sharleen Wang|5|
+|7.|Mr. Brown|5|
+|8.|William Niemiec-Andorfer|3|
+|9.|James Henry Southern|3|
 |10.|Saanvi|2|
-|11.|Rosie|1|
+|11.|Mr. Lee|1|
 |12.|Silas|1|
-|13.|Mr. Lee|1|
+|13.|Rosie|1|
 |14.|Justin Ferrero|0|
 |15.|Koko|-1|
-|16.|Person who woke up at 6:20 am to hate|-2|
+|16.|Aubrey Niemiec-Andorfer|-2|
 |17.|Ben|-2|
-|18.|Aubrey Niemiec-Andorfer|-2|
+|18.|Person who woke up at 6:20 am to hate|-2|
 |19.|Mrs. Hart|-5|
 |20.|Noam|-6|
 |21.|Alec Aris|-10|
