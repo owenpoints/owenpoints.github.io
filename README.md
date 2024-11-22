@@ -5,29 +5,29 @@
 |1.|Grace Pyon|80,000,000,023|
 |2.|Thomas Clancy|21|
 |3.|Owen Bridges|12|
-|4.|Max Goldblatt|7|
-|5.|Avery Jones|7|
-|6.|Mr. Dixon|5|
+|4.|Avery Jones|7|
+|5.|Max Goldblatt|7|
+|6.|Sharleen Wang|5|
 |7.|Mr. Brown|5|
-|8.|Sharleen Wang|5|
-|9.|William Niemiec-Andorfer|2|
+|8.|Mr. Dixon|5|
+|9.|Coach Bombard|2|
 |10.|Saanvi|2|
-|11.|Coach Bombard|2|
-|12.|Owen Bridges' Iphone|1|
-|13.|James Henry Southern|1|
+|11.|William Niemiec-Andorfer|2|
+|12.|Rosie|1|
+|13.|Silas|1|
 |14.|Mr. Lee|1|
-|15.|Silas|1|
-|16.|Rosie|1|
-|17.|Koko|0|
-|18.|Justin Ferrero|0|
-|19.|Olivia|-1|
-|20.|Peter Wazdin|-1|
-|21.|Thomas Clancy's airpods|-1|
-|22.|Kaitlyn|-1|
-|23.|Mrs. Davis|-2|
-|24.|Aubrey Niemiec-Andorfer|-2|
-|25.|Ben|-2|
-|26.|owenhater856@gmail.com|-2|
+|15.|James Henry Southern|1|
+|16.|Owen Bridges' Iphone|1|
+|17.|Justin Ferrero|0|
+|18.|Koko|0|
+|19.|Kaitlyn|-1|
+|20.|Thomas Clancy's airpods|-1|
+|21.|Peter Wazdin|-1|
+|22.|Olivia|-1|
+|23.|owenhater856@gmail.com|-2|
+|24.|Ben|-2|
+|25.|Aubrey Niemiec-Andorfer|-2|
+|26.|Mrs. Davis|-2|
 |27.|Mrs. Hart|-4|
 |28.|Noam|-6|
 |29.|Mr. Yeats|-7|
@@ -75,7 +75,7 @@
 
 2024-11-22 13:50:34.205874 \| Edit Points \| Mr. Martin \| Change: -10 \| "Felt like it"
 
-2024-11-22 13:47:30.495705 \| Edit Points \| Mr. Martin \| Change: -5 \| "Told Emerson Seagrave that she reminds him of his wife"
+2024-11-22 13:47:30.495705 \| Edit Points \| Mr. Martin \| Change: -5 \| "Told student that she reminds him of his wife"
 
 2024-11-22 13:46:07.501383 \| Edit Points \| Mr. Brown \| Change: 1 \| "Head hurt a lot today"
 
