@@ -4,29 +4,30 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,003|
 |2.|Thomas Clancy|19|
-|3.|Owen Bridges|12|
+|3.|Owen Bridges|14|
 |4.|Max Goldblatt|7|
 |5.|Avery Jones|6|
 |6.|Mr. Brown|5|
 |7.|Sharleen Wang|5|
-|8.|James Henry Southern|3|
-|9.|Saanvi|2|
-|10.|William Niemiec-Andorfer|2|
-|11.|Rosie|1|
-|12.|Silas|1|
-|13.|Mr. Lee|1|
+|8.|Saanvi|2|
+|9.|William Niemiec-Andorfer|2|
+|10.|Rosie|1|
+|11.|Silas|1|
+|12.|Mr. Lee|1|
+|13.|James Henry Southern|1|
 |14.|Justin Ferrero|0|
-|15.|Koko|-1|
+|15.|Koko|0|
 |16.|owenhater856@gmail.com|-2|
 |17.|Ben|-2|
 |18.|Aubrey Niemiec-Andorfer|-2|
 |19.|Mrs. Hart|-4|
 |20.|Noam|-6|
-|21.|Alec Aris|-10|
-|22.|Guy in library who took my seat|-11|
-|23.|Daniel Duke|-29|
-|24.|Aidan|-111|
-|25.|Mr. Martin|-9,223,372,036,854,775,807|
+|21.|Mr. Yeats|-9|
+|22.|Alec Aris|-10|
+|23.|Guy in library who took my seat|-11|
+|24.|Daniel Duke|-29|
+|25.|Aidan|-111|
+|26.|Mr. Martin|-9,223,372,036,854,775,807|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -36,6 +37,16 @@
 
 
 ## Owen Points Log:
+2024-11-22 10:23:26.546345 \| Edit Points \| Mr. Yeats \| Change: -9 \| "Stinky + called me stinky"
+
+2024-11-22 10:23:09.482441 \| Add \| Mr. Yeats
+
+2024-11-22 10:23:03.059199 \| Edit Points \| Owen Bridges \| Change: 2 \| "Won rock-paper-scissors agains James Henry Southern"
+
+2024-11-22 10:22:44.389087 \| Edit Points \| James Henry Southern \| Change: -2 \| "Lost rock-paper-scissors to Owen Bridges"
+
+2024-11-22 10:21:52.746188 \| Edit Points \| Koko \| Change: 1 \| "Asked nicely"
+
 2024-11-22 10:00:15.515386 \| Name Change \| Person who woke up at 6:20 am to hate \| New Name: owenhater856@gmail.com
 
 2024-11-22 09:41:31.540659 \| Edit Points \| Mr. Martin \| Change: -9,223,372,036,854,775,807 \| "The horrors"
