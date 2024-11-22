@@ -2,14 +2,14 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|80,000,000,023|
+|1.|Grace Pyon|80,000,000,053|
 |2.|Thomas Clancy|21|
 |3.|Owen Bridges|12|
-|4.|Avery Jones|7|
-|5.|Max Goldblatt|7|
-|6.|Sharleen Wang|5|
-|7.|Mr. Brown|5|
-|8.|Mr. Dixon|5|
+|4.|Max Goldblatt|7|
+|5.|Sharleen Wang|5|
+|6.|Mr. Brown|5|
+|7.|Mr. Dixon|5|
+|8.|Isaiah|3|
 |9.|Coach Bombard|2|
 |10.|Saanvi|2|
 |11.|William Niemiec-Andorfer|2|
@@ -34,8 +34,9 @@
 |30.|Guy in library who took my seat|-11|
 |31.|Daniel Duke|-29|
 |32.|Alec Aris|-31|
-|33.|Aidan|-111|
-|34.|Mr. Martin|-9,223,372,036,854,775,837|
+|33.|Avery Jones|-33|
+|34.|Aidan|-111|
+|35.|Mr. Martin|-9,223,372,036,854,775,837|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -45,6 +46,16 @@
 
 
 ## Owen Points Log:
+2024-11-22 16:59:04.667036 \| Edit Points \| Isaiah \| Change: 3 \| "Cool painted nails"
+
+2024-11-22 16:58:40.020961 \| Add \| Isaiah
+
+2024-11-22 16:58:16.979637 \| Edit Points \| Grace Pyon \| Change: -10 \| "Tried to invent rizz points"
+
+2024-11-22 16:57:59.374906 \| Edit Points \| Grace Pyon \| Change: 40 \| "Beat Avery Jones at blackjack"
+
+2024-11-22 16:57:34.456675 \| Edit Points \| Avery Jones \| Change: -40 \| "Lost to Grace in blackjack"
+
 2024-11-22 16:28:36.694440 \| Edit Points \| Mr. Martin \| Change: -15 \| "Told student he was thinking about her in the shower"
 
 2024-11-22 16:28:19.913817 \| Edit Points \| Avery Jones \| Change: -1 \| "Encouraging child trafficking"

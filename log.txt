@@ -1,3 +1,8 @@
+2024-11-22 16:59:04.667036 \| Edit Points \| Isaiah \| Change: 3 \| "Cool painted nails"
+2024-11-22 16:58:40.020961 \| Add \| Isaiah
+2024-11-22 16:58:16.979637 \| Edit Points \| Grace Pyon \| Change: -10 \| "Tried to invent rizz points"
+2024-11-22 16:57:59.374906 \| Edit Points \| Grace Pyon \| Change: 40 \| "Beat Avery Jones at blackjack"
+2024-11-22 16:57:34.456675 \| Edit Points \| Avery Jones \| Change: -40 \| "Lost to Grace in blackjack"
 2024-11-22 16:28:36.694440 \| Edit Points \| Mr. Martin \| Change: -15 \| "Told student he was thinking about her in the shower"
 2024-11-22 16:28:19.913817 \| Edit Points \| Avery Jones \| Change: -1 \| "Encouraging child trafficking"
 2024-11-22 16:27:25.219319 \| Edit Points \| Mrs. Davis \| Change: -2 \| "Was mean to Mr. Dixon"
