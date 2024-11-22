@@ -4,7 +4,7 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,053|
 |2.|Thomas Clancy|21|
-|3.|Owen Bridges|12|
+|3.|Owen Bridges|17|
 |4.|Max Goldblatt|7|
 |5.|Mr. Dixon|5|
 |6.|Mr. Brown|5|
@@ -47,6 +47,8 @@
 
 
 ## Owen Points Log:
+2024-11-22 17:02:41.277246 \| Edit Points \| Owen Bridges \| Change: 5 \| "Created 'Owen Points' system"
+
 2024-11-22 17:01:48.156579 \| Edit Points \| Katie Hanson \| Change: -4 \| "Called William N-A redundant"
 
 2024-11-22 17:01:29.693791 \| Add \| Katie Hanson
