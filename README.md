@@ -6,30 +6,30 @@
 |2.|Thomas Clancy|21|
 |3.|Owen Bridges|17|
 |4.|Max Goldblatt|7|
-|5.|Mr. Dixon|5|
+|5.|Sharleen Wang|5|
 |6.|Mr. Brown|5|
-|7.|Sharleen Wang|5|
+|7.|Mr. Dixon|5|
 |8.|Isaiah|3|
-|9.|William Niemiec-Andorfer|2|
+|9.|Coach Bombard|2|
 |10.|Saanvi|2|
-|11.|Coach Bombard|2|
-|12.|Owen Bridges' Iphone|1|
-|13.|James Henry Southern|1|
+|11.|William Niemiec-Andorfer|2|
+|12.|Rosie|1|
+|13.|Silas|1|
 |14.|Mr. Lee|1|
-|15.|Silas|1|
-|16.|Rosie|1|
-|17.|Koko|0|
-|18.|Justin Ferrero|0|
-|19.|Olivia|-1|
-|20.|Peter Wazdin|-1|
-|21.|Thomas Clancy's airpods|-1|
-|22.|Kaitlyn|-1|
-|23.|Mrs. Davis|-2|
-|24.|Aubrey Niemiec-Andorfer|-2|
-|25.|Ben|-2|
-|26.|Mysterious OwenHater856|-2|
-|27.|Katie Hanson|-4|
-|28.|Mrs. Hart|-4|
+|15.|James Henry Southern|1|
+|16.|Owen Bridges' Iphone|1|
+|17.|Justin Ferrero|0|
+|18.|Koko|0|
+|19.|Kaitlyn|-1|
+|20.|Thomas Clancy's airpods|-1|
+|21.|Peter Wazdin|-1|
+|22.|Olivia|-1|
+|23.|Mysterious OwenHater856|-2|
+|24.|Ben|-2|
+|25.|Aubrey Niemiec-Andorfer|-2|
+|26.|Mrs. Davis|-2|
+|27.|Mrs. Hart|-4|
+|28.|Katie Hanson|-4|
 |29.|Noam|-6|
 |30.|Mr. Yeats|-7|
 |31.|Guy in library who took my seat|-11|
@@ -37,7 +37,7 @@
 |33.|Alec Aris|-31|
 |34.|Avery Jones|-33|
 |35.|Aidan|-111|
-|36.|Mr. Martin|-9,223,372,036,854,775,837|
+|36.|Mr. Martin|-9,223,372,036,854,776,847|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -47,6 +47,10 @@
 
 
 ## Owen Points Log:
+2024-11-22 18:48:40.843357 \| Edit Points \| Mr. Martin \| Change: -1,000 \| "Told student that asian women are submissive"
+
+2024-11-22 18:47:52.548793 \| Edit Points \| Mr. Martin \| Change: -10 \| "Called student a foreigner"
+
 2024-11-22 17:22:49.409584 \| Edit Points \| Grace Pyon \| Change: 100 \| "Gave me a yummy hot chocolate"
 
 2024-11-22 17:09:01.509406 \| Name Change \| owenhater856@gmail.com \| New Name: Mysterious OwenHater856
