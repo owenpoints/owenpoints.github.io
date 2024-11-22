@@ -2,36 +2,40 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|80,000,000,003|
+|1.|Grace Pyon|80,000,000,023|
 |2.|Thomas Clancy|21|
 |3.|Owen Bridges|12|
 |4.|Max Goldblatt|7|
-|5.|Avery Jones|6|
-|6.|Sharleen Wang|5|
+|5.|Avery Jones|7|
+|6.|Mr. Dixon|5|
 |7.|Mr. Brown|5|
-|8.|Coach Bombard|2|
-|9.|Saanvi|2|
-|10.|William Niemiec-Andorfer|2|
-|11.|Rosie|1|
-|12.|Silas|1|
-|13.|Mr. Lee|1|
-|14.|James Henry Southern|1|
-|15.|Owen Bridges' Iphone|1|
-|16.|Justin Ferrero|0|
+|8.|Sharleen Wang|5|
+|9.|William Niemiec-Andorfer|2|
+|10.|Saanvi|2|
+|11.|Coach Bombard|2|
+|12.|Owen Bridges' Iphone|1|
+|13.|James Henry Southern|1|
+|14.|Mr. Lee|1|
+|15.|Silas|1|
+|16.|Rosie|1|
 |17.|Koko|0|
-|18.|Kaitlyn|-1|
-|19.|Thomas Clancy's airpods|-1|
-|20.|owenhater856@gmail.com|-2|
-|21.|Ben|-2|
-|22.|Aubrey Niemiec-Andorfer|-2|
-|23.|Mrs. Hart|-4|
-|24.|Noam|-6|
-|25.|Mr. Yeats|-7|
-|26.|Alec Aris|-10|
-|27.|Guy in library who took my seat|-11|
-|28.|Daniel Duke|-29|
-|29.|Aidan|-111|
-|30.|Mr. Martin|-9,223,372,036,854,775,822|
+|18.|Justin Ferrero|0|
+|19.|Olivia|-1|
+|20.|Peter Wazdin|-1|
+|21.|Thomas Clancy's airpods|-1|
+|22.|Kaitlyn|-1|
+|23.|Mrs. Davis|-2|
+|24.|Aubrey Niemiec-Andorfer|-2|
+|25.|Ben|-2|
+|26.|owenhater856@gmail.com|-2|
+|27.|Mrs. Hart|-4|
+|28.|Noam|-6|
+|29.|Mr. Yeats|-7|
+|30.|Guy in library who took my seat|-11|
+|31.|Daniel Duke|-29|
+|32.|Alec Aris|-31|
+|33.|Aidan|-111|
+|34.|Mr. Martin|-9,223,372,036,854,775,837|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -41,6 +45,34 @@
 
 
 ## Owen Points Log:
+2024-11-22 16:28:36.694440 \| Edit Points \| Mr. Martin \| Change: -15 \| "Told student he was thinking about her in the shower"
+
+2024-11-22 16:28:19.913817 \| Edit Points \| Avery Jones \| Change: -1 \| "Encouraging child trafficking"
+
+2024-11-22 16:27:25.219319 \| Edit Points \| Mrs. Davis \| Change: -2 \| "Was mean to Mr. Dixon"
+
+2024-11-22 16:26:26.627043 \| Add \| Mrs. Davis
+
+2024-11-22 16:26:18.565967 \| Edit Points \| Avery Jones \| Change: 2 \| "Being a good friend"
+
+2024-11-22 16:23:54.303273 \| Edit Points \| Alec Aris \| Change: -20 \| "Lost to Grace at slapjack"
+
+2024-11-22 16:23:41.599961 \| Edit Points \| Grace Pyon \| Change: 20 \| "Beat Alec at slapjack"
+
+2024-11-22 16:21:50.266402 \| Edit Points \| Mr. Dixon \| Change: 5 \| "I met Grace in his class"
+
+2024-11-22 16:21:20.252979 \| Add \| Mr. Dixon
+
+2024-11-22 16:20:12.831396 \| Edit Points \| Alec Aris \| Change: -1 \| "Said 'oiled up'"
+
+2024-11-22 16:19:58.729685 \| Edit Points \| Olivia \| Change: -1 \| "Called Grace a biggie"
+
+2024-11-22 16:19:46.319172 \| Add \| Olivia
+
+2024-11-22 16:19:41.803607 \| Edit Points \| Peter Wazdin \| Change: -1 \| "Flipped me off in the hallway"
+
+2024-11-22 16:19:02.379827 \| Add \| Peter Wazdin
+
 2024-11-22 13:50:34.205874 \| Edit Points \| Mr. Martin \| Change: -10 \| "Felt like it"
 
 2024-11-22 13:47:30.495705 \| Edit Points \| Mr. Martin \| Change: -5 \| "Told Emerson Seagrave that she reminds him of his wife"
@@ -50,8 +82,6 @@
 2024-11-22 13:45:15.038003 \| Edit Points \| Owen Bridges \| Change: -2 \| "Forgot names of Graces friends"
 
 2024-11-22 13:45:00.101265 \| Edit Points \| Kaitlyn \| Change: -1 \| "Showed Mr.s Rivera picture of Grace at robotics"
-
-2024-11-22 13:44:38.919565 \| Add \| Kaitlyn
 
 2024-11-22 13:44:04.534555 \| Add \| Kaitlyn
 
