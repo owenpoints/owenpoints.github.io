@@ -2,10 +2,4 @@
 
 python3 script.py
 
-git add .
-
-git commit -m "Updating Points"
-
-git push -f
-
-pause
+push.bat
