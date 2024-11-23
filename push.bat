@@ -1,6 +1,6 @@
 git add .
 
-git commit -m "Updating Points"
+git commit -m "Automated Site Content Update"
 
 git push -f
 
