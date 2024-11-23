@@ -3,8 +3,8 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,150|
-|2.|Owen Bridges|21|
-|3.|Thomas Clancy|21|
+|2.|Thomas Clancy|23|
+|3.|Owen Bridges|21|
 |4.|Max Goldblatt|7|
 |5.|Sharleen Wang|5|
 |6.|Mr. Brown|5|
@@ -47,6 +47,8 @@
 
 
 ## Owen Points Log:
+2024-11-22 22:17:06.196073 \| Edit Points \| Thomas Clancy \| Change: 2 \| "The 'Rainbow Six Siege' drama"
+
 2024-11-22 19:48:45.442479 \| Edit Points \| Grace Pyon \| Change: -3 \| "Called the website dumb :'("
 
 2024-11-22 19:13:13.637811 \| Edit Points \| Owen Bridges \| Change: 4 \| "Brought Grace Pyon instant pho"
