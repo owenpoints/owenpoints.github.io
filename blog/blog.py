@@ -19,7 +19,7 @@ def output(store):
 
     file = open('./blog/README.md', 'w')
 
-    output_str = "# Top Owen Updates\n### [Back](https://owenpoints.github.io) to Owen Points Leaderboard\n"
+    output_str = "# Top Owen Updates\n### [Back](../) to Owen Points Leaderboard\n"
     
     for i, item in enumerate(store):
         output_str += f'{store[item].split("|")[0] + "|" + store[item].split("|")[1]}| [{item}](./posts/{item}.md)\n\n'
