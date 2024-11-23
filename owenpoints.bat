@@ -1,5 +1,5 @@
 @echo off
 
-python3 .\points\script.py
+python3 .\points\points_client.py
 
 push.bat
