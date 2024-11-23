@@ -18,7 +18,7 @@ def send_to_log(message):
 
 def output(store):
 
-    file = open('README.md', 'w')
+    file = open('..\README.md', 'w')
 
     output_str = "# Global Owen Points Rankings\n\n|Ranking|Name|Owen Points|\n| ----------- | ----------- | ----------- |\n"
     
