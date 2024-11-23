@@ -1,18 +1,18 @@
 import os
 import datetime
 
-user = open('username.txt', 'r')
+user = open('.\blog\username.txt', 'r')
 username = user.read()
 user.close()
 
 def send_to_log(message):
-    log = open('.\posts\Devlog Post.md', 'r')
+    log = open('.\blog\posts\Devlog Post.md', 'r')
     content = log.read()
     log.close()
 
     content = content[14:]
 
-    log = open('.\posts\Devlog Post.md', 'w')
+    log = open('.\blog\posts\Devlog Post.md', 'w')
     log.seek(0,0)
     log.write(f'# Devlog Post\n{message}\n{content}')
     log.close()
