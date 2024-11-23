@@ -1,5 +1,5 @@
 @echo off
 
-python3 .\blog\script.py
+python3 .\blog\blog.py
 
 push.bat
