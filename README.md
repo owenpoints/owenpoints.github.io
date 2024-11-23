@@ -2,7 +2,7 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|80,000,000,153|
+|1.|Grace Pyon|80,000,000,150|
 |2.|Owen Bridges|21|
 |3.|Thomas Clancy|21|
 |4.|Max Goldblatt|7|
@@ -47,6 +47,8 @@
 
 
 ## Owen Points Log:
+2024-11-22 19:48:45.442479 \| Edit Points \| Grace Pyon \| Change: -3 \| "Called the website dumb :'("
+
 2024-11-22 19:13:13.637811 \| Edit Points \| Owen Bridges \| Change: 4 \| "Brought Grace Pyon instant pho"
 
 2024-11-22 19:12:56.559457 \| Edit Points \| Grace Pyon \| Change: 1 \| "Gave me hot water to drink when it was cold outside"
