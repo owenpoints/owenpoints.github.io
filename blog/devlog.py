@@ -14,7 +14,7 @@ def send_to_log(message):
 
     log = open('./blog/posts/Devlog Post.md', 'w')
     log.seek(0,0)
-    log.write(f'# Devlog Post\n{message}\n{content}')
+    log.write(f'# Devlog Post\n{message}\n\n{content}')
     log.close()
 
     
