@@ -4,40 +4,41 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,150|
 |2.|Thomas Clancy|23|
-|3.|Owen Bridges|22|
-|4.|Max Goldblatt|7|
-|5.|Mr. Dixon|5|
-|6.|Mr. Brown|5|
-|7.|Sharleen Wang|5|
-|8.|Isaiah|3|
-|9.|William Niemiec-Andorfer|2|
-|10.|Saanvi|2|
-|11.|Coach Bombard|2|
-|12.|Owen Bridges' Iphone|1|
-|13.|James Henry Southern|1|
-|14.|Mr. Lee|1|
-|15.|Silas|1|
-|16.|Rosie|1|
-|17.|Koko|0|
-|18.|Justin Ferrero|0|
-|19.|Olivia|-1|
-|20.|Peter Wazdin|-1|
-|21.|Thomas Clancy's airpods|-1|
-|22.|Kaitlyn|-1|
-|23.|Mrs. Davis|-2|
-|24.|Aubrey Niemiec-Andorfer|-2|
-|25.|Ben|-2|
-|26.|Mysterious OwenHater856|-2|
-|27.|Katie Hanson|-4|
-|28.|Mrs. Hart|-4|
-|29.|Noam|-6|
-|30.|Mr. Yeats|-7|
-|31.|Guy in library who took my seat|-11|
-|32.|Daniel Duke|-29|
-|33.|Alec Aris|-31|
-|34.|Avery Jones|-33|
-|35.|Aidan|-111|
-|36.|Mr. Martin|-9,223,372,036,854,776,847|
+|3.|Owen Bridges|18|
+|4.|Kimaya Joshi|10|
+|5.|Max Goldblatt|7|
+|6.|Mr. Dixon|5|
+|7.|Mr. Brown|5|
+|8.|Sharleen Wang|5|
+|9.|Isaiah|3|
+|10.|William Niemiec-Andorfer|2|
+|11.|Saanvi|2|
+|12.|Coach Bombard|2|
+|13.|Owen Bridges' Iphone|1|
+|14.|James Henry Southern|1|
+|15.|Mr. Lee|1|
+|16.|Silas|1|
+|17.|Rosie|1|
+|18.|Koko|0|
+|19.|Justin Ferrero|0|
+|20.|Olivia|-1|
+|21.|Peter Wazdin|-1|
+|22.|Thomas Clancy's airpods|-1|
+|23.|Kaitlyn|-1|
+|24.|Mrs. Davis|-2|
+|25.|Aubrey Niemiec-Andorfer|-2|
+|26.|Ben|-2|
+|27.|Mysterious OwenHater856|-2|
+|28.|Katie Hanson|-4|
+|29.|Mrs. Hart|-4|
+|30.|Noam|-6|
+|31.|Mr. Yeats|-7|
+|32.|Guy in library who took my seat|-11|
+|33.|Daniel Duke|-29|
+|34.|Alec Aris|-31|
+|35.|Avery Jones|-33|
+|36.|Aidan|-111|
+|37.|Mr. Martin|-9,223,372,036,854,776,847|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -47,6 +48,12 @@
 
 
 ## Owen Points Log:
+2024-11-22 23:31:30.277858 \| Edit Points \| Kimaya Joshi \| Change: 10 \| "Worked on + completed the apcsp group project even while Owen Bridges completely threw"
+
+2024-11-22 23:28:56.723212 \| Add \| Kimaya Joshi
+
+2024-11-22 23:28:40.424459 \| Edit Points \| Owen Bridges \| Change: -4 \| "Sabotaged apcsp group project"
+
 2024-11-22 22:34:15.047037 \| Edit Points \| Owen Bridges \| Change: 1 \| "Worked really hard consolidating blog & leaderboard repositories"
 
 2024-11-22 22:17:06.196073 \| Edit Points \| Thomas Clancy \| Change: 2 \| "The 'Rainbow Six Siege' drama"
