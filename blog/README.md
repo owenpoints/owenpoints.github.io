@@ -1,5 +1,7 @@
 # Top Owen Updates
-### [Back](https://owenpoints.github.io) to Owen Points Leaderboard
+### [Back](../) to Owen Points Leaderboard
+2024-11-22 22:40:15.212820 \| Owen Bridges \| [consolidated blog site and leaderboard site to one github repository](./posts/consolidated blog site and leaderboard site to one github repository.md)
+
 2024-11-22 20:20:41.888303 \| Owen Bridges \| [Devlog Post](./posts/Devlog Post.md)
 
 2024-11-22 20:17:25.478338 \| Owen Bridges \| [images for real this time](./posts/images for real this time.md)

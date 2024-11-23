@@ -32,13 +32,13 @@ def output(store):
     file.close()
     
 def save(store):
-    file = open('store.txt', 'w')
+    file = open('./blog/store.txt', 'w')
 
     file.write(str(store))
 
     file.close()
 
-store = open('store.txt', 'r')
+store = open('./blog/store.txt', 'r')
 
 posts = ast.literal_eval(store.read())
 
