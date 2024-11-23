@@ -4,7 +4,7 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,150|
 |2.|Thomas Clancy|23|
-|3.|Owen Bridges|21|
+|3.|Owen Bridges|22|
 |4.|Max Goldblatt|7|
 |5.|Mr. Dixon|5|
 |6.|Mr. Brown|5|
@@ -43,10 +43,12 @@
 
 ## !! Those Under -500 Owen Points will be [Executed Live](https://www.twitch.tv/will_of_owen) !!
 
-## Top Owen Updates Can be Found [Here](https://owenpoints.github.io/blog).
+## Top Owen Updates Can be Found [Here](./blog).
 
 
 ## Owen Points Log:
+2024-11-22 22:34:15.047037 \| Edit Points \| Owen Bridges \| Change: 1 \| "Worked really hard consolidating blog & leaderboard repositories"
+
 2024-11-22 22:17:06.196073 \| Edit Points \| Thomas Clancy \| Change: 2 \| "The 'Rainbow Six Siege' drama"
 
 2024-11-22 19:48:45.442479 \| Edit Points \| Grace Pyon \| Change: -3 \| "Called the website dumb :'("

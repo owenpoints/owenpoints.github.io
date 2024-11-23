@@ -7,11 +7,11 @@ def pretty_num(num):
     return out
 
 def send_to_log(message):
-    log = open('.\points\log.txt', 'r')
+    log = open('./points/log.txt', 'r')
     content = log.read()
     log.close()
 
-    log = open('.\points\log.txt', 'w')
+    log = open('./points/log.txt', 'w')
     log.seek(0,0)
     log.write(message + '\n' + content)
     log.close()
@@ -30,9 +30,9 @@ def output(store):
 
     output_str += "\n## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).\n"
     output_str += "\n## !! Those Under -500 Owen Points will be [Executed Live](https://www.twitch.tv/will_of_owen) !!\n"
-    output_str += "\n## Top Owen Updates Can be Found [Here](https://owenpoints.github.io/blog).\n\n\n## Owen Points Log:\n"
+    output_str += "\n## Top Owen Updates Can be Found [Here](./blog).\n\n\n## Owen Points Log:\n"
 
-    log = open('.\points\log.txt', 'r')
+    log = open('./points/log.txt', 'r')
     lines = log.readlines()
     for i in lines:
         output_str += i + '\n'
@@ -42,13 +42,13 @@ def output(store):
     file.close()
     
 def save(store):
-    file = open('.\points\store.txt', 'w')
+    file = open('./points/store.txt', 'w')
 
     file.write(str(store))
 
     file.close()
 
-store = open('.\points\store.txt', 'r')
+store = open('./points/store.txt', 'r')
 
 scores = ast.literal_eval(store.read())
 

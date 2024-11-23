@@ -2,7 +2,7 @@ import os
 import ast
 import datetime
 
-user = open('username.txt', 'r')
+user = open('./blog/username.txt', 'r')
 username = user.read()
 user.close()
 
@@ -17,7 +17,7 @@ def output(store):
 
     store = dict(reversed(list(store.items())))
 
-    file = open('README.md', 'w')
+    file = open('./blog/README.md', 'w')
 
     output_str = "# Top Owen Updates\n### [Back](https://owenpoints.github.io) to Owen Points Leaderboard\n"
     
@@ -82,7 +82,7 @@ while True:
 
         posts[title] =  f'{datetime.datetime.now()} \| {username} \| {contents}'
 
-        temp = open(f'posts\{title}.md', 'w')
+        temp = open(f'./blog/posts/{title}.md', 'w')
         temp.write(f'# {title}\n{posts[title]} \n\n Click [Here](../) to Go Back')
         temp.close()
 
