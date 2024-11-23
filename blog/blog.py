@@ -83,7 +83,7 @@ while True:
         posts[title] =  f'{datetime.datetime.now()} \| {username} \| {contents}'
 
         temp = open(f'./blog/posts/{title}.md', 'w')
-        temp.write(f'# {title}\n{posts[title]} \n\n Click [Here](../) to Go Back')
+        temp.write(f'## {posts[title].split("|")[0] + "|" + posts[title].split("|")[1]}\n# {title}\n{posts[title]} \n\n Click [Here](../) to Go Back')
         temp.close()
 
     
