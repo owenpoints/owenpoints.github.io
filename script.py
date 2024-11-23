@@ -28,9 +28,9 @@ def output(store):
     for i, item in enumerate(store):
         output_str += f"|{i + 1}.|{list(store)[i]}|{pretty_num(store[item])}|\n"
 
-    output_str += "\n> ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).\n"
-    output_str += "\n> ## !! Those Under -500 Owen Points will be [Executed Live](https://www.twitch.tv/will_of_owen) !!\n"
-    output_str += "\n> ## Top Owen Updates Can be Found [Here](https://owenpoints.github.io/blog).\n\n\n## Owen Points Log:\n"
+    output_str += "\n> ## **Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).**\n"
+    output_str += "\n> ## **!! Those Under -500 Owen Points will be [Executed Live](https://www.twitch.tv/will_of_owen) !!**\n"
+    output_str += "\n> ## **Top Owen Updates Can be Found [Here](https://owenpoints.github.io/blog).**\n\n\n## Owen Points Log:\n"
 
     log = open('log.txt', 'r')
     lines = log.readlines()
