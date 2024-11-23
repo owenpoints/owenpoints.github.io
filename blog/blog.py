@@ -64,7 +64,7 @@ while True:
             print("Enter Valid option.")
 
         posts.pop(remove_choice)
-        os.remove(f"posts\{remove_choice}.md")
+        os.remove(f"./blog/posts/{remove_choice}.md")
 
     elif choice == "post":
 
