@@ -1,7 +1,5 @@
 # Devlog Post
-2024-11-22 22:43:33.866282 \| Owen Bridges \| fourth devlog post
-
-2024-11-22 22:27:52.166558 \| Owen Bridges \| my devlog post
+2024-11-22 22:46:34.499227 \| Owen Bridges \| consolidated blog and leaderboard sites to one repository to enable use of relative file paths in links between the web pages
 
 2024-11-22 21:56:45.209890 \| Owen Bridges \| test devlog post
 
