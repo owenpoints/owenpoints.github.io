@@ -3,33 +3,33 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,150|
-|2.|Owen Bridges|21|
-|3.|Thomas Clancy|21|
+|2.|Thomas Clancy|21|
+|3.|Owen Bridges|21|
 |4.|Max Goldblatt|7|
-|5.|Sharleen Wang|5|
+|5.|Mr. Dixon|5|
 |6.|Mr. Brown|5|
-|7.|Mr. Dixon|5|
+|7.|Sharleen Wang|5|
 |8.|Isaiah|3|
-|9.|Coach Bombard|2|
+|9.|William Niemiec-Andorfer|2|
 |10.|Saanvi|2|
-|11.|William Niemiec-Andorfer|2|
-|12.|Rosie|1|
-|13.|Silas|1|
+|11.|Coach Bombard|2|
+|12.|Owen Bridges' Iphone|1|
+|13.|James Henry Southern|1|
 |14.|Mr. Lee|1|
-|15.|James Henry Southern|1|
-|16.|Owen Bridges' Iphone|1|
-|17.|Justin Ferrero|0|
-|18.|Koko|0|
-|19.|Kaitlyn|-1|
-|20.|Thomas Clancy's airpods|-1|
-|21.|Peter Wazdin|-1|
-|22.|Olivia|-1|
-|23.|Mysterious OwenHater856|-2|
-|24.|Ben|-2|
-|25.|Aubrey Niemiec-Andorfer|-2|
-|26.|Mrs. Davis|-2|
-|27.|Mrs. Hart|-4|
-|28.|Katie Hanson|-4|
+|15.|Silas|1|
+|16.|Rosie|1|
+|17.|Koko|0|
+|18.|Justin Ferrero|0|
+|19.|Olivia|-1|
+|20.|Peter Wazdin|-1|
+|21.|Thomas Clancy's airpods|-1|
+|22.|Kaitlyn|-1|
+|23.|Mrs. Davis|-2|
+|24.|Aubrey Niemiec-Andorfer|-2|
+|25.|Ben|-2|
+|26.|Mysterious OwenHater856|-2|
+|27.|Katie Hanson|-4|
+|28.|Mrs. Hart|-4|
 |29.|Noam|-6|
 |30.|Mr. Yeats|-7|
 |31.|Guy in library who took my seat|-11|
@@ -39,11 +39,11 @@
 |35.|Aidan|-111|
 |36.|Mr. Martin|-9,223,372,036,854,776,847|
 
-> **Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).**
+## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
-> **:warning: Those Under -500 Owen Points will be [Executed Live](https://www.twitch.tv/will_of_owen) :warning:**
+## :warning: Those Under -500 Owen Points will be [Executed Live](https://www.twitch.tv/will_of_owen) :warning:
 
-> **Top Owen Updates Can be Found [Here](https://owenpoints.github.io/blog).**
+## Top Owen Updates Can be Found [Here](https://owenpoints.github.io/blog).
 
 
 ## Owen Points Log:
