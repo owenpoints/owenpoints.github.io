@@ -4,10 +4,10 @@
 2. Set up two factor authentification for your account (only if you made a new GitHub account)
 3. Make a public GitHub repository with the name (YOUR USERNAME).github.io
 4. Enable pages for GitHub repository
-5. Put favicon for your website in the root folder (must be named favicon.ico)
-6. Download git cli to your machine
+5. Put icon for your website in the root folder (must be named favicon.ico)
+6. Download git cli from the internet
 7. Download Python 3.10 to your machine from Microsoft Store
-8. Run init.bat
+8. Run and follow instructions in init.bat
 9. Sign in to GitHub with your browser when it asks you to
 
 > Once init.bat has finished, you are done! To make changes to the site, navigate back to the root folder
