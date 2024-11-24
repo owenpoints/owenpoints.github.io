@@ -1,6 +1,4 @@
 @echo off
-git init ..\
-git add ..\
 
 set /p bloguser="Input username to use for blog: "
 set empty=""
@@ -26,6 +24,8 @@ git config --global user.name "%username%"
 git remote add origin https://github.com/%username%/%repo%.git
 
 echo Pushing to GitHub...
+git init ..\
+git add ..\
 git commit -m "First Commit"
 git push --set-upstream origin master
 echo Done.
