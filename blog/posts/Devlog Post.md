@@ -1,4 +1,6 @@
 # Devlog Post
+2024-11-24 00:04:13.772107 \| Owen Bridges \| Made a setup folder containing instructions to duplicate the website and init.bat tool to set up your website in a relatively painless manner
+
 2024-11-22 22:46:34.499227 \| Owen Bridges \| consolidated blog and leaderboard sites to one repository to enable use of relative file paths in links between the web pages
 
 2024-11-22 21:56:45.209890 \| Owen Bridges \| test devlog post
