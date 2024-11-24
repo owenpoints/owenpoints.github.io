@@ -7,37 +7,37 @@
 |3.|Owen Bridges|18|
 |4.|Kimaya Joshi|10|
 |5.|Max Goldblatt|7|
-|6.|Mr. Dixon|5|
+|6.|Sharleen Wang|5|
 |7.|Mr. Brown|5|
-|8.|Sharleen Wang|5|
+|8.|Mr. Dixon|5|
 |9.|Isaiah|3|
-|10.|William Niemiec-Andorfer|2|
+|10.|Coach Bombard|2|
 |11.|Saanvi|2|
-|12.|Coach Bombard|2|
-|13.|Owen Bridges' Iphone|1|
-|14.|James Henry Southern|1|
+|12.|William Niemiec-Andorfer|2|
+|13.|Rosie|1|
+|14.|Silas|1|
 |15.|Mr. Lee|1|
-|16.|Silas|1|
-|17.|Rosie|1|
-|18.|Koko|0|
-|19.|Justin Ferrero|0|
-|20.|Olivia|-1|
-|21.|Peter Wazdin|-1|
-|22.|Thomas Clancy's airpods|-1|
-|23.|Kaitlyn|-1|
-|24.|Mrs. Davis|-2|
-|25.|Aubrey Niemiec-Andorfer|-2|
-|26.|Ben|-2|
-|27.|Mysterious OwenHater856|-2|
-|28.|Katie Hanson|-4|
-|29.|Mrs. Hart|-4|
+|16.|James Henry Southern|1|
+|17.|Owen Bridges' Iphone|1|
+|18.|Justin Ferrero|0|
+|19.|Koko|0|
+|20.|Kaitlyn|-1|
+|21.|Thomas Clancy's airpods|-1|
+|22.|Peter Wazdin|-1|
+|23.|Olivia|-1|
+|24.|Mysterious OwenHater856|-2|
+|25.|Ben|-2|
+|26.|Aubrey Niemiec-Andorfer|-2|
+|27.|Mrs. Davis|-2|
+|28.|Mrs. Hart|-4|
+|29.|Katie Hanson|-4|
 |30.|Noam|-6|
 |31.|Mr. Yeats|-7|
 |32.|Guy in library who took my seat|-11|
 |33.|Daniel Duke|-29|
 |34.|Alec Aris|-31|
 |35.|Avery Jones|-33|
-|36.|Aidan|-111|
+|36.|Aidan McGeever|-106|
 |37.|Mr. Martin|-9,223,372,036,854,776,847|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
@@ -48,6 +48,10 @@
 
 
 ## Owen Points Log:
+2024-11-23 20:36:42.156984 \| Name Change \| Aidan \| Changed To: Aidan McGeever
+
+2024-11-23 20:36:21.584765 \| Edit Points \| Aidan \| Change: 5 \| "Took away Avery Jones' aura"
+
 2024-11-22 23:31:30.277858 \| Edit Points \| Kimaya Joshi \| Change: 10 \| "Worked on + completed the apcsp group project even while Owen Bridges completely threw"
 
 2024-11-22 23:28:56.723212 \| Add \| Kimaya Joshi
