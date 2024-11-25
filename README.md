@@ -2,7 +2,7 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|80,000,000,125|
+|1.|Grace Pyon|80,000,000,025|
 |2.|Thomas Clancy|23|
 |3.|Owen Bridges|18|
 |4.|Kimaya Joshi|10|
@@ -49,6 +49,8 @@
 
 
 ## Owen Points Log:
+2024-11-24 21:20:59.661293 \| Edit Points \| Grace Pyon \| Change: -100 \| "'Are we on Ohio right now because I'm struggling to rizz up Baby Gronk's gyatt'"
+
 2024-11-24 21:19:53.179160 \| Edit Points \| Shurifin \| Change: 4 \| "Blackmail"
 
 2024-11-24 21:19:05.374101 \| Add \| Shurifin
