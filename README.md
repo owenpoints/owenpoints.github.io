@@ -2,7 +2,7 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|80,000,000,140|
+|1.|Grace Pyon|80,000,000,125|
 |2.|Thomas Clancy|23|
 |3.|Owen Bridges|18|
 |4.|Kimaya Joshi|10|
@@ -10,35 +10,36 @@
 |6.|Sharleen Wang|5|
 |7.|Mr. Brown|5|
 |8.|Mr. Dixon|5|
-|9.|Isaiah|3|
-|10.|Coach Bombard|2|
-|11.|Saanvi|2|
-|12.|William Niemiec-Andorfer|2|
-|13.|Rosie|1|
-|14.|Silas|1|
-|15.|Mr. Lee|1|
-|16.|James Henry Southern|1|
-|17.|Owen Bridges' Iphone|1|
-|18.|Justin Ferrero|0|
-|19.|Koko|0|
-|20.|Kaitlyn|-1|
-|21.|Thomas Clancy's airpods|-1|
-|22.|Peter Wazdin|-1|
-|23.|Olivia|-1|
-|24.|Mysterious OwenHater856|-2|
-|25.|Ben|-2|
-|26.|Aubrey Niemiec-Andorfer|-2|
-|27.|Mrs. Davis|-2|
-|28.|Mrs. Hart|-4|
-|29.|Katie Hanson|-4|
-|30.|Noam|-6|
-|31.|Mr. Yeats|-7|
-|32.|Guy in library who took my seat|-11|
-|33.|Daniel Duke|-29|
-|34.|Alec Aris|-31|
-|35.|Avery Jones|-33|
-|36.|Aidan McGeever|-106|
-|37.|Mr. Martin|-9,223,372,036,854,776,847|
+|9.|Shurifin|4|
+|10.|Isaiah|3|
+|11.|Coach Bombard|2|
+|12.|Saanvi|2|
+|13.|William Niemiec-Andorfer|2|
+|14.|Rosie|1|
+|15.|Silas|1|
+|16.|Mr. Lee|1|
+|17.|James Henry Southern|1|
+|18.|Owen Bridges' Iphone|1|
+|19.|Justin Ferrero|0|
+|20.|Koko|0|
+|21.|Kaitlyn|-1|
+|22.|Thomas Clancy's airpods|-1|
+|23.|Peter Wazdin|-1|
+|24.|Olivia|-1|
+|25.|Mysterious OwenHater856|-2|
+|26.|Ben|-2|
+|27.|Aubrey Niemiec-Andorfer|-2|
+|28.|Mrs. Davis|-2|
+|29.|Mrs. Hart|-4|
+|30.|Katie Hanson|-4|
+|31.|Noam|-6|
+|32.|Mr. Yeats|-7|
+|33.|Guy in library who took my seat|-11|
+|34.|Daniel Duke|-29|
+|35.|Alec Aris|-31|
+|36.|Avery Jones|-33|
+|37.|Aidan McGeever|-106|
+|38.|Mr. Martin|-9,223,372,036,854,776,847|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -48,6 +49,12 @@
 
 
 ## Owen Points Log:
+2024-11-24 21:19:53.179160 \| Edit Points \| Shurifin \| Change: 4 \| "Blackmail"
+
+2024-11-24 21:19:05.374101 \| Add \| Shurifin
+
+2024-11-24 21:18:22.714963 \| Edit Points \| Grace Pyon \| Change: -15 \| "Put me in the hole"
+
 2024-11-24 21:11:29.382249 \| Edit Points \| Grace Pyon \| Change: -10 \| "Called me an idiot"
 
 2024-11-23 20:36:42.156984 \| Name Change \| Aidan \| Changed To: Aidan McGeever
