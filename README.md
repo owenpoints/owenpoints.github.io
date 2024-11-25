@@ -2,7 +2,7 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|80,000,000,150|
+|1.|Grace Pyon|80,000,000,140|
 |2.|Thomas Clancy|23|
 |3.|Owen Bridges|18|
 |4.|Kimaya Joshi|10|
@@ -48,6 +48,8 @@
 
 
 ## Owen Points Log:
+2024-11-24 21:11:29.382249 \| Edit Points \| Grace Pyon \| Change: -10 \| "Called me an idiot"
+
 2024-11-23 20:36:42.156984 \| Name Change \| Aidan \| Changed To: Aidan McGeever
 
 2024-11-23 20:36:21.584765 \| Edit Points \| Aidan \| Change: 5 \| "Took away Avery Jones' aura"
