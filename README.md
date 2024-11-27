@@ -7,11 +7,11 @@
 |3.|Owen Bridges|17|
 |4.|Kimaya Joshi|10|
 |5.|Max Goldblatt|7|
-|6.|Mr. Dixon|5|
-|7.|Mr. Brown|5|
-|8.|Shurifin|4|
-|9.|Isaiah|3|
-|10.|William Niemiec-Andorfer|2|
+|6.|William Niemiec-Andorfer|7|
+|7.|Mr. Dixon|5|
+|8.|Mr. Brown|5|
+|9.|Shurifin|4|
+|10.|Isaiah|3|
 |11.|Saanvi|2|
 |12.|Coach Bombard|2|
 |13.|Owen Bridges' Iphone|1|
@@ -49,6 +49,8 @@
 
 
 ## Owen Points Log:
+2024-11-27 12:44:12.203912 \| Edit Points \| William Niemiec-Andorfer \| Change: 5 \| "Birthday today"
+
 2024-11-27 00:21:23.647766 \| Edit Points \| Sharleen Wang \| Change: -10 \| "Sent me https://www.instagram.com/reel/DCIefd0pYF5/?igsh=ZnA3azR4ZjNwZXFh"
 
 2024-11-27 00:00:20.492254 \| Edit Points \| Owen Bridges \| Change: -1 \| "Was talking to myself and said something really corny"
