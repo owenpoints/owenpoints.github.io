@@ -35,8 +35,8 @@
 |31.|Noam|-6|
 |32.|Mr. Yeats|-7|
 |33.|Guy in library who took my seat|-11|
-|34.|Alec Aris|-31|
-|35.|Avery Jones|-33|
+|34.|Avery Jones|-28|
+|35.|Alec Aris|-31|
 |36.|Daniel Duke|-33|
 |37.|Aidan McGeever|-106|
 |38.|Mr. Martin|-9,223,372,036,854,776,847|
@@ -49,6 +49,8 @@
 
 
 ## Owen Points Log:
+2024-11-27 12:46:27.629881 \| Edit Points \| Avery Jones \| Change: 5 \| "Took Kel's aura the way Aidan McGeever stole his"
+
 2024-11-27 12:44:12.203912 \| Edit Points \| William Niemiec-Andorfer \| Change: 5 \| "Birthday today"
 
 2024-11-27 00:21:23.647766 \| Edit Points \| Sharleen Wang \| Change: -10 \| "Sent me https://www.instagram.com/reel/DCIefd0pYF5/?igsh=ZnA3azR4ZjNwZXFh"
