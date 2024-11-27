@@ -4,7 +4,7 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,025|
 |2.|Thomas Clancy|23|
-|3.|Owen Bridges|18|
+|3.|Owen Bridges|17|
 |4.|Kimaya Joshi|10|
 |5.|Max Goldblatt|7|
 |6.|Sharleen Wang|5|
@@ -49,6 +49,8 @@
 
 
 ## Owen Points Log:
+2024-11-27 00:00:20.492254 \| Edit Points \| Owen Bridges \| Change: -1 \| "Was talking to myself and said something really corny"
+
 2024-11-26 23:48:52.976303 \| Edit Points \| Daniel Duke \| Change: -2 \| "'Sensei Bridges' '-1 Owen points' 'Sensei strange'"
 
 2024-11-26 23:48:04.477503 \| Edit Points \| Daniel Duke \| Change: -2 \| "'I think you're strange' 'I think you're doctor strange' '-1 Owen Points' 'I think your mister strange'"
