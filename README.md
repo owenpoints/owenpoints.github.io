@@ -7,31 +7,31 @@
 |3.|Owen Bridges|17|
 |4.|Kimaya Joshi|10|
 |5.|Max Goldblatt|7|
-|6.|Sharleen Wang|5|
-|7.|Mr. Brown|5|
-|8.|Mr. Dixon|5|
-|9.|Shurifin|4|
-|10.|Isaiah|3|
-|11.|Coach Bombard|2|
-|12.|Saanvi|2|
-|13.|William Niemiec-Andorfer|2|
-|14.|Rosie|1|
-|15.|Silas|1|
-|16.|Mr. Lee|1|
-|17.|James Henry Southern|1|
-|18.|Owen Bridges' Iphone|1|
-|19.|Justin Ferrero|0|
-|20.|Koko|0|
-|21.|Kaitlyn|-1|
-|22.|Thomas Clancy's airpods|-1|
-|23.|Peter Wazdin|-1|
-|24.|Olivia|-1|
-|25.|Mysterious OwenHater856|-2|
-|26.|Ben|-2|
-|27.|Aubrey Niemiec-Andorfer|-2|
-|28.|Mrs. Davis|-2|
-|29.|Mrs. Hart|-4|
-|30.|Katie Hanson|-4|
+|6.|Mr. Brown|5|
+|7.|Mr. Dixon|5|
+|8.|Shurifin|4|
+|9.|Isaiah|3|
+|10.|Coach Bombard|2|
+|11.|Saanvi|2|
+|12.|William Niemiec-Andorfer|2|
+|13.|Rosie|1|
+|14.|Silas|1|
+|15.|Mr. Lee|1|
+|16.|James Henry Southern|1|
+|17.|Owen Bridges' Iphone|1|
+|18.|Justin Ferrero|0|
+|19.|Koko|0|
+|20.|Kaitlyn|-1|
+|21.|Thomas Clancy's airpods|-1|
+|22.|Peter Wazdin|-1|
+|23.|Olivia|-1|
+|24.|Mysterious OwenHater856|-2|
+|25.|Ben|-2|
+|26.|Aubrey Niemiec-Andorfer|-2|
+|27.|Mrs. Davis|-2|
+|28.|Mrs. Hart|-4|
+|29.|Katie Hanson|-4|
+|30.|Sharleen Wang|-5|
 |31.|Noam|-6|
 |32.|Mr. Yeats|-7|
 |33.|Guy in library who took my seat|-11|
@@ -49,6 +49,8 @@
 
 
 ## Owen Points Log:
+2024-11-27 00:21:23.647766 \| Edit Points \| Sharleen Wang \| Change: -10 \| "https://www.instagram.com/reel/DCIefd0pYF5/?igsh=ZnA3azR4ZjNwZXFh"
+
 2024-11-27 00:00:20.492254 \| Edit Points \| Owen Bridges \| Change: -1 \| "Was talking to myself and said something really corny"
 
 2024-11-26 23:48:52.976303 \| Edit Points \| Daniel Duke \| Change: -2 \| "'Sensei Bridges' '-1 Owen points' 'Sensei strange'"
