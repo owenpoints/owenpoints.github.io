@@ -35,7 +35,7 @@
 |31.|Noam|-6|
 |32.|Mr. Yeats|-7|
 |33.|Guy in library who took my seat|-11|
-|34.|Daniel Duke|-29|
+|34.|Daniel Duke|-31|
 |35.|Alec Aris|-31|
 |36.|Avery Jones|-33|
 |37.|Aidan McGeever|-106|
@@ -49,6 +49,8 @@
 
 
 ## Owen Points Log:
+2024-11-26 23:48:04.477503 \| Edit Points \| Daniel Duke \| Change: -2 \| "'I think you're strange' 'I think you're doctor strange' '-1 Owen Points' 'I think your mister strange'"
+
 2024-11-24 21:20:59.661293 \| Edit Points \| Grace Pyon \| Change: -100 \| "'Are we on Ohio right now because I'm struggling to rizz up Baby Gronk's gyatt'"
 
 2024-11-24 21:19:53.179160 \| Edit Points \| Shurifin \| Change: 4 \| "Blackmail"
