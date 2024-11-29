@@ -2,7 +2,7 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|80,000,000,025|
+|1.|Grace Pyon|80,000,000,030|
 |2.|Thomas Clancy|23|
 |3.|Owen Bridges|17|
 |4.|Kimaya Joshi|10|
@@ -49,6 +49,8 @@
 
 
 ## Owen Points Log:
+2024-11-28 20:07:05.345457 \| Edit Points \| Grace Pyon \| Change: 5 \| "Carried me in Fortnite duos"
+
 2024-11-27 12:46:27.629881 \| Edit Points \| Avery Jones \| Change: 5 \| "Took Kel's aura the way Aidan McGeever stole his"
 
 2024-11-27 12:44:12.203912 \| Edit Points \| William Niemiec-Andorfer \| Change: 5 \| "Birthday today"
