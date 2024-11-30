@@ -8,7 +8,9 @@ set empty=""
 echo %bloguser% > .\blog\username.txt
 echo {} > .\blog\store.txt
 echo Run blog.bat to construct your web page. > .\blog\README.md
+echo Deleting blog posts...
 del .\blog\posts\*.*
+echo Deleting saved blog images...
 del .\blog\images\*.*
 
 echo %empty% > .\points\log.txt
