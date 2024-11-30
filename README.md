@@ -6,31 +6,31 @@
 |2.|Thomas Clancy|23|
 |3.|Owen Bridges|17|
 |4.|Kimaya Joshi|10|
-|5.|Max Goldblatt|7|
-|6.|William Niemiec-Andorfer|7|
-|7.|Mr. Dixon|5|
-|8.|Mr. Brown|5|
+|5.|William Niemiec-Andorfer|7|
+|6.|Max Goldblatt|7|
+|7.|Mr. Brown|5|
+|8.|Mr. Dixon|5|
 |9.|Shurifin|4|
 |10.|Isaiah|3|
-|11.|Saanvi|2|
-|12.|Coach Bombard|2|
-|13.|Owen Bridges' Iphone|1|
-|14.|James Henry Southern|1|
+|11.|Coach Bombard|2|
+|12.|Saanvi|2|
+|13.|Rosie|1|
+|14.|Silas|1|
 |15.|Mr. Lee|1|
-|16.|Silas|1|
-|17.|Rosie|1|
-|18.|Koko|0|
-|19.|Justin Ferrero|0|
-|20.|Olivia|-1|
-|21.|Peter Wazdin|-1|
-|22.|Thomas Clancy's airpods|-1|
-|23.|Kaitlyn|-1|
-|24.|Mrs. Davis|-2|
-|25.|Aubrey Niemiec-Andorfer|-2|
-|26.|Ben|-2|
-|27.|Mysterious OwenHater856|-2|
-|28.|Katie Hanson|-4|
-|29.|Mrs. Hart|-4|
+|16.|James Henry Southern|1|
+|17.|Owen Bridges' Iphone|1|
+|18.|Justin Ferrero|0|
+|19.|Koko|0|
+|20.|Kaitlyn|-1|
+|21.|Thomas Clancy's airpods|-1|
+|22.|Peter Wazdin|-1|
+|23.|Olivia|-1|
+|24.|Mysterious OwenHater856|-2|
+|25.|Ben|-2|
+|26.|Aubrey Niemiec-Andorfer|-2|
+|27.|Mrs. Davis|-2|
+|28.|Mrs. Hart|-4|
+|29.|Katie Hanson|-4|
 |30.|Sharleen Wang|-5|
 |31.|Noam|-6|
 |32.|Mr. Yeats|-7|
