@@ -21,13 +21,13 @@ set /p urltovideoservice="Input url for live execution content channel: "
 set /p urltorequestform="Input url to points request form: "
 
 echo Editing file contents to reflect this...
-echo "Owen Points:::%pointsname%:::.\points\points_client.py" | python3 .\setup\replacestrings.py
-echo "Owen:::%ownername%:::.\points\points_client.py" | python3 .\setup\replacestrings.py
-echo "https://www.twitch.tv/will_of_owen:::%urltovideoservice%:::.\points\points_client.py" | python3 .\setup\replacestrings.py
-echo "https://forms.gle/cc2Y95JU66t6gKew9:::%urltorequestform%:::.\points\points_client.py" | python3 .\setup\replacestrings.py
+echo "Owen Points:::%pointsname%:::.\points\points_client.py" | python3 -m setup.replacestrings
+echo "Owen:::%ownername%:::.\points\points_client.py" | python3 -m setup.replacestrings
+echo "https://www.twitch.tv/will_of_owen:::%urltovideoservice%:::.\points\points_client.py" | python3 -m setup.replacestrings
+echo "https://forms.gle/cc2Y95JU66t6gKew9:::%urltorequestform%:::.\points\points_client.py" | python3 -m setup.replacestrings
 
-echo "Owen Points:::%pointsname%:::.\blog\blog_client.py" | python3 .\setup\replacestrings.py
-echo "Owen:::%ownername%:::.\blog\blog_client.py" | python3 .\setup\replacestrings.py
+echo "Owen Points:::%pointsname%:::.\blog\blog_client.py" | python3 -m setup.replacestrings
+echo "Owen:::%ownername%:::.\blog\blog_client.py" | python3 -m setup.replacestrings
 echo Done.
 
 set /p gitusername="Input your GitHub username: "
