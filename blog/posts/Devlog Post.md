@@ -1,4 +1,6 @@
 # Devlog Post
+2024-11-29 20:31:25.775220 \| Owen Bridges \| Moved bat files to run folder to avoid dealing with clutter in root folder when running code
+
 2024-11-29 20:14:23.576424 \| Owen Bridges \| made assets.funcs module to not have to have repetitive functions in each python file
 
 2024-11-29 20:13:44.369071 \| Owen Bridges \| Added utf-8 encoding to all file handling
