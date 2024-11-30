@@ -1,5 +1,5 @@
 @echo off
 
-python3 .\blog\devlog.py
+python3 -m blog.devlog
 
 push.bat

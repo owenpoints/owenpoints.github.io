@@ -1,5 +1,5 @@
 @echo off
 
-python3 .\blog\blog_client.py
+python3 -m blog.blog_client
 
 push.bat
