@@ -1,24 +1,22 @@
 import os
 import ast
 import datetime
-
-def pretty_num(num):
-    out = f'{num:,}'
-    return out
+import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'assets'))
+from assets import *
 
 def send_to_log(message):
-    log = open('./points/log.txt', 'r')
+    log = better_open('./points/log.txt', 'r')
     content = log.read()
     log.close()
 
-    log = open('./points/log.txt', 'w')
-    log.seek(0,0)
+    log = better_open('./points/log.txt', 'w')
     log.write(message + '\n' + content)
     log.close()
 
 def output(store):
 
-    file = open('README.md', 'w')
+    file = better_open('README.md', 'w')
 
     output_str = "# Global Owen Points Rankings\n\n|Ranking|Name|Owen Points|\n| ----------- | ----------- | ----------- |\n"
     
@@ -32,7 +30,7 @@ def output(store):
     output_str += "\n## !! Those Under -500 Owen Points will be [Executed Live](https://www.twitch.tv/will_of_owen) !!\n"
     output_str += "\n## Top Owen Updates Can be Found [Here](./blog).\n\n\n## Owen Points Log:\n"
 
-    log = open('./points/log.txt', 'r')
+    log = better_open('./points/log.txt', 'r')
     lines = log.readlines()
     for i in lines:
         output_str += i + '\n'
@@ -42,13 +40,13 @@ def output(store):
     file.close()
     
 def save(store):
-    file = open('./points/store.txt', 'w')
+    file = better_open('./points/store.txt', 'w')
 
     file.write(str(store))
 
     file.close()
 
-store = open('./points/store.txt', 'r')
+store = better_open('./points/store.txt', 'r')
 
 scores = ast.literal_eval(store.read())
 

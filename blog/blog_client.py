@@ -1,8 +1,11 @@
 import os
 import ast
 import datetime
+import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'assets'))
+from assets import *
 
-user = open('./blog/username.txt', 'r')
+user = better_open('./blog/username.txt', 'r')
 username = user.read()
 user.close()
 
@@ -17,7 +20,7 @@ def output(store):
 
     store = dict(reversed(list(store.items())))
 
-    file = open('./blog/README.md', 'w')
+    file = better_open('./blog/README.md', 'w')
 
     output_str = "# Top Owen Updates\n### [Back](../) to Owen Points Leaderboard\n"
     
@@ -32,13 +35,13 @@ def output(store):
     file.close()
     
 def save(store):
-    file = open('./blog/store.txt', 'w')
+    file = better_open('./blog/store.txt', 'w')
 
     file.write(str(store))
 
     file.close()
 
-store = open('./blog/store.txt', 'r')
+store = better_open('./blog/store.txt', 'r')
 
 posts = ast.literal_eval(store.read())
 
@@ -82,7 +85,7 @@ while True:
 
         posts[title] =  f'{datetime.datetime.now()} \| {username} \| {contents}'
 
-        temp = open(f'./blog/posts/{title}.md', 'w')
+        temp = better_open(f'./blog/posts/{title}.md', 'w')
         temp.write(f'# {title}\n## {posts[title].split("|")[0] + "|" + posts[title].split("|")[1][:-1]}\n> {posts[title][33 + len(username):]} \n\n Click [Here](../) to Go Back')
         temp.close()
 

@@ -1,18 +1,21 @@
 import os
 import datetime
+import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'assets'))
+from assets import *
 
-user = open('./blog/username.txt', 'r')
+user = better_open('./blog/username.txt', 'r')
 username = user.read()
 user.close()
 
 def send_to_log(message):
-    log = open('./blog/posts/Devlog Post.md', 'r')
+    log = better_open('./blog/posts/Devlog Post.md', 'r')
     content = log.read()
     log.close()
 
     content = content[14:]
 
-    log = open('./blog/posts/Devlog Post.md', 'w')
+    log = better_open('./blog/posts/Devlog Post.md', 'w')
     log.seek(0,0)
     log.write(f'# Devlog Post\n{message}\n\n{content}')
     log.close()
