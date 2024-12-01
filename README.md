@@ -4,7 +4,7 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,030|
 |2.|Thomas Clancy|23|
-|3.|Owen Bridges|17|
+|3.|Owen Bridges|16|
 |4.|Kimaya Joshi|10|
 |5.|Max Goldblatt|7|
 |6.|William Niemiec-Andorfer|7|
@@ -29,17 +29,18 @@
 |25.|Aubrey Niemiec-Andorfer|-2|
 |26.|Ben|-2|
 |27.|Mysterious OwenHater856|-2|
-|28.|Katie Hanson|-4|
-|29.|Mrs. Hart|-4|
-|30.|Sharleen Wang|-5|
-|31.|Noam|-6|
+|28.|Noam Kolt|-4|
+|29.|Katie Hanson|-4|
+|30.|Mrs. Hart|-4|
+|31.|Sharleen Wang|-5|
 |32.|Mr. Yeats|-7|
-|33.|Guy in library who took my seat|-11|
-|34.|Avery Jones|-28|
-|35.|Alec Aris|-31|
-|36.|Daniel Duke|-33|
-|37.|Aidan McGeever|-103|
-|38.|Mr. Martin|-9,223,372,036,854,776,847|
+|33.|Wasps|-10|
+|34.|Guy in library who took my seat|-11|
+|35.|Avery Jones|-28|
+|36.|Alec Aris|-31|
+|37.|Daniel Duke|-33|
+|38.|Aidan McGeever|-103|
+|39.|Mr. Martin|-9,223,372,036,854,776,847|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -49,6 +50,16 @@
 
 
 ## Owen Points Log:
+2024-12-01 14:11:12.733858 \| Edit Points \| Wasps \| Change: -10 \| "Request form: 'Wasps keep invading my dang house every winter like they think it's an AIRBNB or smth and getting stuck where I sit on the couch and I hate it'"
+
+2024-12-01 14:10:20.805940 \| Add \| Wasps
+
+2024-12-01 14:09:48.121184 \| Edit Points \| Owen Bridges \| Change: -1 \| "Called William N-A a loser"
+
+2024-12-01 14:09:23.943981 \| Edit Points \| Noam Kolt \| Change: 2 \| "Justin Ferrero thought about him at 3 am"
+
+2024-12-01 14:08:03.411017 \| Name Change \| Noam \| Changed To: Noam Kolt
+
 2024-11-29 20:22:57.511553 \| Edit Points \| Aidan McGeever \| Change: 3 \| "Went through installation proccess to help me iron out its kinks"
 
 2024-11-28 20:07:05.345457 \| Edit Points \| Grace Pyon \| Change: 5 \| "Carried me in Fortnite duos"
