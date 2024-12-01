@@ -6,32 +6,32 @@
 |2.|Thomas Clancy|23|
 |3.|Owen Bridges|16|
 |4.|Kimaya Joshi|10|
-|5.|William Niemiec-Andorfer|7|
-|6.|Max Goldblatt|7|
-|7.|Mr. Brown|5|
-|8.|Mr. Dixon|5|
+|5.|Max Goldblatt|7|
+|6.|William Niemiec-Andorfer|7|
+|7.|Mr. Dixon|5|
+|8.|Mr. Brown|5|
 |9.|Shurifin|4|
 |10.|Isaiah|3|
-|11.|Coach Bombard|2|
-|12.|Saanvi|2|
-|13.|Rosie|1|
-|14.|Silas|1|
+|11.|Saanvi|2|
+|12.|Coach Bombard|2|
+|13.|Owen Bridges' Iphone|1|
+|14.|James Henry Southern|1|
 |15.|Mr. Lee|1|
-|16.|James Henry Southern|1|
-|17.|Owen Bridges' Iphone|1|
-|18.|Justin Ferrero|0|
-|19.|Koko|0|
-|20.|Kaitlyn|-1|
-|21.|Thomas Clancy's airpods|-1|
-|22.|Peter Wazdin|-1|
-|23.|Olivia|-1|
-|24.|Mysterious OwenHater856|-2|
-|25.|Ben|-2|
-|26.|Aubrey Niemiec-Andorfer|-2|
-|27.|Mrs. Davis|-2|
-|28.|Mrs. Hart|-4|
+|16.|Silas|1|
+|17.|Rosie|1|
+|18.|Koko|0|
+|19.|Justin Ferrero|0|
+|20.|Olivia|-1|
+|21.|Peter Wazdin|-1|
+|22.|Thomas Clancy's airpods|-1|
+|23.|Kaitlyn|-1|
+|24.|Mrs. Davis|-2|
+|25.|Aubrey Niemiec-Andorfer|-2|
+|26.|Ben|-2|
+|27.|Mysterious OwenHater856|-2|
+|28.|Noam Kolt|-4|
 |29.|Katie Hanson|-4|
-|30.|Noam Kolt|-4|
+|30.|Mrs. Hart|-4|
 |31.|Sharleen Wang|-5|
 |32.|Mr. Yeats|-7|
 |33.|Wasps|-10|
@@ -68,7 +68,7 @@
 
 2024-11-27 12:44:12.203912 \| Edit Points \| William Niemiec-Andorfer \| Change: 5 \| "Birthday today"
 
-2024-11-27 00:21:23.647766 \| Edit Points \| Sharleen Wang \| Change: -10 \| "Sent me (https://www.instagram.com/reel/DCIefd0pYF5/?igsh=ZnA3azR4ZjNwZXFh)"
+2024-11-27 00:21:23.647766 \| Edit Points \| Sharleen Wang \| Change: -10 \| "Sent me <https://www.instagram.com/reel/DCIefd0pYF5/?igsh=ZnA3azR4ZjNwZXFh>"
 
 2024-11-27 00:00:20.492254 \| Edit Points \| Owen Bridges \| Change: -1 \| "Was talking to myself and said something really corny"
 
