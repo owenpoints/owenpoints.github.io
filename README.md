@@ -40,7 +40,7 @@
 |36.|Avery Jones|-28|
 |37.|Alec Aris|-31|
 |38.|Daniel Duke|-34|
-|39.|Aidan McGeever|-103|
+|39.|Aidan McGeever|-104|
 |40.|Mr. Martin|-9,223,372,036,854,776,847|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
@@ -51,6 +51,8 @@
 
 
 ## Owen Points Log:
+2024-12-02 09:01:26.924349 \| Edit Points \| Aidan McGeever \| Change: -1 \| "Sent me <https://tenor.com/view/hey-kitten-seductive-tiktok-gif-lip-bite-looking-at-viewer-gif-22151628>"
+
 2024-12-02 08:18:43.584800 \| Edit Points \| Northview High School \| Change: -4 \| "Also frisked Avery when he walked in"
 
 2024-12-02 08:18:03.440978 \| Edit Points \| Northview High School \| Change: -3 \| "Frisked me when I walked in to school"
