@@ -1,3 +1,7 @@
+2024-12-02 08:18:43.584800 \| Edit Points \| Northview High School \| Change: -4 \| "Also frisked Avery when he walked in"
+2024-12-02 08:18:03.440978 \| Edit Points \| Northview High School \| Change: -3 \| "Frisked me when I walked in to school"
+2024-12-02 08:17:44.370390 \| Add \| Northview High School
+2024-12-02 08:16:45.903189 \| Edit Points \| Daniel Duke \| Change: -1 \| "Said Owen Points are stupid"
 2024-12-01 14:11:12.733858 \| Edit Points \| Wasps \| Change: -10 \| "Request form: 'Wasps keep invading my dang house every winter like they think it's an AIRBNB or smth and getting stuck where I sit on the couch and I hate it'"
 2024-12-01 14:10:20.805940 \| Add \| Wasps
 2024-12-01 14:09:48.121184 \| Edit Points \| Owen Bridges \| Change: -1 \| "Called William N-A a loser"

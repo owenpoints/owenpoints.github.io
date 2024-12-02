@@ -6,41 +6,42 @@
 |2.|Thomas Clancy|23|
 |3.|Owen Bridges|16|
 |4.|Kimaya Joshi|10|
-|5.|Max Goldblatt|7|
-|6.|William Niemiec-Andorfer|7|
-|7.|Mr. Dixon|5|
-|8.|Mr. Brown|5|
+|5.|William Niemiec-Andorfer|7|
+|6.|Max Goldblatt|7|
+|7.|Mr. Brown|5|
+|8.|Mr. Dixon|5|
 |9.|Shurifin|4|
 |10.|Isaiah|3|
-|11.|Saanvi|2|
-|12.|Coach Bombard|2|
-|13.|Owen Bridges' Iphone|1|
-|14.|James Henry Southern|1|
+|11.|Coach Bombard|2|
+|12.|Saanvi|2|
+|13.|Rosie|1|
+|14.|Silas|1|
 |15.|Mr. Lee|1|
-|16.|Silas|1|
-|17.|Rosie|1|
-|18.|Koko|0|
-|19.|Justin Ferrero|0|
-|20.|Olivia|-1|
-|21.|Peter Wazdin|-1|
-|22.|Thomas Clancy's airpods|-1|
-|23.|Kaitlyn|-1|
-|24.|Mrs. Davis|-2|
-|25.|Aubrey Niemiec-Andorfer|-2|
-|26.|Ben|-2|
-|27.|Mysterious OwenHater856|-2|
-|28.|Noam Kolt|-4|
+|16.|James Henry Southern|1|
+|17.|Owen Bridges' Iphone|1|
+|18.|Justin Ferrero|0|
+|19.|Koko|0|
+|20.|Kaitlyn|-1|
+|21.|Thomas Clancy's airpods|-1|
+|22.|Peter Wazdin|-1|
+|23.|Olivia|-1|
+|24.|Mysterious OwenHater856|-2|
+|25.|Ben|-2|
+|26.|Aubrey Niemiec-Andorfer|-2|
+|27.|Mrs. Davis|-2|
+|28.|Mrs. Hart|-4|
 |29.|Katie Hanson|-4|
-|30.|Mrs. Hart|-4|
+|30.|Noam Kolt|-4|
 |31.|Sharleen Wang|-5|
-|32.|Mr. Yeats|-7|
-|33.|Wasps|-10|
-|34.|Guy in library who took my seat|-11|
-|35.|Avery Jones|-28|
-|36.|Alec Aris|-31|
-|37.|Daniel Duke|-33|
-|38.|Aidan McGeever|-103|
-|39.|Mr. Martin|-9,223,372,036,854,776,847|
+|32.|Northview High School|-7|
+|33.|Mr. Yeats|-7|
+|34.|Wasps|-10|
+|35.|Guy in library who took my seat|-11|
+|36.|Avery Jones|-28|
+|37.|Alec Aris|-31|
+|38.|Daniel Duke|-34|
+|39.|Aidan McGeever|-103|
+|40.|Mr. Martin|-9,223,372,036,854,776,847|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -50,6 +51,14 @@
 
 
 ## Owen Points Log:
+2024-12-02 08:18:43.584800 \| Edit Points \| Northview High School \| Change: -4 \| "Also frisked Avery when he walked in"
+
+2024-12-02 08:18:03.440978 \| Edit Points \| Northview High School \| Change: -3 \| "Frisked me when I walked in to school"
+
+2024-12-02 08:17:44.370390 \| Add \| Northview High School
+
+2024-12-02 08:16:45.903189 \| Edit Points \| Daniel Duke \| Change: -1 \| "Said Owen Points are stupid"
+
 2024-12-01 14:11:12.733858 \| Edit Points \| Wasps \| Change: -10 \| "Request form: 'Wasps keep invading my dang house every winter like they think it's an AIRBNB or smth and getting stuck where I sit on the couch and I hate it'"
 
 2024-12-01 14:10:20.805940 \| Add \| Wasps
