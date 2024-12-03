@@ -34,12 +34,12 @@
 |30.|Mrs. Hart|-4|
 |31.|Sharleen Wang|-5|
 |32.|Mr. Yeats|-7|
-|33.|Northview High School|-7|
-|34.|Wasps|-10|
-|35.|Guy in library who took my seat|-11|
-|36.|Avery Jones|-28|
-|37.|Alec Aris|-31|
-|38.|Daniel Duke|-34|
+|33.|Wasps|-10|
+|34.|Guy in library who took my seat|-11|
+|35.|Avery Jones|-18|
+|36.|Alec Aris|-31|
+|37.|Daniel Duke|-44|
+|38.|Northview High School|-57|
 |39.|Aidan McGeever|-104|
 |40.|Mr. Martin|-9,223,372,036,854,776,847|
 
@@ -51,6 +51,12 @@
 
 
 ## Owen Points Log:
+2024-12-03 08:34:24.684430 \| Edit Points \| Avery Jones \| Change: 10 \| "Zipped my jacket"
+
+2024-12-03 08:32:52.198742 \| Edit Points \| Daniel Duke \| Change: -10 \| "Unzipped my jacket"
+
+2024-12-03 08:32:21.296614 \| Edit Points \| Northview High School \| Change: -50 \| "Took my scissors when I walked into school today"
+
 2024-12-02 09:01:26.924349 \| Edit Points \| Aidan McGeever \| Change: -1 \| "Sent me <https://tenor.com/view/hey-kitten-seductive-tiktok-gif-lip-bite-looking-at-viewer-gif-22151628>"
 
 2024-12-02 08:18:43.584800 \| Edit Points \| Northview High School \| Change: -4 \| "Also frisked Avery when he walked in"
