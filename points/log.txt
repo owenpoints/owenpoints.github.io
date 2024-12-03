@@ -1,6 +1,6 @@
 2024-12-03 08:34:24.684430 \| Edit Points \| Avery Jones \| Change: 10 \| "Zipped my jacket"
 2024-12-03 08:32:52.198742 \| Edit Points \| Daniel Duke \| Change: -10 \| "Unzipped my jacket"
-2024-12-03 08:32:21.296614 \| Edit Points \| Northview High School \| Change: -50 \| "Took my scissors when I walked into school today"
+2024-12-03 08:32:21.296614 \| Edit Points \| Northview High School \| Change: -50 \| "Took my Spider-Man scissors when I walked into school today"
 2024-12-02 09:01:26.924349 \| Edit Points \| Aidan McGeever \| Change: -1 \| "Sent me <https://tenor.com/view/hey-kitten-seductive-tiktok-gif-lip-bite-looking-at-viewer-gif-22151628>"
 2024-12-02 08:18:43.584800 \| Edit Points \| Northview High School \| Change: -4 \| "Also frisked Avery when he walked in"
 2024-12-02 08:18:03.440978 \| Edit Points \| Northview High School \| Change: -3 \| "Frisked me when I walked in to school"
