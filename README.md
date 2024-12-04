@@ -36,8 +36,8 @@
 |32.|Mr. Yeats|-7|
 |33.|Wasps|-10|
 |34.|Guy in library who took my seat|-11|
-|35.|Avery Jones|-17|
-|36.|Alec Aris|-26|
+|35.|Alec Aris|-12|
+|36.|Avery Jones|-17|
 |37.|Daniel Duke|-44|
 |38.|Northview High School|-57|
 |39.|Aidan McGeever|-90|
@@ -51,6 +51,8 @@
 
 
 ## Owen Points Log:
+2024-12-04 16:30:30.023830 \| Edit Points \| Alec Aris \| Change: 14 \| "Spun the duos wheel with Avery (Alec: Steal - Avery: Share)"
+
 2024-12-04 16:18:25.445982 \| Edit Points \| Avery Jones \| Change: 2 \| "Spun the wheel"
 
 2024-12-04 15:45:21.159993 \| Edit Points \| Alec Aris \| Change: 5 \| "Spun the wheel"
