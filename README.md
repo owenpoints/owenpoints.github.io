@@ -36,7 +36,7 @@
 |32.|Mr. Yeats|-7|
 |33.|Wasps|-10|
 |34.|Guy in library who took my seat|-11|
-|35.|Avery Jones|-18|
+|35.|Avery Jones|-19|
 |36.|Alec Aris|-31|
 |37.|Daniel Duke|-44|
 |38.|Northview High School|-57|
@@ -51,6 +51,8 @@
 
 
 ## Owen Points Log:
+2024-12-04 15:44:24.842848 \| Edit Points \| Avery Jones \| Change: -1 \| "Spun the wheel"
+
 2024-12-04 13:41:16.559710 \| Edit Points \| Mr. Dixon \| Change: 2 \| "Let us watch movies in class"
 
 2024-12-04 13:40:15.256611 \| Edit Points \| Grace Pyon \| Change: 7 \| "Spun the wheel and won"
