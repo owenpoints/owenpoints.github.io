@@ -32,8 +32,8 @@
 |28.|Noam Kolt|-4|
 |29.|Katie Hanson|-4|
 |30.|Mrs. Hart|-4|
-|31.|Sharleen Wang|-5|
-|32.|Mr. Yeats|-7|
+|31.|Mr. Yeats|-4|
+|32.|Sharleen Wang|-5|
 |33.|Wasps|-10|
 |34.|Guy in library who took my seat|-11|
 |35.|Alec Aris|-12|
@@ -51,6 +51,8 @@
 
 
 ## Owen Points Log:
+2024-12-04 16:52:14.242639 \| Edit Points \| Mr. Yeats \| Change: 3 \| "Spun the wheel"
+
 2024-12-04 16:30:30.023830 \| Edit Points \| Alec Aris \| Change: 14 \| "Spun the duos wheel with Avery (Alec: Steal - Avery: Share)"
 
 2024-12-04 16:18:25.445982 \| Edit Points \| Avery Jones \| Change: 2 \| "Spun the wheel"
