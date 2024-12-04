@@ -2,36 +2,36 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|80,000,000,028|
+|1.|Grace Pyon|80,000,000,025|
 |2.|Thomas Clancy|22|
 |3.|Owen Bridges|17|
 |4.|Kimaya Joshi|10|
-|5.|William Niemiec-Andorfer|7|
-|6.|Max Goldblatt|7|
-|7.|Mr. Brown|5|
-|8.|Mr. Dixon|5|
-|9.|James Henry Southern|4|
-|10.|Shurifin|4|
-|11.|Owen Bridges' Iphone|4|
-|12.|Rosie|4|
+|5.|Max Goldblatt|7|
+|6.|William Niemiec-Andorfer|7|
+|7.|Mr. Dixon|7|
+|8.|Mr. Brown|5|
+|9.|Rosie|4|
+|10.|Owen Bridges' Iphone|4|
+|11.|Shurifin|4|
+|12.|James Henry Southern|4|
 |13.|Isaiah|3|
-|14.|Coach Bombard|2|
-|15.|Saanvi|2|
-|16.|Silas|1|
-|17.|Mr. Lee|1|
-|18.|Justin Ferrero|0|
-|19.|Koko|0|
-|20.|Kaitlyn|-1|
-|21.|Thomas Clancy's airpods|-1|
-|22.|Peter Wazdin|-1|
-|23.|Olivia|-1|
-|24.|Mysterious OwenHater856|-2|
-|25.|Ben|-2|
-|26.|Aubrey Niemiec-Andorfer|-2|
-|27.|Mrs. Davis|-2|
-|28.|Mrs. Hart|-4|
+|14.|Saanvi|2|
+|15.|Coach Bombard|2|
+|16.|Mr. Lee|1|
+|17.|Silas|1|
+|18.|Koko|0|
+|19.|Justin Ferrero|0|
+|20.|Olivia|-1|
+|21.|Peter Wazdin|-1|
+|22.|Thomas Clancy's airpods|-1|
+|23.|Kaitlyn|-1|
+|24.|Mrs. Davis|-2|
+|25.|Aubrey Niemiec-Andorfer|-2|
+|26.|Ben|-2|
+|27.|Mysterious OwenHater856|-2|
+|28.|Noam Kolt|-4|
 |29.|Katie Hanson|-4|
-|30.|Noam Kolt|-4|
+|30.|Mrs. Hart|-4|
 |31.|Sharleen Wang|-5|
 |32.|Mr. Yeats|-7|
 |33.|Wasps|-10|
@@ -40,7 +40,7 @@
 |36.|Alec Aris|-31|
 |37.|Daniel Duke|-44|
 |38.|Northview High School|-57|
-|39.|Aidan McGeever|-100|
+|39.|Aidan McGeever|-90|
 |40.|Mr. Martin|-9,223,372,036,854,776,847|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
@@ -51,6 +51,14 @@
 
 
 ## Owen Points Log:
+2024-12-04 13:41:16.559710 \| Edit Points \| Mr. Dixon \| Change: 2 \| "Let us watch movies in class"
+
+2024-12-04 13:40:15.256611 \| Edit Points \| Grace Pyon \| Change: 7 \| "Spun the wheel and won"
+
+2024-12-04 13:39:57.715724 \| Edit Points \| Grace Pyon \| Change: -10 \| "Payment for Aidan letting her charge her phone with his laptop"
+
+2024-12-04 13:39:39.928276 \| Edit Points \| Aidan McGeever \| Change: 10 \| "Let Grace Pyon charge her phone with his laptop"
+
 2024-12-04 13:34:48.805577 \| Edit Points \| Owen Bridges \| Change: 2 \| "Payment for half of my bread stick"
 
 2024-12-04 13:34:37.224323 \| Edit Points \| Grace Pyon \| Change: -2 \| "Payment for half of my bread stick"
