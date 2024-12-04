@@ -37,7 +37,7 @@
 |33.|Wasps|-10|
 |34.|Guy in library who took my seat|-11|
 |35.|Avery Jones|-19|
-|36.|Alec Aris|-31|
+|36.|Alec Aris|-26|
 |37.|Daniel Duke|-44|
 |38.|Northview High School|-57|
 |39.|Aidan McGeever|-90|
@@ -51,6 +51,8 @@
 
 
 ## Owen Points Log:
+2024-12-04 15:45:21.159993 \| Edit Points \| Alec Aris \| Change: 5 \| "Spun the wheel"
+
 2024-12-04 15:44:24.842848 \| Edit Points \| Avery Jones \| Change: -1 \| "Spun the wheel"
 
 2024-12-04 13:41:16.559710 \| Edit Points \| Mr. Dixon \| Change: 2 \| "Let us watch movies in class"
