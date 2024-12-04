@@ -10,15 +10,15 @@
 |6.|Max Goldblatt|7|
 |7.|Mr. Brown|5|
 |8.|Mr. Dixon|5|
-|9.|Shurifin|4|
-|10.|Isaiah|3|
-|11.|Coach Bombard|2|
-|12.|Saanvi|2|
-|13.|Rosie|1|
-|14.|Silas|1|
-|15.|Mr. Lee|1|
-|16.|James Henry Southern|1|
-|17.|Owen Bridges' Iphone|1|
+|9.|James Henry Southern|4|
+|10.|Shurifin|4|
+|11.|Owen Bridges' Iphone|4|
+|12.|Rosie|4|
+|13.|Isaiah|3|
+|14.|Coach Bombard|2|
+|15.|Saanvi|2|
+|16.|Silas|1|
+|17.|Mr. Lee|1|
 |18.|Justin Ferrero|0|
 |19.|Koko|0|
 |20.|Kaitlyn|-1|
@@ -51,6 +51,12 @@
 
 
 ## Owen Points Log:
+2024-12-04 10:29:42.738501 \| Edit Points \| Rosie \| Change: 3 \| "Points Lottery"
+
+2024-12-04 10:29:16.768286 \| Edit Points \| James Henry Southern \| Change: 3 \| "Points Lottery"
+
+2024-12-04 10:28:57.748581 \| Edit Points \| Owen Bridges' Iphone \| Change: 3 \| "Points Lottery"
+
 2024-12-04 08:47:15.831581 \| Edit Points \| Thomas Clancy \| Change: 0 \| "Silly guy"
 
 2024-12-04 08:46:03.983133 \| Edit Points \| Thomas Clancy \| Change: -1 \| "Made a dastardly mistake"
