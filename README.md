@@ -3,8 +3,8 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,030|
-|2.|Thomas Clancy|23|
-|3.|Owen Bridges|16|
+|2.|Thomas Clancy|22|
+|3.|Owen Bridges|15|
 |4.|Kimaya Joshi|10|
 |5.|William Niemiec-Andorfer|7|
 |6.|Max Goldblatt|7|
@@ -51,6 +51,12 @@
 
 
 ## Owen Points Log:
+2024-12-04 08:47:15.831581 \| Edit Points \| Thomas Clancy \| Change: 0 \| "Silly guy"
+
+2024-12-04 08:46:03.983133 \| Edit Points \| Thomas Clancy \| Change: -1 \| "Made a dastardly mistake"
+
+2024-12-04 08:45:41.182918 \| Edit Points \| Owen Bridges \| Change: -1 \| "Unspeakable things"
+
 2024-12-03 08:34:24.684430 \| Edit Points \| Avery Jones \| Change: 10 \| "Zipped my jacket"
 
 2024-12-03 08:32:52.198742 \| Edit Points \| Daniel Duke \| Change: -10 \| "Unzipped my jacket"
