@@ -2,9 +2,9 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|80,000,000,030|
+|1.|Grace Pyon|80,000,000,028|
 |2.|Thomas Clancy|22|
-|3.|Owen Bridges|15|
+|3.|Owen Bridges|17|
 |4.|Kimaya Joshi|10|
 |5.|William Niemiec-Andorfer|7|
 |6.|Max Goldblatt|7|
@@ -40,7 +40,7 @@
 |36.|Alec Aris|-31|
 |37.|Daniel Duke|-44|
 |38.|Northview High School|-57|
-|39.|Aidan McGeever|-104|
+|39.|Aidan McGeever|-100|
 |40.|Mr. Martin|-9,223,372,036,854,776,847|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
@@ -51,6 +51,12 @@
 
 
 ## Owen Points Log:
+2024-12-04 13:34:48.805577 \| Edit Points \| Owen Bridges \| Change: 2 \| "Payment for half of my bread stick"
+
+2024-12-04 13:34:37.224323 \| Edit Points \| Grace Pyon \| Change: -2 \| "Payment for half of my bread stick"
+
+2024-12-04 13:34:19.966659 \| Edit Points \| Aidan McGeever \| Change: 4 \| "Dramatic exit from the lunch room"
+
 2024-12-04 10:29:42.738501 \| Edit Points \| Rosie \| Change: 3 \| "Points Lottery"
 
 2024-12-04 10:29:16.768286 \| Edit Points \| James Henry Southern \| Change: 3 \| "Points Lottery"
