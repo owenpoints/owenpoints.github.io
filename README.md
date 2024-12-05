@@ -10,12 +10,12 @@
 |6.|James Henry Southern|9|
 |7.|Mr. Dixon|7|
 |8.|William Niemiec-Andorfer|7|
-|9.|Max Goldblatt|7|
-|10.|Emerson Hamp|7|
-|11.|Mr. Brown|5|
-|12.|Shurifin|4|
-|13.|Owen Bridges' Iphone|4|
-|14.|Rosie|4|
+|9.|Emerson Hamp|7|
+|10.|Mr. Brown|5|
+|11.|Shurifin|4|
+|12.|Owen Bridges' Iphone|4|
+|13.|Rosie|4|
+|14.|Max Goldblatt|3|
 |15.|Isaiah|3|
 |16.|Coach Bombard|2|
 |17.|Silas|1|
@@ -52,6 +52,8 @@
 
 
 ## Owen Points Log:
+2024-12-05 14:55:33.429454 \| Edit Points \| Max Goldblatt \| Change: -4 \| "Read out essay about boogers in class"
+
 2024-12-05 13:34:08.565610 \| Name Change \| Ben \| Changed To: Ben Ussery
 
 2024-12-05 09:31:25.639478 \| Edit Points \| James Henry Southern \| Change: 5 \| "Spun the wheel"
