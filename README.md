@@ -40,7 +40,7 @@
 |36.|Avery Jones|-17|
 |37.|Daniel Duke|-44|
 |38.|Northview High School|-57|
-|39.|Aidan McGeever|-90|
+|39.|Aidan McGeever|-80|
 |40.|Mr. Martin|-9,223,372,036,854,776,847|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
@@ -51,6 +51,8 @@
 
 
 ## Owen Points Log:
+2024-12-05 09:14:24.493764 \| Edit Points \| Aidan McGeever \| Change: 10 \| "Duos gambling wheel"
+
 2024-12-04 16:52:14.242639 \| Edit Points \| Mr. Yeats \| Change: 3 \| "Spun the wheel"
 
 2024-12-04 16:30:30.023830 \| Edit Points \| Alec Aris \| Change: 14 \| "Spun the duos wheel with Avery (Alec: Steal - Avery: Share)"
