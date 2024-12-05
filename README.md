@@ -27,9 +27,9 @@
 |23.|Peter Wazdin|-1|
 |24.|Olivia|-1|
 |25.|Mysterious OwenHater856|-2|
-|26.|Ben|-2|
-|27.|Aubrey Niemiec-Andorfer|-2|
-|28.|Mrs. Davis|-2|
+|26.|Aubrey Niemiec-Andorfer|-2|
+|27.|Mrs. Davis|-2|
+|28.|Ben Ussery|-2|
 |29.|Mr. Yeats|-4|
 |30.|Mrs. Hart|-4|
 |31.|Katie Hanson|-4|
@@ -52,6 +52,8 @@
 
 
 ## Owen Points Log:
+2024-12-05 13:34:08.565610 \| Name Change \| Ben \| Changed To: Ben Ussery
+
 2024-12-05 09:31:25.639478 \| Edit Points \| James Henry Southern \| Change: 5 \| "Spun the wheel"
 
 2024-12-05 09:30:32.897627 \| Name Change \| Saanvi \| Changed To: Saanvi Chingireddy
