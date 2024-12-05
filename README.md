@@ -6,42 +6,43 @@
 |2.|Thomas Clancy|22|
 |3.|Owen Bridges|17|
 |4.|Kimaya Joshi|10|
-|5.|Max Goldblatt|7|
-|6.|William Niemiec-Andorfer|7|
-|7.|Mr. Dixon|7|
-|8.|Mr. Brown|5|
-|9.|Rosie|4|
-|10.|Owen Bridges' Iphone|4|
-|11.|Shurifin|4|
-|12.|James Henry Southern|4|
-|13.|Isaiah|3|
-|14.|Saanvi|2|
-|15.|Coach Bombard|2|
-|16.|Mr. Lee|1|
+|5.|Saanvi Chingireddy|9|
+|6.|Mr. Dixon|7|
+|7.|William Niemiec-Andorfer|7|
+|8.|Max Goldblatt|7|
+|9.|Emerson Hamp|7|
+|10.|Mr. Brown|5|
+|11.|James Henry Southern|4|
+|12.|Shurifin|4|
+|13.|Owen Bridges' Iphone|4|
+|14.|Rosie|4|
+|15.|Isaiah|3|
+|16.|Coach Bombard|2|
 |17.|Silas|1|
-|18.|Koko|0|
+|18.|Mr. Lee|1|
 |19.|Justin Ferrero|0|
-|20.|Olivia|-1|
-|21.|Peter Wazdin|-1|
+|20.|Koko|0|
+|21.|Kaitlyn|-1|
 |22.|Thomas Clancy's airpods|-1|
-|23.|Kaitlyn|-1|
-|24.|Mrs. Davis|-2|
-|25.|Aubrey Niemiec-Andorfer|-2|
+|23.|Peter Wazdin|-1|
+|24.|Olivia|-1|
+|25.|Mysterious OwenHater856|-2|
 |26.|Ben|-2|
-|27.|Mysterious OwenHater856|-2|
-|28.|Noam Kolt|-4|
-|29.|Katie Hanson|-4|
+|27.|Aubrey Niemiec-Andorfer|-2|
+|28.|Mrs. Davis|-2|
+|29.|Mr. Yeats|-4|
 |30.|Mrs. Hart|-4|
-|31.|Mr. Yeats|-4|
-|32.|Sharleen Wang|-5|
-|33.|Wasps|-10|
-|34.|Guy in library who took my seat|-11|
-|35.|Alec Aris|-12|
-|36.|Avery Jones|-17|
-|37.|Daniel Duke|-44|
-|38.|Northview High School|-57|
-|39.|Aidan McGeever|-80|
-|40.|Mr. Martin|-9,223,372,036,854,776,847|
+|31.|Katie Hanson|-4|
+|32.|Noam Kolt|-4|
+|33.|Sharleen Wang|-5|
+|34.|Wasps|-10|
+|35.|Guy in library who took my seat|-11|
+|36.|Alec Aris|-12|
+|37.|Avery Jones|-17|
+|38.|Daniel Duke|-44|
+|39.|Northview High School|-57|
+|40.|Aidan McGeever|-80|
+|41.|Mr. Martin|-9,223,372,036,854,776,847|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -51,6 +52,14 @@
 
 
 ## Owen Points Log:
+2024-12-05 09:30:32.897627 \| Name Change \| Saanvi \| Changed To: Saanvi Chingireddy
+
+2024-12-05 09:30:09.663464 \| Edit Points \| Saanvi \| Change: 7 \| "Spun the wheel"
+
+2024-12-05 09:29:34.514202 \| Edit Points \| Emerson Hamp \| Change: 7 \| "Spun the wheel"
+
+2024-12-05 09:29:23.455444 \| Add \| Emerson Hamp
+
 2024-12-05 09:14:24.493764 \| Edit Points \| Aidan McGeever \| Change: 10 \| "Duos gambling wheel"
 
 2024-12-04 16:52:14.242639 \| Edit Points \| Mr. Yeats \| Change: 3 \| "Spun the wheel"
