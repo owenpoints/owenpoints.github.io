@@ -6,37 +6,37 @@
 |2.|Thomas Clancy|26|
 |3.|Owen Bridges|20|
 |4.|William Niemiec-Andorfer|14|
-|5.|Kimaya Joshi|10|
-|6.|James Henry Southern|9|
+|5.|Emerson Hamp|10|
+|6.|Kimaya Joshi|10|
 |7.|Saanvi Chingireddy|9|
-|8.|Emerson Hamp|7|
-|9.|Mr. Dixon|7|
+|8.|Mr. Dixon|7|
+|9.|Mr. Brown|5|
 |10.|Coach Bombard|5|
-|11.|Mr. Brown|5|
-|12.|Rosie|4|
-|13.|Owen Bridges' Iphone|4|
-|14.|Shurifin|4|
+|11.|Shurifin|4|
+|12.|Owen Bridges' Iphone|4|
+|13.|Rosie|4|
+|14.|Max Goldblatt|3|
 |15.|Isaiah|3|
-|16.|Max Goldblatt|3|
-|17.|Mr. Lee|1|
-|18.|Silas|1|
-|19.|Mrs. Davis|1|
+|16.|Mrs. Davis|1|
+|17.|Silas|1|
+|18.|Mr. Lee|1|
+|19.|Justin Ferrero|0|
 |20.|Koko|0|
-|21.|Justin Ferrero|0|
-|22.|Olivia|-1|
+|21.|Kaitlyn|-1|
+|22.|Thomas Clancy's airpods|-1|
 |23.|Peter Wazdin|-1|
-|24.|Thomas Clancy's airpods|-1|
-|25.|Kaitlyn|-1|
-|26.|Ben Ussery|-2|
-|27.|Aubrey Niemiec-Andorfer|-2|
-|28.|Mysterious OwenHater856|-2|
-|29.|Noam Kolt|-4|
+|24.|Olivia|-1|
+|25.|Mysterious OwenHater856|-2|
+|26.|Aubrey Niemiec-Andorfer|-2|
+|27.|Ben Ussery|-2|
+|28.|Mr. Yeats|-4|
+|29.|Mrs. Hart|-4|
 |30.|Katie Hanson|-4|
-|31.|Mrs. Hart|-4|
-|32.|Mr. Yeats|-4|
-|33.|Sharleen Wang|-5|
-|34.|Alec Aris|-9|
-|35.|Wasps|-10|
+|31.|Noam Kolt|-4|
+|32.|Sharleen Wang|-5|
+|33.|Alec Aris|-9|
+|34.|Wasps|-10|
+|35.|James Henry Southern|-11|
 |36.|Guy in library who took my seat|-11|
 |37.|Avery Jones|-17|
 |38.|Daniel Duke|-44|
@@ -52,6 +52,10 @@
 
 
 ## Owen Points Log:
+2024-12-06 09:24:57.642073 \| Edit Points \| James Henry Southern \| Change: -20 \| "Spun the wheel"
+
+2024-12-06 09:23:17.189013 \| Edit Points \| Emerson Hamp \| Change: 3 \| "Spun the wheel"
+
 2024-12-06 08:06:28.798592 \| Edit Points \| Alec Aris \| Change: 3 \| "EChess playoffs"
 
 2024-12-06 07:58:49.979571 \| Edit Points \| William Niemiec-Andorfer \| Change: 7 \| "Spun points wheel"
