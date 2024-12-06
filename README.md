@@ -35,9 +35,9 @@
 |31.|Mrs. Hart|-4|
 |32.|Mr. Yeats|-4|
 |33.|Sharleen Wang|-5|
-|34.|Wasps|-10|
-|35.|Guy in library who took my seat|-11|
-|36.|Alec Aris|-12|
+|34.|Alec Aris|-9|
+|35.|Wasps|-10|
+|36.|Guy in library who took my seat|-11|
 |37.|Avery Jones|-17|
 |38.|Daniel Duke|-44|
 |39.|Northview High School|-57|
@@ -52,6 +52,8 @@
 
 
 ## Owen Points Log:
+2024-12-06 08:06:28.798592 \| Edit Points \| Alec Aris \| Change: 3 \| "EChess playoffs"
+
 2024-12-06 07:58:49.979571 \| Edit Points \| William Niemiec-Andorfer \| Change: 7 \| "Spun points wheel"
 
 2024-12-06 07:55:44.069450 \| Edit Points \| Mrs. Davis \| Change: 3 \| "Points lottery"
