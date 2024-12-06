@@ -5,11 +5,11 @@
 |1.|Grace Pyon|80,000,000,025|
 |2.|Thomas Clancy|26|
 |3.|Owen Bridges|20|
-|4.|Kimaya Joshi|10|
-|5.|James Henry Southern|9|
-|6.|Saanvi Chingireddy|9|
-|7.|Emerson Hamp|7|
-|8.|William Niemiec-Andorfer|7|
+|4.|William Niemiec-Andorfer|14|
+|5.|Kimaya Joshi|10|
+|6.|James Henry Southern|9|
+|7.|Saanvi Chingireddy|9|
+|8.|Emerson Hamp|7|
 |9.|Mr. Dixon|7|
 |10.|Coach Bombard|5|
 |11.|Mr. Brown|5|
@@ -52,6 +52,8 @@
 
 
 ## Owen Points Log:
+2024-12-06 07:58:49.979571 \| Edit Points \| William Niemiec-Andorfer \| Change: 7 \| "Spun points wheel"
+
 2024-12-06 07:55:44.069450 \| Edit Points \| Mrs. Davis \| Change: 3 \| "Points lottery"
 
 2024-12-06 07:55:20.202524 \| Edit Points \| Coach Bombard \| Change: 3 \| "Points Lottery"
