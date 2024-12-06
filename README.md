@@ -4,30 +4,30 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,025|
 |2.|Thomas Clancy|26|
-|3.|Owen Bridges|17|
+|3.|Owen Bridges|20|
 |4.|Kimaya Joshi|10|
 |5.|James Henry Southern|9|
 |6.|Saanvi Chingireddy|9|
 |7.|Emerson Hamp|7|
 |8.|William Niemiec-Andorfer|7|
 |9.|Mr. Dixon|7|
-|10.|Mr. Brown|5|
-|11.|Rosie|4|
-|12.|Owen Bridges' Iphone|4|
-|13.|Shurifin|4|
-|14.|Isaiah|3|
-|15.|Max Goldblatt|3|
-|16.|Coach Bombard|2|
+|10.|Coach Bombard|5|
+|11.|Mr. Brown|5|
+|12.|Rosie|4|
+|13.|Owen Bridges' Iphone|4|
+|14.|Shurifin|4|
+|15.|Isaiah|3|
+|16.|Max Goldblatt|3|
 |17.|Mr. Lee|1|
 |18.|Silas|1|
-|19.|Koko|0|
-|20.|Justin Ferrero|0|
-|21.|Olivia|-1|
-|22.|Peter Wazdin|-1|
-|23.|Thomas Clancy's airpods|-1|
-|24.|Kaitlyn|-1|
-|25.|Ben Ussery|-2|
-|26.|Mrs. Davis|-2|
+|19.|Mrs. Davis|1|
+|20.|Koko|0|
+|21.|Justin Ferrero|0|
+|22.|Olivia|-1|
+|23.|Peter Wazdin|-1|
+|24.|Thomas Clancy's airpods|-1|
+|25.|Kaitlyn|-1|
+|26.|Ben Ussery|-2|
 |27.|Aubrey Niemiec-Andorfer|-2|
 |28.|Mysterious OwenHater856|-2|
 |29.|Noam Kolt|-4|
@@ -52,6 +52,12 @@
 
 
 ## Owen Points Log:
+2024-12-06 07:55:44.069450 \| Edit Points \| Mrs. Davis \| Change: 3 \| "Points lottery"
+
+2024-12-06 07:55:20.202524 \| Edit Points \| Coach Bombard \| Change: 3 \| "Points Lottery"
+
+2024-12-06 07:54:55.049665 \| Edit Points \| Owen Bridges \| Change: 3 \| "Points lottery"
+
 2024-12-05 21:43:46.318906 \| Edit Points \| Aidan McGeever \| Change: 3 \| "'Fork it over'"
 
 2024-12-05 21:43:31.455832 \| Edit Points \| Thomas Clancy \| Change: 4 \| "Othello Act 4 page one questions reveal"
