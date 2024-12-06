@@ -10,7 +10,7 @@
 |6.|Kimaya Joshi|10|
 |7.|Saanvi Chingireddy|9|
 |8.|Mr. Dixon|7|
-|9.|Mr. Brown|5|
+|9.|Mr. Brown|6|
 |10.|Coach Bombard|5|
 |11.|Shurifin|4|
 |12.|Owen Bridges' Iphone|4|
@@ -52,6 +52,8 @@
 
 
 ## Owen Points Log:
+2024-12-06 16:04:01.126046 \| Edit Points \| Mr. Brown \| Change: 1 \| "Showed me the dancing fairy"
+
 2024-12-06 12:44:42.109708 \| Edit Points \| Emerson Hamp \| Change: 5 \| "Appreciates me and my 'mad skills'"
 
 2024-12-06 12:43:13.089745 \| Edit Points \| Justin Ferrero \| Change: 2 \| "Max Goldblatt had more points than him"
