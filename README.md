@@ -17,10 +17,10 @@
 |13.|Rosie|4|
 |14.|Max Goldblatt|3|
 |15.|Isaiah|3|
-|16.|Mrs. Davis|1|
-|17.|Silas|1|
-|18.|Mr. Lee|1|
-|19.|Justin Ferrero|0|
+|16.|Justin Ferrero|2|
+|17.|Mrs. Davis|1|
+|18.|Silas|1|
+|19.|Mr. Lee|1|
 |20.|Koko|0|
 |21.|Kaitlyn|-1|
 |22.|Thomas Clancy's airpods|-1|
@@ -52,6 +52,8 @@
 
 
 ## Owen Points Log:
+2024-12-06 12:43:13.089745 \| Edit Points \| Justin Ferrero \| Change: 2 \| "Max Goldblatt had more points than him"
+
 2024-12-06 09:24:57.642073 \| Edit Points \| James Henry Southern \| Change: -20 \| "Spun the wheel"
 
 2024-12-06 09:23:17.189013 \| Edit Points \| Emerson Hamp \| Change: 3 \| "Spun the wheel"
