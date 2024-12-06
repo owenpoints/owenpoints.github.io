@@ -5,8 +5,8 @@
 |1.|Grace Pyon|80,000,000,025|
 |2.|Thomas Clancy|26|
 |3.|Owen Bridges|20|
-|4.|William Niemiec-Andorfer|14|
-|5.|Emerson Hamp|10|
+|4.|Emerson Hamp|15|
+|5.|William Niemiec-Andorfer|14|
 |6.|Kimaya Joshi|10|
 |7.|Saanvi Chingireddy|9|
 |8.|Mr. Dixon|7|
@@ -52,6 +52,8 @@
 
 
 ## Owen Points Log:
+2024-12-06 12:44:42.109708 \| Edit Points \| Emerson Hamp \| Change: 5 \| "Appreciates me and my 'mad skills'"
+
 2024-12-06 12:43:13.089745 \| Edit Points \| Justin Ferrero \| Change: 2 \| "Max Goldblatt had more points than him"
 
 2024-12-06 09:24:57.642073 \| Edit Points \| James Henry Southern \| Change: -20 \| "Spun the wheel"
