@@ -3,7 +3,7 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,025|
-|2.|Thomas Clancy|26|
+|2.|Thomas Clancy|25|
 |3.|Owen Bridges|20|
 |4.|Emerson Hamp|15|
 |5.|William Niemiec-Andorfer|14|
@@ -52,6 +52,8 @@
 
 
 ## Owen Points Log:
+2024-12-07 01:10:18.996215 \| Edit Points \| Thomas Clancy \| Change: -1 \| "Traded in Owen Point to shake my hand"
+
 2024-12-06 16:04:01.126046 \| Edit Points \| Mr. Brown \| Change: 1 \| "Showed me the dancing fairy"
 
 2024-12-06 12:44:42.109708 \| Edit Points \| Emerson Hamp \| Change: 5 \| "Appreciates me and my 'mad skills'"
