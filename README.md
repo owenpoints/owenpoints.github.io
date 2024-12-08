@@ -3,7 +3,7 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,025|
-|2.|Thomas Clancy|25|
+|2.|Thomas Clancy|28|
 |3.|Owen Bridges|20|
 |4.|Emerson Hamp|15|
 |5.|Kimaya Joshi|10|
@@ -52,6 +52,8 @@
 
 
 ## Owen Points Log:
+2024-12-08 14:43:54.919349 \| Edit Points \| Thomas Clancy \| Change: 3 \| "Called me based"
+
 2024-12-07 19:07:31.291277 \| Edit Points \| William Niemiec-Andorfer \| Change: -5 \| "Put $1 bounty on voting for 3 in esports dc server"
 
 2024-12-07 01:10:18.996215 \| Edit Points \| Thomas Clancy \| Change: -1 \| "Traded in Owen Point to shake my hand"
