@@ -6,8 +6,8 @@
 |2.|Thomas Clancy|25|
 |3.|Owen Bridges|20|
 |4.|Emerson Hamp|15|
-|5.|William Niemiec-Andorfer|14|
-|6.|Kimaya Joshi|10|
+|5.|Kimaya Joshi|10|
+|6.|William Niemiec-Andorfer|9|
 |7.|Saanvi Chingireddy|9|
 |8.|Mr. Dixon|7|
 |9.|Mr. Brown|6|
@@ -52,6 +52,8 @@
 
 
 ## Owen Points Log:
+2024-12-07 19:07:31.291277 \| Edit Points \| William Niemiec-Andorfer \| Change: -5 \| "Put $1 bounty on voting for 3 in esports dc server"
+
 2024-12-07 01:10:18.996215 \| Edit Points \| Thomas Clancy \| Change: -1 \| "Traded in Owen Point to shake my hand"
 
 2024-12-06 16:04:01.126046 \| Edit Points \| Mr. Brown \| Change: 1 \| "Showed me the dancing fairy"
