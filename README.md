@@ -3,12 +3,12 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,025|
-|2.|Thomas Clancy|28|
-|3.|Owen Bridges|20|
-|4.|Emerson Hamp|15|
-|5.|Kimaya Joshi|10|
-|6.|William Niemiec-Andorfer|9|
-|7.|Saanvi Chingireddy|9|
+|2.|Saanvi Chingireddy|29|
+|3.|Thomas Clancy|28|
+|4.|Owen Bridges|20|
+|5.|Emerson Hamp|14|
+|6.|Kimaya Joshi|10|
+|7.|William Niemiec-Andorfer|9|
 |8.|Mr. Dixon|7|
 |9.|Mr. Brown|6|
 |10.|Coach Bombard|5|
@@ -34,9 +34,9 @@
 |30.|Katie Hanson|-4|
 |31.|Noam Kolt|-4|
 |32.|Sharleen Wang|-5|
-|33.|Alec Aris|-9|
-|34.|Wasps|-10|
-|35.|James Henry Southern|-11|
+|33.|James Henry Southern|-8|
+|34.|Alec Aris|-9|
+|35.|Wasps|-10|
 |36.|Guy in library who took my seat|-11|
 |37.|Avery Jones|-17|
 |38.|Daniel Duke|-44|
@@ -52,6 +52,12 @@
 
 
 ## Owen Points Log:
+2024-12-09 09:26:36.189870 \| Edit Points \| Saanvi Chingireddy \| Change: 20 \| "Spun the wheel"
+
+2024-12-09 09:26:20.957420 \| Edit Points \| Emerson Hamp \| Change: -1 \| "Spun the wheel"
+
+2024-12-09 09:26:11.045592 \| Edit Points \| James Henry Southern \| Change: 3 \| "Spun the wheel"
+
 2024-12-08 14:43:54.919349 \| Edit Points \| Thomas Clancy \| Change: 3 \| "Called me based"
 
 2024-12-07 19:07:31.291277 \| Edit Points \| William Niemiec-Andorfer \| Change: -5 \| "Put $1 bounty on voting for 3 in esports dc server"
