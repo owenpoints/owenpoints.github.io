@@ -2,37 +2,37 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|80,000,000,025|
+|1.|Grace Pyon|80,000,000,035|
 |2.|Saanvi Chingireddy|29|
 |3.|Thomas Clancy|28|
-|4.|Owen Bridges|20|
-|5.|Emerson Hamp|14|
-|6.|Kimaya Joshi|10|
-|7.|William Niemiec-Andorfer|9|
-|8.|Mr. Dixon|7|
-|9.|Mr. Brown|6|
+|4.|Mr. Brown|21|
+|5.|Owen Bridges|20|
+|6.|Emerson Hamp|14|
+|7.|Kimaya Joshi|10|
+|8.|William Niemiec-Andorfer|9|
+|9.|Mr. Dixon|7|
 |10.|Coach Bombard|5|
-|11.|Shurifin|4|
+|11.|Rosie|4|
 |12.|Owen Bridges' Iphone|4|
-|13.|Rosie|4|
-|14.|Max Goldblatt|3|
-|15.|Isaiah|3|
+|13.|Shurifin|4|
+|14.|Isaiah|3|
+|15.|Max Goldblatt|3|
 |16.|Justin Ferrero|2|
-|17.|Mrs. Davis|1|
+|17.|Mr. Lee|1|
 |18.|Silas|1|
-|19.|Mr. Lee|1|
+|19.|Mrs. Davis|1|
 |20.|Koko|0|
-|21.|Kaitlyn|-1|
-|22.|Thomas Clancy's airpods|-1|
-|23.|Peter Wazdin|-1|
-|24.|Olivia|-1|
-|25.|Mysterious OwenHater856|-2|
+|21.|Olivia|-1|
+|22.|Peter Wazdin|-1|
+|23.|Thomas Clancy's airpods|-1|
+|24.|Kaitlyn|-1|
+|25.|Ben Ussery|-2|
 |26.|Aubrey Niemiec-Andorfer|-2|
-|27.|Ben Ussery|-2|
-|28.|Mr. Yeats|-4|
-|29.|Mrs. Hart|-4|
-|30.|Katie Hanson|-4|
-|31.|Noam Kolt|-4|
+|27.|Mysterious OwenHater856|-2|
+|28.|Noam Kolt|-4|
+|29.|Katie Hanson|-4|
+|30.|Mrs. Hart|-4|
+|31.|Mr. Yeats|-4|
 |32.|Sharleen Wang|-5|
 |33.|James Henry Southern|-8|
 |34.|Alec Aris|-9|
@@ -52,6 +52,10 @@
 
 
 ## Owen Points Log:
+2024-12-09 12:03:08.764058 \| Edit Points \| Mr. Brown \| Change: 15 \| "Rigged nhs esports jersey election in my favor"
+
+2024-12-09 12:00:34.465949 \| Edit Points \| Grace Pyon \| Change: 10 \| "Bought me pony island"
+
 2024-12-09 09:26:36.189870 \| Edit Points \| Saanvi Chingireddy \| Change: 20 \| "Spun the wheel"
 
 2024-12-09 09:26:20.957420 \| Edit Points \| Emerson Hamp \| Change: -1 \| "Spun the wheel"
