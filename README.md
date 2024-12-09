@@ -8,8 +8,8 @@
 |4.|Mr. Brown|21|
 |5.|Owen Bridges|20|
 |6.|Emerson Hamp|14|
-|7.|Kimaya Joshi|10|
-|8.|William Niemiec-Andorfer|9|
+|7.|William Niemiec-Andorfer|12|
+|8.|Kimaya Joshi|10|
 |9.|Mr. Dixon|7|
 |10.|Coach Bombard|5|
 |11.|Rosie|4|
@@ -37,8 +37,8 @@
 |33.|James Henry Southern|-8|
 |34.|Alec Aris|-9|
 |35.|Wasps|-10|
-|36.|Guy in library who took my seat|-11|
-|37.|Avery Jones|-17|
+|36.|Avery Jones|-10|
+|37.|Guy in library who took my seat|-11|
 |38.|Daniel Duke|-44|
 |39.|Northview High School|-57|
 |40.|Aidan McGeever|-62|
@@ -52,6 +52,12 @@
 
 
 ## Owen Points Log:
+2024-12-09 18:23:00.338607 \| Edit Points \| Avery Jones \| Change: 4 \| "Compensation for brutally assaulting him on the streets"
+
+2024-12-09 18:21:55.800691 \| Edit Points \| William Niemiec-Andorfer \| Change: 3 \| "Jersey election redemption arc"
+
+2024-12-09 18:20:50.843976 \| Edit Points \| Avery Jones \| Change: 3 \| "'if my jersey doesn't have a hot content caution symbol on it I won't want it"
+
 2024-12-09 12:05:47.065501 \| Edit Points \| Aidan McGeever \| Change: 15 \| "Fixed William N-A's umbrella"
 
 2024-12-09 12:03:08.764058 \| Edit Points \| Mr. Brown \| Change: 15 \| "Rigged nhs esports jersey election in my favor"
