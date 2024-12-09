@@ -41,7 +41,7 @@
 |37.|Avery Jones|-17|
 |38.|Daniel Duke|-44|
 |39.|Northview High School|-57|
-|40.|Aidan McGeever|-77|
+|40.|Aidan McGeever|-62|
 |41.|Mr. Martin|-9,223,372,036,854,776,847|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
@@ -52,6 +52,8 @@
 
 
 ## Owen Points Log:
+2024-12-09 12:05:47.065501 \| Edit Points \| Aidan McGeever \| Change: 15 \| "Fixed William N-A's umbrella"
+
 2024-12-09 12:03:08.764058 \| Edit Points \| Mr. Brown \| Change: 15 \| "Rigged nhs esports jersey election in my favor"
 
 2024-12-09 12:00:34.465949 \| Edit Points \| Grace Pyon \| Change: 10 \| "Bought me pony island"
