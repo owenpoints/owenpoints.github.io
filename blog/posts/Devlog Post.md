@@ -1,4 +1,6 @@
 # Devlog Post
+2024-12-09 23:34:10.347586 \| Owen Bridges \| Rehauled points editing client to use a more traditional command system
+
 2024-11-29 21:12:12.028346 \| Owen Bridges \| Fixed init.bat for real this time 🙏🙏🙏
 
 2024-11-29 20:31:25.775220 \| Owen Bridges \| Moved bat files to run folder to avoid dealing with clutter in root folder when running code

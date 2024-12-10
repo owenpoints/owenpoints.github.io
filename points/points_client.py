@@ -50,83 +50,144 @@ store = better_open('./points/store.txt', 'r')
 
 scores = ast.literal_eval(store.read())
 
+error_message = ''
+
 while True:
+
+    os.system("cls")
 
     scores = dict(sorted(scores.items(), key=lambda item: item[1]))
     scores = {k: scores[k] for k in reversed(scores)}
     
     for i in scores:
+
         print(i, ":", scores[i])
-
-    options = ("edit", "add", "namechange", "remove", "exit")
-    while True:
-        choice = input(f"Input operation {options}: ").strip()
-        if choice in options:
-            break
-        print("Enter valid option.")
-
-    if choice == "exit":
-        break
-    elif choice == "remove":
-
-        while True:
-            remove_choice = input("Input person to remove: ")
-            if remove_choice in scores:
-                break
-            print("Enter Valid option.")
-
-        scores.pop(remove_choice)
-        
-        send_to_log(f'{datetime.datetime.now()} \| Remove \| {remove_choice}')
-
-    elif choice == "add":
-
-        while True:
-            name = input("Input name to add: ")
-            if name not in scores:
-                break
-            print("Person already exists.")
-        
-        scores[name] = 0
-        send_to_log(f'{datetime.datetime.now()} \| Add \| {name}')
-    elif choice == "edit":
-
-        while True:
-            edit_choice = input("Input person to edit: ")
-            if edit_choice in scores:
-                break
-            print("Person does not exist.")
-
-        while True:
-            increment = input("Input points to change by: ").strip()
-            try:
-                increment = int(increment)
-                break
-            except ValueError:
-                print("Enter an integer.")
-
-        reason = input("Input reason: ")
-
-        scores[edit_choice] += increment
-
-        send_to_log(f'{datetime.datetime.now()} \| Edit Points \| {edit_choice} \| Change: {pretty_num(increment)} \| "{reason}"')
-    elif choice == "namechange":
-
-        while True:
-            old_name = input("Input person to name change: ")
-            if old_name in scores:
-                break
-            print("Person does not exist.")
-
-        new_name = input("Input new name: ")
-
-        scores[new_name] = scores[old_name]
-        scores.pop(old_name)
-
-        send_to_log(f'{datetime.datetime.now()} \| Name Change \| {old_name} \| Changed To: {new_name}')
-
     
-    os.system("cls")
+    if error_message:
+
+        print(f"\n!! {error_message} !!\n")
+
+        error_message = ""
+
+    options = ("edit", "add", "namechange", "remove", "help", "exit")
+    
+    raw_choice = input(f"Input operation {options}: ").strip()
+    operation = raw_choice.split()[0]
+    arguments = [item.strip() for item in raw_choice.split('"') if item and item != " "]
+    arguments.pop(0)
+ 
+    if operation not in options:
+
+        error_message = "Enter valid operation."
+
+        continue
+
+    if operation == "exit":
+
+        break
+
+    elif operation == "remove":
+
+        if len(arguments) != 1:
+
+            error_message = "Invalid command arguments, type help for help."
+        
+            continue
+
+        if arguments[0] not in scores:
+
+            error_message = "Person does not exist."
+
+            continue
+
+        scores.pop(arguments[0])
+        
+        send_to_log(f'{datetime.datetime.now()} \| Remove \| {arguments[0]}')
+
+    elif operation == "add":
+
+        if len(arguments) != 1:
+
+            error_message = "Invalid command arguments, type help for help."
+
+            continue
+
+
+        if arguments[0] in scores:
+
+            error_message = "Person already exists."
+            
+            continue
+        
+        
+        scores[arguments[0]] = 0
+        
+        send_to_log(f'{datetime.datetime.now()} \| Add \| {arguments[0]}')
+
+    elif operation == "edit":
+
+        if len(arguments) != 3:
+
+            error_message = "Invalid command arguments, type help for help."
+        
+            continue
+
+
+        if arguments[0] not in scores:
+    
+            error_message = "Person does not exist."
+
+            continue
+
+        try:
+            
+            arguments[1] = int(arguments[1].strip())
+        
+        except ValueError:
+            
+            error_message = "Input integer for points increment."
+
+            continue
+
+        scores[arguments[0]] += arguments[1]
+
+        send_to_log(f'{datetime.datetime.now()} \| Edit Points \| {arguments[0]} \| Change: {pretty_num(arguments[1])} \| "{arguments[2]}"')
+
+    elif operation == "namechange":
+
+        if len(arguments) != 2:
+
+            error_message = "Invalid command arguments, type help for help."
+        
+            continue
+
+        if arguments[0] not in scores:
+            
+            error_message = "Person does not exist."
+
+            continue
+
+        if arguments[1] in scores:
+
+            error_message = "Person already exists."
+
+            continue
+
+        scores[arguments[1]] = scores[arguments[0]]
+        scores.pop(arguments[0])
+
+        send_to_log(f'{datetime.datetime.now()} \| Name Change \| {arguments[0]} \| Changed To: {arguments[1]}')
+
+    elif operation == "help":
+
+        print('\nOperation: edit , Syntax: edit "name" increment "reason" , Description: Edit points of existing people.')
+        print('Operation: add , Syntax: add "name" , Description: Add people to leaderboards.')
+        print('Operation: namechange , Syntax: namechange "old name" "new name" , Description: Edit names of existing people.')
+        print('Operation: remove , Syntax: remove "name" , Description: Remove people from leaderboards.')
+        print('Operation: help , Syntax: help , Description: Access this help message.')
+        print('Operation: exit , Syntax: exit , Description: Exit the program.\n')
+
+        os.system("pause")
 
 output(scores)
 save(scores)
