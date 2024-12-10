@@ -4,4 +4,4 @@ cd ..\
 
 python3 -m points.points_client
 
-push.bat
+echo Automated Site Content Update | push.bat
