@@ -12,32 +12,32 @@
 |8.|Kimaya Joshi|10|
 |9.|Mr. Dixon|7|
 |10.|Coach Bombard|5|
-|11.|Rosie|4|
+|11.|Shurifin|4|
 |12.|Owen Bridges' Iphone|4|
-|13.|Shurifin|4|
-|14.|Isaiah|3|
-|15.|Max Goldblatt|3|
+|13.|Rosie|4|
+|14.|Max Goldblatt|3|
+|15.|Isaiah|3|
 |16.|Justin Ferrero|2|
-|17.|Mr. Lee|1|
+|17.|Silas Weiler|1|
 |18.|Mrs. Davis|1|
-|19.|Silas Weiler|1|
+|19.|Mr. Lee|1|
 |20.|Koko|0|
-|21.|Olivia|-1|
+|21.|Kaitlyn|-1|
 |22.|Peter Wazdin|-1|
-|23.|Thomas Clancy's airpods|-1|
-|24.|Kaitlyn|-1|
-|25.|Ben Ussery|-2|
+|23.|Olivia|-1|
+|24.|Thomas Clancy's Airpods|-2|
+|25.|Mysterious OwenHater856|-2|
 |26.|Aubrey Niemiec-Andorfer|-2|
-|27.|Mysterious OwenHater856|-2|
-|28.|Noam Kolt|-4|
-|29.|Katie Hanson|-4|
-|30.|Mrs. Hart|-4|
-|31.|Mr. Yeats|-4|
+|27.|Ben Ussery|-2|
+|28.|Mr. Yeats|-4|
+|29.|Mrs. Hart|-4|
+|30.|Katie Hanson|-4|
+|31.|Noam Kolt|-4|
 |32.|Sharleen Wang|-5|
 |33.|James Henry Southern|-8|
 |34.|Alec Aris|-9|
-|35.|Wasps|-10|
-|36.|Avery Jones|-10|
+|35.|Avery Jones|-10|
+|36.|Wasps|-10|
 |37.|Guy in library who took my seat|-11|
 |38.|Daniel Duke|-44|
 |39.|Northview High School|-57|
@@ -52,6 +52,10 @@
 
 
 ## Owen Points Log:
+2024-12-09 21:56:20.998830 \| Edit Points \| Thomas Clancy's Airpods \| Change: -1 \| "Still missing"
+
+2024-12-09 21:55:58.281253 \| Name Change \| Thomas Clancy's airpods \| Changed To: Thomas Clancy's Airpods
+
 2024-12-09 20:08:41.336790 \| Name Change \| Silas \| Changed To: Silas Weiler
 
 2024-12-09 18:23:00.338607 \| Edit Points \| Avery Jones \| Change: 4 \| "Compensation for brutally assaulting him on the streets"
