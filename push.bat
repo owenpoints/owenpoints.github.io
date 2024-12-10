@@ -1,6 +1,6 @@
 set /p commit_message=""
 
-echo MODE: %commit_message%
+echo MODE: "%commit_message%"
 
 git add .
 
