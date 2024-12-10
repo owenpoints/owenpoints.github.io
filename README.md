@@ -3,8 +3,8 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,035|
-|2.|Saanvi Chingireddy|49|
-|3.|Thomas Clancy|30|
+|2.|Thomas Clancy|50|
+|3.|Saanvi Chingireddy|49|
 |4.|Emerson Hamp|22|
 |5.|Mr. Brown|21|
 |6.|Owen Bridges|20|
@@ -52,6 +52,8 @@
 
 
 ## Owen Points Log:
+2024-12-10 13:35:05.280539 \| Edit Points \| Thomas Clancy \| Change: 20 \| "Spun the wheel"
+
 2024-12-10 12:44:57.022354 \| Edit Points \| Emerson Hamp \| Change: 5 \| "Appreciating me 🥹🥹🥹"
 
 2024-12-10 09:27:28.771160 \| Edit Points \| James Henry Southern \| Change: 3 \| "Spun the wheel"
