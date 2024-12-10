@@ -1,4 +1,6 @@
 # Devlog Post
+2024-12-10 12:40:33.108363 \| Owen Bridges \| Added unreferenced wheel.html to root folder to make accessing gambling wheels easier
+
 2024-12-10 08:45:46.078203 \| Owen Bridges \| Added MODE: message to push files for debugging purposes
 
 2024-12-10 08:41:34.266772 \| Owen Bridges \| Made devlog.bat run dev_push.bat instead of push.bat when pushing changes to github
