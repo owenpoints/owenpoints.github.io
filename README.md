@@ -19,8 +19,8 @@
 |15.|Max Goldblatt|3|
 |16.|Justin Ferrero|2|
 |17.|Mr. Lee|1|
-|18.|Silas|1|
-|19.|Mrs. Davis|1|
+|18.|Mrs. Davis|1|
+|19.|Silas Weiler|1|
 |20.|Koko|0|
 |21.|Olivia|-1|
 |22.|Peter Wazdin|-1|
@@ -52,6 +52,8 @@
 
 
 ## Owen Points Log:
+2024-12-09 20:08:41.336790 \| Name Change \| Silas \| Changed To: Silas Weiler
+
 2024-12-09 18:23:00.338607 \| Edit Points \| Avery Jones \| Change: 4 \| "Compensation for brutally assaulting him on the streets"
 
 2024-12-09 18:21:55.800691 \| Edit Points \| William Niemiec-Andorfer \| Change: 3 \| "Jersey election redemption arc"
