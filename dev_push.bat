@@ -1,6 +1,6 @@
 git add .
 
-git commit -m "Code Update"
+git commit -m "Codebase Update"
 
 git push -f
 
