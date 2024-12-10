@@ -3,11 +3,11 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,035|
-|2.|Thomas Clancy|30|
-|3.|Saanvi Chingireddy|29|
+|2.|Saanvi Chingireddy|49|
+|3.|Thomas Clancy|30|
 |4.|Mr. Brown|21|
 |5.|Owen Bridges|20|
-|6.|Emerson Hamp|14|
+|6.|Emerson Hamp|17|
 |7.|William Niemiec-Andorfer|12|
 |8.|Kimaya Joshi|10|
 |9.|Mr. Dixon|7|
@@ -34,7 +34,7 @@
 |30.|Mrs. Hart|-4|
 |31.|Mr. Yeats|-4|
 |32.|Sharleen Wang|-5|
-|33.|James Henry Southern|-8|
+|33.|James Henry Southern|-5|
 |34.|Alec Aris|-9|
 |35.|Wasps|-10|
 |36.|Avery Jones|-10|
@@ -52,6 +52,12 @@
 
 
 ## Owen Points Log:
+2024-12-10 09:27:28.771160 \| Edit Points \| James Henry Southern \| Change: 3 \| "Spun the wheel"
+
+2024-12-10 09:26:07.310355 \| Edit Points \| Saanvi Chingireddy \| Change: 20 \| "Spun the wheel"
+
+2024-12-10 09:24:53.793274 \| Edit Points \| Emerson Hamp \| Change: 3 \| "Spun the wheel"
+
 2024-12-10 08:53:41.297461 \| Edit Points \| Thomas Clancy \| Change: 2 \| "Did William N-A's part of the work in the Othello quote analysis"
 
 2024-12-09 21:56:20.998830 \| Edit Points \| Thomas Clancy's Airpods \| Change: -1 \| "Still missing"

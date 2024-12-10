@@ -4,4 +4,4 @@ cd ..\
 
 python3 -m blog.blog_client
 
-push.bat
+call push.bat "Blog Update"
