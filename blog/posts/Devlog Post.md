@@ -1,4 +1,6 @@
 # Devlog Post
+2024-12-10 08:37:52.129246 \| Owen Bridges \| Renamed devlog.py to devlog_client.py to be more consistent with other files
+
 2024-12-09 23:34:10.347586 \| Owen Bridges \| Rehauled points editing client to use a more traditional command system
 
 2024-11-29 21:12:12.028346 \| Owen Bridges \| Fixed init.bat for real this time 🙏🙏🙏
