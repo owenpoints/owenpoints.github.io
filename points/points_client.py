@@ -6,6 +6,7 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'assets'))
 from assets import *
 
 def send_to_log(message):
+
     log = better_open('./points/log.txt', 'r')
     content = log.read()
     log.close()
@@ -40,6 +41,7 @@ def output(store):
     file.close()
     
 def save(store):
+    
     file = better_open('./points/store.txt', 'w')
 
     file.write(str(store))
