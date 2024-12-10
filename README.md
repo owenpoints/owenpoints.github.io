@@ -5,9 +5,9 @@
 |1.|Grace Pyon|80,000,000,035|
 |2.|Saanvi Chingireddy|49|
 |3.|Thomas Clancy|30|
-|4.|Mr. Brown|21|
-|5.|Owen Bridges|20|
-|6.|Emerson Hamp|17|
+|4.|Emerson Hamp|22|
+|5.|Mr. Brown|21|
+|6.|Owen Bridges|20|
 |7.|William Niemiec-Andorfer|12|
 |8.|Kimaya Joshi|10|
 |9.|Mr. Dixon|7|
@@ -52,6 +52,8 @@
 
 
 ## Owen Points Log:
+2024-12-10 12:44:57.022354 \| Edit Points \| Emerson Hamp \| Change: 5 \| "Appreciating me 🥹🥹🥹"
+
 2024-12-10 09:27:28.771160 \| Edit Points \| James Henry Southern \| Change: 3 \| "Spun the wheel"
 
 2024-12-10 09:26:07.310355 \| Edit Points \| Saanvi Chingireddy \| Change: 20 \| "Spun the wheel"
