@@ -1,4 +1,6 @@
 # Devlog Post
+2024-12-10 08:45:46.078203 \| Owen Bridges \| Added MODE: message to push files for debugging purposes
+
 2024-12-10 08:41:34.266772 \| Owen Bridges \| Made devlog.bat run dev_push.bat instead of push.bat when pushing changes to github
 
 2024-12-10 08:37:52.129246 \| Owen Bridges \| Renamed devlog.py to devlog_client.py to be more consistent with other files
