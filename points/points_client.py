@@ -71,7 +71,7 @@ while True:
 
         error_message = ""
 
-    options = ("edit", "add", "namechange", "remove", "help", "exit")
+    options = ("edit", "add", "namechange", "remove", "transfer", "help", "exit")
     
     raw_choice = input(f"Input operation {options}: ").strip()
     operation = raw_choice.split()[0]
@@ -155,6 +155,35 @@ while True:
 
         send_to_log(f'{datetime.datetime.now()} \| Edit Points \| {arguments[0]} \| Change: {pretty_num(arguments[1])} \| "{arguments[2]}"')
 
+    elif operation == "transfer":
+
+        if len(arguments) != 4:
+
+            error_message = "Invalid command arguments, type help for help."
+        
+            continue
+
+        if not (arguments[0] in scores and arguments[1] in scores):
+    
+            error_message = "Person does not exist."
+
+            continue
+
+        try:
+            
+            arguments[2] = int(arguments[2].strip())
+        
+        except ValueError:
+            
+            error_message = "Input integer for points transfer."
+
+            continue
+
+        scores[arguments[0]] -= arguments[2]
+        scores[arguments[1]] += arguments[2]
+
+        send_to_log(f'{datetime.datetime.now()} \| Points Transfer \| {arguments[0]} to {arguments[1]} \| Amount: {pretty_num(arguments[2])} \| "{arguments[3]}"')
+
     elif operation == "namechange":
 
         if len(arguments) != 2:
@@ -180,12 +209,14 @@ while True:
 
         send_to_log(f'{datetime.datetime.now()} \| Name Change \| {arguments[0]} \| Changed To: {arguments[1]}')
 
+
     elif operation == "help":
 
         print('\nOperation: edit , Syntax: edit "name" increment "reason" , Description: Edit points of existing people.')
         print('Operation: add , Syntax: add "name" , Description: Add people to leaderboards.')
         print('Operation: namechange , Syntax: namechange "old name" "new name" , Description: Edit names of existing people.')
         print('Operation: remove , Syntax: remove "name" , Description: Remove people from leaderboards.')
+        print('Operation: transfer , Syntax: transfer "sender" "recipient" amount "reason" , Description: Transfer points between people.')
         print('Operation: help , Syntax: help , Description: Access this help message.')
         print('Operation: exit , Syntax: exit , Description: Exit the program.\n')
 
