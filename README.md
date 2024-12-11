@@ -5,39 +5,39 @@
 |1.|Grace Pyon|80,000,000,035|
 |2.|Thomas Clancy|60|
 |3.|Saanvi Chingireddy|50|
-|4.|Emerson Hamp|21|
-|5.|Mr. Brown|21|
+|4.|Mr. Brown|21|
+|5.|Emerson Hamp|21|
 |6.|Owen Bridges|20|
-|7.|William Niemiec-Andorfer|10|
-|8.|Kimaya Joshi|10|
+|7.|Kimaya Joshi|10|
+|8.|William Niemiec-Andorfer|10|
 |9.|Mr. Dixon|7|
 |10.|Coach Bombard|5|
-|11.|Shurifin|4|
+|11.|Rosie|4|
 |12.|Owen Bridges' Iphone|4|
-|13.|Rosie|4|
-|14.|Max Goldblatt|3|
-|15.|Isaiah|3|
+|13.|Shurifin|4|
+|14.|Isaiah|3|
+|15.|Max Goldblatt|3|
 |16.|Justin Ferrero|2|
-|17.|Silas Weiler|1|
+|17.|Mr. Lee|1|
 |18.|Mrs. Davis|1|
-|19.|Mr. Lee|1|
+|19.|Silas Weiler|1|
 |20.|Koko|0|
-|21.|Kaitlyn|-1|
-|22.|Peter Wazdin|-1|
-|23.|Olivia|-1|
-|24.|Avery Jones|-1|
-|25.|Thomas Clancy's Airpods|-2|
-|26.|Mysterious OwenHater856|-2|
-|27.|Aubrey Niemiec-Andorfer|-2|
-|28.|Ben Ussery|-2|
-|29.|Mr. Yeats|-4|
-|30.|Mrs. Hart|-4|
-|31.|Katie Hanson|-4|
-|32.|Noam Kolt|-4|
+|21.|Avery Jones|-1|
+|22.|Olivia|-1|
+|23.|Peter Wazdin|-1|
+|24.|Kaitlyn|-1|
+|25.|Ben Ussery|-2|
+|26.|Aubrey Niemiec-Andorfer|-2|
+|27.|Mysterious OwenHater856|-2|
+|28.|Thomas Clancy's Airpods|-2|
+|29.|Noam Kolt|-4|
+|30.|Katie Hanson|-4|
+|31.|Mrs. Hart|-4|
+|32.|Mr. Yeats|-4|
 |33.|Sharleen Wang|-5|
 |34.|Alec Aris|-9|
-|35.|James Henry Southern|-10|
-|36.|Wasps|-10|
+|35.|Wasps|-10|
+|36.|James Henry Southern|-10|
 |37.|Guy in library who took my seat|-11|
 |38.|Daniel Duke|-49|
 |39.|Aidan McGeever|-53|
