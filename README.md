@@ -2,12 +2,12 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|80,000,000,035|
+|1.|Grace Pyon|80,000,000,004|
 |2.|Thomas Clancy|60|
-|3.|Saanvi Chingireddy|50|
-|4.|Mr. Brown|21|
-|5.|Emerson Hamp|21|
-|6.|Owen Bridges|20|
+|3.|Owen Bridges|51|
+|4.|Saanvi Chingireddy|50|
+|5.|Mr. Brown|21|
+|6.|Emerson Hamp|21|
 |7.|Kimaya Joshi|10|
 |8.|William Niemiec-Andorfer|10|
 |9.|Mr. Dixon|7|
@@ -53,6 +53,8 @@
 
 
 ## Owen Points Log:
+2024-12-11 14:06:41.268965 \| Points Transfer \| Grace Pyon to Owen Bridges \| Amount: 31 \| "I haven o clue 😼😼😼"
+
 2024-12-11 09:26:50.847569 \| Edit Points \| Emerson Hamp \| Change: -1 \| "Spun the wheel"
 
 2024-12-11 09:26:20.257396 \| Edit Points \| Saanvi Chingireddy \| Change: 1 \| "Spun the wheel"
