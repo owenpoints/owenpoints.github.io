@@ -1,4 +1,6 @@
 # Devlog Post
+2024-12-11 08:54:40.206068 \| Owen Bridges \| Added duos gambling wheel to hidden wheel file
+
 2024-12-11 08:47:41.309024 \| Owen Bridges \| Updated wheel html
 
 2024-12-11 08:44:07.930219 \| Owen Bridges \| Rebalanced wheel
