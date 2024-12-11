@@ -4,8 +4,8 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,035|
 |2.|Thomas Clancy|60|
-|3.|Saanvi Chingireddy|49|
-|4.|Emerson Hamp|22|
+|3.|Saanvi Chingireddy|50|
+|4.|Emerson Hamp|21|
 |5.|Mr. Brown|21|
 |6.|Owen Bridges|20|
 |7.|William Niemiec-Andorfer|10|
@@ -34,9 +34,9 @@
 |30.|Mrs. Hart|-4|
 |31.|Katie Hanson|-4|
 |32.|Noam Kolt|-4|
-|33.|James Henry Southern|-5|
-|34.|Sharleen Wang|-5|
-|35.|Alec Aris|-9|
+|33.|Sharleen Wang|-5|
+|34.|Alec Aris|-9|
+|35.|James Henry Southern|-10|
 |36.|Wasps|-10|
 |37.|Guy in library who took my seat|-11|
 |38.|Daniel Duke|-49|
@@ -53,6 +53,12 @@
 
 
 ## Owen Points Log:
+2024-12-11 09:26:50.847569 \| Edit Points \| Emerson Hamp \| Change: -1 \| "Spun the wheel"
+
+2024-12-11 09:26:20.257396 \| Edit Points \| Saanvi Chingireddy \| Change: 1 \| "Spun the wheel"
+
+2024-12-11 09:26:10.464804 \| Edit Points \| James Henry Southern \| Change: -5 \| "Spun the wheel"
+
 2024-12-11 09:04:14.070388 \| Edit Points \| Aidan McGeever \| Change: 5 \| "Spun the wheel"
 
 2024-12-11 09:01:42.414017 \| Edit Points \| William Niemiec-Andorfer \| Change: -2 \| "Spun the wheel"
