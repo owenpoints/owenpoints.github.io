@@ -2,7 +2,7 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|80,000,000,004|
+|1.|Grace Pyon|79,999,999,984|
 |2.|Thomas Clancy|60|
 |3.|Owen Bridges|51|
 |4.|Saanvi Chingireddy|50|
@@ -39,8 +39,8 @@
 |35.|Wasps|-10|
 |36.|James Henry Southern|-10|
 |37.|Guy in library who took my seat|-11|
-|38.|Daniel Duke|-49|
-|39.|Aidan McGeever|-53|
+|38.|Aidan McGeever|-33|
+|39.|Daniel Duke|-49|
 |40.|Northview High School|-57|
 |41.|godfearingman499|-499|
 |42.|Mr. Martin|-9,223,372,036,854,776,847|
@@ -53,6 +53,8 @@
 
 
 ## Owen Points Log:
+2024-12-11 16:55:20.782187 \| Points Transfer \| Grace Pyon to Aidan McGeever \| Amount: 20 \| "Pity points"
+
 2024-12-11 14:06:41.268965 \| Points Transfer \| Grace Pyon to Owen Bridges \| Amount: 31 \| "I haven o clue 😼😼😼"
 
 2024-12-11 09:26:50.847569 \| Edit Points \| Emerson Hamp \| Change: -1 \| "Spun the wheel"
