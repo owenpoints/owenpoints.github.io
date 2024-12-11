@@ -40,8 +40,8 @@
 |36.|Wasps|-10|
 |37.|Guy in library who took my seat|-11|
 |38.|Daniel Duke|-49|
-|39.|Northview High School|-57|
-|40.|Aidan McGeever|-58|
+|39.|Aidan McGeever|-53|
+|40.|Northview High School|-57|
 |41.|godfearingman499|-499|
 |42.|Mr. Martin|-9,223,372,036,854,776,847|
 
@@ -53,6 +53,8 @@
 
 
 ## Owen Points Log:
+2024-12-11 09:04:14.070388 \| Edit Points \| Aidan McGeever \| Change: 5 \| "Spun the wheel"
+
 2024-12-11 09:01:42.414017 \| Edit Points \| William Niemiec-Andorfer \| Change: -2 \| "Spun the wheel"
 
 2024-12-11 08:53:01.154682 \| Edit Points \| Aidan McGeever \| Change: 4 \| "My glorious sigma"
