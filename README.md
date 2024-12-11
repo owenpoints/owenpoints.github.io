@@ -12,37 +12,37 @@
 |8.|Kimaya Joshi|10|
 |9.|Mr. Dixon|7|
 |10.|Coach Bombard|5|
-|11.|Rosie|4|
+|11.|Shurifin|4|
 |12.|Owen Bridges' Iphone|4|
-|13.|Shurifin|4|
-|14.|Isaiah|3|
-|15.|Max Goldblatt|3|
+|13.|Rosie|4|
+|14.|Max Goldblatt|3|
+|15.|Isaiah|3|
 |16.|Justin Ferrero|2|
-|17.|Mr. Lee|1|
+|17.|Silas Weiler|1|
 |18.|Mrs. Davis|1|
-|19.|Silas Weiler|1|
+|19.|Mr. Lee|1|
 |20.|Koko|0|
-|21.|Avery Jones|-1|
-|22.|Olivia|-1|
-|23.|Peter Wazdin|-1|
-|24.|Kaitlyn|-1|
-|25.|Ben Ussery|-2|
-|26.|Aubrey Niemiec-Andorfer|-2|
-|27.|Mysterious OwenHater856|-2|
-|28.|Thomas Clancy's Airpods|-2|
-|29.|Noam Kolt|-4|
-|30.|Katie Hanson|-4|
-|31.|Mrs. Hart|-4|
-|32.|Mr. Yeats|-4|
-|33.|Sharleen Wang|-5|
-|34.|James Henry Southern|-5|
+|21.|Kaitlyn|-1|
+|22.|Peter Wazdin|-1|
+|23.|Olivia|-1|
+|24.|Avery Jones|-1|
+|25.|Thomas Clancy's Airpods|-2|
+|26.|Mysterious OwenHater856|-2|
+|27.|Aubrey Niemiec-Andorfer|-2|
+|28.|Ben Ussery|-2|
+|29.|Mr. Yeats|-4|
+|30.|Mrs. Hart|-4|
+|31.|Katie Hanson|-4|
+|32.|Noam Kolt|-4|
+|33.|James Henry Southern|-5|
+|34.|Sharleen Wang|-5|
 |35.|Alec Aris|-9|
 |36.|Wasps|-10|
 |37.|Guy in library who took my seat|-11|
 |38.|Daniel Duke|-49|
 |39.|Northview High School|-57|
 |40.|Aidan McGeever|-62|
-|41.|God Fearing Man|-499|
+|41.|GodFearingMan499|-499|
 |42.|Mr. Martin|-9,223,372,036,854,776,847|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
@@ -53,11 +53,11 @@
 
 
 ## Owen Points Log:
-2024-12-11 08:36:41.120051 \| Edit Points \| Thomas Clancy \| Change: 1 \| "Reported the god fearing man"
+2024-12-11 08:36:41.120051 \| Edit Points \| Thomas Clancy \| Change: 1 \| "Reported the GodFearingMan499"
 
-2024-12-11 08:36:27.689299 \| Edit Points \| God Fearing Man \| Change: -499 \| "Blight upon humanity"
+2024-12-11 08:36:27.689299 \| Edit Points \| GodFearingMan499 \| Change: -499 \| "Blight upon humanity"
 
-2024-12-11 08:35:46.692329 \| Add \| God Fearing Man
+2024-12-11 08:35:46.692329 \| Add \| GodFearingMan499
 
 2024-12-11 08:18:35.603429 \| Edit Points \| Daniel Duke \| Change: -1 \| "Spun the wheel"
 
