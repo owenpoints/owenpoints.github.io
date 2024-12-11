@@ -12,34 +12,34 @@
 |8.|Kimaya Joshi|10|
 |9.|Mr. Dixon|7|
 |10.|Coach Bombard|5|
-|11.|Shurifin|4|
+|11.|Rosie|4|
 |12.|Owen Bridges' Iphone|4|
-|13.|Rosie|4|
-|14.|Max Goldblatt|3|
-|15.|Isaiah|3|
+|13.|Shurifin|4|
+|14.|Isaiah|3|
+|15.|Max Goldblatt|3|
 |16.|Justin Ferrero|2|
-|17.|Silas Weiler|1|
+|17.|Mr. Lee|1|
 |18.|Mrs. Davis|1|
-|19.|Mr. Lee|1|
+|19.|Silas Weiler|1|
 |20.|Koko|0|
-|21.|Kaitlyn|-1|
-|22.|Peter Wazdin|-1|
-|23.|Olivia|-1|
-|24.|Thomas Clancy's Airpods|-2|
-|25.|Mysterious OwenHater856|-2|
+|21.|Avery Jones|-1|
+|22.|Olivia|-1|
+|23.|Peter Wazdin|-1|
+|24.|Kaitlyn|-1|
+|25.|Ben Ussery|-2|
 |26.|Aubrey Niemiec-Andorfer|-2|
-|27.|Ben Ussery|-2|
-|28.|Mr. Yeats|-4|
-|29.|Mrs. Hart|-4|
+|27.|Mysterious OwenHater856|-2|
+|28.|Thomas Clancy's Airpods|-2|
+|29.|Noam Kolt|-4|
 |30.|Katie Hanson|-4|
-|31.|Noam Kolt|-4|
-|32.|James Henry Southern|-5|
+|31.|Mrs. Hart|-4|
+|32.|Mr. Yeats|-4|
 |33.|Sharleen Wang|-5|
-|34.|Avery Jones|-5|
+|34.|James Henry Southern|-5|
 |35.|Alec Aris|-9|
 |36.|Wasps|-10|
 |37.|Guy in library who took my seat|-11|
-|38.|Daniel Duke|-48|
+|38.|Daniel Duke|-49|
 |39.|Northview High School|-57|
 |40.|Aidan McGeever|-62|
 |41.|Mr. Martin|-9,223,372,036,854,776,847|
@@ -52,6 +52,10 @@
 
 
 ## Owen Points Log:
+2024-12-11 08:18:35.603429 \| Edit Points \| Daniel Duke \| Change: -1 \| "Spun the wheel"
+
+2024-12-11 08:18:14.619090 \| Edit Points \| Avery Jones \| Change: 4 \| "Spun the wheel"
+
 2024-12-10 20:45:02.740067 \| Edit Points \| Daniel Duke \| Change: -4 \| "Sent me [this instagram reel](https://www.instagram.com/reel/DA3g8t-IIDU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)"
 
 2024-12-10 20:42:51.954841 \| Edit Points \| Avery Jones \| Change: 5 \| "Spun the wheel"
