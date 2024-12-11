@@ -1,4 +1,6 @@
 # Devlog Post
+2024-12-11 15:10:58.081616 \| Owen Bridges \| Added transfer command to points client
+
 2024-12-11 15:09:31.162574 \| Owen Bridges \| Added "All" option to edit and transfer commands for points client
 
 2024-12-11 08:54:40.206068 \| Owen Bridges \| Added duos gambling wheel to hidden wheel file
