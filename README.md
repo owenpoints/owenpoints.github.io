@@ -3,7 +3,7 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,035|
-|2.|Thomas Clancy|50|
+|2.|Thomas Clancy|55|
 |3.|Saanvi Chingireddy|49|
 |4.|Emerson Hamp|22|
 |5.|Mr. Brown|21|
@@ -33,13 +33,13 @@
 |29.|Katie Hanson|-4|
 |30.|Mrs. Hart|-4|
 |31.|Mr. Yeats|-4|
-|32.|Sharleen Wang|-5|
-|33.|James Henry Southern|-5|
-|34.|Alec Aris|-9|
-|35.|Wasps|-10|
-|36.|Avery Jones|-10|
+|32.|Avery Jones|-5|
+|33.|Sharleen Wang|-5|
+|34.|James Henry Southern|-5|
+|35.|Alec Aris|-9|
+|36.|Wasps|-10|
 |37.|Guy in library who took my seat|-11|
-|38.|Daniel Duke|-44|
+|38.|Daniel Duke|-48|
 |39.|Northview High School|-57|
 |40.|Aidan McGeever|-62|
 |41.|Mr. Martin|-9,223,372,036,854,776,847|
@@ -52,6 +52,12 @@
 
 
 ## Owen Points Log:
+2024-12-10 20:45:02.740067 \| Edit Points \| Daniel Duke \| Change: -4 \| "Sent me (this instagram reel)[https://www.instagram.com/reel/DA3g8t-IIDU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==]"
+
+2024-12-10 20:42:51.954841 \| Edit Points \| Avery Jones \| Change: 5 \| "Spun the wheel"
+
+2024-12-10 20:42:36.621699 \| Edit Points \| Thomas Clancy \| Change: 5 \| "Said underwear"
+
 2024-12-10 13:35:05.280539 \| Edit Points \| Thomas Clancy \| Change: 20 \| "Spun the wheel"
 
 2024-12-10 12:44:57.022354 \| Edit Points \| Emerson Hamp \| Change: 5 \| "Appreciating me 🥹🥹🥹"
