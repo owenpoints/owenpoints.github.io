@@ -12,30 +12,30 @@
 |8.|Kimaya Joshi|10|
 |9.|Mr. Dixon|7|
 |10.|Coach Bombard|5|
-|11.|Rosie|4|
+|11.|Shurifin|4|
 |12.|Owen Bridges' Iphone|4|
-|13.|Shurifin|4|
-|14.|Isaiah|3|
-|15.|Max Goldblatt|3|
+|13.|Rosie|4|
+|14.|Max Goldblatt|3|
+|15.|Isaiah|3|
 |16.|Justin Ferrero|2|
-|17.|Mr. Lee|1|
+|17.|Silas Weiler|1|
 |18.|Mrs. Davis|1|
-|19.|Silas Weiler|1|
+|19.|Mr. Lee|1|
 |20.|Koko|0|
-|21.|Olivia|-1|
+|21.|Kaitlyn|-1|
 |22.|Peter Wazdin|-1|
-|23.|Kaitlyn|-1|
-|24.|Ben Ussery|-2|
-|25.|Aubrey Niemiec-Andorfer|-2|
-|26.|Mysterious OwenHater856|-2|
-|27.|Thomas Clancy's Airpods|-2|
-|28.|Noam Kolt|-4|
-|29.|Katie Hanson|-4|
-|30.|Mrs. Hart|-4|
-|31.|Mr. Yeats|-4|
-|32.|Avery Jones|-5|
+|23.|Olivia|-1|
+|24.|Thomas Clancy's Airpods|-2|
+|25.|Mysterious OwenHater856|-2|
+|26.|Aubrey Niemiec-Andorfer|-2|
+|27.|Ben Ussery|-2|
+|28.|Mr. Yeats|-4|
+|29.|Mrs. Hart|-4|
+|30.|Katie Hanson|-4|
+|31.|Noam Kolt|-4|
+|32.|James Henry Southern|-5|
 |33.|Sharleen Wang|-5|
-|34.|James Henry Southern|-5|
+|34.|Avery Jones|-5|
 |35.|Alec Aris|-9|
 |36.|Wasps|-10|
 |37.|Guy in library who took my seat|-11|
@@ -52,7 +52,7 @@
 
 
 ## Owen Points Log:
-2024-12-10 20:45:02.740067 \| Edit Points \| Daniel Duke \| Change: -4 \| "Sent me (this instagram reel)[https://www.instagram.com/reel/DA3g8t-IIDU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==]"
+2024-12-10 20:45:02.740067 \| Edit Points \| Daniel Duke \| Change: -4 \| "Sent me [this instagram reel](https://www.instagram.com/reel/DA3g8t-IIDU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)"
 
 2024-12-10 20:42:51.954841 \| Edit Points \| Avery Jones \| Change: 5 \| "Spun the wheel"
 
