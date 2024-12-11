@@ -3,7 +3,7 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,035|
-|2.|Thomas Clancy|56|
+|2.|Thomas Clancy|60|
 |3.|Saanvi Chingireddy|49|
 |4.|Emerson Hamp|22|
 |5.|Mr. Brown|21|
@@ -41,7 +41,7 @@
 |37.|Guy in library who took my seat|-11|
 |38.|Daniel Duke|-49|
 |39.|Northview High School|-57|
-|40.|Aidan McGeever|-62|
+|40.|Aidan McGeever|-58|
 |41.|GodFearingMan499|-499|
 |42.|Mr. Martin|-9,223,372,036,854,776,847|
 
@@ -53,6 +53,12 @@
 
 
 ## Owen Points Log:
+2024-12-11 08:53:01.154682 \| Edit Points \| Aidan McGeever \| Change: 4 \| "My glorious sigma"
+
+2024-12-11 08:52:23.886733 \| Edit Points \| Thomas Clancy \| Change: 3 \| "Various silly endevours"
+
+2024-12-11 08:51:49.475487 \| Edit Points \| Thomas Clancy \| Change: 1 \| "Awesome sauce"
+
 2024-12-11 08:36:41.120051 \| Edit Points \| Thomas Clancy \| Change: 1 \| "Reported the GodFearingMan499"
 
 2024-12-11 08:36:27.689299 \| Edit Points \| GodFearingMan499 \| Change: -499 \| "Blight upon humanity"
