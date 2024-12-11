@@ -8,7 +8,7 @@
 |4.|Emerson Hamp|22|
 |5.|Mr. Brown|21|
 |6.|Owen Bridges|20|
-|7.|William Niemiec-Andorfer|12|
+|7.|William Niemiec-Andorfer|10|
 |8.|Kimaya Joshi|10|
 |9.|Mr. Dixon|7|
 |10.|Coach Bombard|5|
@@ -42,7 +42,7 @@
 |38.|Daniel Duke|-49|
 |39.|Northview High School|-57|
 |40.|Aidan McGeever|-58|
-|41.|GodFearingMan499|-499|
+|41.|godfearingman499|-499|
 |42.|Mr. Martin|-9,223,372,036,854,776,847|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
@@ -53,17 +53,19 @@
 
 
 ## Owen Points Log:
+2024-12-11 09:01:42.414017 \| Edit Points \| William Niemiec-Andorfer \| Change: -2 \| "Spun the wheel"
+
 2024-12-11 08:53:01.154682 \| Edit Points \| Aidan McGeever \| Change: 4 \| "My glorious sigma"
 
 2024-12-11 08:52:23.886733 \| Edit Points \| Thomas Clancy \| Change: 3 \| "Various silly endevours"
 
 2024-12-11 08:51:49.475487 \| Edit Points \| Thomas Clancy \| Change: 1 \| "Awesome sauce"
 
-2024-12-11 08:36:41.120051 \| Edit Points \| Thomas Clancy \| Change: 1 \| "Reported the GodFearingMan499"
+2024-12-11 08:36:41.120051 \| Edit Points \| Thomas Clancy \| Change: 1 \| "Reported the godfearingman499"
 
-2024-12-11 08:36:27.689299 \| Edit Points \| GodFearingMan499 \| Change: -499 \| "Blight upon humanity"
+2024-12-11 08:36:27.689299 \| Edit Points \| godfearingman499 \| Change: -499 \| "Blight upon humanity"
 
-2024-12-11 08:35:46.692329 \| Add \| GodFearingMan499
+2024-12-11 08:35:46.692329 \| Add \| godfearingman499
 
 2024-12-11 08:18:35.603429 \| Edit Points \| Daniel Duke \| Change: -1 \| "Spun the wheel"
 
