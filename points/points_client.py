@@ -74,6 +74,13 @@ while True:
     options = ("edit", "add", "namechange", "remove", "transfer", "help", "exit")
     
     raw_choice = input(f"Input operation {options}: ").strip()
+
+    if not raw_choice:
+
+        error_message = "Please input a command."
+
+        continue
+
     operation = raw_choice.split()[0]
     arguments = [item.strip() for item in raw_choice.split('"') if item and item != " "]
     arguments.pop(0)
@@ -114,6 +121,11 @@ while True:
 
             continue
 
+        if arguments[0] == "All":
+            
+            error_message = "Invalid name."
+
+            continue
 
         if arguments[0] in scores:
 
@@ -135,7 +147,7 @@ while True:
             continue
 
 
-        if arguments[0] not in scores:
+        if arguments[0] not in scores and arguments[0] != "All":
     
             error_message = "Person does not exist."
 
@@ -150,8 +162,11 @@ while True:
             error_message = "Input integer for points increment."
 
             continue
-
-        scores[arguments[0]] += arguments[1]
+        
+        if arguments[0] == "All":
+            scores = {key: scores[key] + arguments[1] for key in scores}
+        else:
+            scores[arguments[0]] += arguments[1]
 
         send_to_log(f'{datetime.datetime.now()} \| Edit Points \| {arguments[0]} \| Change: {pretty_num(arguments[1])} \| "{arguments[2]}"')
 
@@ -163,7 +178,7 @@ while True:
         
             continue
 
-        if not (arguments[0] in scores and arguments[1] in scores):
+        if not (arguments[0] in scores and arguments[1] in scores) and arguments[1] != "All":
     
             error_message = "Person does not exist."
 
@@ -178,9 +193,13 @@ while True:
             error_message = "Input integer for points transfer."
 
             continue
-
-        scores[arguments[0]] -= arguments[2]
-        scores[arguments[1]] += arguments[2]
+        
+        if arguments[1] == "All":
+            scores[arguments[0]] -= arguments[2] * len(scores)
+            scores = {key : scores[key] + arguments[2] for key in scores}
+        else:
+            scores[arguments[0]] -= arguments[2]
+            scores[arguments[1]] += arguments[2]
 
         send_to_log(f'{datetime.datetime.now()} \| Points Transfer \| {arguments[0]} to {arguments[1]} \| Amount: {pretty_num(arguments[2])} \| "{arguments[3]}"')
 
