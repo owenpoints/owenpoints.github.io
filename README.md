@@ -3,7 +3,7 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|80,000,000,035|
-|2.|Thomas Clancy|55|
+|2.|Thomas Clancy|56|
 |3.|Saanvi Chingireddy|49|
 |4.|Emerson Hamp|22|
 |5.|Mr. Brown|21|
@@ -42,7 +42,8 @@
 |38.|Daniel Duke|-49|
 |39.|Northview High School|-57|
 |40.|Aidan McGeever|-62|
-|41.|Mr. Martin|-9,223,372,036,854,776,847|
+|41.|God Fearing Man|-499|
+|42.|Mr. Martin|-9,223,372,036,854,776,847|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -52,6 +53,12 @@
 
 
 ## Owen Points Log:
+2024-12-11 08:36:41.120051 \| Edit Points \| Thomas Clancy \| Change: 1 \| "Reported the god fearing man"
+
+2024-12-11 08:36:27.689299 \| Edit Points \| God Fearing Man \| Change: -499 \| "Blight upon humanity"
+
+2024-12-11 08:35:46.692329 \| Add \| God Fearing Man
+
 2024-12-11 08:18:35.603429 \| Edit Points \| Daniel Duke \| Change: -1 \| "Spun the wheel"
 
 2024-12-11 08:18:14.619090 \| Edit Points \| Avery Jones \| Change: 4 \| "Spun the wheel"
