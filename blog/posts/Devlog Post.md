@@ -1,4 +1,6 @@
 # Devlog Post
+2024-12-11 20:36:42.831406 \| Owen Bridges \| Renamed wheel.html to hidden_wheel.html to avoid conflicting file paths with the new wheel points page
+
 2024-12-11 20:30:49.891874 \| Owen Bridges \| Made seperate wheel leaderboard for wheel points
 
 2024-12-11 15:10:58.081616 \| Owen Bridges \| Added transfer command to points client
