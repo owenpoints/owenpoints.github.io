@@ -6,39 +6,39 @@
 |2.|Thomas Clancy|60|
 |3.|Owen Bridges|51|
 |4.|Saanvi Chingireddy|50|
-|5.|Emerson Hamp|21|
-|6.|Mr. Brown|21|
+|5.|Mr. Brown|21|
+|6.|Emerson Hamp|21|
 |7.|Aidan McGeever|17|
-|8.|William Niemiec-Andorfer|10|
-|9.|Kimaya Joshi|10|
+|8.|Kimaya Joshi|10|
+|9.|William Niemiec-Andorfer|10|
 |10.|Mr. Dixon|7|
 |11.|Coach Bombard|5|
-|12.|Shurifin|4|
+|12.|Rosie|4|
 |13.|Owen Bridges' Iphone|4|
-|14.|Rosie|4|
-|15.|Max Goldblatt|3|
-|16.|Isaiah|3|
+|14.|Shurifin|4|
+|15.|Isaiah|3|
+|16.|Max Goldblatt|3|
 |17.|Justin Ferrero|2|
-|18.|Silas Weiler|1|
+|18.|Mr. Lee|1|
 |19.|Mrs. Davis|1|
-|20.|Mr. Lee|1|
+|20.|Silas Weiler|1|
 |21.|Koko|0|
-|22.|Kaitlyn|-1|
-|23.|Peter Wazdin|-1|
-|24.|Olivia|-1|
-|25.|Avery Jones|-1|
-|26.|Thomas Clancy's Airpods|-2|
-|27.|Mysterious OwenHater856|-2|
-|28.|Aubrey Niemiec-Andorfer|-2|
-|29.|Ben Ussery|-2|
-|30.|Mr. Yeats|-4|
-|31.|Mrs. Hart|-4|
-|32.|Katie Hanson|-4|
-|33.|Noam Kolt|-4|
+|22.|Avery Jones|-1|
+|23.|Olivia|-1|
+|24.|Peter Wazdin|-1|
+|25.|Kaitlyn|-1|
+|26.|Ben Ussery|-2|
+|27.|Aubrey Niemiec-Andorfer|-2|
+|28.|Mysterious OwenHater856|-2|
+|29.|Thomas Clancy's Airpods|-2|
+|30.|Noam Kolt|-4|
+|31.|Katie Hanson|-4|
+|32.|Mrs. Hart|-4|
+|33.|Mr. Yeats|-4|
 |34.|Sharleen Wang|-5|
 |35.|Alec Aris|-9|
-|36.|James Henry Southern|-10|
-|37.|Wasps|-10|
+|36.|Wasps|-10|
+|37.|James Henry Southern|-10|
 |38.|Guy in library who took my seat|-11|
 |39.|Daniel Duke|-49|
 |40.|Northview High School|-57|
@@ -55,7 +55,7 @@
 
 
 ## Owen Points Log:
-2024-12-11 20:43:08.527751 \| [Points Balancing Anouncement](../blog/posts/nerfing the wheel.md)
+2024-12-11 20:43:08.527751 \| [Points Balancing Anouncement](../blog/posts/nerfing the wheel)
 
 2024-12-11 20:33:33.656546 \| Points Transfer \| Grace Pyon to Aidan McGeever \| Amount: 50 \| "Compensation for dissing jacket"
 
