@@ -4,7 +4,7 @@ import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'assets'))
 from assets import *
 
-def output(store):
+def wheel_output(store):
 
     file = better_open('./wheel/README.md', 'w')
 
@@ -22,7 +22,7 @@ def output(store):
     file.write(output_str)
     file.close()
     
-def save(store):
+def wheel_save(store):
     
     file = better_open('./wheel/store.txt', 'w')
 
@@ -172,7 +172,7 @@ while True:
 
         os.system("pause")
 
-output(scores)
+wheel_output(scores)
 
 save(scores)
 

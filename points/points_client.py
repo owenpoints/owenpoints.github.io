@@ -4,6 +4,7 @@ import datetime
 import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'assets'))
 from assets import *
+from wheel import *
 
 def send_to_log(message):
 
@@ -54,6 +55,12 @@ store = better_open('./points/store.txt', 'r')
 
 scores = ast.literal_eval(store.read())
 
+wheel_store = better_open('./wheel/store.txt', 'r')
+
+wheel_scores = ast.literal_eval(wheel_store.read())
+
+wheel_store.close()
+
 error_message = ''
 
 while True:
@@ -73,7 +80,7 @@ while True:
 
         error_message = ""
 
-    options = ("edit", "add", "namechange", "remove", "transfer", "wto", "help", "exit")
+    options = ("edit", "add", "namechange", "remove", "transfer", "ofw", "help", "exit")
     
     raw_choice = input(f"Input operation {options}: ").strip()
 
@@ -111,8 +118,10 @@ while True:
             error_message = "Person does not exist."
 
             continue
-
+        
         scores.pop(arguments[0])
+        
+        wheel_scores.pop(arguments[0])
         
         send_to_log(f'{datetime.datetime.now()} \| Remove \| {arguments[0]}')
 
@@ -139,6 +148,8 @@ while True:
         
         scores[arguments[0]] = 0
         
+        wheel_scores[arguments[0]] = 0
+
         send_to_log(f'{datetime.datetime.now()} \| Add \| {arguments[0]}')
 
     elif operation == "edit":
@@ -235,9 +246,12 @@ while True:
         scores[arguments[1]] = scores[arguments[0]]
         scores.pop(arguments[0])
 
+        wheel_scores[arguments[1]] = wheel_scores[arguments[0]]
+        wheel_scores.pop(arguments[0])
+
         send_to_log(f'{datetime.datetime.now()} \| Name Change \| {arguments[0]} \| Changed To: {arguments[1]}')
 
-    elif operation == "wto":
+    elif operation == "ofw":
 
         exchange_rate = 10
 
@@ -263,10 +277,6 @@ while True:
 
             continue
 
-        wheel_points_file = better_open('./wheel/store.txt', 'r')
-
-        wheel_scores = ast.literal_eval(wheel_points_file.read())
-
         scores[arguments[0]] += arguments[1]
 
         wheel_scores[arguments[0]] -= arguments[1] * exchange_rate
@@ -287,11 +297,12 @@ while True:
 
         os.system("pause")
 
-os.system("echo exit | python3 -m wheel.wheel_points_client")
-os.system("cls")
-
 output(scores)
 
 save(scores)
+
+wheel_output(wheel_scores)
+
+wheel_save(wheel_scores)
 
 store.close()
