@@ -287,6 +287,9 @@ while True:
 
         os.system("pause")
 
+os.system("echo exit | python3 -m wheel.wheel_points_client")
+os.system("clear")
+
 output(scores)
 
 save(scores)
