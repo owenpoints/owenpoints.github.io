@@ -1,4 +1,6 @@
 # Devlog Post
+2024-12-12 10:05:11.745610 \| Owen Bridges \| Rebalanced duos wheel
+
 2024-12-12 09:25:47.949586 \| Owen Bridges \| Rebalanced the new wheel
 
 2024-12-11 22:26:41.119938 \| Owen Bridges \| Transferred Owen Points gained from wheel to wheel points with 1:1 conversion ratio (converting back will have a 1:10 Owen Points to wheel points ratio)
