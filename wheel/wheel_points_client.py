@@ -17,6 +17,7 @@ def output(store):
         output_str += f"|{i + 1}.|{list(store)[i]}|{pretty_num(store[item])}|\n"
 
     output_str += "\n## 10 Wheel Points can be exchanged for 1 Owen Point\n"
+    output_str += "\n## [Back](../) to Owen Points Leaderboard"
 
     file.write(output_str)
     file.close()

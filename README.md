@@ -2,44 +2,44 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|79,999,999,984|
+|1.|Grace Pyon|79,999,999,934|
 |2.|Thomas Clancy|60|
 |3.|Owen Bridges|51|
 |4.|Saanvi Chingireddy|50|
 |5.|Mr. Brown|21|
 |6.|Emerson Hamp|21|
-|7.|Kimaya Joshi|10|
-|8.|William Niemiec-Andorfer|10|
-|9.|Mr. Dixon|7|
-|10.|Coach Bombard|5|
-|11.|Rosie|4|
-|12.|Owen Bridges' Iphone|4|
-|13.|Shurifin|4|
-|14.|Isaiah|3|
-|15.|Max Goldblatt|3|
-|16.|Justin Ferrero|2|
-|17.|Mr. Lee|1|
-|18.|Mrs. Davis|1|
-|19.|Silas Weiler|1|
-|20.|Koko|0|
-|21.|Avery Jones|-1|
-|22.|Olivia|-1|
-|23.|Peter Wazdin|-1|
-|24.|Kaitlyn|-1|
-|25.|Ben Ussery|-2|
-|26.|Aubrey Niemiec-Andorfer|-2|
-|27.|Mysterious OwenHater856|-2|
-|28.|Thomas Clancy's Airpods|-2|
-|29.|Noam Kolt|-4|
-|30.|Katie Hanson|-4|
-|31.|Mrs. Hart|-4|
-|32.|Mr. Yeats|-4|
-|33.|Sharleen Wang|-5|
-|34.|Alec Aris|-9|
-|35.|Wasps|-10|
-|36.|James Henry Southern|-10|
-|37.|Guy in library who took my seat|-11|
-|38.|Aidan McGeever|-33|
+|7.|Aidan McGeever|17|
+|8.|Kimaya Joshi|10|
+|9.|William Niemiec-Andorfer|10|
+|10.|Mr. Dixon|7|
+|11.|Coach Bombard|5|
+|12.|Rosie|4|
+|13.|Owen Bridges' Iphone|4|
+|14.|Shurifin|4|
+|15.|Isaiah|3|
+|16.|Max Goldblatt|3|
+|17.|Justin Ferrero|2|
+|18.|Mr. Lee|1|
+|19.|Mrs. Davis|1|
+|20.|Silas Weiler|1|
+|21.|Koko|0|
+|22.|Avery Jones|-1|
+|23.|Olivia|-1|
+|24.|Peter Wazdin|-1|
+|25.|Kaitlyn|-1|
+|26.|Ben Ussery|-2|
+|27.|Aubrey Niemiec-Andorfer|-2|
+|28.|Mysterious OwenHater856|-2|
+|29.|Thomas Clancy's Airpods|-2|
+|30.|Noam Kolt|-4|
+|31.|Katie Hanson|-4|
+|32.|Mrs. Hart|-4|
+|33.|Mr. Yeats|-4|
+|34.|Sharleen Wang|-5|
+|35.|Alec Aris|-9|
+|36.|Wasps|-10|
+|37.|James Henry Southern|-10|
+|38.|Guy in library who took my seat|-11|
 |39.|Daniel Duke|-49|
 |40.|Northview High School|-57|
 |41.|godfearingman499|-499|
@@ -53,6 +53,10 @@
 
 
 ## Owen Points Log:
+
+## Wheel Points Leaderboard can be found [Here](./wheel)
+2024-12-11 20:33:33.656546 \| Points Transfer \| Grace Pyon to Aidan McGeever \| Amount: 50 \| "Compensation for dissing jacket"
+
 2024-12-11 16:55:20.782187 \| Points Transfer \| Grace Pyon to Aidan McGeever \| Amount: 20 \| "Pity points"
 
 2024-12-11 14:06:41.268965 \| Points Transfer \| Grace Pyon to Owen Bridges \| Amount: 31 \| "I haven o clue 😼😼😼"
