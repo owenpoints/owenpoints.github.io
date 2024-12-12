@@ -6,39 +6,39 @@
 |2.|Thomas Clancy|40|
 |3.|Owen Bridges|39|
 |4.|Mr. Brown|21|
-|5.|Kimaya Joshi|10|
-|6.|Emerson Hamp|10|
+|5.|Emerson Hamp|10|
+|6.|Kimaya Joshi|10|
 |7.|Mr. Dixon|7|
-|8.|Coach Bombard|5|
-|9.|William Niemiec-Andorfer|5|
-|10.|James Henry Southern|4|
-|11.|Rosie|4|
-|12.|Owen Bridges' Iphone|4|
-|13.|Shurifin|4|
-|14.|Isaiah|3|
+|8.|William Niemiec-Andorfer|5|
+|9.|Coach Bombard|5|
+|10.|Shurifin|4|
+|11.|Owen Bridges' Iphone|4|
+|12.|Rosie|4|
+|13.|James Henry Southern|4|
+|14.|Isaiah Adegbenro|3|
 |15.|Max Goldblatt|3|
-|16.|Justin Ferrero|2|
+|16.|Saanvi Chingireddy|2|
 |17.|Aidan McGeever|2|
-|18.|Saanvi Chingireddy|2|
-|19.|Mr. Lee|1|
+|18.|Justin Ferrero|2|
+|19.|Silas Weiler|1|
 |20.|Mrs. Davis|1|
-|21.|Silas Weiler|1|
+|21.|Mr. Lee|1|
 |22.|Koko|0|
-|23.|Olivia|-1|
-|24.|Peter Wazdin|-1|
-|25.|Kaitlyn|-1|
-|26.|Ben Ussery|-2|
-|27.|Aubrey Niemiec-Andorfer|-2|
-|28.|Mysterious OwenHater856|-2|
-|29.|Thomas Clancy's Airpods|-2|
-|30.|Noam Kolt|-4|
+|23.|Peter Wasdin|-1|
+|24.|Kaitlyn|-1|
+|25.|Olivia Chang|-1|
+|26.|Thomas Clancy's Airpods|-2|
+|27.|Mysterious OwenHater856|-2|
+|28.|Aubrey Niemiec-Andorfer|-2|
+|29.|Ben Ussery|-2|
+|30.|Mrs. Hart|-4|
 |31.|Katie Hanson|-4|
-|32.|Mrs. Hart|-4|
+|32.|Noam Kolt|-4|
 |33.|Sharleen Wang|-5|
 |34.|Mr. Yeats|-7|
 |35.|Wasps|-10|
-|36.|Guy in library who took my seat|-11|
-|37.|Avery Jones|-11|
+|36.|Avery Jones|-11|
+|37.|Guy in library who took my seat|-11|
 |38.|Alec Aris|-14|
 |39.|Daniel Duke|-48|
 |40.|Northview High School|-57|
@@ -55,6 +55,12 @@
 
 
 ## Owen Points Log:
+2024-12-12 07:26:30.309910 \| Name Change \| Olivia \| Changed To: Olivia Chang
+
+2024-12-12 07:22:28.257715 \| Name Change \| Isaiah \| Changed To: Isaiah Adegbenro
+
+2024-12-12 07:20:59.241188 \| Name Change \| Peter Wazdin \| Changed To: Peter Wasdin
+
 2024-12-11 22:24:07.445953 \| Points Transfer \| Owen Bridges to Grace Pyon \| Amount: 12 \| "Its funnier if Im in third 😔✊"
 
 2024-12-11 20:43:08.527751 \| [Points Balancing Anouncement](../blog/posts/nerfing the wheel)

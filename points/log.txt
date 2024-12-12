@@ -1,3 +1,6 @@
+2024-12-12 07:26:30.309910 \| Name Change \| Olivia \| Changed To: Olivia Chang
+2024-12-12 07:22:28.257715 \| Name Change \| Isaiah \| Changed To: Isaiah Adegbenro
+2024-12-12 07:20:59.241188 \| Name Change \| Peter Wazdin \| Changed To: Peter Wasdin
 2024-12-11 22:24:07.445953 \| Points Transfer \| Owen Bridges to Grace Pyon \| Amount: 12 \| "Its funnier if Im in third 😔✊"
 2024-12-11 20:43:08.527751 \| [Points Balancing Anouncement](../blog/posts/nerfing the wheel)
 2024-12-11 20:33:33.656546 \| Points Transfer \| Grace Pyon to Aidan McGeever \| Amount: 50 \| "Compensation for dissing jacket"

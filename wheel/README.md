@@ -11,23 +11,23 @@
 |7.|William Niemiec-Andorfer|5|
 |8.|Alec Aris|5|
 |9.|Mr. Yeats|3|
-|10.|Mr. Brown|0|
-|11.|Kimaya Joshi|0|
-|12.|Mr. Dixon|0|
-|13.|Coach Bombard|0|
-|14.|Shurifin|0|
-|15.|Owen Bridges' Iphone|0|
-|16.|Rosie|0|
-|17.|Max Goldblatt|0|
-|18.|Isaiah|0|
-|19.|Justin Ferrero|0|
-|20.|Silas Weiler|0|
-|21.|Mrs. Davis|0|
-|22.|Mr. Lee|0|
-|23.|Koko|0|
-|24.|Kaitlyn|0|
-|25.|Peter Wazdin|0|
-|26.|Olivia|0|
+|10.|Olivia Chang|0|
+|11.|Isaiah Adegbenro|0|
+|12.|Peter Wasdin|0|
+|13.|Mr. Brown|0|
+|14.|Kimaya Joshi|0|
+|15.|Mr. Dixon|0|
+|16.|Coach Bombard|0|
+|17.|Shurifin|0|
+|18.|Owen Bridges' Iphone|0|
+|19.|Rosie|0|
+|20.|Max Goldblatt|0|
+|21.|Justin Ferrero|0|
+|22.|Silas Weiler|0|
+|23.|Mrs. Davis|0|
+|24.|Mr. Lee|0|
+|25.|Koko|0|
+|26.|Kaitlyn|0|
 |27.|Thomas Clancy's Airpods|0|
 |28.|Mysterious OwenHater856|0|
 |29.|Aubrey Niemiec-Andorfer|0|
