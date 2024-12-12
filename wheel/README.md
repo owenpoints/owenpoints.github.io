@@ -3,45 +3,45 @@
 |Ranking|Name|Wheel Points|
 | ----------- | ----------- | ----------- |
 |1.|Saanvi Chingireddy|48|
-|2.|Thomas Clancy|20|
-|3.|Aidan McGeever|15|
-|4.|Emerson Hamp|11|
-|5.|Avery Jones|10|
-|6.|Grace Pyon|7|
-|7.|William Niemiec-Andorfer|5|
-|8.|Alec Aris|5|
-|9.|Mr. Yeats|3|
-|10.|Olivia Chang|0|
-|11.|Isaiah Adegbenro|0|
-|12.|Peter Wasdin|0|
-|13.|Mr. Brown|0|
-|14.|Kimaya Joshi|0|
-|15.|Mr. Dixon|0|
-|16.|Coach Bombard|0|
-|17.|Shurifin|0|
-|18.|Owen Bridges' Iphone|0|
-|19.|Rosie|0|
-|20.|Max Goldblatt|0|
-|21.|Justin Ferrero|0|
-|22.|Silas Weiler|0|
-|23.|Mrs. Davis|0|
-|24.|Mr. Lee|0|
-|25.|Koko|0|
-|26.|Kaitlyn|0|
-|27.|Thomas Clancy's Airpods|0|
-|28.|Mysterious OwenHater856|0|
-|29.|Aubrey Niemiec-Andorfer|0|
-|30.|Ben Ussery|0|
-|31.|Mrs. Hart|0|
-|32.|Katie Hanson|0|
-|33.|Noam Kolt|0|
-|34.|Sharleen Wang|0|
-|35.|Wasps|0|
-|36.|Guy in library who took my seat|0|
-|37.|Northview High School|0|
-|38.|godfearingman499|0|
-|39.|Mr. Martin|0|
-|40.|Owen Bridges|0|
+|2.|Aidan McGeever|15|
+|3.|Emerson Hamp|11|
+|4.|Avery Jones|10|
+|5.|Grace Pyon|7|
+|6.|William Niemiec-Andorfer|5|
+|7.|Alec Aris|5|
+|8.|Mr. Yeats|3|
+|9.|Olivia Chang|0|
+|10.|Isaiah Adegbenro|0|
+|11.|Peter Wasdin|0|
+|12.|Mr. Brown|0|
+|13.|Kimaya Joshi|0|
+|14.|Mr. Dixon|0|
+|15.|Coach Bombard|0|
+|16.|Shurifin|0|
+|17.|Owen Bridges' Iphone|0|
+|18.|Rosie|0|
+|19.|Max Goldblatt|0|
+|20.|Justin Ferrero|0|
+|21.|Silas Weiler|0|
+|22.|Mrs. Davis|0|
+|23.|Mr. Lee|0|
+|24.|Koko|0|
+|25.|Kaitlyn|0|
+|26.|Thomas Clancy's Airpods|0|
+|27.|Mysterious OwenHater856|0|
+|28.|Aubrey Niemiec-Andorfer|0|
+|29.|Ben Ussery|0|
+|30.|Mrs. Hart|0|
+|31.|Katie Hanson|0|
+|32.|Noam Kolt|0|
+|33.|Sharleen Wang|0|
+|34.|Wasps|0|
+|35.|Guy in library who took my seat|0|
+|36.|Northview High School|0|
+|37.|godfearingman499|0|
+|38.|Mr. Martin|0|
+|39.|Owen Bridges|0|
+|40.|Thomas Clancy|0|
 |41.|Daniel Duke|-1|
 |42.|James Henry Southern|-14|
 

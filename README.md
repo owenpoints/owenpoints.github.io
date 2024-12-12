@@ -3,7 +3,7 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|79,999,999,939|
-|2.|Thomas Clancy|40|
+|2.|Thomas Clancy|42|
 |3.|Owen Bridges|39|
 |4.|Mr. Brown|21|
 |5.|Emerson Hamp|10|
@@ -55,6 +55,8 @@
 
 
 ## Owen Points Log:
+2024-12-12 08:20:46.049109 \| Wheel Exchange \| Thomas Clancy \| 2 for 20
+
 2024-12-12 07:26:30.309910 \| Name Change \| Olivia \| Changed To: Olivia Chang
 
 2024-12-12 07:22:28.257715 \| Name Change \| Isaiah \| Changed To: Isaiah Adegbenro
