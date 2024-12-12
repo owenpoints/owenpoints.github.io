@@ -9,15 +9,15 @@
 |5.|Emerson Hamp|10|
 |6.|Kimaya Joshi|10|
 |7.|Mr. Dixon|7|
-|8.|William Niemiec-Andorfer|5|
-|9.|Coach Bombard|5|
-|10.|Shurifin|4|
-|11.|Owen Bridges' Iphone|4|
-|12.|Rosie|4|
-|13.|James Henry Southern|4|
-|14.|Isaiah Adegbenro|3|
-|15.|Max Goldblatt|3|
-|16.|Saanvi Chingireddy|2|
+|8.|Saanvi Chingireddy|6|
+|9.|William Niemiec-Andorfer|5|
+|10.|Coach Bombard|5|
+|11.|Shurifin|4|
+|12.|Owen Bridges' Iphone|4|
+|13.|Rosie|4|
+|14.|James Henry Southern|4|
+|15.|Isaiah Adegbenro|3|
+|16.|Max Goldblatt|3|
 |17.|Aidan McGeever|2|
 |18.|Justin Ferrero|2|
 |19.|Silas Weiler|1|
@@ -55,6 +55,8 @@
 
 
 ## Owen Points Log:
+2024-12-12 09:30:57.276627 \| Wheel Exchange \| Saanvi Chingireddy \| 4 for 40
+
 2024-12-12 08:20:46.049109 \| Wheel Exchange \| Thomas Clancy \| 2 for 20
 
 2024-12-12 07:26:30.309910 \| Name Change \| Olivia \| Changed To: Olivia Chang

@@ -2,12 +2,12 @@
 
 |Ranking|Name|Wheel Points|
 | ----------- | ----------- | ----------- |
-|1.|Saanvi Chingireddy|46|
-|2.|Aidan McGeever|15|
-|3.|Avery Jones|11|
-|4.|Emerson Hamp|11|
-|5.|William Niemiec-Andorfer|9|
-|6.|Grace Pyon|7|
+|1.|Aidan McGeever|15|
+|2.|Avery Jones|11|
+|3.|Emerson Hamp|11|
+|4.|William Niemiec-Andorfer|9|
+|5.|Grace Pyon|7|
+|6.|Saanvi Chingireddy|6|
 |7.|Alec Aris|5|
 |8.|Daniel Duke|4|
 |9.|Mr. Yeats|3|
