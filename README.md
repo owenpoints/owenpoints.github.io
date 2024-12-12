@@ -2,9 +2,9 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|79,999,999,927|
-|2.|Owen Bridges|51|
-|3.|Thomas Clancy|40|
+|1.|Grace Pyon|79,999,999,939|
+|2.|Thomas Clancy|40|
+|3.|Owen Bridges|39|
 |4.|Mr. Brown|21|
 |5.|Kimaya Joshi|10|
 |6.|Emerson Hamp|10|
@@ -55,6 +55,8 @@
 
 
 ## Owen Points Log:
+2024-12-11 22:24:07.445953 \| Points Transfer \| Owen Bridges to Grace Pyon \| Amount: 12 \| "Its funnier if Im in third 😔✊"
+
 2024-12-11 20:43:08.527751 \| [Points Balancing Anouncement](../blog/posts/nerfing the wheel)
 
 2024-12-11 20:33:33.656546 \| Points Transfer \| Grace Pyon to Aidan McGeever \| Amount: 50 \| "Compensation for dissing jacket"
