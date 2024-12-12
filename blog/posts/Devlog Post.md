@@ -1,4 +1,6 @@
 # Devlog Post
+2024-12-11 21:47:08.965818 \| Owen Bridges \| Moved hidden_wheel.html to declutter the root folder
+
 2024-12-11 21:20:48.464546 \| Owen Bridges \| Made points_client.py update the wheel page when making changes relevant to the wheel page
 
 2024-12-11 20:36:42.831406 \| Owen Bridges \| Renamed wheel.html to hidden_wheel.html to avoid conflicting file paths with the new wheel points page
