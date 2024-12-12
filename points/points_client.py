@@ -71,7 +71,7 @@ while True:
 
         error_message = ""
 
-    options = ("edit", "add", "namechange", "remove", "transfer", "help", "exit")
+    options = ("edit", "add", "namechange", "remove", "transfer", "wto", "help", "exit")
     
     raw_choice = input(f"Input operation {options}: ").strip()
 
@@ -82,6 +82,7 @@ while True:
         continue
 
     operation = raw_choice.split()[0]
+
     arguments = [item.strip() for item in raw_choice.split('"') if item and item != " "]
     arguments.pop(0)
  
@@ -164,8 +165,11 @@ while True:
             continue
         
         if arguments[0] == "All":
+
             scores = {key: scores[key] + arguments[1] for key in scores}
+
         else:
+
             scores[arguments[0]] += arguments[1]
 
         send_to_log(f'{datetime.datetime.now()} \| Edit Points \| {arguments[0]} \| Change: {pretty_num(arguments[1])} \| "{arguments[2]}"')
@@ -195,9 +199,12 @@ while True:
             continue
         
         if arguments[1] == "All":
+
             scores[arguments[0]] -= arguments[2] * len(scores)
             scores = {key : scores[key] + arguments[2] for key in scores}
+
         else:
+
             scores[arguments[0]] -= arguments[2]
             scores[arguments[1]] += arguments[2]
 
@@ -228,6 +235,43 @@ while True:
 
         send_to_log(f'{datetime.datetime.now()} \| Name Change \| {arguments[0]} \| Changed To: {arguments[1]}')
 
+    elif operation == "wto":
+
+        exchange_rate = 10
+
+        if len(arguments != 2):
+
+            error_message = "Invalid command arguments, type help for help."
+
+            continue
+
+        if arguments[0] not in scores and arguments[0] != "All":
+
+            error_message = "Person does not exist."
+
+            continue
+
+        try:
+
+            arguments[1] = int(arguments[1].strip())
+
+        except ValueError:
+
+            error_message = "Input integer for points exchange"
+
+            continue
+
+        wheel_points_file = better_open('./wheel/store.txt', 'r')
+
+        wheel_scores = ast.literal_eval(wheel_points_file.read())
+
+        scores[arguments[0]] += arguments[1]
+
+        wheel_scores[arguments[0]] -= arguments[1] * exchange_rate
+
+        send_to_log(f'{datetime.datetime.now()} \| Wheel Exchange \| {arguments[0]} \| {arguments[1]} for {arguments[1] * exchange_rate}')
+        
+
 
     elif operation == "help":
 
@@ -242,6 +286,7 @@ while True:
         os.system("pause")
 
 output(scores)
+
 save(scores)
 
 store.close()

@@ -1,4 +1,6 @@
 # Devlog Post
+2024-12-11 20:30:49.891874 \| Owen Bridges \| Made seperate wheel leaderboard for wheel points
+
 2024-12-11 15:10:58.081616 \| Owen Bridges \| Added transfer command to points client
 
 2024-12-11 15:09:31.162574 \| Owen Bridges \| Added "All" option to edit and transfer commands for points client

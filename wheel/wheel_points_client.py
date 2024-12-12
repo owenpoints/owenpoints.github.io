@@ -1,6 +1,5 @@
 import os
 import ast
-import datetime
 import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'assets'))
 from assets import *
@@ -30,9 +29,27 @@ def save(store):
 
     file.close()
 
+store = better_open('./points/store.txt', 'r')
+
+op_scores = ast.literal_eval(store.read())
+
+store.close()
+
 store = better_open('./wheel/store.txt', 'r')
 
 scores = ast.literal_eval(store.read())
+
+for key in op_scores:
+
+    if key not in scores:
+
+        scores[key] = 0
+
+for key in scores:
+
+    if key not in op_scores:
+
+        scores.pop(key)
 
 error_message = ''
 
@@ -64,6 +81,7 @@ while True:
         continue
 
     operation = raw_choice.split()[0]
+
     arguments = [item.strip() for item in raw_choice.split('"') if item and item != " "]
     arguments.pop(0)
  
@@ -79,7 +97,7 @@ while True:
         
     elif operation == "edit":
 
-        if len(arguments) != 3:
+        if len(arguments) != 2:
 
             error_message = "Invalid command arguments, type help for help."
         
@@ -103,13 +121,16 @@ while True:
             continue
         
         if arguments[0] == "All":
+
             scores = {key: scores[key] + arguments[1] for key in scores}
+
         else:
+
             scores[arguments[0]] += arguments[1]
 
     elif operation == "transfer":
 
-        if len(arguments) != 4:
+        if len(arguments) != 3:
 
             error_message = "Invalid command arguments, type help for help."
         
@@ -132,22 +153,26 @@ while True:
             continue
         
         if arguments[1] == "All":
+
             scores[arguments[0]] -= arguments[2] * len(scores)
             scores = {key : scores[key] + arguments[2] for key in scores}
+
         else:
+
             scores[arguments[0]] -= arguments[2]
             scores[arguments[1]] += arguments[2]
 
     elif operation == "help":
 
-        print('\nOperation: edit , Syntax: edit "name" increment "reason" , Description: Edit points of existing people.')
-        print('Operation: transfer , Syntax: transfer "sender" "recipient" amount "reason" , Description: Transfer points between people.')
+        print('\nOperation: edit , Syntax: edit "name" increment , Description: Edit points of people.')
+        print('Operation: transfer , Syntax: transfer "sender" "recipient" amount , Description: Transfer points between people.')
         print('Operation: help , Syntax: help , Description: Access this help message.')
         print('Operation: exit , Syntax: exit , Description: Exit the program.\n')
 
         os.system("pause")
 
 output(scores)
+
 save(scores)
 
 store.close()
