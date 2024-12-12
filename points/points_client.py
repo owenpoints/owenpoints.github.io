@@ -4,7 +4,7 @@ import datetime
 import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'assets'))
 from assets import *
-from wheel import *
+from wheel.wheel_assets import *
 
 def send_to_log(message):
 
@@ -255,7 +255,7 @@ while True:
 
         exchange_rate = 10
 
-        if len(arguments != 2):
+        if len(arguments) != 2:
 
             error_message = "Invalid command arguments, type help for help."
 
