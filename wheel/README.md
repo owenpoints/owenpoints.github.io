@@ -2,9 +2,9 @@
 
 |Ranking|Name|Wheel Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|0|
-|2.|Thomas Clancy|0|
-|3.|Owen Bridges|0|
+|1.|Owen Bridges|1|
+|2.|Grace Pyon|0|
+|3.|Thomas Clancy|0|
 |4.|Saanvi Chingireddy|0|
 |5.|Emerson Hamp|0|
 |6.|Mr. Brown|0|
@@ -46,3 +46,5 @@
 |42.|Mr. Martin|0|
 
 ## 10 Wheel Points can be exchanged for 1 Owen Point
+
+## [Back](../) to Owen Points Leaderboard
