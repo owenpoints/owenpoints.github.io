@@ -4,7 +4,7 @@
 | ----------- | ----------- | ----------- |
 |1.|Aidan McGeever|15|
 |2.|Avery Jones|11|
-|3.|Emerson Hamp|11|
+|3.|Emerson Hamp|10|
 |4.|William Niemiec-Andorfer|9|
 |5.|Grace Pyon|7|
 |6.|Saanvi Chingireddy|6|
