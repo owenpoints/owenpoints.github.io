@@ -2,28 +2,28 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|79,999,999,934|
-|2.|Thomas Clancy|60|
-|3.|Owen Bridges|51|
-|4.|Saanvi Chingireddy|50|
-|5.|Mr. Brown|21|
-|6.|Emerson Hamp|21|
-|7.|Aidan McGeever|17|
-|8.|Kimaya Joshi|10|
-|9.|William Niemiec-Andorfer|10|
-|10.|Mr. Dixon|7|
-|11.|Coach Bombard|5|
-|12.|Rosie|4|
-|13.|Owen Bridges' Iphone|4|
-|14.|Shurifin|4|
-|15.|Isaiah|3|
-|16.|Max Goldblatt|3|
-|17.|Justin Ferrero|2|
-|18.|Mr. Lee|1|
-|19.|Mrs. Davis|1|
-|20.|Silas Weiler|1|
-|21.|Koko|0|
-|22.|Avery Jones|-1|
+|1.|Grace Pyon|79,999,999,927|
+|2.|Owen Bridges|51|
+|3.|Thomas Clancy|40|
+|4.|Mr. Brown|21|
+|5.|Kimaya Joshi|10|
+|6.|Emerson Hamp|10|
+|7.|Mr. Dixon|7|
+|8.|Coach Bombard|5|
+|9.|William Niemiec-Andorfer|5|
+|10.|James Henry Southern|4|
+|11.|Rosie|4|
+|12.|Owen Bridges' Iphone|4|
+|13.|Shurifin|4|
+|14.|Isaiah|3|
+|15.|Max Goldblatt|3|
+|16.|Justin Ferrero|2|
+|17.|Aidan McGeever|2|
+|18.|Saanvi Chingireddy|2|
+|19.|Mr. Lee|1|
+|20.|Mrs. Davis|1|
+|21.|Silas Weiler|1|
+|22.|Koko|0|
 |23.|Olivia|-1|
 |24.|Peter Wazdin|-1|
 |25.|Kaitlyn|-1|
@@ -34,13 +34,13 @@
 |30.|Noam Kolt|-4|
 |31.|Katie Hanson|-4|
 |32.|Mrs. Hart|-4|
-|33.|Mr. Yeats|-4|
-|34.|Sharleen Wang|-5|
-|35.|Alec Aris|-9|
-|36.|Wasps|-10|
-|37.|James Henry Southern|-10|
-|38.|Guy in library who took my seat|-11|
-|39.|Daniel Duke|-49|
+|33.|Sharleen Wang|-5|
+|34.|Mr. Yeats|-7|
+|35.|Wasps|-10|
+|36.|Guy in library who took my seat|-11|
+|37.|Avery Jones|-11|
+|38.|Alec Aris|-14|
+|39.|Daniel Duke|-48|
 |40.|Northview High School|-57|
 |41.|godfearingman499|-499|
 |42.|Mr. Martin|-9,223,372,036,854,776,847|
@@ -63,16 +63,6 @@
 
 2024-12-11 14:06:41.268965 \| Points Transfer \| Grace Pyon to Owen Bridges \| Amount: 31 \| "I haven o clue 😼😼😼"
 
-2024-12-11 09:26:50.847569 \| Edit Points \| Emerson Hamp \| Change: -1 \| "Spun the wheel"
-
-2024-12-11 09:26:20.257396 \| Edit Points \| Saanvi Chingireddy \| Change: 1 \| "Spun the wheel"
-
-2024-12-11 09:26:10.464804 \| Edit Points \| James Henry Southern \| Change: -5 \| "Spun the wheel"
-
-2024-12-11 09:04:14.070388 \| Edit Points \| Aidan McGeever \| Change: 5 \| "Spun the wheel"
-
-2024-12-11 09:01:42.414017 \| Edit Points \| William Niemiec-Andorfer \| Change: -2 \| "Spun the wheel"
-
 2024-12-11 08:53:01.154682 \| Edit Points \| Aidan McGeever \| Change: 4 \| "My glorious sigma"
 
 2024-12-11 08:52:23.886733 \| Edit Points \| Thomas Clancy \| Change: 3 \| "Various silly endevours"
@@ -85,25 +75,11 @@
 
 2024-12-11 08:35:46.692329 \| Add \| godfearingman499
 
-2024-12-11 08:18:35.603429 \| Edit Points \| Daniel Duke \| Change: -1 \| "Spun the wheel"
-
-2024-12-11 08:18:14.619090 \| Edit Points \| Avery Jones \| Change: 4 \| "Spun the wheel"
-
 2024-12-10 20:45:02.740067 \| Edit Points \| Daniel Duke \| Change: -4 \| "Sent me [this instagram reel](https://www.instagram.com/reel/DA3g8t-IIDU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)"
-
-2024-12-10 20:42:51.954841 \| Edit Points \| Avery Jones \| Change: 5 \| "Spun the wheel"
 
 2024-12-10 20:42:36.621699 \| Edit Points \| Thomas Clancy \| Change: 5 \| "Said underwear"
 
-2024-12-10 13:35:05.280539 \| Edit Points \| Thomas Clancy \| Change: 20 \| "Spun the wheel"
-
 2024-12-10 12:44:57.022354 \| Edit Points \| Emerson Hamp \| Change: 5 \| "Appreciating me 🥹🥹🥹"
-
-2024-12-10 09:27:28.771160 \| Edit Points \| James Henry Southern \| Change: 3 \| "Spun the wheel"
-
-2024-12-10 09:26:07.310355 \| Edit Points \| Saanvi Chingireddy \| Change: 20 \| "Spun the wheel"
-
-2024-12-10 09:24:53.793274 \| Edit Points \| Emerson Hamp \| Change: 3 \| "Spun the wheel"
 
 2024-12-10 08:53:41.297461 \| Edit Points \| Thomas Clancy \| Change: 2 \| "Did William N-A's part of the work in the Othello quote analysis"
 
@@ -125,12 +101,6 @@
 
 2024-12-09 12:00:34.465949 \| Edit Points \| Grace Pyon \| Change: 10 \| "Bought me pony island"
 
-2024-12-09 09:26:36.189870 \| Edit Points \| Saanvi Chingireddy \| Change: 20 \| "Spun the wheel"
-
-2024-12-09 09:26:20.957420 \| Edit Points \| Emerson Hamp \| Change: -1 \| "Spun the wheel"
-
-2024-12-09 09:26:11.045592 \| Edit Points \| James Henry Southern \| Change: 3 \| "Spun the wheel"
-
 2024-12-08 14:43:54.919349 \| Edit Points \| Thomas Clancy \| Change: 3 \| "Called me based"
 
 2024-12-07 19:07:31.291277 \| Edit Points \| William Niemiec-Andorfer \| Change: -5 \| "Put $1 bounty on voting for 3 in esports dc server"
@@ -143,13 +113,7 @@
 
 2024-12-06 12:43:13.089745 \| Edit Points \| Justin Ferrero \| Change: 2 \| "Max Goldblatt had more points than him"
 
-2024-12-06 09:24:57.642073 \| Edit Points \| James Henry Southern \| Change: -20 \| "Spun the wheel"
-
-2024-12-06 09:23:17.189013 \| Edit Points \| Emerson Hamp \| Change: 3 \| "Spun the wheel"
-
 2024-12-06 08:06:28.798592 \| Edit Points \| Alec Aris \| Change: 3 \| "EChess playoffs"
-
-2024-12-06 07:58:49.979571 \| Edit Points \| William Niemiec-Andorfer \| Change: 7 \| "Spun points wheel"
 
 2024-12-06 07:55:44.069450 \| Edit Points \| Mrs. Davis \| Change: 3 \| "Points lottery"
 
@@ -165,31 +129,13 @@
 
 2024-12-05 13:34:08.565610 \| Name Change \| Ben \| Changed To: Ben Ussery
 
-2024-12-05 09:31:25.639478 \| Edit Points \| James Henry Southern \| Change: 5 \| "Spun the wheel"
-
 2024-12-05 09:30:32.897627 \| Name Change \| Saanvi \| Changed To: Saanvi Chingireddy
-
-2024-12-05 09:30:09.663464 \| Edit Points \| Saanvi \| Change: 7 \| "Spun the wheel"
-
-2024-12-05 09:29:34.514202 \| Edit Points \| Emerson Hamp \| Change: 7 \| "Spun the wheel"
 
 2024-12-05 09:29:23.455444 \| Add \| Emerson Hamp
 
-2024-12-05 09:14:24.493764 \| Edit Points \| Aidan McGeever \| Change: 10 \| "Duos gambling wheel"
-
-2024-12-04 16:52:14.242639 \| Edit Points \| Mr. Yeats \| Change: 3 \| "Spun the wheel"
-
 2024-12-04 16:30:30.023830 \| Edit Points \| Alec Aris \| Change: 14 \| "Spun the duos wheel with Avery (Alec: Steal - Avery: Share)"
 
-2024-12-04 16:18:25.445982 \| Edit Points \| Avery Jones \| Change: 2 \| "Spun the wheel"
-
-2024-12-04 15:45:21.159993 \| Edit Points \| Alec Aris \| Change: 5 \| "Spun the wheel"
-
-2024-12-04 15:44:24.842848 \| Edit Points \| Avery Jones \| Change: -1 \| "Spun the wheel"
-
 2024-12-04 13:41:16.559710 \| Edit Points \| Mr. Dixon \| Change: 2 \| "Let us watch movies in class"
-
-2024-12-04 13:40:15.256611 \| Edit Points \| Grace Pyon \| Change: 7 \| "Spun the wheel and won"
 
 2024-12-04 13:39:57.715724 \| Edit Points \| Grace Pyon \| Change: -10 \| "Payment for Aidan letting her charge her phone with his laptop"
 
