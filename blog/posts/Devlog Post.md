@@ -1,4 +1,6 @@
 # Devlog Post
+2024-12-11 22:26:41.119938 \| Owen Bridges \| Transferred Owen Points gained from wheel to wheel points with 1:1 conversion ratio (converting back will have a 1:10 Owen Points to wheel points ratio)
+
 2024-12-11 21:47:08.965818 \| Owen Bridges \| Moved hidden_wheel.html to declutter the root folder
 
 2024-12-11 21:20:48.464546 \| Owen Bridges \| Made points_client.py update the wheel page when making changes relevant to the wheel page
@@ -27,7 +29,7 @@
 
 2024-12-10 08:37:52.129246 \| Owen Bridges \| Renamed devlog.py to devlog_client.py to be more consistent with other files
 
-2024-12-09 23:34:10.347586 \| Owen Bridges \| Rehauled points editing client to use a more traditional command system
+2024-12-09 23:34:10.347586 \| Owen Bridges \| Overhauled points editing client to use a more traditional command system
 
 2024-11-29 21:12:12.028346 \| Owen Bridges \| Fixed init.bat for real this time 🙏🙏🙏
 
