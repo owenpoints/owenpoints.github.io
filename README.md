@@ -6,44 +6,45 @@
 |2.|Thomas Clancy|41|
 |3.|Owen Bridges|39|
 |4.|Mr. Brown|21|
-|5.|Kimaya Joshi|10|
-|6.|Emerson Hamp|10|
+|5.|Emerson Hamp|10|
+|6.|Kimaya Joshi|10|
 |7.|Mr. Dixon|7|
 |8.|Saanvi Chingireddy|6|
-|9.|Coach Bombard|5|
-|10.|William Niemiec-Andorfer|5|
-|11.|James Henry Southern|4|
-|12.|Rosie|4|
-|13.|Owen Bridges' Iphone|4|
-|14.|Shurifin|4|
-|15.|Max Goldblatt|3|
-|16.|Isaiah Adegbenro|3|
-|17.|Justin Ferrero|2|
+|9.|William Niemiec-Andorfer|5|
+|10.|Coach Bombard|5|
+|11.|Shurifin|4|
+|12.|Owen Bridges' Iphone|4|
+|13.|Rosie|4|
+|14.|James Henry Southern|4|
+|15.|Isaiah Adegbenro|3|
+|16.|Max Goldblatt|3|
+|17.|Justin Ferrero|2.999|
 |18.|Aidan McGeever|2|
-|19.|Mr. Lee|1|
+|19.|Silas Weiler|1|
 |20.|Mrs. Davis|1|
-|21.|Silas Weiler|1|
+|21.|Mr. Lee|1|
 |22.|Koko|0|
-|23.|Olivia Chang|-1|
+|23.|Peter Wasdin|-1|
 |24.|Kaitlyn|-1|
-|25.|Peter Wasdin|-1|
-|26.|Ben Ussery|-2|
-|27.|Aubrey Niemiec-Andorfer|-2|
-|28.|Mysterious OwenHater856|-2|
-|29.|Thomas Clancy's Airpods|-2|
-|30.|Noam Kolt|-4|
+|25.|Olivia Chang|-1|
+|26.|Thomas Clancy's Airpods|-2|
+|27.|Mysterious OwenHater856|-2|
+|28.|Aubrey Niemiec-Andorfer|-2|
+|29.|Ben Ussery|-2|
+|30.|Mrs. Hart|-4|
 |31.|Katie Hanson|-4|
-|32.|Mrs. Hart|-4|
-|33.|Sharleen Wang|-5|
-|34.|Mr. Yeats|-7|
-|35.|Wasps|-10|
-|36.|Guy in library who took my seat|-11|
+|32.|Noam Kolt|-4|
+|33.|Geoff Keighley|-5|
+|34.|Sharleen Wang|-5|
+|35.|Mr. Yeats|-7|
+|36.|Wasps|-10|
 |37.|Avery Jones|-11|
-|38.|Alec Aris|-14|
-|39.|Daniel Duke|-53|
-|40.|Northview High School|-57|
-|41.|godfearingman499|-499|
-|42.|Mr. Martin|-9,223,372,036,854,776,847|
+|38.|Guy in library who took my seat|-11|
+|39.|Alec Aris|-14|
+|40.|Daniel Duke|-53|
+|41.|Northview High School|-57|
+|42.|godfearingman499|-499|
+|43.|Mr. Martin|-9,223,372,036,854,776,847|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -55,6 +56,12 @@
 
 
 ## Owen Points Log:
+2024-12-13 08:23:37.907099 \| Edit Points \| Geoff Keighley \| Change: -5.0 \| "Did not announce Hollow Knight: Silksong"
+
+2024-12-13 08:23:07.150671 \| Add \| Geoff Keighley
+
+2024-12-13 08:22:36.492401 \| Edit Points \| Justin Ferrero \| Change: 0.999 \| "Such a jolly good fellow"
+
 2024-12-13 07:11:06.645172 \| Edit Points \| Thomas Clancy \| Change: -1 \| "Traded in for a handshake"
 
 2024-12-13 07:10:46.355068 \| Edit Points \| Daniel Duke \| Change: -5 \| "Among others, called me idiot, dumbdumb, stinky, loser"

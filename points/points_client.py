@@ -69,6 +69,7 @@ while True:
 
     scores = dict(sorted(scores.items(), key=lambda item: item[1]))
     scores = {k: scores[k] for k in reversed(scores)}
+    scores = pretty_dict(scores)
     
     for i in scores:
 
@@ -169,11 +170,11 @@ while True:
 
         try:
             
-            arguments[1] = int(arguments[1].strip())
+            arguments[1] = float(arguments[1].strip())
         
         except ValueError:
             
-            error_message = "Input integer for points increment."
+            error_message = "Input float for points increment."
 
             continue
         
@@ -203,11 +204,11 @@ while True:
 
         try:
             
-            arguments[2] = int(arguments[2].strip())
+            arguments[2] = float(arguments[2].strip())
         
         except ValueError:
             
-            error_message = "Input integer for points transfer."
+            error_message = "Input float for points transfer."
 
             continue
         
@@ -269,11 +270,11 @@ while True:
 
         try:
 
-            arguments[1] = int(arguments[1].strip())
+            arguments[1] = float(arguments[1].strip())
 
         except ValueError:
 
-            error_message = "Input integer for points exchange"
+            error_message = "Input float for points exchange"
 
             continue
 
