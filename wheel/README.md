@@ -3,10 +3,10 @@
 |Ranking|Name|Wheel Points|
 | ----------- | ----------- | ----------- |
 |1.|William Niemiec-Andorfer|19|
-|2.|Aidan McGeever|15|
-|3.|Saanvi Chingireddy|13|
-|4.|Avery Jones|11|
-|5.|Emerson Hamp|10|
+|2.|Emerson Hamp|17|
+|3.|Aidan McGeever|15|
+|4.|Saanvi Chingireddy|13|
+|5.|Avery Jones|11|
 |6.|Grace Pyon|7|
 |7.|Alec Aris|5|
 |8.|Daniel Duke|4|
