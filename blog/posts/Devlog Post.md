@@ -1,4 +1,6 @@
 # Devlog Post
+2024-12-13 08:29:21.771637 \| Owen Bridges \| Added support for floating point numbers and cosmetically replacing floating point numbers with integers when appropriate
+
 2024-12-12 10:05:11.745610 \| Owen Bridges \| Rebalanced duos wheel
 
 2024-12-12 09:25:47.949586 \| Owen Bridges \| Rebalanced the new wheel

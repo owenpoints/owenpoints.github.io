@@ -69,7 +69,6 @@ while True:
 
     scores = dict(sorted(scores.items(), key=lambda item: item[1]))
     scores = {k: scores[k] for k in reversed(scores)}
-    scores = pretty_dict(scores)
     
     for i in scores:
 
