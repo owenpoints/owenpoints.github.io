@@ -41,7 +41,7 @@
 |37.|Avery Jones|-11|
 |38.|Guy in library who took my seat|-11|
 |39.|Alec Aris|-14|
-|40.|Daniel Duke|-53|
+|40.|Daniel Duke|-43|
 |41.|Northview High School|-57|
 |42.|godfearingman499|-499|
 |43.|Mr. Martin|-9,223,372,036,854,776,847|
@@ -56,6 +56,8 @@
 
 
 ## Owen Points Log:
+2024-12-13 09:23:14.290785 \| Edit Points \| Daniel Duke \| Change: 10 \| "Upstanding citizen"
+
 2024-12-13 08:30:32.475173 \| Edit Points \| Aidan McGeever \| Change: 3 \| "Brought food to NHS Esports party"
 
 2024-12-13 08:23:37.907099 \| Edit Points \| Geoff Keighley \| Change: -5 \| "Did not announce Hollow Knight: Silksong"
