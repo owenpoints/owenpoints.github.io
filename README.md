@@ -12,14 +12,14 @@
 |8.|Saanvi Chingireddy|6|
 |9.|William Niemiec-Andorfer|5|
 |10.|Coach Bombard|5|
-|11.|Shurifin|4|
-|12.|Owen Bridges' Iphone|4|
-|13.|Rosie|4|
-|14.|James Henry Southern|4|
-|15.|Isaiah Adegbenro|3|
-|16.|Max Goldblatt|3|
-|17.|Justin Ferrero|2.999|
-|18.|Aidan McGeever|2|
+|11.|Aidan McGeever|5|
+|12.|Shurifin|4|
+|13.|Owen Bridges' Iphone|4|
+|14.|Rosie|4|
+|15.|James Henry Southern|4|
+|16.|Isaiah Adegbenro|3|
+|17.|Max Goldblatt|3|
+|18.|Justin Ferrero|2.999|
 |19.|Silas Weiler|1|
 |20.|Mrs. Davis|1|
 |21.|Mr. Lee|1|
@@ -56,7 +56,9 @@
 
 
 ## Owen Points Log:
-2024-12-13 08:23:37.907099 \| Edit Points \| Geoff Keighley \| Change: -5.0 \| "Did not announce Hollow Knight: Silksong"
+2024-12-13 08:30:32.475173 \| Edit Points \| Aidan McGeever \| Change: 3 \| "Brought food to NHS Esports party"
+
+2024-12-13 08:23:37.907099 \| Edit Points \| Geoff Keighley \| Change: -5 \| "Did not announce Hollow Knight: Silksong"
 
 2024-12-13 08:23:07.150671 \| Add \| Geoff Keighley
 
