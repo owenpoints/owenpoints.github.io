@@ -38,12 +38,12 @@
 |34.|Coach Bombard|0|
 |35.|Mr. Dixon|0|
 |36.|Kimaya Joshi|0|
-|37.|Mr. Brown|0|
-|38.|Peter Wasdin|0|
-|39.|Isaiah Adegbenro|0|
-|40.|Olivia Chang|0|
-|41.|Geoff Keighley|0|
-|42.|Thomas Clancy|-1|
+|37.|Peter Wasdin|0|
+|38.|Isaiah Adegbenro|0|
+|39.|Olivia Chang|0|
+|40.|Geoff Keighley|0|
+|41.|Thomas Clancy|-1|
+|42.|Mr. Brown|-2|
 |43.|James Henry Southern|-19|
 
 ## 10 Wheel Points can be exchanged for 1 Owen Point
