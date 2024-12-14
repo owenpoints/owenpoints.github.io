@@ -6,40 +6,40 @@
 |2.|Thomas Clancy|41|
 |3.|Owen Bridges|39|
 |4.|Mr. Brown|26|
-|5.|Emerson Hamp|10|
-|6.|Kimaya Joshi|10|
+|5.|Kimaya Joshi|10|
+|6.|Emerson Hamp|10|
 |7.|Mr. Dixon|7|
 |8.|Saanvi Chingireddy|6|
-|9.|William Niemiec-Andorfer|5|
+|9.|Aidan McGeever|5|
 |10.|Coach Bombard|5|
-|11.|Aidan McGeever|5|
-|12.|Shurifin|4|
-|13.|Owen Bridges' Iphone|4|
-|14.|Rosie|4|
-|15.|James Henry Southern|4|
-|16.|Isaiah Adegbenro|3|
-|17.|Max Goldblatt|3|
+|11.|William Niemiec-Andorfer|5|
+|12.|James Henry Southern|4|
+|13.|Rosie|4|
+|14.|Owen Bridges' Iphone|4|
+|15.|Shurifin|4|
+|16.|Max Goldblatt|3|
+|17.|Isaiah Adegbenro|3|
 |18.|Justin Ferrero|2.999|
-|19.|Silas Weiler|1|
+|19.|Mr. Lee|1|
 |20.|Mrs. Davis|1|
-|21.|Mr. Lee|1|
+|21.|Silas Weiler|1|
 |22.|Koko|0|
-|23.|Peter Wasdin|-1|
+|23.|Olivia Chang|-1|
 |24.|Kaitlyn|-1|
-|25.|Olivia Chang|-1|
-|26.|Thomas Clancy's Airpods|-2|
-|27.|Mysterious OwenHater856|-2|
-|28.|Aubrey Niemiec-Andorfer|-2|
-|29.|Ben Ussery|-2|
-|30.|Mrs. Hart|-4|
+|25.|Peter Wasdin|-1|
+|26.|Ben Ussery|-2|
+|27.|Aubrey Niemiec-Andorfer|-2|
+|28.|Mysterious OwenHater856|-2|
+|29.|Thomas Clancy's Airpods|-2|
+|30.|Noam Kolt|-4|
 |31.|Katie Hanson|-4|
-|32.|Noam Kolt|-4|
-|33.|Geoff Keighley|-5|
-|34.|Sharleen Wang|-5|
+|32.|Mrs. Hart|-4|
+|33.|Sharleen Wang|-5|
+|34.|Geoff Keighley|-5|
 |35.|Mr. Yeats|-7|
 |36.|Wasps|-10|
-|37.|Avery Jones|-11|
-|38.|Guy in library who took my seat|-11|
+|37.|Guy in library who took my seat|-11|
+|38.|Avery Jones|-11|
 |39.|Alec Aris|-14|
 |40.|Daniel Duke|-43|
 |41.|Northview High School|-57|
@@ -56,7 +56,7 @@
 
 
 ## Owen Points Log:
-2024-12-14 10:50:43.797675 \| Edit Points \| Mr. Brown \| Change: 5 \| "Experienced [The horrors](https://cdn.discordapp.com/attachments/516360384282886158/1316117176725540884/IMG_9102.gif?ex=675e7e63&is=675d2ce3&hm=16a485efc90ff83d9b93739d7a556df622834945625aa87829a2f33e6a776ce4&)"
+2024-12-14 10:50:43.797675 \| Edit Points \| Mr. Brown \| Change: 5 \| "Experienced ![The horrors](https://cdn.discordapp.com/attachments/516360384282886158/1316117176725540884/IMG_9102.gif?ex=675e7e63&is=675d2ce3&hm=16a485efc90ff83d9b93739d7a556df622834945625aa87829a2f33e6a776ce4&)"
 
 2024-12-13 09:23:14.290785 \| Edit Points \| Daniel Duke \| Change: 10 \| "Upstanding citizen"
 
