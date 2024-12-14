@@ -1,6 +1,3 @@
-import sys
-import os
-sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'assets'))
 from assets import *
 
 to_replace, replacement, file_path = input().strip().split(":::")

@@ -1,7 +1,5 @@
 import os
 import datetime
-import sys
-sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'assets'))
 from assets import *
 
 user = better_open('./blog/username.txt', 'r')
