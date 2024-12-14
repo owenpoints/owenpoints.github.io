@@ -2,29 +2,29 @@
 
 |Ranking|Name|Wheel Points|
 | ----------- | ----------- | ----------- |
-|1.|William Niemiec-Andorfer|19|
-|2.|Emerson Hamp|17|
-|3.|Aidan McGeever|15|
-|4.|Saanvi Chingireddy|13|
-|5.|Avery Jones|11|
-|6.|Grace Pyon|7|
-|7.|Alec Aris|5|
-|8.|Daniel Duke|4|
-|9.|Mr. Yeats|3|
-|10.|Owen Bridges|0|
-|11.|Mr. Martin|0|
-|12.|godfearingman499|0|
-|13.|Northview High School|0|
-|14.|Guy in library who took my seat|0|
-|15.|Wasps|0|
-|16.|Sharleen Wang|0|
-|17.|Noam Kolt|0|
-|18.|Katie Hanson|0|
-|19.|Mrs. Hart|0|
-|20.|Ben Ussery|0|
-|21.|Aubrey Niemiec-Andorfer|0|
-|22.|Mysterious OwenHater856|0|
-|23.|Thomas Clancy's Airpods|0|
+|1.|Emerson Hamp|47|
+|2.|Avery Jones|41|
+|3.|Thomas Clancy's Airpods|30|
+|4.|William Niemiec-Andorfer|19|
+|5.|Aidan McGeever|15|
+|6.|Saanvi Chingireddy|13|
+|7.|Grace Pyon|7|
+|8.|Alec Aris|5|
+|9.|Daniel Duke|4|
+|10.|Mr. Yeats|3|
+|11.|Owen Bridges|0|
+|12.|Mr. Martin|0|
+|13.|godfearingman499|0|
+|14.|Northview High School|0|
+|15.|Guy in library who took my seat|0|
+|16.|Wasps|0|
+|17.|Sharleen Wang|0|
+|18.|Noam Kolt|0|
+|19.|Katie Hanson|0|
+|20.|Mrs. Hart|0|
+|21.|Ben Ussery|0|
+|22.|Aubrey Niemiec-Andorfer|0|
+|23.|Mysterious OwenHater856|0|
 |24.|Kaitlyn|0|
 |25.|Koko|0|
 |26.|Mr. Lee|0|
