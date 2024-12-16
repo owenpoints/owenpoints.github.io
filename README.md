@@ -6,40 +6,40 @@
 |2.|Thomas Clancy|41|
 |3.|Owen Bridges|39|
 |4.|Mr. Brown|26|
-|5.|Emerson Hamp|10|
-|6.|Kimaya Joshi|10|
+|5.|Kimaya Joshi|10|
+|6.|Emerson Hamp|10|
 |7.|Mr. Dixon|7|
 |8.|Saanvi Chingireddy|6|
-|9.|William Niemiec-Andorfer|5|
+|9.|Aidan McGeever|5|
 |10.|Coach Bombard|5|
-|11.|Aidan McGeever|5|
-|12.|Shurifin|4|
-|13.|Owen Bridges' Iphone|4|
-|14.|Rosie|4|
-|15.|James Henry Southern|4|
-|16.|Isaiah Adegbenro|3|
-|17.|Max Goldblatt|3|
-|18.|Justin Ferrero|2.9999000000000002|
-|19.|Silas Weiler|1|
+|11.|William Niemiec-Andorfer|5|
+|12.|James Henry Southern|4|
+|13.|Rosie|4|
+|14.|Owen Bridges' Iphone|4|
+|15.|Shurifin|4|
+|16.|Max Goldblatt|3|
+|17.|Isaiah Adegbenro|3|
+|18.|Justin Ferrero|2.9999|
+|19.|Mr. Lee|1|
 |20.|Mrs. Davis|1|
-|21.|Mr. Lee|1|
+|21.|Silas Weiler|1|
 |22.|Koko|0|
-|23.|Peter Wasdin|-1|
+|23.|Olivia Chang|-1|
 |24.|Kaitlyn|-1|
-|25.|Olivia Chang|-1|
-|26.|Thomas Clancy's Airpods|-2|
-|27.|Mysterious OwenHater856|-2|
-|28.|Aubrey Niemiec-Andorfer|-2|
-|29.|Ben Ussery|-2|
-|30.|Mrs. Hart|-4|
+|25.|Peter Wasdin|-1|
+|26.|Ben Ussery|-2|
+|27.|Aubrey Niemiec-Andorfer|-2|
+|28.|Mysterious OwenHater856|-2|
+|29.|Thomas Clancy's Airpods|-2|
+|30.|Noam Kolt|-4|
 |31.|Katie Hanson|-4|
-|32.|Noam Kolt|-4|
-|33.|Geoff Keighley|-5|
-|34.|Sharleen Wang|-5|
+|32.|Mrs. Hart|-4|
+|33.|Sharleen Wang|-5|
+|34.|Geoff Keighley|-5|
 |35.|Mr. Yeats|-7|
 |36.|Wasps|-10|
-|37.|Avery Jones|-11|
-|38.|Guy in library who took my seat|-11|
+|37.|Guy in library who took my seat|-11|
+|38.|Avery Jones|-11|
 |39.|Alec Aris|-14|
 |40.|Daniel Duke|-43|
 |41.|Northview High School|-57|
