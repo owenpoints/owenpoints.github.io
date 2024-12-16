@@ -12,39 +12,40 @@
 |8.|Alec Aris|5|
 |9.|Daniel Duke|4|
 |10.|Mr. Yeats|3|
-|11.|Owen Bridges|0|
-|12.|Mr. Martin|0|
-|13.|godfearingman499|0|
-|14.|Northview High School|0|
-|15.|Guy in library who took my seat|0|
-|16.|Wasps|0|
-|17.|Sharleen Wang|0|
-|18.|Noam Kolt|0|
-|19.|Katie Hanson|0|
-|20.|Mrs. Hart|0|
-|21.|Ben Ussery|0|
-|22.|Aubrey Niemiec-Andorfer|0|
-|23.|Mysterious OwenHater856|0|
-|24.|Kaitlyn|0|
-|25.|Koko|0|
-|26.|Mr. Lee|0|
-|27.|Mrs. Davis|0|
-|28.|Silas Weiler|0|
-|29.|Justin Ferrero|0|
-|30.|Max Goldblatt|0|
-|31.|Rosie|0|
-|32.|Owen Bridges' Iphone|0|
-|33.|Shurifin|0|
-|34.|Coach Bombard|0|
-|35.|Mr. Dixon|0|
-|36.|Kimaya Joshi|0|
-|37.|Peter Wasdin|0|
-|38.|Isaiah Adegbenro|0|
-|39.|Olivia Chang|0|
-|40.|Geoff Keighley|0|
-|41.|Thomas Clancy|-1|
-|42.|Mr. Brown|-2|
-|43.|James Henry Southern|-19|
+|11.|NHS Esports Smash Team|0|
+|12.|Owen Bridges|0|
+|13.|Mr. Martin|0|
+|14.|godfearingman499|0|
+|15.|Northview High School|0|
+|16.|Guy in library who took my seat|0|
+|17.|Wasps|0|
+|18.|Sharleen Wang|0|
+|19.|Noam Kolt|0|
+|20.|Katie Hanson|0|
+|21.|Mrs. Hart|0|
+|22.|Ben Ussery|0|
+|23.|Aubrey Niemiec-Andorfer|0|
+|24.|Mysterious OwenHater856|0|
+|25.|Kaitlyn|0|
+|26.|Koko|0|
+|27.|Mr. Lee|0|
+|28.|Mrs. Davis|0|
+|29.|Silas Weiler|0|
+|30.|Justin Ferrero|0|
+|31.|Max Goldblatt|0|
+|32.|Rosie|0|
+|33.|Owen Bridges' Iphone|0|
+|34.|Shurifin|0|
+|35.|Coach Bombard|0|
+|36.|Mr. Dixon|0|
+|37.|Kimaya Joshi|0|
+|38.|Peter Wasdin|0|
+|39.|Isaiah Adegbenro|0|
+|40.|Olivia Chang|0|
+|41.|Geoff Keighley|0|
+|42.|Thomas Clancy|-1|
+|43.|Mr. Brown|-2|
+|44.|James Henry Southern|-19|
 
 ## 10 Wheel Points can be exchanged for 1 Owen Point
 

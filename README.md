@@ -6,45 +6,46 @@
 |2.|Thomas Clancy|41|
 |3.|Owen Bridges|39|
 |4.|Mr. Brown|26|
-|5.|Kimaya Joshi|10|
-|6.|Emerson Hamp|10|
+|5.|Emerson Hamp|10|
+|6.|Kimaya Joshi|10|
 |7.|Mr. Dixon|7|
 |8.|Saanvi Chingireddy|6|
-|9.|Aidan McGeever|5|
+|9.|William Niemiec-Andorfer|5|
 |10.|Coach Bombard|5|
-|11.|William Niemiec-Andorfer|5|
-|12.|James Henry Southern|4|
-|13.|Rosie|4|
+|11.|Aidan McGeever|5|
+|12.|NHS Esports Smash Team|5|
+|13.|Shurifin|4|
 |14.|Owen Bridges' Iphone|4|
-|15.|Shurifin|4|
-|16.|Max Goldblatt|3|
+|15.|Rosie|4|
+|16.|James Henry Southern|4|
 |17.|Isaiah Adegbenro|3|
-|18.|Justin Ferrero|2.9999|
-|19.|Mr. Lee|1|
-|20.|Mrs. Davis|1|
-|21.|Silas Weiler|1|
-|22.|Koko|0|
-|23.|Olivia Chang|-1|
-|24.|Kaitlyn|-1|
-|25.|Peter Wasdin|-1|
-|26.|Ben Ussery|-2|
-|27.|Aubrey Niemiec-Andorfer|-2|
+|18.|Max Goldblatt|3|
+|19.|Justin Ferrero|2.9999|
+|20.|Silas Weiler|1|
+|21.|Mrs. Davis|1|
+|22.|Mr. Lee|1|
+|23.|Koko|0|
+|24.|Peter Wasdin|-1|
+|25.|Kaitlyn|-1|
+|26.|Olivia Chang|-1|
+|27.|Thomas Clancy's Airpods|-2|
 |28.|Mysterious OwenHater856|-2|
-|29.|Thomas Clancy's Airpods|-2|
-|30.|Noam Kolt|-4|
-|31.|Katie Hanson|-4|
-|32.|Mrs. Hart|-4|
-|33.|Sharleen Wang|-5|
+|29.|Aubrey Niemiec-Andorfer|-2|
+|30.|Ben Ussery|-2|
+|31.|Mrs. Hart|-4|
+|32.|Katie Hanson|-4|
+|33.|Noam Kolt|-4|
 |34.|Geoff Keighley|-5|
-|35.|Mr. Yeats|-7|
-|36.|Wasps|-10|
-|37.|Guy in library who took my seat|-11|
+|35.|Sharleen Wang|-5|
+|36.|Mr. Yeats|-7|
+|37.|Wasps|-10|
 |38.|Avery Jones|-11|
-|39.|Alec Aris|-14|
-|40.|Daniel Duke|-43|
+|39.|Guy in library who took my seat|-11|
+|40.|Alec Aris|-14|
 |41.|Northview High School|-57|
-|42.|godfearingman499|-499|
-|43.|Mr. Martin|-9,223,372,036,854,776,847|
+|42.|Daniel Duke|-88|
+|43.|godfearingman499|-499|
+|44.|Mr. Martin|-9,223,372,036,854,776,847|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -56,6 +57,14 @@
 
 
 ## Owen Points Log:
+2024-12-16 08:22:37.966509 \| Edit Points \| NHS Esports Smash Team \| Change: 5 \| "Made it to State Smash Runner-up"
+
+2024-12-16 08:20:05.759532 \| Name Change \| Northview Esports Smash Team \| Changed To: NHS Esports Smash Team
+
+2024-12-16 08:19:33.864091 \| Add \| Northview Esports Smash Team
+
+2024-12-16 08:19:14.272496 \| Edit Points \| Daniel Duke \| Change: -45 \| "Tried to take away my Owen Points + Yo mama jokes"
+
 2024-12-16 07:14:03.179105 \| Edit Points \| Justin Ferrero \| Change: 0.0009 \| "Forms: 'AUGHHU...'"
 
 2024-12-14 10:50:43.797675 \| Edit Points \| Mr. Brown \| Change: 5 \| "![The horrors](https://cdn.discordapp.com/attachments/516360384282886158/1316117176725540884/IMG_9102.gif?ex=675e7e63&is=675d2ce3&hm=16a485efc90ff83d9b93739d7a556df622834945625aa87829a2f33e6a776ce4&)"

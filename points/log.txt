@@ -1,3 +1,7 @@
+2024-12-16 08:22:37.966509 \| Edit Points \| NHS Esports Smash Team \| Change: 5 \| "Made it to State Smash Runner-up"
+2024-12-16 08:20:05.759532 \| Name Change \| Northview Esports Smash Team \| Changed To: NHS Esports Smash Team
+2024-12-16 08:19:33.864091 \| Add \| Northview Esports Smash Team
+2024-12-16 08:19:14.272496 \| Edit Points \| Daniel Duke \| Change: -45 \| "Tried to take away my Owen Points + Yo mama jokes"
 2024-12-16 07:14:03.179105 \| Edit Points \| Justin Ferrero \| Change: 0.0009 \| "Forms: 'AUGHHU...'"
 2024-12-14 10:50:43.797675 \| Edit Points \| Mr. Brown \| Change: 5 \| "![The horrors](https://cdn.discordapp.com/attachments/516360384282886158/1316117176725540884/IMG_9102.gif?ex=675e7e63&is=675d2ce3&hm=16a485efc90ff83d9b93739d7a556df622834945625aa87829a2f33e6a776ce4&)"
 2024-12-13 09:23:14.290785 \| Edit Points \| Daniel Duke \| Change: 10 \| "Upstanding citizen"
