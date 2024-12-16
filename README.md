@@ -19,7 +19,7 @@
 |15.|James Henry Southern|4|
 |16.|Isaiah Adegbenro|3|
 |17.|Max Goldblatt|3|
-|18.|Justin Ferrero|2.999|
+|18.|Justin Ferrero|2.9999000000000002|
 |19.|Silas Weiler|1|
 |20.|Mrs. Davis|1|
 |21.|Mr. Lee|1|
@@ -56,6 +56,8 @@
 
 
 ## Owen Points Log:
+2024-12-16 07:14:03.179105 \| Edit Points \| Justin Ferrero \| Change: 0.0009 \| "Forms: 'AUGHHU...'"
+
 2024-12-14 10:50:43.797675 \| Edit Points \| Mr. Brown \| Change: 5 \| "![The horrors](https://cdn.discordapp.com/attachments/516360384282886158/1316117176725540884/IMG_9102.gif?ex=675e7e63&is=675d2ce3&hm=16a485efc90ff83d9b93739d7a556df622834945625aa87829a2f33e6a776ce4&)"
 
 2024-12-13 09:23:14.290785 \| Edit Points \| Daniel Duke \| Change: 10 \| "Upstanding citizen"
