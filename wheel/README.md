@@ -45,7 +45,7 @@
 |41.|Geoff Keighley|0|
 |42.|Thomas Clancy|-1|
 |43.|Mr. Brown|-2|
-|44.|James Henry Southern|-19|
+|44.|James Henry Southern|-15|
 
 ## 10 Wheel Points can be exchanged for 1 Owen Point
 
