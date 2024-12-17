@@ -8,11 +8,11 @@
 |4.|Mr. Brown|26|
 |5.|Emerson Hamp|10|
 |6.|Kimaya Joshi|10|
-|7.|Mr. Dixon|7|
-|8.|Saanvi Chingireddy|6|
-|9.|William Niemiec-Andorfer|5|
-|10.|Coach Bombard|5|
-|11.|Aidan McGeever|5|
+|7.|Aidan McGeever|8|
+|8.|Mr. Dixon|7|
+|9.|Saanvi Chingireddy|6|
+|10.|William Niemiec-Andorfer|5|
+|11.|Coach Bombard|5|
 |12.|NHS Esports Smash Team|5|
 |13.|Shurifin|4|
 |14.|Owen Bridges' Iphone|4|
@@ -57,6 +57,8 @@
 
 
 ## Owen Points Log:
+2024-12-16 19:11:34.401785 \| Edit Points \| Aidan McGeever \| Change: 3 \| "Called me the glorious leader"
+
 2024-12-16 08:22:37.966509 \| Edit Points \| NHS Esports Smash Team \| Change: 5 \| "Made it to State Smash Runner-up"
 
 2024-12-16 08:20:05.759532 \| Name Change \| Northview Esports Smash Team \| Changed To: NHS Esports Smash Team
