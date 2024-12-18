@@ -6,41 +6,41 @@
 |2.|Thomas Clancy|41|
 |3.|Owen Bridges|39|
 |4.|Mr. Brown|26|
-|5.|Emerson Hamp|10|
-|6.|Kimaya Joshi|10|
+|5.|Kimaya Joshi|10|
+|6.|Emerson Hamp|10|
 |7.|Aidan McGeever|8|
 |8.|Mr. Dixon|7|
 |9.|Saanvi Chingireddy|6|
-|10.|William Niemiec-Andorfer|5|
+|10.|NHS Esports Smash Team|5|
 |11.|Coach Bombard|5|
-|12.|NHS Esports Smash Team|5|
-|13.|Shurifin|4|
-|14.|Owen Bridges' Iphone|4|
-|15.|Rosie|4|
-|16.|James Henry Southern|4|
-|17.|Isaiah Adegbenro|3|
-|18.|Max Goldblatt|3|
+|12.|William Niemiec-Andorfer|5|
+|13.|James Henry Southern|4|
+|14.|Rosie|4|
+|15.|Owen Bridges' Iphone|4|
+|16.|Shurifin|4|
+|17.|Max Goldblatt|3|
+|18.|Isaiah Adegbenro|3|
 |19.|Justin Ferrero|2.9999|
-|20.|Silas Weiler|1|
+|20.|Mr. Lee|1|
 |21.|Mrs. Davis|1|
-|22.|Mr. Lee|1|
+|22.|Silas Weiler|1|
 |23.|Koko|0|
-|24.|Peter Wasdin|-1|
+|24.|Olivia Chang|-1|
 |25.|Kaitlyn|-1|
-|26.|Olivia Chang|-1|
-|27.|Thomas Clancy's Airpods|-2|
-|28.|Mysterious OwenHater856|-2|
-|29.|Aubrey Niemiec-Andorfer|-2|
-|30.|Ben Ussery|-2|
-|31.|Mrs. Hart|-4|
+|26.|Peter Wasdin|-1|
+|27.|Ben Ussery|-2|
+|28.|Aubrey Niemiec-Andorfer|-2|
+|29.|Mysterious OwenHater856|-2|
+|30.|Thomas Clancy's Airpods|-2|
+|31.|Noam Kolt|-4|
 |32.|Katie Hanson|-4|
-|33.|Noam Kolt|-4|
-|34.|Geoff Keighley|-5|
-|35.|Sharleen Wang|-5|
+|33.|Mrs. Hart|-4|
+|34.|Sharleen Wang|-5|
+|35.|Geoff Keighley|-5|
 |36.|Mr. Yeats|-7|
 |37.|Wasps|-10|
-|38.|Avery Jones|-11|
-|39.|Guy in library who took my seat|-11|
+|38.|Guy in library who took my seat|-11|
+|39.|Avery Jones|-11|
 |40.|Alec Aris|-14|
 |41.|Northview High School|-57|
 |42.|Daniel Duke|-88|
@@ -69,7 +69,7 @@
 
 2024-12-16 07:14:03.179105 \| Edit Points \| Justin Ferrero \| Change: 0.0009 \| "Forms: 'AUGHHU...'"
 
-2024-12-14 10:50:43.797675 \| Edit Points \| Mr. Brown \| Change: 5 \| "![The horrors](https://cdn.discordapp.com/attachments/516360384282886158/1316117176725540884/IMG_9102.gif?ex=675e7e63&is=675d2ce3&hm=16a485efc90ff83d9b93739d7a556df622834945625aa87829a2f33e6a776ce4&)"
+2024-12-14 10:50:43.797675 \| Edit Points \| Mr. Brown \| Change: 5 \| "![The horrors](./media/bird_running.gif)"
 
 2024-12-13 09:23:14.290785 \| Edit Points \| Daniel Duke \| Change: 10 \| "Upstanding citizen"
 
