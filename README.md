@@ -2,50 +2,50 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|79,999,999,939|
-|2.|Thomas Clancy|41|
-|3.|Owen Bridges|39|
-|4.|Mr. Brown|26|
-|5.|Kimaya Joshi|10|
-|6.|Emerson Hamp|10|
-|7.|Aidan McGeever|8|
-|8.|Mr. Dixon|7|
-|9.|Saanvi Chingireddy|6|
-|10.|NHS Esports Smash Team|5|
-|11.|Coach Bombard|5|
-|12.|William Niemiec-Andorfer|5|
-|13.|James Henry Southern|4|
-|14.|Rosie|4|
-|15.|Owen Bridges' Iphone|4|
-|16.|Shurifin|4|
-|17.|Max Goldblatt|3|
-|18.|Isaiah Adegbenro|3|
-|19.|Justin Ferrero|2.9999|
-|20.|Mr. Lee|1|
-|21.|Mrs. Davis|1|
-|22.|Silas Weiler|1|
-|23.|Koko|0|
-|24.|Olivia Chang|-1|
-|25.|Kaitlyn|-1|
-|26.|Peter Wasdin|-1|
-|27.|Ben Ussery|-2|
-|28.|Aubrey Niemiec-Andorfer|-2|
-|29.|Mysterious OwenHater856|-2|
-|30.|Thomas Clancy's Airpods|-2|
-|31.|Noam Kolt|-4|
-|32.|Katie Hanson|-4|
-|33.|Mrs. Hart|-4|
-|34.|Sharleen Wang|-5|
-|35.|Geoff Keighley|-5|
-|36.|Mr. Yeats|-7|
-|37.|Wasps|-10|
-|38.|Guy in library who took my seat|-11|
-|39.|Avery Jones|-11|
-|40.|Alec Aris|-14|
-|41.|Northview High School|-57|
-|42.|Daniel Duke|-88|
-|43.|godfearingman499|-499|
-|44.|Mr. Martin|-9,223,372,036,854,776,847|
+|1.|Grace Pyon|79,999,999,944|
+|2.|Thomas Clancy|46|
+|3.|Owen Bridges|44|
+|4.|Mr. Brown|31|
+|5.|Emerson Hamp|15|
+|6.|Kimaya Joshi|15|
+|7.|Aidan McGeever|13|
+|8.|Mr. Dixon|12|
+|9.|Saanvi Chingireddy|11|
+|10.|William Niemiec-Andorfer|10|
+|11.|Coach Bombard|10|
+|12.|NHS Esports Smash Team|10|
+|13.|Shurifin|9|
+|14.|Owen Bridges' Iphone|9|
+|15.|Rosie|9|
+|16.|James Henry Southern|9|
+|17.|Isaiah Adegbenro|8|
+|18.|Max Goldblatt|8|
+|19.|Justin Ferrero|7.9999|
+|20.|Silas Weiler|6|
+|21.|Mrs. Davis|6|
+|22.|Mr. Lee|6|
+|23.|Koko|5|
+|24.|Peter Wasdin|4|
+|25.|Kaitlyn|4|
+|26.|Olivia Chang|4|
+|27.|Thomas Clancy's Airpods|3|
+|28.|Mysterious OwenHater856|3|
+|29.|Aubrey Niemiec-Andorfer|3|
+|30.|Ben Ussery|3|
+|31.|Mrs. Hart|1|
+|32.|Katie Hanson|1|
+|33.|Noam Kolt|1|
+|34.|Geoff Keighley|0|
+|35.|Sharleen Wang|0|
+|36.|Mr. Yeats|-2|
+|37.|Wasps|-5|
+|38.|Avery Jones|-6|
+|39.|Guy in library who took my seat|-6|
+|40.|Alec Aris|-9|
+|41.|Northview High School|-52|
+|42.|Daniel Duke|-83|
+|43.|godfearingman499|-494|
+|44.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -57,6 +57,10 @@
 
 
 ## Owen Points Log:
+2024-12-28 11:22:00.173110 \| Edit Points \| Mr. Martin \| Change: -5 \| "No bonus for him"
+
+2024-12-28 11:20:56.271340 \| Edit Points \| All \| Change: 5 \| "Holiday Bonus"
+
 2024-12-16 19:11:34.401785 \| Edit Points \| Aidan McGeever \| Change: 3 \| "Called me the glorious leader"
 
 2024-12-16 08:22:37.966509 \| Edit Points \| NHS Esports Smash Team \| Change: 5 \| "Made it to State Smash Runner-up"
