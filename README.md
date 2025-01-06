@@ -2,49 +2,49 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|79,999,999,944|
-|2.|Thomas Clancy|46|
-|3.|Owen Bridges|44|
-|4.|Mr. Brown|31|
-|5.|Emerson Hamp|15|
-|6.|Kimaya Joshi|15|
-|7.|Aidan McGeever|13|
-|8.|Mr. Dixon|12|
-|9.|Saanvi Chingireddy|11|
-|10.|William Niemiec-Andorfer|10|
-|11.|Coach Bombard|10|
-|12.|NHS Esports Smash Team|10|
-|13.|Shurifin|9|
-|14.|Owen Bridges' Iphone|9|
-|15.|Rosie|9|
-|16.|James Henry Southern|9|
-|17.|Isaiah Adegbenro|8|
-|18.|Max Goldblatt|8|
-|19.|Justin Ferrero|7.9999|
-|20.|Silas Weiler|6|
-|21.|Mrs. Davis|6|
-|22.|Mr. Lee|6|
-|23.|Koko|5|
-|24.|Peter Wasdin|4|
-|25.|Kaitlyn|4|
-|26.|Olivia Chang|4|
-|27.|Thomas Clancy's Airpods|3|
-|28.|Mysterious OwenHater856|3|
-|29.|Aubrey Niemiec-Andorfer|3|
-|30.|Ben Ussery|3|
-|31.|Mrs. Hart|1|
-|32.|Katie Hanson|1|
-|33.|Noam Kolt|1|
-|34.|Geoff Keighley|0|
-|35.|Sharleen Wang|0|
-|36.|Mr. Yeats|-2|
-|37.|Wasps|-5|
-|38.|Avery Jones|-6|
-|39.|Guy in library who took my seat|-6|
-|40.|Alec Aris|-9|
-|41.|Northview High School|-52|
-|42.|Daniel Duke|-83|
-|43.|godfearingman499|-494|
+|1.|Grace Pyon|79,999,999,949|
+|2.|Thomas Clancy|51|
+|3.|Owen Bridges|49|
+|4.|Mr. Brown|36|
+|5.|Emerson Hamp|20|
+|6.|Kimaya Joshi|20|
+|7.|Aidan McGeever|18|
+|8.|Mr. Dixon|17|
+|9.|Saanvi Chingireddy|16|
+|10.|William Niemiec-Andorfer|15|
+|11.|Coach Bombard|15|
+|12.|NHS Esports Smash Team|15|
+|13.|Shurifin|14|
+|14.|Owen Bridges' Iphone|14|
+|15.|Rosie|14|
+|16.|James Henry Southern|14|
+|17.|Isaiah Adegbenro|13|
+|18.|Max Goldblatt|13|
+|19.|Justin Ferrero|12.9999|
+|20.|Silas Weiler|11|
+|21.|Mrs. Davis|11|
+|22.|Mr. Lee|11|
+|23.|Koko|10|
+|24.|Peter Wasdin|9|
+|25.|Kaitlyn|9|
+|26.|Olivia Chang|9|
+|27.|Thomas Clancy's Airpods|8|
+|28.|Mysterious OwenHater856|8|
+|29.|Aubrey Niemiec-Andorfer|8|
+|30.|Ben Ussery|8|
+|31.|Mrs. Hart|6|
+|32.|Katie Hanson|6|
+|33.|Noam Kolt|6|
+|34.|Geoff Keighley|5|
+|35.|Sharleen Wang|5|
+|36.|Mr. Yeats|3|
+|37.|Wasps|0|
+|38.|Avery Jones|-1|
+|39.|Guy in library who took my seat|-1|
+|40.|Alec Aris|-4|
+|41.|Northview High School|-47|
+|42.|Daniel Duke|-78|
+|43.|godfearingman499|-489|
 |44.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
@@ -57,6 +57,8 @@
 
 
 ## Owen Points Log:
+2025-01-06 11:57:53.752569 \| Edit Points \| All \| Change: 5 \| "New Years Bonus"
+
 2024-12-28 11:22:00.173110 \| Edit Points \| Mr. Martin \| Change: -5 \| "No bonus for him"
 
 2024-12-28 11:20:56.271340 \| Edit Points \| All \| Change: 5 \| "Holiday Bonus"
