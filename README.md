@@ -8,10 +8,10 @@
 |4.|Mr. Brown|36|
 |5.|Emerson Hamp|20|
 |6.|Kimaya Joshi|20|
-|7.|Aidan McGeever|18|
-|8.|Mr. Dixon|17|
-|9.|Saanvi Chingireddy|16|
-|10.|William Niemiec-Andorfer|15|
+|7.|William Niemiec-Andorfer|19|
+|8.|Aidan McGeever|18|
+|9.|Mr. Dixon|17|
+|10.|Saanvi Chingireddy|16|
 |11.|Coach Bombard|15|
 |12.|NHS Esports Smash Team|15|
 |13.|Shurifin|14|
@@ -45,7 +45,7 @@
 |41.|Northview High School|-47|
 |42.|Daniel Duke|-78|
 |43.|godfearingman499|-489|
-|44.|Mr. Martin|-9,223,372,036,854,777,856|
+|44.|Mr. Martin|-9,223,372,036,854,777,862|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -57,6 +57,8 @@
 
 
 ## Owen Points Log:
+2025-01-07 12:40:32.426280 \| Edit Points \| William Niemiec-Andorfer \| Change: 4 \| "Bought me skibidi toilet trading card pack"
+
 2025-01-06 11:57:53.752569 \| Edit Points \| All \| Change: 5 \| "New Years Bonus"
 
 2024-12-28 11:22:00.173110 \| Edit Points \| Mr. Martin \| Change: -5 \| "No bonus for him"
