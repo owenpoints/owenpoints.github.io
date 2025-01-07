@@ -45,7 +45,7 @@
 |41.|Northview High School|-47|
 |42.|Daniel Duke|-78|
 |43.|godfearingman499|-489|
-|44.|Mr. Martin|-9,223,372,036,854,777,862|
+|44.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -57,6 +57,8 @@
 
 
 ## Owen Points Log:
+2025-01-07 12:44:31.248057 \| Edit Points \| Mr. Martin \| Change: -5 \| "Forgot to take away his points"
+
 2025-01-07 12:40:32.426280 \| Edit Points \| William Niemiec-Andorfer \| Change: 4 \| "Bought me skibidi toilet trading card pack"
 
 2025-01-06 11:57:53.752569 \| Edit Points \| All \| Change: 5 \| "New Years Bonus"
