@@ -42,7 +42,7 @@
 |38.|Avery Jones|-1|
 |39.|Guy in library who took my seat|-1|
 |40.|Alec Aris|-4|
-|41.|Northview High School|-47|
+|41.|Northview High School|-57|
 |42.|Daniel Duke|-78|
 |43.|godfearingman499|-489|
 |44.|Mr. Martin|-9,223,372,036,854,777,856|
@@ -57,6 +57,8 @@
 
 
 ## Owen Points Log:
+2025-01-07 14:54:46.192382 \| Edit Points \| Northview High School \| Change: -10 \| "Smartpass bathroom system"
+
 2025-01-07 12:44:31.248057 \| Edit Points \| Mr. Martin \| Change: -5 \| "Forgot to take away his points"
 
 2025-01-07 12:40:32.426280 \| Edit Points \| William Niemiec-Andorfer \| Change: 4 \| "Bought me skibidi toilet trading card pack"
