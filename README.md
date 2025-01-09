@@ -3,7 +3,7 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|79,999,999,949|
-|2.|Thomas Clancy|51|
+|2.|Thomas Clancy|61|
 |3.|Owen Bridges|49|
 |4.|Mr. Brown|36|
 |5.|Emerson Hamp|20|
@@ -57,6 +57,8 @@
 
 
 ## Owen Points Log:
+2025-01-09 08:23:55.608998 \| Edit Points \| Thomas Clancy \| Change: 10 \| "Birthday boy"
+
 2025-01-07 14:54:46.192382 \| Edit Points \| Northview High School \| Change: -10 \| "Smartpass bathroom system"
 
 2025-01-07 12:44:31.248057 \| Edit Points \| Mr. Martin \| Change: -5 \| "Forgot to take away his points"
