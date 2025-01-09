@@ -2,7 +2,7 @@
 
 |Ranking|Name|Wheel Points|
 | ----------- | ----------- | ----------- |
-|1.|Emerson Hamp|64|
+|1.|Emerson Hamp|63|
 |2.|Avery Jones|41|
 |3.|Rosie|30|
 |4.|Thomas Clancy's Airpods|30|
@@ -10,7 +10,7 @@
 |6.|Isaiah Adegbenro|30|
 |7.|William Niemiec-Andorfer|19|
 |8.|Aidan McGeever|15|
-|9.|Saanvi Chingireddy|12|
+|9.|Saanvi Chingireddy|11|
 |10.|Grace Pyon|7|
 |11.|Alec Aris|5|
 |12.|Daniel Duke|4|
@@ -45,7 +45,7 @@
 |41.|Geoff Keighley|0|
 |42.|Thomas Clancy|-1|
 |43.|Mr. Brown|-2|
-|44.|James Henry Southern|-11|
+|44.|James Henry Southern|-12|
 
 ## 10 Wheel Points can be exchanged for 1 Owen Point
 
