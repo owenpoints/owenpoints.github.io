@@ -6,46 +6,47 @@
 |2.|Thomas Clancy|61|
 |3.|Owen Bridges|49|
 |4.|Mr. Brown|36|
-|5.|Emerson Hamp|20|
-|6.|Kimaya Joshi|20|
+|5.|Kimaya Joshi|20|
+|6.|Emerson Hamp|20|
 |7.|William Niemiec-Andorfer|19|
 |8.|Aidan McGeever|18|
 |9.|Mr. Dixon|17|
 |10.|Saanvi Chingireddy|16|
-|11.|Coach Bombard|15|
-|12.|NHS Esports Smash Team|15|
-|13.|Shurifin|14|
-|14.|Owen Bridges' Iphone|14|
-|15.|Rosie|14|
-|16.|James Henry Southern|14|
-|17.|Isaiah Adegbenro|13|
-|18.|Max Goldblatt|13|
+|11.|NHS Esports Smash Team|15|
+|12.|Coach Bombard|15|
+|13.|James Henry Southern|14|
+|14.|Rosie|14|
+|15.|Owen Bridges' Iphone|14|
+|16.|Shurifin|14|
+|17.|Max Goldblatt|13|
+|18.|Isaiah Adegbenro|13|
 |19.|Justin Ferrero|12.9999|
-|20.|Silas Weiler|11|
+|20.|Mr. Lee|11|
 |21.|Mrs. Davis|11|
-|22.|Mr. Lee|11|
+|22.|Silas Weiler|11|
 |23.|Koko|10|
-|24.|Peter Wasdin|9|
-|25.|Kaitlyn|9|
-|26.|Olivia Chang|9|
-|27.|Thomas Clancy's Airpods|8|
-|28.|Mysterious OwenHater856|8|
+|24.|Planet Earth|10|
+|25.|Olivia Chang|9|
+|26.|Kaitlyn|9|
+|27.|Peter Wasdin|9|
+|28.|Ben Ussery|8|
 |29.|Aubrey Niemiec-Andorfer|8|
-|30.|Ben Ussery|8|
-|31.|Mrs. Hart|6|
-|32.|Katie Hanson|6|
-|33.|Noam Kolt|6|
-|34.|Geoff Keighley|5|
+|30.|Mysterious OwenHater856|8|
+|31.|Thomas Clancy's Airpods|8|
+|32.|Noam Kolt|6|
+|33.|Katie Hanson|6|
+|34.|Mrs. Hart|6|
 |35.|Sharleen Wang|5|
-|36.|Mr. Yeats|3|
-|37.|Wasps|0|
-|38.|Avery Jones|-1|
+|36.|Geoff Keighley|5|
+|37.|Mr. Yeats|3|
+|38.|Wasps|0|
 |39.|Guy in library who took my seat|-1|
-|40.|Alec Aris|-4|
-|41.|Northview High School|-57|
-|42.|Daniel Duke|-78|
-|43.|godfearingman499|-489|
-|44.|Mr. Martin|-9,223,372,036,854,777,856|
+|40.|Avery Jones|-1|
+|41.|Alec Aris|-4|
+|42.|Northview High School|-57|
+|43.|Daniel Duke|-78|
+|44.|godfearingman499|-489|
+|45.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -57,6 +58,10 @@
 
 
 ## Owen Points Log:
+2025-01-11 15:21:53.743055 \| Edit Points \| Planet Earth \| Change: 10 \| "Snow day yesterday"
+
+2025-01-11 15:21:18.003327 \| Add \| Planet Earth
+
 2025-01-09 08:23:55.608998 \| Edit Points \| Thomas Clancy \| Change: 10 \| "Birthday boy"
 
 2025-01-07 14:54:46.192382 \| Edit Points \| Northview High School \| Change: -10 \| "Smartpass bathroom system"
