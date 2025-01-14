@@ -2,7 +2,7 @@
 
 |Ranking|Name|Wheel Points|
 | ----------- | ----------- | ----------- |
-|1.|Emerson Hamp|62|
+|1.|Emerson Hamp|69|
 |2.|Avery Jones|41|
 |3.|Rosie|30|
 |4.|Thomas Clancy's Airpods|30|
