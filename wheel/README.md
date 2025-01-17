@@ -2,16 +2,16 @@
 
 |Ranking|Name|Wheel Points|
 | ----------- | ----------- | ----------- |
-|1.|Emerson Hamp|67|
+|1.|Emerson Hamp|71|
 |2.|Avery Jones|41|
-|3.|Rosie|30|
-|4.|Thomas Clancy's Airpods|30|
-|5.|Coach Bombard|30|
-|6.|Isaiah Adegbenro|30|
-|7.|Saanvi Chingireddy|30|
+|3.|Saanvi Chingireddy|40|
+|4.|Rosie|30|
+|5.|Thomas Clancy's Airpods|30|
+|6.|Coach Bombard|30|
+|7.|Isaiah Adegbenro|30|
 |8.|William Niemiec-Andorfer|19|
-|9.|Aidan McGeever|15|
-|10.|James Henry Southern|9|
+|9.|James Henry Southern|16|
+|10.|Aidan McGeever|15|
 |11.|Grace Pyon|7|
 |12.|Alec Aris|5|
 |13.|Daniel Duke|4|
