@@ -33,20 +33,21 @@
 |29.|Aubrey Niemiec-Andorfer|8|
 |30.|Mysterious OwenHater856|8|
 |31.|Thomas Clancy's Airpods|8|
-|32.|Noam Kolt|6|
-|33.|Katie Hanson|6|
-|34.|Mrs. Hart|6|
-|35.|Sharleen Wang|5|
-|36.|Geoff Keighley|5|
-|37.|Mr. Yeats|3|
-|38.|Wasps|0|
-|39.|Guy in library who took my seat|-1|
-|40.|Avery Jones|-1|
-|41.|Alec Aris|-4|
-|42.|Northview High School|-57|
-|43.|Daniel Duke|-78|
-|44.|godfearingman499|-489|
-|45.|Mr. Martin|-9,223,372,036,854,777,856|
+|32.|Mr. P. Crucifix|6|
+|33.|Noam Kolt|6|
+|34.|Katie Hanson|6|
+|35.|Mrs. Hart|6|
+|36.|Sharleen Wang|5|
+|37.|Geoff Keighley|5|
+|38.|Mr. Yeats|3|
+|39.|Wasps|0|
+|40.|Guy in library who took my seat|-1|
+|41.|Avery Jones|-1|
+|42.|Alec Aris|-4|
+|43.|Northview High School|-57|
+|44.|Daniel Duke|-78|
+|45.|godfearingman499|-489|
+|46.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -58,6 +59,12 @@
 
 
 ## Owen Points Log:
+2025-01-19 23:56:46.730835 \| Edit Points \| Mr. P. Crucifix \| Change: -1 \| "Killing owen in phasmophobia"
+
+2025-01-19 23:56:29.693067 \| Edit Points \| Mr. P. Crucifix \| Change: 7 \| "Saving william and owen from instant death"
+
+2025-01-19 23:55:44.677642 \| Add \| Mr. P. Crucifix
+
 2025-01-19 23:38:17.548169 \| Edit Points \| William Niemiec-Andorfer \| Change: 15 \| "Played 60 hours of phasmophobia with me"
 
 2025-01-11 15:21:53.743055 \| Edit Points \| Planet Earth \| Change: 10 \| "Snow day yesterday"
