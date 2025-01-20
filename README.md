@@ -6,9 +6,9 @@
 |2.|Thomas Clancy|61|
 |3.|Owen Bridges|49|
 |4.|Mr. Brown|36|
-|5.|Kimaya Joshi|20|
-|6.|Emerson Hamp|20|
-|7.|William Niemiec-Andorfer|19|
+|5.|William Niemiec-Andorfer|34|
+|6.|Kimaya Joshi|20|
+|7.|Emerson Hamp|20|
 |8.|Aidan McGeever|18|
 |9.|Mr. Dixon|17|
 |10.|Saanvi Chingireddy|16|
@@ -58,6 +58,8 @@
 
 
 ## Owen Points Log:
+2025-01-19 23:38:17.548169 \| Edit Points \| William Niemiec-Andorfer \| Change: 15 \| "Played 60 hours of phasmophobia with me"
+
 2025-01-11 15:21:53.743055 \| Edit Points \| Planet Earth \| Change: 10 \| "Snow day yesterday"
 
 2025-01-11 15:21:18.003327 \| Add \| Planet Earth
