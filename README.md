@@ -24,7 +24,7 @@
 |20.|Silas Weiler|11|
 |21.|Mrs. Davis|11|
 |22.|Mr. Lee|11|
-|23.|Joanna Ren|10|
+|23.|Joanna Yam|10|
 |24.|Planet Earth|10|
 |25.|Koko|10|
 |26.|Peter Wasdin|9|
