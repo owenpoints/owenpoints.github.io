@@ -2,52 +2,53 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|79,999,999,949|
+|1.|Grace Pyon|80,000,000,000|
 |2.|Thomas Clancy|61|
 |3.|Owen Bridges|49|
 |4.|Mr. Brown|36|
 |5.|William Niemiec-Andorfer|34|
-|6.|Kimaya Joshi|20|
-|7.|Emerson Hamp|20|
+|6.|Emerson Hamp|20|
+|7.|Kimaya Joshi|20|
 |8.|Aidan McGeever|18|
 |9.|Mr. Dixon|17|
 |10.|Saanvi Chingireddy|16|
-|11.|NHS Esports Smash Team|15|
-|12.|Coach Bombard|15|
-|13.|James Henry Southern|14|
-|14.|Rosie|14|
-|15.|Owen Bridges' Iphone|14|
-|16.|Shurifin|14|
-|17.|Max Goldblatt|13|
-|18.|Isaiah Adegbenro|13|
+|11.|Coach Bombard|15|
+|12.|NHS Esports Smash Team|15|
+|13.|Shurifin|14|
+|14.|Owen Bridges' Iphone|14|
+|15.|Rosie|14|
+|16.|James Henry Southern|14|
+|17.|Isaiah Adegbenro|13|
+|18.|Max Goldblatt|13|
 |19.|Justin Ferrero|12.9999|
-|20.|Mr. Lee|11|
+|20.|Silas Weiler|11|
 |21.|Mrs. Davis|11|
-|22.|Silas Weiler|11|
-|23.|Koko|10|
+|22.|Mr. Lee|11|
+|23.|Joanna Ren|10|
 |24.|Planet Earth|10|
-|25.|Olivia Chang|9|
-|26.|Kaitlyn|9|
-|27.|Peter Wasdin|9|
-|28.|Ben Ussery|8|
-|29.|Aubrey Niemiec-Andorfer|8|
+|25.|Koko|10|
+|26.|Peter Wasdin|9|
+|27.|Kaitlyn|9|
+|28.|Olivia Chang|9|
+|29.|Thomas Clancy's Airpods|8|
 |30.|Mysterious OwenHater856|8|
-|31.|Thomas Clancy's Airpods|8|
-|32.|Mr. P. Crucifix|6|
-|33.|Noam Kolt|6|
+|31.|Aubrey Niemiec-Andorfer|8|
+|32.|Ben Ussery|8|
+|33.|Mrs. Hart|6|
 |34.|Katie Hanson|6|
-|35.|Mrs. Hart|6|
-|36.|Sharleen Wang|5|
+|35.|Noam Kolt|6|
+|36.|Mr. P. Crucifix|6|
 |37.|Geoff Keighley|5|
-|38.|Mr. Yeats|3|
-|39.|Wasps|0|
-|40.|Guy in library who took my seat|-1|
+|38.|Sharleen Wang|5|
+|39.|Mr. Yeats|3|
+|40.|Wasps|0|
 |41.|Avery Jones|-1|
-|42.|Alec Aris|-4|
-|43.|Northview High School|-57|
-|44.|Daniel Duke|-78|
-|45.|godfearingman499|-489|
-|46.|Mr. Martin|-9,223,372,036,854,777,856|
+|42.|Guy in library who took my seat|-1|
+|43.|Alec Aris|-4|
+|44.|Northview High School|-57|
+|45.|Daniel Duke|-78|
+|46.|godfearingman499|-489|
+|47.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -59,6 +60,14 @@
 
 
 ## Owen Points Log:
+2025-01-22 22:08:17.342147 \| Edit Points \| Joanna Ren \| Change: -10 \| "I got addicted to phasmophobia"
+
+2025-01-22 22:07:50.665383 \| Edit Points \| Joanna Ren \| Change: 20 \| "Bought me phasmophobia"
+
+2025-01-22 22:07:23.700442 \| Add \| Joanna Ren
+
+2025-01-22 22:07:08.363827 \| Edit Points \| Grace Pyon \| Change: 51 \| "Hosted jack box games"
+
 2025-01-19 23:56:46.730835 \| Edit Points \| Mr. P. Crucifix \| Change: -1 \| "Killing owen in phasmophobia"
 
 2025-01-19 23:56:29.693067 \| Edit Points \| Mr. P. Crucifix \| Change: 7 \| "Saving william and owen from instant death"
