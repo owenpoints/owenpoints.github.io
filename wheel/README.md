@@ -12,11 +12,11 @@
 |8.|James Henry Southern|30|
 |9.|William Niemiec-Andorfer|19|
 |10.|Aidan McGeever|15|
-|11.|Grace Pyon|7|
-|12.|Alec Aris|5|
-|13.|Daniel Duke|4|
-|14.|Mr. Yeats|3|
-|15.|Joanna Yam|0|
+|11.|Joanna Yam|8|
+|12.|Grace Pyon|7|
+|13.|Alec Aris|5|
+|14.|Daniel Duke|4|
+|15.|Mr. Yeats|3|
 |16.|Mr. P. Crucifix|0|
 |17.|Planet Earth|0|
 |18.|NHS Esports Smash Team|0|
