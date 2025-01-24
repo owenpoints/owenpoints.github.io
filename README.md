@@ -26,7 +26,7 @@
 |22.|Silas Weiler|11|
 |23.|Koko|10|
 |24.|Planet Earth|10|
-|25.|Joanna Yam|10|
+|25.|Joanna Yam|9|
 |26.|Olivia Chang|9|
 |27.|Kaitlyn|9|
 |28.|Peter Wasdin|9|
@@ -60,6 +60,8 @@
 
 
 ## Owen Points Log:
+2025-01-24 14:54:22.642743 \| Edit Points \| Joanna Yam \| Change: -1 \| "Im 8 years old"
+
 2025-01-22 22:08:17.342147 \| Edit Points \| Joanna Yam \| Change: -10 \| "I got addicted to phasmophobia"
 
 2025-01-22 22:07:50.665383 \| Edit Points \| Joanna Yam \| Change: 20 \| "Bought me phasmophobia"
