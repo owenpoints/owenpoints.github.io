@@ -12,7 +12,7 @@
 |8.|Isaiah Adegbenro|30|
 |9.|William Niemiec-Andorfer|19|
 |10.|Aidan McGeever|15|
-|11.|Joanna Yam|7|
+|11.|Joanna Yam|9|
 |12.|Grace Pyon|7|
 |13.|Alec Aris|5|
 |14.|Daniel Duke|4|
