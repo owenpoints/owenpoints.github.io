@@ -12,7 +12,7 @@
 |8.|Rosie|30|
 |9.|William Niemiec-Andorfer|19|
 |10.|Aidan McGeever|15|
-|11.|Joanna Yam|9|
+|11.|Joanna Yam|12|
 |12.|Grace Pyon|7|
 |13.|Alec Aris|5|
 |14.|Daniel Duke|4|
