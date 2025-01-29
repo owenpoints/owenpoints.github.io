@@ -19,37 +19,38 @@
 |15.|Alec Aris|5|
 |16.|Daniel Duke|4|
 |17.|Mr. Yeats|3|
-|18.|Geoff Keighley|0|
-|19.|Olivia Chang|0|
-|20.|Peter Wasdin|0|
-|21.|Kimaya Joshi|0|
-|22.|Mr. Dixon|0|
-|23.|Shurifin|0|
-|24.|Owen Bridges' Iphone|0|
-|25.|Max Goldblatt|0|
-|26.|Justin Ferrero|0|
-|27.|Silas Weiler|0|
-|28.|Mrs. Davis|0|
-|29.|Mr. Lee|0|
-|30.|Koko|0|
-|31.|Kaitlyn|0|
-|32.|Mysterious OwenHater856|0|
-|33.|Aubrey Niemiec-Andorfer|0|
-|34.|Ben Ussery|0|
-|35.|Mrs. Hart|0|
-|36.|Katie Hanson|0|
-|37.|Noam Kolt|0|
-|38.|Sharleen Wang|0|
-|39.|Wasps|0|
-|40.|Guy in library who took my seat|0|
-|41.|Northview High School|0|
-|42.|godfearingman499|0|
-|43.|Mr. Martin|0|
-|44.|NHS Esports Smash Team|0|
-|45.|Planet Earth|0|
-|46.|Mr. P. Crucifix|0|
-|47.|Gabby Urbelis|0|
-|48.|Thomas Clancy|-1|
+|18.|Mallory Hatmaker|0|
+|19.|Geoff Keighley|0|
+|20.|Olivia Chang|0|
+|21.|Peter Wasdin|0|
+|22.|Kimaya Joshi|0|
+|23.|Mr. Dixon|0|
+|24.|Shurifin|0|
+|25.|Owen Bridges' Iphone|0|
+|26.|Max Goldblatt|0|
+|27.|Justin Ferrero|0|
+|28.|Silas Weiler|0|
+|29.|Mrs. Davis|0|
+|30.|Mr. Lee|0|
+|31.|Koko|0|
+|32.|Kaitlyn|0|
+|33.|Mysterious OwenHater856|0|
+|34.|Aubrey Niemiec-Andorfer|0|
+|35.|Ben Ussery|0|
+|36.|Mrs. Hart|0|
+|37.|Katie Hanson|0|
+|38.|Noam Kolt|0|
+|39.|Sharleen Wang|0|
+|40.|Wasps|0|
+|41.|Guy in library who took my seat|0|
+|42.|Northview High School|0|
+|43.|godfearingman499|0|
+|44.|Mr. Martin|0|
+|45.|NHS Esports Smash Team|0|
+|46.|Planet Earth|0|
+|47.|Mr. P. Crucifix|0|
+|48.|Gabby Urbelis|0|
+|49.|Thomas Clancy|-1|
 
 ## 10 Wheel Points can be exchanged for 1 Owen Point
 

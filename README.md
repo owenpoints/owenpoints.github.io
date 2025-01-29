@@ -37,19 +37,20 @@
 |33.|Noam Kolt|6|
 |34.|Katie Hanson|6|
 |35.|Mrs. Hart|6|
-|36.|Sharleen Wang|5|
-|37.|Geoff Keighley|5|
-|38.|Mr. Yeats|3|
-|39.|Mr. Brown|0|
-|40.|Gabby Urbelis|0|
-|41.|Wasps|0|
-|42.|Guy in library who took my seat|-1|
-|43.|Avery Jones|-1|
-|44.|Alec Aris|-4|
-|45.|Northview High School|-57|
-|46.|Daniel Duke|-78|
-|47.|godfearingman499|-489|
-|48.|Mr. Martin|-9,223,372,036,854,777,856|
+|36.|Mallory Hatmaker|6|
+|37.|Sharleen Wang|5|
+|38.|Geoff Keighley|5|
+|39.|Mr. Yeats|3|
+|40.|Mr. Brown|0|
+|41.|Gabby Urbelis|0|
+|42.|Wasps|0|
+|43.|Guy in library who took my seat|-1|
+|44.|Avery Jones|-1|
+|45.|Alec Aris|-4|
+|46.|Northview High School|-57|
+|47.|Daniel Duke|-78|
+|48.|godfearingman499|-489|
+|49.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -61,6 +62,10 @@
 
 
 ## Owen Points Log:
+2025-01-29 12:53:23.009845 \| Edit Points \| Mallory Hatmaker \| Change: 6 \| "Compensation for left kidney"
+
+2025-01-29 12:52:45.795431 \| Add \| Mallory Hatmaker
+
 2025-01-29 12:45:22.404998 \| Wheel Exchange \| Mr. Brown \| -41.0 for -410.0
 
 2025-01-29 08:18:47.369407 \| Add \| Gabby Urbelis
