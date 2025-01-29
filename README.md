@@ -2,7 +2,7 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|80,000,000,000|
+|1.|Grace Pyon|70,000,000,000|
 |2.|Thomas Clancy|61|
 |3.|Owen Bridges|49|
 |4.|William Niemiec-Andorfer|34|
@@ -62,6 +62,8 @@
 
 
 ## Owen Points Log:
+2025-01-29 14:38:46.475744 \| Wheel Exchange \| Grace Pyon \| -10000000000.0 for -100000000000.0
+
 2025-01-29 12:53:23.009845 \| Edit Points \| Mallory Hatmaker \| Change: 6 \| "Compensation for left kidney"
 
 2025-01-29 12:52:45.795431 \| Add \| Mallory Hatmaker

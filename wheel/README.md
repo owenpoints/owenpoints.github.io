@@ -2,20 +2,20 @@
 
 |Ranking|Name|Wheel Points|
 | ----------- | ----------- | ----------- |
-|1.|Mr. Brown|408|
-|2.|Emerson Hamp|81|
-|3.|Saanvi Chingireddy|53|
-|4.|James Henry Southern|41|
-|5.|Avery Jones|40|
-|6.|Isaiah Adegbenro|30|
-|7.|Coach Bombard|30|
-|8.|Thomas Clancy's Airpods|30|
-|9.|Rosie|30|
-|10.|William Niemiec-Andorfer|19|
-|11.|Aidan McGeever|17|
-|12.|Joanna Yam|12|
-|13.|Owen Bridges|9|
-|14.|Grace Pyon|7|
+|1.|Grace Pyon|100,000,000,007|
+|2.|Mr. Brown|408|
+|3.|Emerson Hamp|81|
+|4.|Saanvi Chingireddy|53|
+|5.|James Henry Southern|41|
+|6.|Avery Jones|40|
+|7.|Isaiah Adegbenro|30|
+|8.|Coach Bombard|30|
+|9.|Thomas Clancy's Airpods|30|
+|10.|Rosie|30|
+|11.|William Niemiec-Andorfer|19|
+|12.|Aidan McGeever|17|
+|13.|Joanna Yam|12|
+|14.|Owen Bridges|9|
 |15.|Alec Aris|5|
 |16.|Daniel Duke|4|
 |17.|Mr. Yeats|3|
