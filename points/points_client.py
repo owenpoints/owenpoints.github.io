@@ -280,7 +280,7 @@ while True:
 
         wheel_scores[arguments[0]] -= arguments[1] * exchange_rate
 
-        send_to_log(f'{datetime.datetime.now()} \| Wheel Exchange \| {arguments[0]} \| {arguments[1]} for {arguments[1] * exchange_rate}')
+        send_to_log(f'{datetime.datetime.now()} \| Wheel Exchange \| {arguments[0]} \| {pretty_num(arguments[1])} for {pretty_num(arguments[1] * exchange_rate)}')
         
 
 
