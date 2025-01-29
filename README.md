@@ -6,46 +6,46 @@
 |2.|Thomas Clancy|61|
 |3.|Owen Bridges|49|
 |4.|William Niemiec-Andorfer|34|
-|5.|Kimaya Joshi|20|
-|6.|Emerson Hamp|20|
+|5.|Emerson Hamp|20|
+|6.|Kimaya Joshi|20|
 |7.|Aidan McGeever|18|
 |8.|Mr. Dixon|17|
 |9.|Saanvi Chingireddy|16|
-|10.|NHS Esports Smash Team|15|
-|11.|Coach Bombard|15|
-|12.|James Henry Southern|14|
-|13.|Rosie|14|
-|14.|Owen Bridges' Iphone|14|
-|15.|Shurifin|14|
+|10.|Coach Bombard|15|
+|11.|NHS Esports Smash Team|15|
+|12.|Shurifin|14|
+|13.|Owen Bridges' Iphone|14|
+|14.|Rosie|14|
+|15.|James Henry Southern|14|
 |16.|Isaiah Adegbenro|13|
 |17.|Justin Ferrero|12.9999|
 |18.|Max Goldblatt|12|
-|19.|Mr. Lee|11|
+|19.|Silas Weiler|11|
 |20.|Mrs. Davis|11|
-|21.|Silas Weiler|11|
-|22.|Koko|10|
-|23.|Planet Earth|10|
-|24.|Joanna Yam|9|
-|25.|Olivia Chang|9|
+|21.|Mr. Lee|11|
+|22.|Planet Earth|10|
+|23.|Koko|10|
+|24.|Mr. Brown|10|
+|25.|Peter Wasdin|9|
 |26.|Kaitlyn|9|
-|27.|Peter Wasdin|9|
-|28.|Ben Ussery|8|
-|29.|Aubrey Niemiec-Andorfer|8|
+|27.|Olivia Chang|9|
+|28.|Joanna Yam|9|
+|29.|Thomas Clancy's Airpods|8|
 |30.|Mysterious OwenHater856|8|
-|31.|Thomas Clancy's Airpods|8|
-|32.|Mr. P. Crucifix|6|
-|33.|Noam Kolt|6|
-|34.|Katie Hanson|6|
-|35.|Mrs. Hart|6|
-|36.|Mallory Hatmaker|6|
-|37.|Sharleen Wang|5|
+|31.|Aubrey Niemiec-Andorfer|8|
+|32.|Ben Ussery|8|
+|33.|Mallory Hatmaker|6|
+|34.|Mrs. Hart|6|
+|35.|Katie Hanson|6|
+|36.|Noam Kolt|6|
+|37.|Mr. P. Crucifix|6|
 |38.|Geoff Keighley|5|
-|39.|Mr. Yeats|3|
-|40.|Mr. Brown|0|
-|41.|Gabby Urbelis|0|
-|42.|Wasps|0|
-|43.|Guy in library who took my seat|-1|
-|44.|Avery Jones|-1|
+|39.|Sharleen Wang|5|
+|40.|Mr. Yeats|3|
+|41.|Wasps|0|
+|42.|Gabby Urbelis|0|
+|43.|Avery Jones|-1|
+|44.|Guy in library who took my seat|-1|
 |45.|Alec Aris|-4|
 |46.|Northview High School|-57|
 |47.|Daniel Duke|-78|
@@ -62,6 +62,8 @@
 
 
 ## Owen Points Log:
+2025-01-29 14:40:21.450669 \| Edit Points \| Mr. Brown \| Change: 10 \| "Gave Grace Pyon cough drops"
+
 2025-01-29 14:38:46.475744 \| Wheel Exchange \| Grace Pyon \| -10000000000.0 for -100000000000.0
 
 2025-01-29 12:53:23.009845 \| Edit Points \| Mallory Hatmaker \| Change: 6 \| "Compensation for left kidney"
