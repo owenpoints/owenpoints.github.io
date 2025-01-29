@@ -4,8 +4,8 @@
 | ----------- | ----------- | ----------- |
 |1.|Emerson Hamp|81|
 |2.|Saanvi Chingireddy|53|
-|3.|Avery Jones|40|
-|4.|James Henry Southern|39|
+|3.|James Henry Southern|41|
+|4.|Avery Jones|40|
 |5.|Isaiah Adegbenro|30|
 |6.|Coach Bombard|30|
 |7.|Thomas Clancy's Airpods|30|
