@@ -42,13 +42,14 @@
 |38.|Sharleen Wang|5|
 |39.|Mr. Yeats|3|
 |40.|Wasps|0|
-|41.|Avery Jones|-1|
-|42.|Guy in library who took my seat|-1|
-|43.|Alec Aris|-4|
-|44.|Northview High School|-57|
-|45.|Daniel Duke|-78|
-|46.|godfearingman499|-489|
-|47.|Mr. Martin|-9,223,372,036,854,777,856|
+|41.|Gabby Urbelis|0|
+|42.|Avery Jones|-1|
+|43.|Guy in library who took my seat|-1|
+|44.|Alec Aris|-4|
+|45.|Northview High School|-57|
+|46.|Daniel Duke|-78|
+|47.|godfearingman499|-489|
+|48.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -60,6 +61,8 @@
 
 
 ## Owen Points Log:
+2025-01-29 08:18:47.369407 \| Add \| Gabby Urbelis
+
 2025-01-28 15:22:11.027575 \| Edit Points \| Max Goldblatt \| Change: -1 \| "Randomly burped in the middle of class"
 
 2025-01-28 15:21:57.012494 \| Edit Points \| Mr. Brown \| Change: 5 \| "Stopped playing the movie seconds before the bell rang"
