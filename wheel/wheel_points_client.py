@@ -47,7 +47,7 @@ while True:
 
         error_message = ""
 
-    options = ("edit", "transfer", "help", "exit")
+    options = ("edit", "transfer", "quickspin", "help", "exit")
     
     raw_choice = input(f"Input operation {options}: ").strip()
 
@@ -139,10 +139,49 @@ while True:
             scores[arguments[0]] -= arguments[2]
             scores[arguments[1]] += arguments[2]
 
+    elif operation == "quickspin":
+
+        if len(arguments) != 2:
+
+            error_message = "Invalid command arguments, type help for help."
+        
+            continue
+
+
+        if arguments[0] not in scores and arguments[0] != "All":
+    
+            error_message = "Person does not exist."
+
+            continue
+
+        try:
+            
+            arguments[1] = int(arguments[1].strip())
+        
+        except ValueError:
+            
+            error_message = "Input integer for wheel spins."
+
+            continue
+        
+        increment = quick_spin(arguments[1])
+        error_message = f"You got {increment} wheel points."
+
+        if arguments[0] == "All":
+
+            scores = {key: scores[key] + increment for key in scores}
+
+        else:
+
+            scores[arguments[0]] += increment
+
+
+
     elif operation == "help":
 
         print('\nOperation: edit , Syntax: edit "name" increment , Description: Edit points of people.')
         print('Operation: transfer , Syntax: transfer "sender" "recipient" amount , Description: Transfer points between people.')
+        print('Operation: quickspin , Syntax: quickspin "name" spins , Description: Spin the wheel multiple times quickly.')
         print('Operation: help , Syntax: help , Description: Access this help message.')
         print('Operation: exit , Syntax: exit , Description: Exit the program.\n')
 

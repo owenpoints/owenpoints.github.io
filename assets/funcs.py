@@ -1,3 +1,5 @@
+import random
+
 def pretty_num(num):
 
     if num == int(num):
@@ -21,3 +23,12 @@ def pretty_dict(dictionary):
             dictionary[key] = int(value)
 
     return dictionary
+
+def quick_spin(spins):
+    outcomes = [-1, -1, -1, 3, 7, 8, 10, 15, 20]
+
+    total = 0
+    for i in range(spins):
+        total += random.choice(outcomes)
+
+    return total
