@@ -5,42 +5,42 @@
 |1.|Grace Pyon|80,000,000,000|
 |2.|Thomas Clancy|61|
 |3.|Owen Bridges|49|
-|4.|Mr. Brown|41|
-|5.|William Niemiec-Andorfer|34|
-|6.|Kimaya Joshi|20|
-|7.|Emerson Hamp|20|
-|8.|Aidan McGeever|18|
-|9.|Mr. Dixon|17|
-|10.|Saanvi Chingireddy|16|
-|11.|NHS Esports Smash Team|15|
-|12.|Coach Bombard|15|
-|13.|James Henry Southern|14|
-|14.|Rosie|14|
-|15.|Owen Bridges' Iphone|14|
-|16.|Shurifin|14|
-|17.|Isaiah Adegbenro|13|
-|18.|Justin Ferrero|12.9999|
-|19.|Max Goldblatt|12|
-|20.|Mr. Lee|11|
-|21.|Mrs. Davis|11|
-|22.|Silas Weiler|11|
-|23.|Koko|10|
-|24.|Planet Earth|10|
-|25.|Joanna Yam|9|
-|26.|Olivia Chang|9|
-|27.|Kaitlyn|9|
-|28.|Peter Wasdin|9|
-|29.|Ben Ussery|8|
-|30.|Aubrey Niemiec-Andorfer|8|
-|31.|Mysterious OwenHater856|8|
-|32.|Thomas Clancy's Airpods|8|
-|33.|Mr. P. Crucifix|6|
-|34.|Noam Kolt|6|
-|35.|Katie Hanson|6|
-|36.|Mrs. Hart|6|
-|37.|Sharleen Wang|5|
-|38.|Geoff Keighley|5|
-|39.|Mr. Yeats|3|
+|4.|William Niemiec-Andorfer|34|
+|5.|Kimaya Joshi|20|
+|6.|Emerson Hamp|20|
+|7.|Aidan McGeever|18|
+|8.|Mr. Dixon|17|
+|9.|Saanvi Chingireddy|16|
+|10.|NHS Esports Smash Team|15|
+|11.|Coach Bombard|15|
+|12.|James Henry Southern|14|
+|13.|Rosie|14|
+|14.|Owen Bridges' Iphone|14|
+|15.|Shurifin|14|
+|16.|Isaiah Adegbenro|13|
+|17.|Justin Ferrero|12.9999|
+|18.|Max Goldblatt|12|
+|19.|Mr. Lee|11|
+|20.|Mrs. Davis|11|
+|21.|Silas Weiler|11|
+|22.|Koko|10|
+|23.|Planet Earth|10|
+|24.|Joanna Yam|9|
+|25.|Olivia Chang|9|
+|26.|Kaitlyn|9|
+|27.|Peter Wasdin|9|
+|28.|Ben Ussery|8|
+|29.|Aubrey Niemiec-Andorfer|8|
+|30.|Mysterious OwenHater856|8|
+|31.|Thomas Clancy's Airpods|8|
+|32.|Mr. P. Crucifix|6|
+|33.|Noam Kolt|6|
+|34.|Katie Hanson|6|
+|35.|Mrs. Hart|6|
+|36.|Sharleen Wang|5|
+|37.|Geoff Keighley|5|
+|38.|Mr. Yeats|3|
+|39.|Mr. Brown|0|
 |40.|Gabby Urbelis|0|
 |41.|Wasps|0|
 |42.|Guy in library who took my seat|-1|
@@ -61,6 +61,8 @@
 
 
 ## Owen Points Log:
+2025-01-29 12:45:22.404998 \| Wheel Exchange \| Mr. Brown \| -41.0 for -410.0
+
 2025-01-29 08:18:47.369407 \| Add \| Gabby Urbelis
 
 2025-01-28 15:22:11.027575 \| Edit Points \| Max Goldblatt \| Change: -1 \| "Randomly burped in the middle of class"
