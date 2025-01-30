@@ -46,7 +46,7 @@
 |42.|Wasps|0|
 |43.|Guy in library who took my seat|-1|
 |44.|Avery Jones|-1|
-|45.|Alec Aris|-4|
+|45.|Alec Aris|-7|
 |46.|Northview High School|-57|
 |47.|Daniel Duke|-78|
 |48.|godfearingman499|-489|
@@ -62,6 +62,8 @@
 
 
 ## Owen Points Log:
+2025-01-30 16:05:51.384811 \| Edit Points \| Alec Aris \| Change: -3 \| "Idiot"
+
 2025-01-29 14:40:21.450669 \| Edit Points \| Mr. Brown \| Change: 10 \| "Gave Grace Pyon cough drops"
 
 2025-01-29 14:38:46.475744 \| Wheel Exchange \| Grace Pyon \| -10000000000 for -100000000000
