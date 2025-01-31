@@ -4,49 +4,49 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|70,000,000,000|
 |2.|Thomas Clancy|61|
-|3.|Owen Bridges|49|
-|4.|William Niemiec-Andorfer|36|
-|5.|Emerson Hamp|20|
-|6.|Kimaya Joshi|20|
+|3.|Owen Bridges|46|
+|4.|William Niemiec-Andorfer|38|
+|5.|Kimaya Joshi|20|
+|6.|Emerson Hamp|20|
 |7.|Aidan McGeever|18|
 |8.|Mr. Dixon|17|
 |9.|Saanvi Chingireddy|16|
-|10.|Coach Bombard|15|
-|11.|NHS Esports Smash Team|15|
-|12.|Shurifin|14|
-|13.|Owen Bridges' Iphone|14|
-|14.|Rosie|14|
-|15.|James Henry Southern|14|
+|10.|NHS Esports Smash Team|15|
+|11.|Coach Bombard|15|
+|12.|James Henry Southern|14|
+|13.|Rosie|14|
+|14.|Owen Bridges' Iphone|14|
+|15.|Shurifin|14|
 |16.|Isaiah Adegbenro|13|
 |17.|Justin Ferrero|12.9999|
 |18.|Max Goldblatt|12|
-|19.|Silas Weiler|11|
+|19.|Mr. Lee|11|
 |20.|Mrs. Davis|11|
-|21.|Mr. Lee|11|
-|22.|Planet Earth|10|
+|21.|Silas Weiler|11|
+|22.|Katherine Virginia Patel|10|
 |23.|Koko|10|
-|24.|Katherine Virginia Patel|10|
-|25.|Peter Wasdin|9|
-|26.|Kaitlyn|9|
-|27.|Olivia Chang|9|
-|28.|Joanna Yam|9|
-|29.|Thomas Clancy's Airpods|8|
-|30.|Mysterious OwenHater856|8|
-|31.|Aubrey Niemiec-Andorfer|8|
-|32.|Ben Ussery|8|
-|33.|Mr. Brown|8|
-|34.|Mallory Hatmaker|6|
+|24.|Planet Earth|10|
+|25.|Joanna Yam|9|
+|26.|Olivia Chang|9|
+|27.|Kaitlyn|9|
+|28.|Peter Wasdin|9|
+|29.|Mr. Brown|8|
+|30.|Ben Ussery|8|
+|31.|Mysterious OwenHater856|8|
+|32.|Thomas Clancy's Airpods|8|
+|33.|Mr. P. Crucifix|6|
+|34.|Katie Hanson|6|
 |35.|Mrs. Hart|6|
-|36.|Katie Hanson|6|
-|37.|Noam Kolt|6|
-|38.|Mr. P. Crucifix|6|
+|36.|Mallory Hatmaker|6|
+|37.|Aubrey Niemiec-Andorfer|5|
+|38.|Sharleen Wang|5|
 |39.|Geoff Keighley|5|
-|40.|Sharleen Wang|5|
+|40.|Noam Kolt|4|
 |41.|Mr. Yeats|3|
-|42.|Wasps|0|
-|43.|Gabby Urbelis|0|
-|44.|Avery Jones|-1|
-|45.|Guy in library who took my seat|-1|
+|42.|Gabby Urbelis|0|
+|43.|Wasps|0|
+|44.|Guy in library who took my seat|-1|
+|45.|Avery Jones|-1|
 |46.|Alec Aris|-7|
 |47.|Northview High School|-57|
 |48.|Daniel Duke|-78|
@@ -63,6 +63,14 @@
 
 
 ## Owen Points Log:
+2025-01-31 17:56:05.573766 \| Edit Points \| Noam Kolt \| Change: -2 \| "Reported to have been running in the hallways. Not only was his SmartPass revoked, but his clip was moved down to the yellow light as well."
+
+2025-01-31 17:54:51.017043 \| Edit Points \| William Niemiec-Andorfer \| Change: 2 \| "Pity points for spending $15 on the Ding Tea claw machine"
+
+2025-01-31 17:54:00.309868 \| Edit Points \| Aubrey Niemiec-Andorfer \| Change: -3 \| "Called William mean names"
+
+2025-01-31 17:53:10.458878 \| Edit Points \| Owen Bridges \| Change: -3 \| "Pulled a Joe Biden and made William think his internet stopped working"
+
 2025-01-31 17:48:41.695785 \| Edit Points \| Katherine Virginia Patel \| Change: 10 \| "恭喜发财红包拿来"
 
 2025-01-31 17:47:13.412364 \| Add \| Katherine Virginia Patel
