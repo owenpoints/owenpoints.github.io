@@ -12,10 +12,10 @@
 |8.|Coach Bombard|30|
 |9.|Thomas Clancy's Airpods|30|
 |10.|Rosie|30|
-|11.|William Niemiec-Andorfer|26|
-|12.|Aidan McGeever|17|
-|13.|Joanna Yam|12|
-|14.|Owen Bridges|9|
+|11.|Aidan McGeever|17|
+|12.|Joanna Yam|12|
+|13.|Owen Bridges|9|
+|14.|William Niemiec-Andorfer|6|
 |15.|Alec Aris|5|
 |16.|Daniel Duke|4|
 |17.|Mr. Yeats|3|

@@ -5,7 +5,7 @@
 |1.|Grace Pyon|70,000,000,000|
 |2.|Thomas Clancy|61|
 |3.|Owen Bridges|49|
-|4.|William Niemiec-Andorfer|34|
+|4.|William Niemiec-Andorfer|36|
 |5.|Kimaya Joshi|20|
 |6.|Emerson Hamp|20|
 |7.|Aidan McGeever|18|
@@ -62,6 +62,8 @@
 
 
 ## Owen Points Log:
+2025-01-30 21:48:38.760954 \| Wheel Exchange \| William Niemiec-Andorfer \| 2 for 20
+
 2025-01-30 16:05:51.384811 \| Edit Points \| Alec Aris \| Change: -3 \| "Idiot"
 
 2025-01-29 14:40:21.450669 \| Edit Points \| Mr. Brown \| Change: 10 \| "Gave Grace Pyon cough drops"
