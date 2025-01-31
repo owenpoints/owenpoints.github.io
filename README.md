@@ -23,13 +23,13 @@
 |19.|Mr. Lee|11|
 |20.|Mrs. Davis|11|
 |21.|Silas Weiler|11|
-|22.|Mr. Brown|10|
-|23.|Koko|10|
-|24.|Planet Earth|10|
-|25.|Joanna Yam|9|
-|26.|Olivia Chang|9|
-|27.|Kaitlyn|9|
-|28.|Peter Wasdin|9|
+|22.|Koko|10|
+|23.|Planet Earth|10|
+|24.|Joanna Yam|9|
+|25.|Olivia Chang|9|
+|26.|Kaitlyn|9|
+|27.|Peter Wasdin|9|
+|28.|Mr. Brown|8|
 |29.|Ben Ussery|8|
 |30.|Aubrey Niemiec-Andorfer|8|
 |31.|Mysterious OwenHater856|8|
@@ -62,6 +62,8 @@
 
 
 ## Owen Points Log:
+2025-01-31 12:46:37.323666 \| Edit Points \| Mr. Brown \| Change: -2 \| "Brutally and dictatorally made us take notes in class"
+
 2025-01-30 21:48:38.760954 \| Wheel Exchange \| William Niemiec-Andorfer \| 2 for 20
 
 2025-01-30 16:05:51.384811 \| Edit Points \| Alec Aris \| Change: -3 \| "Idiot"
