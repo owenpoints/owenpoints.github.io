@@ -6,51 +6,52 @@
 |2.|Thomas Clancy|61|
 |3.|Owen Bridges|49|
 |4.|William Niemiec-Andorfer|36|
-|5.|Kimaya Joshi|20|
-|6.|Emerson Hamp|20|
+|5.|Emerson Hamp|20|
+|6.|Kimaya Joshi|20|
 |7.|Aidan McGeever|18|
 |8.|Mr. Dixon|17|
 |9.|Saanvi Chingireddy|16|
-|10.|NHS Esports Smash Team|15|
-|11.|Coach Bombard|15|
-|12.|James Henry Southern|14|
-|13.|Rosie|14|
-|14.|Owen Bridges' Iphone|14|
-|15.|Shurifin|14|
+|10.|Coach Bombard|15|
+|11.|NHS Esports Smash Team|15|
+|12.|Shurifin|14|
+|13.|Owen Bridges' Iphone|14|
+|14.|Rosie|14|
+|15.|James Henry Southern|14|
 |16.|Isaiah Adegbenro|13|
 |17.|Justin Ferrero|12.9999|
 |18.|Max Goldblatt|12|
-|19.|Mr. Lee|11|
+|19.|Silas Weiler|11|
 |20.|Mrs. Davis|11|
-|21.|Silas Weiler|11|
-|22.|Koko|10|
-|23.|Planet Earth|10|
-|24.|Joanna Yam|9|
-|25.|Olivia Chang|9|
+|21.|Mr. Lee|11|
+|22.|Planet Earth|10|
+|23.|Koko|10|
+|24.|Katherine Virginia Patel|10|
+|25.|Peter Wasdin|9|
 |26.|Kaitlyn|9|
-|27.|Peter Wasdin|9|
-|28.|Mr. Brown|8|
-|29.|Ben Ussery|8|
-|30.|Aubrey Niemiec-Andorfer|8|
-|31.|Mysterious OwenHater856|8|
-|32.|Thomas Clancy's Airpods|8|
-|33.|Mr. P. Crucifix|6|
-|34.|Noam Kolt|6|
-|35.|Katie Hanson|6|
-|36.|Mrs. Hart|6|
-|37.|Mallory Hatmaker|6|
-|38.|Sharleen Wang|5|
+|27.|Olivia Chang|9|
+|28.|Joanna Yam|9|
+|29.|Thomas Clancy's Airpods|8|
+|30.|Mysterious OwenHater856|8|
+|31.|Aubrey Niemiec-Andorfer|8|
+|32.|Ben Ussery|8|
+|33.|Mr. Brown|8|
+|34.|Mallory Hatmaker|6|
+|35.|Mrs. Hart|6|
+|36.|Katie Hanson|6|
+|37.|Noam Kolt|6|
+|38.|Mr. P. Crucifix|6|
 |39.|Geoff Keighley|5|
-|40.|Mr. Yeats|3|
-|41.|Gabby Urbelis|0|
+|40.|Sharleen Wang|5|
+|41.|Mr. Yeats|3|
 |42.|Wasps|0|
-|43.|Guy in library who took my seat|-1|
+|43.|Gabby Urbelis|0|
 |44.|Avery Jones|-1|
-|45.|Alec Aris|-7|
-|46.|Northview High School|-57|
-|47.|Daniel Duke|-78|
-|48.|godfearingman499|-489|
-|49.|Mr. Martin|-9,223,372,036,854,777,856|
+|45.|Guy in library who took my seat|-1|
+|46.|Alec Aris|-7|
+|47.|Northview High School|-57|
+|48.|Daniel Duke|-78|
+|49.|godfearingman499|-489|
+|50.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -62,6 +63,10 @@
 
 
 ## Owen Points Log:
+2025-01-31 17:48:41.695785 \| Edit Points \| Katherine Virginia Patel \| Change: 10 \| "恭喜发财红包拿来"
+
+2025-01-31 17:47:13.412364 \| Add \| Katherine Virginia Patel
+
 2025-01-31 12:46:37.323666 \| Edit Points \| Mr. Brown \| Change: -2 \| "Brutally and dictatorally made us take notes in class"
 
 2025-01-30 21:48:38.760954 \| Wheel Exchange \| William Niemiec-Andorfer \| 2 for 20
