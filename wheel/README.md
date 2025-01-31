@@ -12,7 +12,7 @@
 |8.|Coach Bombard|30|
 |9.|Thomas Clancy's Airpods|30|
 |10.|Rosie|30|
-|11.|William Niemiec-Andorfer|19|
+|11.|William Niemiec-Andorfer|26|
 |12.|Aidan McGeever|17|
 |13.|Joanna Yam|12|
 |14.|Owen Bridges|9|
