@@ -12,11 +12,11 @@
 |8.|Thomas Clancy's Airpods|30|
 |9.|Coach Bombard|30|
 |10.|Isaiah Adegbenro|30|
-|11.|Aidan McGeever|17|
-|12.|Joanna Yam|12|
+|11.|Aidan McGeever|16|
+|12.|Joanna Yam|11|
 |13.|Owen Bridges|9|
-|14.|William Niemiec-Andorfer|6|
-|15.|Alec Aris|5|
+|14.|Alec Aris|7|
+|15.|William Niemiec-Andorfer|6|
 |16.|Daniel Duke|4|
 |17.|Mr. Yeats|3|
 |18.|Gabby Urbelis|0|
