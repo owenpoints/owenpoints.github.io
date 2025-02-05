@@ -23,10 +23,10 @@
 |19.|Mr. Lee|11|
 |20.|Mrs. Davis|11|
 |21.|Silas Weiler|11|
-|22.|Katherine Virginia Patel|10|
-|23.|Koko|10|
-|24.|Planet Earth|10|
-|25.|Joanna Yam|9|
+|22.|Joanna Yam|11|
+|23.|Katherine Virginia Patel|10|
+|24.|Koko|10|
+|25.|Planet Earth|10|
 |26.|Olivia Chang|9|
 |27.|Kaitlyn|9|
 |28.|Peter Wasdin|9|
@@ -43,15 +43,16 @@
 |39.|Geoff Keighley|5|
 |40.|Noam Kolt|4|
 |41.|Mr. Yeats|3|
-|42.|Gabby Urbelis|0|
-|43.|Wasps|0|
-|44.|Guy in library who took my seat|-1|
-|45.|Avery Jones|-1|
-|46.|Alec Aris|-7|
-|47.|Northview High School|-57|
-|48.|Daniel Duke|-78|
-|49.|godfearingman499|-489|
-|50.|Mr. Martin|-9,223,372,036,854,777,856|
+|42.|Brendan McCarthy|2|
+|43.|Gabby Urbelis|0|
+|44.|Wasps|0|
+|45.|Guy in library who took my seat|-1|
+|46.|Avery Jones|-1|
+|47.|Alec Aris|-7|
+|48.|Northview High School|-57|
+|49.|Daniel Duke|-78|
+|50.|godfearingman499|-489|
+|51.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -63,6 +64,12 @@
 
 
 ## Owen Points Log:
+2025-02-05 07:12:25.188890 \| Edit Points \| Joanna Yam \| Change: 2 \| "Letting me poke her hand with the sharp end of a flower"
+
+2025-02-05 07:12:09.178922 \| Edit Points \| Brendan McCarthy \| Change: 2 \| "Letting me poke his hand with the sharp end of a flower"
+
+2025-02-05 07:11:32.716781 \| Add \| Brendan McCarthy
+
 2025-01-31 17:56:05.573766 \| Edit Points \| Noam Kolt \| Change: -2 \| "Reported to have been running in the hallways. Not only was his SmartPass revoked, but his clip was moved down to the yellow light as well."
 
 2025-01-31 17:54:51.017043 \| Edit Points \| William Niemiec-Andorfer \| Change: 2 \| "Pity points for spending $15 on the Ding Tea claw machine"
