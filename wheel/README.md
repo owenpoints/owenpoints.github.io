@@ -6,7 +6,7 @@
 |2.|Mr. Brown|408|
 |3.|Emerson Hamp|101|
 |4.|James Henry Southern|58|
-|5.|Saanvi Chingireddy|57|
+|5.|Saanvi Chingireddy|56|
 |6.|Avery Jones|40|
 |7.|Rosie|30|
 |8.|Thomas Clancy's Airpods|30|
