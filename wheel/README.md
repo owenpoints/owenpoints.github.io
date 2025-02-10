@@ -13,23 +13,23 @@
 |9.|Coach Bombard|30|
 |10.|Isaiah Adegbenro|30|
 |11.|Aidan McGeever|16|
-|12.|Joanna Yam|11|
+|12.|Joanna Yam|10|
 |13.|Owen Bridges|9|
 |14.|Alec Aris|7|
 |15.|William Niemiec-Andorfer|6|
 |16.|Daniel Duke|4|
 |17.|Mr. Yeats|3|
-|18.|Brendan McCarthy|0|
-|19.|Gabby Urbelis|0|
-|20.|Mr. P. Crucifix|0|
-|21.|Planet Earth|0|
-|22.|NHS Esports Smash Team|0|
-|23.|Mr. Martin|0|
-|24.|godfearingman499|0|
-|25.|Northview High School|0|
-|26.|Guy in library who took my seat|0|
-|27.|Wasps|0|
-|28.|Sharleen Wang|0|
+|18.|Sharleen Wang|2|
+|19.|Brendan McCarthy|0|
+|20.|Gabby Urbelis|0|
+|21.|Mr. P. Crucifix|0|
+|22.|Planet Earth|0|
+|23.|NHS Esports Smash Team|0|
+|24.|Mr. Martin|0|
+|25.|godfearingman499|0|
+|26.|Northview High School|0|
+|27.|Guy in library who took my seat|0|
+|28.|Wasps|0|
 |29.|Noam Kolt|0|
 |30.|Katie Hanson|0|
 |31.|Mrs. Hart|0|
