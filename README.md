@@ -19,21 +19,21 @@
 |15.|Shurifin|14|
 |16.|Isaiah Adegbenro|13|
 |17.|Justin Ferrero|12.9999|
-|18.|Max Goldblatt|12|
-|19.|Mr. Lee|11|
-|20.|Mrs. Davis|11|
-|21.|Silas Weiler|11|
-|22.|Joanna Yam|11|
-|23.|Katherine Virginia Patel|10|
-|24.|Koko|10|
-|25.|Planet Earth|10|
-|26.|Olivia Chang|9|
-|27.|Kaitlyn|9|
-|28.|Peter Wasdin|9|
-|29.|Mr. Brown|8|
-|30.|Ben Ussery|8|
-|31.|Mysterious OwenHater856|8|
-|32.|Thomas Clancy's Airpods|8|
+|18.|Mr. Lee|11|
+|19.|Mrs. Davis|11|
+|20.|Silas Weiler|11|
+|21.|Joanna Yam|11|
+|22.|Katherine Virginia Patel|10|
+|23.|Koko|10|
+|24.|Planet Earth|10|
+|25.|Olivia Chang|9|
+|26.|Kaitlyn|9|
+|27.|Peter Wasdin|9|
+|28.|Mr. Brown|8|
+|29.|Ben Ussery|8|
+|30.|Mysterious OwenHater856|8|
+|31.|Thomas Clancy's Airpods|8|
+|32.|Max Goldblatt|7|
 |33.|Mr. P. Crucifix|6|
 |34.|Katie Hanson|6|
 |35.|Mrs. Hart|6|
@@ -64,6 +64,8 @@
 
 
 ## Owen Points Log:
+2025-02-10 14:56:11.524959 \| Edit Points \| Max Goldblatt \| Change: -5 \| "Blew the brown trumpet in class"
+
 2025-02-05 07:12:25.188890 \| Edit Points \| Joanna Yam \| Change: 2 \| "Letting me poke her hand with the sharp end of a flower"
 
 2025-02-05 07:12:09.178922 \| Edit Points \| Brendan McCarthy \| Change: 2 \| "Letting me poke his hand with the sharp end of a flower"
