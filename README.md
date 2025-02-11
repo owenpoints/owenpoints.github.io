@@ -6,48 +6,48 @@
 |2.|Thomas Clancy|61|
 |3.|Owen Bridges|46|
 |4.|William Niemiec-Andorfer|38|
-|5.|Kimaya Joshi|20|
-|6.|Emerson Hamp|20|
-|7.|Aidan McGeever|18|
-|8.|Mr. Dixon|17|
-|9.|Saanvi Chingireddy|16|
-|10.|NHS Esports Smash Team|15|
-|11.|Coach Bombard|15|
-|12.|James Henry Southern|14|
-|13.|Rosie|14|
-|14.|Owen Bridges' Iphone|14|
-|15.|Shurifin|14|
+|5.|Emerson Hamp|24|
+|6.|Saanvi Chingireddy|20|
+|7.|Kimaya Joshi|20|
+|8.|Aidan McGeever|18|
+|9.|Mr. Dixon|17|
+|10.|Coach Bombard|15|
+|11.|NHS Esports Smash Team|15|
+|12.|Shurifin|14|
+|13.|Owen Bridges' Iphone|14|
+|14.|Rosie|14|
+|15.|James Henry Southern|14|
 |16.|Isaiah Adegbenro|13|
 |17.|Justin Ferrero|12.9999|
-|18.|Mr. Lee|11|
-|19.|Mrs. Davis|11|
-|20.|Silas Weiler|11|
-|21.|Joanna Yam|11|
-|22.|Katherine Virginia Patel|10|
+|18.|Joanna Yam|11|
+|19.|Silas Weiler|11|
+|20.|Mrs. Davis|11|
+|21.|Mr. Lee|11|
+|22.|Planet Earth|10|
 |23.|Koko|10|
-|24.|Planet Earth|10|
-|25.|Olivia Chang|9|
+|24.|Katherine Virginia Patel|10|
+|25.|Peter Wasdin|9|
 |26.|Kaitlyn|9|
-|27.|Peter Wasdin|9|
-|28.|Mr. Brown|8|
-|29.|Ben Ussery|8|
-|30.|Mysterious OwenHater856|8|
-|31.|Thomas Clancy's Airpods|8|
+|27.|Olivia Chang|9|
+|28.|Thomas Clancy's Airpods|8|
+|29.|Mysterious OwenHater856|8|
+|30.|Ben Ussery|8|
+|31.|Mr. Brown|8|
 |32.|Max Goldblatt|7|
-|33.|Mr. P. Crucifix|6|
-|34.|Katie Hanson|6|
-|35.|Mrs. Hart|6|
-|36.|Mallory Hatmaker|6|
-|37.|Aubrey Niemiec-Andorfer|5|
+|33.|Mallory Hatmaker|6|
+|34.|Mrs. Hart|6|
+|35.|Katie Hanson|6|
+|36.|Mr. P. Crucifix|6|
+|37.|Geoff Keighley|5|
 |38.|Sharleen Wang|5|
-|39.|Geoff Keighley|5|
+|39.|Aubrey Niemiec-Andorfer|5|
 |40.|Noam Kolt|4|
 |41.|Mr. Yeats|3|
 |42.|Brendan McCarthy|2|
-|43.|Gabby Urbelis|0|
-|44.|Wasps|0|
-|45.|Guy in library who took my seat|-1|
-|46.|Avery Jones|-1|
+|43.|Wasps|0|
+|44.|Gabby Urbelis|0|
+|45.|Avery Jones|-1|
+|46.|Guy in library who took my seat|-1|
 |47.|Alec Aris|-7|
 |48.|Northview High School|-57|
 |49.|Daniel Duke|-78|
@@ -64,6 +64,10 @@
 
 
 ## Owen Points Log:
+2025-02-11 09:51:40.431228 \| Edit Points \| Emerson Hamp \| Change: 4 \| "Stands with me and not against me"
+
+2025-02-11 09:50:53.487747 \| Edit Points \| Saanvi Chingireddy \| Change: 4 \| "Gave me a cupcake"
+
 2025-02-10 14:56:11.524959 \| Edit Points \| Max Goldblatt \| Change: -5 \| "Blew the brown trumpet in class"
 
 2025-02-05 07:12:25.188890 \| Edit Points \| Joanna Yam \| Change: 2 \| "Letting me poke her hand with the sharp end of a flower"
