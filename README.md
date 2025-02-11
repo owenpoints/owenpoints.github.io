@@ -6,53 +6,54 @@
 |2.|Thomas Clancy|61|
 |3.|Owen Bridges|46|
 |4.|William Niemiec-Andorfer|38|
-|5.|Emerson Hamp|24|
-|6.|Saanvi Chingireddy|20|
-|7.|Kimaya Joshi|20|
+|5.|Emerson Hamp|28|
+|6.|Kimaya Joshi|20|
+|7.|Saanvi Chingireddy|20|
 |8.|Aidan McGeever|18|
 |9.|Mr. Dixon|17|
-|10.|Coach Bombard|15|
+|10.|Justin Ferrero|15.9999|
 |11.|NHS Esports Smash Team|15|
-|12.|Shurifin|14|
-|13.|Owen Bridges' Iphone|14|
+|12.|Coach Bombard|15|
+|13.|James Henry Southern|14|
 |14.|Rosie|14|
-|15.|James Henry Southern|14|
-|16.|Isaiah Adegbenro|13|
-|17.|Justin Ferrero|12.9999|
-|18.|Joanna Yam|11|
-|19.|Silas Weiler|11|
-|20.|Mrs. Davis|11|
-|21.|Mr. Lee|11|
-|22.|Planet Earth|10|
+|15.|Owen Bridges' Iphone|14|
+|16.|Shurifin|14|
+|17.|Isaiah Adegbenro|13|
+|18.|Mr. Lee|11|
+|19.|Mrs. Davis|11|
+|20.|Silas Weiler|11|
+|21.|Joanna Yam|11|
+|22.|Katherine Virginia Patel|10|
 |23.|Koko|10|
-|24.|Katherine Virginia Patel|10|
-|25.|Peter Wasdin|9|
+|24.|Planet Earth|10|
+|25.|Olivia Chang|9|
 |26.|Kaitlyn|9|
-|27.|Olivia Chang|9|
-|28.|Thomas Clancy's Airpods|8|
+|27.|Peter Wasdin|9|
+|28.|Ben Ussery|8|
 |29.|Mysterious OwenHater856|8|
-|30.|Ben Ussery|8|
-|31.|Mr. Brown|8|
-|32.|Max Goldblatt|7|
-|33.|Mallory Hatmaker|6|
+|30.|Thomas Clancy's Airpods|8|
+|31.|Max Goldblatt|7|
+|32.|Mr. P. Crucifix|6|
+|33.|Katie Hanson|6|
 |34.|Mrs. Hart|6|
-|35.|Katie Hanson|6|
-|36.|Mr. P. Crucifix|6|
-|37.|Geoff Keighley|5|
-|38.|Sharleen Wang|5|
-|39.|Aubrey Niemiec-Andorfer|5|
+|35.|Mallory Hatmaker|6|
+|36.|Aubrey Niemiec-Andorfer|5|
+|37.|Sharleen Wang|5|
+|38.|Geoff Keighley|5|
+|39.|Mr. Brown|4|
 |40.|Noam Kolt|4|
 |41.|Mr. Yeats|3|
 |42.|Brendan McCarthy|2|
-|43.|Wasps|0|
-|44.|Gabby Urbelis|0|
-|45.|Avery Jones|-1|
-|46.|Guy in library who took my seat|-1|
-|47.|Alec Aris|-7|
-|48.|Northview High School|-57|
-|49.|Daniel Duke|-78|
-|50.|godfearingman499|-489|
-|51.|Mr. Martin|-9,223,372,036,854,777,856|
+|43.|Gabby Urbelis|0|
+|44.|Wasps|0|
+|45.|Guy in library who took my seat|-1|
+|46.|Avery Jones|-1|
+|47.|William Niemiec-Andorfer's Glasses|-5|
+|48.|Alec Aris|-7|
+|49.|Northview High School|-57|
+|50.|Daniel Duke|-78|
+|51.|godfearingman499|-489|
+|52.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -64,6 +65,16 @@
 
 
 ## Owen Points Log:
+2025-02-11 10:01:30.223989 \| Edit Points \| Mr. Brown \| Change: -4 \| "Hurt Emerson Hamp's feelings"
+
+2025-02-11 10:00:57.974787 \| Edit Points \| William Niemiec-Andorfer's Glasses \| Change: -5 \| "Reason from the form: 'Damn things fell behind my nightstand and made me act like a Buffon looking for them'"
+
+2025-02-11 10:00:13.466081 \| Add \| William Niemiec-Andorfer's Glasses
+
+2025-02-11 09:58:16.067658 \| Edit Points \| Emerson Hamp \| Change: 4 \| "Gave me a cookie 🤤"
+
+2025-02-11 09:57:32.062854 \| Edit Points \| Justin Ferrero \| Change: 3 \| "Did the concept outline in one day"
+
 2025-02-11 09:51:40.431228 \| Edit Points \| Emerson Hamp \| Change: 4 \| "Stands with me and not against me"
 
 2025-02-11 09:50:53.487747 \| Edit Points \| Saanvi Chingireddy \| Change: 4 \| "Gave me a cupcake"
