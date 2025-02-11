@@ -6,7 +6,7 @@
 |2.|Thomas Clancy|61|
 |3.|Owen Bridges|46|
 |4.|William Niemiec-Andorfer|38|
-|5.|Emerson Hamp|33|
+|5.|Emerson Hamp|32|
 |6.|Kimaya Joshi|20|
 |7.|Saanvi Chingireddy|20|
 |8.|Aidan McGeever|18|
@@ -65,6 +65,8 @@
 
 
 ## Owen Points Log:
+2025-02-11 10:09:36.754950 \| Edit Points \| Emerson Hamp \| Change: -1 \| "Proceeded to rap the poem in class"
+
 2025-02-11 10:08:13.943176 \| Edit Points \| Emerson Hamp \| Change: 5 \| "Wrote a poem declaring allegiance to Owen Points™"
 
 2025-02-11 10:01:30.223989 \| Edit Points \| Mr. Brown \| Change: -4 \| "Hurt Emerson Hamp's feelings"
