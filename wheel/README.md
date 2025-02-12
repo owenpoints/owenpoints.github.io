@@ -4,7 +4,7 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|100,000,000,007|
 |2.|Mr. Brown|408|
-|3.|Emerson Hamp|123|
+|3.|Emerson Hamp|130|
 |4.|James Henry Southern|79|
 |5.|Saanvi Chingireddy|54|
 |6.|Avery Jones|40|
