@@ -7,53 +7,54 @@
 |3.|Owen Bridges|46|
 |4.|William Niemiec-Andorfer|38|
 |5.|Emerson Hamp|32|
-|6.|Kimaya Joshi|20|
-|7.|Saanvi Chingireddy|20|
+|6.|Saanvi Chingireddy|20|
+|7.|Kimaya Joshi|20|
 |8.|Aidan McGeever|18|
 |9.|Mr. Dixon|17|
 |10.|Justin Ferrero|15.9999|
-|11.|NHS Esports Smash Team|15|
-|12.|Coach Bombard|15|
-|13.|James Henry Southern|14|
-|14.|Rosie|14|
-|15.|Owen Bridges' Iphone|14|
-|16.|Shurifin|14|
+|11.|Coach Bombard|15|
+|12.|NHS Esports Smash Team|15|
+|13.|Shurifin|14|
+|14.|Owen Bridges' Iphone|14|
+|15.|Rosie|14|
+|16.|James Henry Southern|14|
 |17.|Isaiah Adegbenro|13|
-|18.|Mr. Lee|11|
-|19.|Mrs. Davis|11|
-|20.|Silas Weiler|11|
-|21.|Joanna Yam|11|
-|22.|Katherine Virginia Patel|10|
+|18.|Joanna Yam|11|
+|19.|Silas Weiler|11|
+|20.|Mrs. Davis|11|
+|21.|Mr. Lee|11|
+|22.|Planet Earth|10|
 |23.|Koko|10|
-|24.|Planet Earth|10|
-|25.|Olivia Chang|9|
+|24.|Katherine Virginia Patel|10|
+|25.|Peter Wasdin|9|
 |26.|Kaitlyn|9|
-|27.|Peter Wasdin|9|
-|28.|Ben Ussery|8|
+|27.|Olivia Chang|9|
+|28.|Thomas Clancy's Airpods|8|
 |29.|Mysterious OwenHater856|8|
-|30.|Thomas Clancy's Airpods|8|
+|30.|Ben Ussery|8|
 |31.|Max Goldblatt|7|
-|32.|Mr. P. Crucifix|6|
-|33.|Katie Hanson|6|
-|34.|Mrs. Hart|6|
-|35.|Mallory Hatmaker|6|
-|36.|Aubrey Niemiec-Andorfer|5|
+|32.|Mallory Hatmaker|6|
+|33.|Mrs. Hart|6|
+|34.|Katie Hanson|6|
+|35.|Mr. P. Crucifix|6|
+|36.|Geoff Keighley|5|
 |37.|Sharleen Wang|5|
-|38.|Geoff Keighley|5|
-|39.|Mr. Brown|4|
-|40.|Noam Kolt|4|
+|38.|Aubrey Niemiec-Andorfer|5|
+|39.|Noam Kolt|4|
+|40.|Mr. Brown|4|
 |41.|Mr. Yeats|3|
-|42.|Brendan McCarthy|2|
-|43.|Gabby Urbelis|0|
+|42.|Ava|3|
+|43.|Brendan McCarthy|2|
 |44.|Wasps|0|
-|45.|Guy in library who took my seat|-1|
+|45.|Gabby Urbelis|0|
 |46.|Avery Jones|-1|
-|47.|William Niemiec-Andorfer's Glasses|-5|
-|48.|Alec Aris|-7|
-|49.|Northview High School|-57|
-|50.|Daniel Duke|-78|
-|51.|godfearingman499|-489|
-|52.|Mr. Martin|-9,223,372,036,854,777,856|
+|47.|Guy in library who took my seat|-1|
+|48.|William Niemiec-Andorfer's Glasses|-5|
+|49.|Alec Aris|-7|
+|50.|Northview High School|-57|
+|51.|Daniel Duke|-78|
+|52.|godfearingman499|-489|
+|53.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -65,6 +66,10 @@
 
 
 ## Owen Points Log:
+2025-02-25 09:25:23.764623 \| Edit Points \| Ava \| Change: 3 \| "Hit the griddy deviously"
+
+2025-02-25 09:25:12.394445 \| Add \| Ava
+
 2025-02-11 10:09:36.754950 \| Edit Points \| Emerson Hamp \| Change: -1 \| "Proceeded to rap the poem in class"
 
 2025-02-11 10:08:13.943176 \| Edit Points \| Emerson Hamp \| Change: 5 \| "Wrote a poem declaring allegiance to Owen Points™"
