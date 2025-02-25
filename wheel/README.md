@@ -20,41 +20,42 @@
 |16.|Daniel Duke|4|
 |17.|Mr. Yeats|3|
 |18.|Sharleen Wang|2|
-|19.|Ava|0|
-|20.|William Niemiec-Andorfer's Glasses|0|
-|21.|Brendan McCarthy|0|
-|22.|Gabby Urbelis|0|
-|23.|Mr. P. Crucifix|0|
-|24.|Planet Earth|0|
-|25.|NHS Esports Smash Team|0|
-|26.|Mr. Martin|0|
-|27.|godfearingman499|0|
-|28.|Northview High School|0|
-|29.|Guy in library who took my seat|0|
-|30.|Wasps|0|
-|31.|Noam Kolt|0|
-|32.|Katie Hanson|0|
-|33.|Mrs. Hart|0|
-|34.|Ben Ussery|0|
-|35.|Aubrey Niemiec-Andorfer|0|
-|36.|Mysterious OwenHater856|0|
-|37.|Kaitlyn|0|
-|38.|Koko|0|
-|39.|Mr. Lee|0|
-|40.|Mrs. Davis|0|
-|41.|Silas Weiler|0|
-|42.|Justin Ferrero|0|
-|43.|Max Goldblatt|0|
-|44.|Owen Bridges' Iphone|0|
-|45.|Shurifin|0|
-|46.|Mr. Dixon|0|
-|47.|Kimaya Joshi|0|
-|48.|Peter Wasdin|0|
-|49.|Olivia Chang|0|
-|50.|Geoff Keighley|0|
-|51.|Mallory Hatmaker|0|
-|52.|Katherine Virginia Patel|0|
-|53.|Thomas Clancy|-1|
+|19.|Nolan|0|
+|20.|Ava|0|
+|21.|William Niemiec-Andorfer's Glasses|0|
+|22.|Brendan McCarthy|0|
+|23.|Gabby Urbelis|0|
+|24.|Mr. P. Crucifix|0|
+|25.|Planet Earth|0|
+|26.|NHS Esports Smash Team|0|
+|27.|Mr. Martin|0|
+|28.|godfearingman499|0|
+|29.|Northview High School|0|
+|30.|Guy in library who took my seat|0|
+|31.|Wasps|0|
+|32.|Noam Kolt|0|
+|33.|Katie Hanson|0|
+|34.|Mrs. Hart|0|
+|35.|Ben Ussery|0|
+|36.|Aubrey Niemiec-Andorfer|0|
+|37.|Mysterious OwenHater856|0|
+|38.|Kaitlyn|0|
+|39.|Koko|0|
+|40.|Mr. Lee|0|
+|41.|Mrs. Davis|0|
+|42.|Silas Weiler|0|
+|43.|Justin Ferrero|0|
+|44.|Max Goldblatt|0|
+|45.|Owen Bridges' Iphone|0|
+|46.|Shurifin|0|
+|47.|Mr. Dixon|0|
+|48.|Kimaya Joshi|0|
+|49.|Peter Wasdin|0|
+|50.|Olivia Chang|0|
+|51.|Geoff Keighley|0|
+|52.|Mallory Hatmaker|0|
+|53.|Katherine Virginia Patel|0|
+|54.|Thomas Clancy|-1|
 
 ## 10 Wheel Points can be exchanged for 1 Owen Point
 

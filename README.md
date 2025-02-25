@@ -5,7 +5,7 @@
 |1.|Grace Pyon|70,000,000,000|
 |2.|Thomas Clancy|61|
 |3.|Owen Bridges|46|
-|4.|William Niemiec-Andorfer|38|
+|4.|William Niemiec-Andorfer|43|
 |5.|Emerson Hamp|32|
 |6.|Saanvi Chingireddy|20|
 |7.|Kimaya Joshi|20|
@@ -49,12 +49,13 @@
 |45.|Gabby Urbelis|0|
 |46.|Avery Jones|-1|
 |47.|Guy in library who took my seat|-1|
-|48.|William Niemiec-Andorfer's Glasses|-5|
-|49.|Alec Aris|-7|
-|50.|Northview High School|-57|
-|51.|Daniel Duke|-78|
-|52.|godfearingman499|-489|
-|53.|Mr. Martin|-9,223,372,036,854,777,856|
+|48.|Nolan|-5|
+|49.|William Niemiec-Andorfer's Glasses|-5|
+|50.|Alec Aris|-7|
+|51.|Northview High School|-57|
+|52.|Daniel Duke|-78|
+|53.|godfearingman499|-489|
+|54.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -66,6 +67,10 @@
 
 
 ## Owen Points Log:
+2025-02-25 09:29:56.460001 \| Points Transfer \| Nolan to William Niemiec-Andorfer \| Amount: 5 \| "Sold a copy of Pokemon BDSP"
+
+2025-02-25 09:29:28.192304 \| Add \| Nolan
+
 2025-02-25 09:25:23.764623 \| Edit Points \| Ava \| Change: 3 \| "Hit the griddy deviously"
 
 2025-02-25 09:25:12.394445 \| Add \| Ava
