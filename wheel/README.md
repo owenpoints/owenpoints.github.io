@@ -4,9 +4,9 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|100,000,000,007|
 |2.|Mr. Brown|408|
-|3.|Emerson Hamp|132|
-|4.|James Henry Southern|100|
-|5.|Saanvi Chingireddy|55|
+|3.|Emerson Hamp|134|
+|4.|James Henry Southern|99|
+|5.|Saanvi Chingireddy|54|
 |6.|Avery Jones|40|
 |7.|Rosie|30|
 |8.|Thomas Clancy's Airpods|30|
