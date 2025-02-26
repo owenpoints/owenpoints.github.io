@@ -6,7 +6,7 @@
 |2.|Thomas Clancy|61|
 |3.|Owen Bridges|46|
 |4.|William Niemiec-Andorfer|43|
-|5.|Emerson Hamp|32|
+|5.|Emerson Hamp|35|
 |6.|Saanvi Chingireddy|20|
 |7.|Kimaya Joshi|20|
 |8.|Aidan McGeever|18|
@@ -67,6 +67,8 @@
 
 
 ## Owen Points Log:
+2025-02-26 09:23:28.174936 \| Edit Points \| Emerson Hamp \| Change: 3 \| "Gave me a golden star"
+
 2025-02-25 09:29:56.460001 \| Points Transfer \| Nolan to William Niemiec-Andorfer \| Amount: 5 \| "Sold a copy of Pokemon BDSP"
 
 2025-02-25 09:29:28.192304 \| Add \| Nolan
