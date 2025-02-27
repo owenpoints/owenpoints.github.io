@@ -41,7 +41,7 @@
 |37.|Sharleen Wang|5|
 |38.|Aubrey Niemiec-Andorfer|5|
 |39.|Noam Kolt|4|
-|40.|Mr. Brown|4|
+|40.|Mr. Brown|3|
 |41.|Mr. Yeats|3|
 |42.|Ava|3|
 |43.|Brendan McCarthy|2|
@@ -67,6 +67,8 @@
 
 
 ## Owen Points Log:
+2025-02-26 21:43:56.523834 \| Edit Points \| Mr. Brown \| Change: -1 \| "Brutally forced Alex to stop saying category 7"
+
 2025-02-26 09:23:28.174936 \| Edit Points \| Emerson Hamp \| Change: 3 \| "Gave me a golden star"
 
 2025-02-25 09:29:56.460001 \| Points Transfer \| Nolan to William Niemiec-Andorfer \| Amount: 5 \| "Sold a copy of Pokemon BDSP"
