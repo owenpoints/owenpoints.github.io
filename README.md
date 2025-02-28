@@ -32,16 +32,16 @@
 |28.|Thomas Clancy's Airpods|8|
 |29.|Mysterious OwenHater856|8|
 |30.|Ben Ussery|8|
-|31.|Max Goldblatt|7|
-|32.|Mallory Hatmaker|6|
-|33.|Mrs. Hart|6|
-|34.|Katie Hanson|6|
-|35.|Mr. P. Crucifix|6|
-|36.|Geoff Keighley|5|
-|37.|Sharleen Wang|5|
-|38.|Aubrey Niemiec-Andorfer|5|
-|39.|Noam Kolt|4|
-|40.|Mr. Brown|3|
+|31.|Mr. Brown|8|
+|32.|Max Goldblatt|7|
+|33.|Mallory Hatmaker|6|
+|34.|Mrs. Hart|6|
+|35.|Katie Hanson|6|
+|36.|Mr. P. Crucifix|6|
+|37.|Geoff Keighley|5|
+|38.|Sharleen Wang|5|
+|39.|Aubrey Niemiec-Andorfer|5|
+|40.|Noam Kolt|4|
 |41.|Mr. Yeats|3|
 |42.|Ava|3|
 |43.|Brendan McCarthy|2|
@@ -67,6 +67,8 @@
 
 
 ## Owen Points Log:
+2025-02-28 09:44:39.092102 \| Edit Points \| Mr. Brown \| Change: 5 \| "Subscribed to my [youtube channel](https://www.youtube.com/@owen.bridges.93)"
+
 2025-02-26 21:43:56.523834 \| Edit Points \| Mr. Brown \| Change: -1 \| "Brutally forced Alex to stop saying category 7"
 
 2025-02-26 09:23:28.174936 \| Edit Points \| Emerson Hamp \| Change: 3 \| "Gave me a golden star"
