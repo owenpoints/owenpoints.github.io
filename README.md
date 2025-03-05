@@ -6,7 +6,7 @@
 |2.|Thomas Clancy|61|
 |3.|Owen Bridges|46|
 |4.|William Niemiec-Andorfer|43|
-|5.|Emerson Hamp|35|
+|5.|Emerson Hamp|38|
 |6.|Saanvi Chingireddy|20|
 |7.|Kimaya Joshi|20|
 |8.|Aidan McGeever|18|
@@ -67,6 +67,8 @@
 
 
 ## Owen Points Log:
+2025-03-05 09:29:29.429086 \| Edit Points \| Emerson Hamp \| Change: 3 \| "Gave me Jeremy"
+
 2025-02-28 09:44:39.092102 \| Edit Points \| Mr. Brown \| Change: 5 \| "Subscribed to my [youtube channel](https://www.youtube.com/@owen.bridges.93)"
 
 2025-02-26 21:43:56.523834 \| Edit Points \| Mr. Brown \| Change: -1 \| "Brutally forced Alex to stop saying category 7"
