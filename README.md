@@ -26,36 +26,37 @@
 |22.|Planet Earth|10|
 |23.|Koko|10|
 |24.|Katherine Virginia Patel|10|
-|25.|Peter Wasdin|9|
-|26.|Kaitlyn|9|
-|27.|Olivia Chang|9|
-|28.|Thomas Clancy's Airpods|8|
-|29.|Mysterious OwenHater856|8|
-|30.|Ben Ussery|8|
-|31.|Mr. Brown|8|
-|32.|Max Goldblatt|7|
-|33.|Mallory Hatmaker|6|
-|34.|Mrs. Hart|6|
-|35.|Katie Hanson|6|
-|36.|Mr. P. Crucifix|6|
-|37.|Geoff Keighley|5|
-|38.|Sharleen Wang|5|
-|39.|Aubrey Niemiec-Andorfer|5|
-|40.|Noam Kolt|4|
-|41.|Mr. Yeats|3|
-|42.|Ava|3|
-|43.|Brendan McCarthy|2|
-|44.|Wasps|0|
-|45.|Gabby Urbelis|0|
-|46.|Avery Jones|-1|
-|47.|Guy in library who took my seat|-1|
-|48.|Nolan|-5|
-|49.|William Niemiec-Andorfer's Glasses|-5|
-|50.|Alec Aris|-7|
-|51.|Northview High School|-57|
-|52.|Daniel Duke|-78|
-|53.|godfearingman499|-489|
-|54.|Mr. Martin|-9,223,372,036,854,777,856|
+|25.|Fulton County Taxpayers|10|
+|26.|Peter Wasdin|9|
+|27.|Kaitlyn|9|
+|28.|Olivia Chang|9|
+|29.|Thomas Clancy's Airpods|8|
+|30.|Mysterious OwenHater856|8|
+|31.|Ben Ussery|8|
+|32.|Mr. Brown|8|
+|33.|Max Goldblatt|7|
+|34.|Mallory Hatmaker|6|
+|35.|Mrs. Hart|6|
+|36.|Katie Hanson|6|
+|37.|Mr. P. Crucifix|6|
+|38.|Geoff Keighley|5|
+|39.|Sharleen Wang|5|
+|40.|Aubrey Niemiec-Andorfer|5|
+|41.|Noam Kolt|4|
+|42.|Mr. Yeats|3|
+|43.|Ava|3|
+|44.|Brendan McCarthy|2|
+|45.|Wasps|0|
+|46.|Gabby Urbelis|0|
+|47.|Avery Jones|-1|
+|48.|Guy in library who took my seat|-1|
+|49.|Nolan|-5|
+|50.|William Niemiec-Andorfer's Glasses|-5|
+|51.|Alec Aris|-7|
+|52.|Northview High School|-77|
+|53.|Daniel Duke|-78|
+|54.|godfearingman499|-489|
+|55.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -67,6 +68,12 @@
 
 
 ## Owen Points Log:
+2025-03-18 07:58:49.506074 \| Edit Points \| Fulton County Taxpayers \| Change: 10 \| "Pity points for their tax dollars going to this accursed school"
+
+2025-03-18 07:58:19.842017 \| Add \| Fulton County Taxpayers
+
+2025-03-18 07:58:10.842984 \| Edit Points \| Northview High School \| Change: -20 \| "Took away my scissors ***again***"
+
 2025-03-11 12:46:23.075296 \| Edit Points \| Emerson Hamp \| Change: 1 \| "Made the physics lab look nice with her highlighters"
 
 2025-03-05 09:29:29.429086 \| Edit Points \| Emerson Hamp \| Change: 3 \| "Gave me Jeremy"
