@@ -7,51 +7,51 @@
 |3.|Owen Bridges|46|
 |4.|William Niemiec-Andorfer|43|
 |5.|Emerson Hamp|39|
-|6.|Saanvi Chingireddy|20|
-|7.|Kimaya Joshi|20|
+|6.|Kimaya Joshi|20|
+|7.|Saanvi Chingireddy|20|
 |8.|Aidan McGeever|18|
 |9.|Mr. Dixon|17|
 |10.|Justin Ferrero|15.9999|
-|11.|Coach Bombard|15|
-|12.|NHS Esports Smash Team|15|
-|13.|Shurifin|14|
-|14.|Owen Bridges' Iphone|14|
-|15.|Rosie|14|
-|16.|James Henry Southern|14|
+|11.|NHS Esports Smash Team|15|
+|12.|Coach Bombard|15|
+|13.|James Henry Southern|14|
+|14.|Rosie|14|
+|15.|Owen Bridges' Iphone|14|
+|16.|Shurifin|14|
 |17.|Isaiah Adegbenro|13|
-|18.|Joanna Yam|11|
-|19.|Silas Weiler|11|
-|20.|Mrs. Davis|11|
-|21.|Mr. Lee|11|
-|22.|Planet Earth|10|
-|23.|Koko|10|
-|24.|Katherine Virginia Patel|10|
-|25.|Fulton County Taxpayers|10|
-|26.|Peter Wasdin|9|
+|18.|Mr. Lee|11|
+|19.|Mrs. Davis|11|
+|20.|Silas Weiler|11|
+|21.|Joanna Yam|11|
+|22.|Fulton County Taxpayers|10|
+|23.|Katherine Virginia Patel|10|
+|24.|Koko|10|
+|25.|Planet Earth|10|
+|26.|Olivia Chang|9|
 |27.|Kaitlyn|9|
-|28.|Olivia Chang|9|
-|29.|Thomas Clancy's Airpods|8|
-|30.|Mysterious OwenHater856|8|
-|31.|Ben Ussery|8|
-|32.|Mr. Brown|8|
+|28.|Peter Wasdin|9|
+|29.|Mr. Brown|8|
+|30.|Ben Ussery|8|
+|31.|Mysterious OwenHater856|8|
+|32.|Thomas Clancy's Airpods|8|
 |33.|Max Goldblatt|7|
-|34.|Mallory Hatmaker|6|
-|35.|Mrs. Hart|6|
-|36.|Katie Hanson|6|
-|37.|Mr. P. Crucifix|6|
-|38.|Geoff Keighley|5|
+|34.|Mr. P. Crucifix|6|
+|35.|Katie Hanson|6|
+|36.|Mrs. Hart|6|
+|37.|Mallory Hatmaker|6|
+|38.|Aubrey Niemiec-Andorfer|5|
 |39.|Sharleen Wang|5|
-|40.|Aubrey Niemiec-Andorfer|5|
+|40.|Geoff Keighley|5|
 |41.|Noam Kolt|4|
-|42.|Mr. Yeats|3|
-|43.|Ava|3|
+|42.|Ava|3|
+|43.|Mr. Yeats|3|
 |44.|Brendan McCarthy|2|
-|45.|Wasps|0|
-|46.|Gabby Urbelis|0|
-|47.|Avery Jones|-1|
-|48.|Guy in library who took my seat|-1|
-|49.|Nolan|-5|
-|50.|William Niemiec-Andorfer's Glasses|-5|
+|45.|Gabby Urbelis|0|
+|46.|Wasps|0|
+|47.|Guy in library who took my seat|-1|
+|48.|Avery Jones|-1|
+|49.|William Niemiec-Andorfer's Glasses|-5|
+|50.|Nolan|-5|
 |51.|Alec Aris|-7|
 |52.|Northview High School|-77|
 |53.|Daniel Duke|-78|
@@ -68,7 +68,7 @@
 
 
 ## Owen Points Log:
-2025-03-18 07:58:49.506074 \| Edit Points \| Fulton County Taxpayers \| Change: 10 \| "Pity points for their tax dollars going to this accursed school"
+2025-03-18 07:58:49.506074 \| Edit Points \| Fulton County Taxpayers \| Change: 10 \| "Pity points for their tax dollars going to whatever is going on at this school"
 
 2025-03-18 07:58:19.842017 \| Add \| Fulton County Taxpayers
 
