@@ -7,8 +7,8 @@
 |3.|Owen Bridges|46|
 |4.|William Niemiec-Andorfer|43|
 |5.|Emerson Hamp|39|
-|6.|Kimaya Joshi|20|
-|7.|Saanvi Chingireddy|20|
+|6.|Saanvi Chingireddy|25|
+|7.|Kimaya Joshi|20|
 |8.|Aidan McGeever|18|
 |9.|Mr. Dixon|17|
 |10.|Justin Ferrero|15.9999|
@@ -68,6 +68,8 @@
 
 
 ## Owen Points Log:
+2025-03-26 09:23:30.379918 \| Edit Points \| Saanvi Chingireddy \| Change: 5 \| "Birthday Points"
+
 2025-03-18 07:58:49.506074 \| Edit Points \| Fulton County Taxpayers \| Change: 10 \| "Pity points for their tax dollars going to whatever is going on at this school"
 
 2025-03-18 07:58:19.842017 \| Add \| Fulton County Taxpayers
