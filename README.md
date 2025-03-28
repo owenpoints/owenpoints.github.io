@@ -3,13 +3,13 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|70,000,000,000|
-|2.|Thomas Clancy|61|
+|2.|Thomas Clancy|60|
 |3.|Owen Bridges|46|
-|4.|William Niemiec-Andorfer|43|
-|5.|Emerson Hamp|39|
+|4.|Emerson Hamp|44|
+|5.|William Niemiec-Andorfer|43|
 |6.|Saanvi Chingireddy|25|
-|7.|Kimaya Joshi|20|
-|8.|Aidan McGeever|18|
+|7.|Aidan McGeever|21|
+|8.|Kimaya Joshi|20|
 |9.|Mr. Dixon|17|
 |10.|Justin Ferrero|15.9999|
 |11.|NHS Esports Smash Team|15|
@@ -68,6 +68,12 @@
 
 
 ## Owen Points Log:
+2025-03-28 09:55:51.724115 \| Edit Points \| Aidan McGeever \| Change: 3 \| "Where is Omni-Man?!?! 😡😡😡"
+
+2025-03-28 09:55:15.069805 \| Edit Points \| Thomas Clancy \| Change: -1 \| "Came up with a better title than me for the ela paper"
+
+2025-03-28 09:54:37.462078 \| Edit Points \| Emerson Hamp \| Change: 5 \| "Birthday points"
+
 2025-03-26 09:23:30.379918 \| Edit Points \| Saanvi Chingireddy \| Change: 5 \| "Birthday Points"
 
 2025-03-18 07:58:49.506074 \| Edit Points \| Fulton County Taxpayers \| Change: 10 \| "Pity points for their tax dollars going to whatever is going on at this school"
