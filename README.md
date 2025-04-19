@@ -53,8 +53,8 @@
 |49.|William Niemiec-Andorfer's Glasses|-5|
 |50.|Nolan|-5|
 |51.|Alec Aris|-7|
-|52.|Northview High School|-77|
-|53.|Daniel Duke|-78|
+|52.|Daniel Duke|-73|
+|53.|Northview High School|-77|
 |54.|godfearingman499|-489|
 |55.|Mr. Martin|-9,223,372,036,854,777,856|
 
@@ -68,6 +68,8 @@
 
 
 ## Owen Points Log:
+2025-04-19 13:16:51.696929 \| Edit Points \| Daniel Duke \| Change: 5 \| "Saw Mr. Martin's bathroom pass in the bathroom and didn't bring it back"
+
 2025-03-28 09:55:51.724115 \| Edit Points \| Aidan McGeever \| Change: 3 \| "Where is Omni-Man?!?! 😡😡😡"
 
 2025-03-28 09:55:15.069805 \| Edit Points \| Thomas Clancy \| Change: -1 \| "Came up with a better title than me for the ela paper"
