@@ -4,7 +4,7 @@
 | ----------- | ----------- | ----------- |
 |1.|Grace Pyon|70,000,000,000|
 |2.|Thomas Clancy|60|
-|3.|Owen Bridges|46|
+|3.|Owen Bridges|50|
 |4.|Emerson Hamp|44|
 |5.|William Niemiec-Andorfer|43|
 |6.|Saanvi Chingireddy|25|
@@ -68,6 +68,8 @@
 
 
 ## Owen Points Log:
+2025-04-24 20:21:47.503108 \| Edit Points \| Owen Bridges \| Change: 4 \| "Proofread a script William N-A was about to run on his computer"
+
 2025-04-19 13:16:51.696929 \| Edit Points \| Daniel Duke \| Change: 5 \| "Saw Mr. Martin's bathroom pass in the bathroom and didn't bring it back"
 
 2025-03-28 09:55:51.724115 \| Edit Points \| Aidan McGeever \| Change: 3 \| "Where is Omni-Man?!?! 😡😡😡"
