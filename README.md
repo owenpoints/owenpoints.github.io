@@ -14,34 +14,34 @@
 |10.|Justin Ferrero|15.9999|
 |11.|NHS Esports Smash Team|15|
 |12.|Coach Bombard|15|
-|13.|James Henry Southern|14|
-|14.|Rosie|14|
-|15.|Owen Bridges' Iphone|14|
-|16.|Shurifin|14|
-|17.|Isaiah Adegbenro|13|
-|18.|Mr. Lee|11|
-|19.|Mrs. Davis|11|
-|20.|Silas Weiler|11|
-|21.|Joanna Yam|11|
-|22.|Fulton County Taxpayers|10|
-|23.|Katherine Virginia Patel|10|
-|24.|Koko|10|
-|25.|Planet Earth|10|
-|26.|Olivia Chang|9|
-|27.|Kaitlyn|9|
-|28.|Peter Wasdin|9|
-|29.|Mr. Brown|8|
-|30.|Ben Ussery|8|
-|31.|Mysterious OwenHater856|8|
-|32.|Thomas Clancy's Airpods|8|
-|33.|Max Goldblatt|7|
-|34.|Mr. P. Crucifix|6|
-|35.|Katie Hanson|6|
-|36.|Mrs. Hart|6|
-|37.|Mallory Hatmaker|6|
-|38.|Aubrey Niemiec-Andorfer|5|
-|39.|Sharleen Wang|5|
-|40.|Geoff Keighley|5|
+|13.|Rosie|14|
+|14.|Owen Bridges' Iphone|14|
+|15.|Shurifin|14|
+|16.|Isaiah Adegbenro|13|
+|17.|Mr. Lee|11|
+|18.|Mrs. Davis|11|
+|19.|Silas Weiler|11|
+|20.|Joanna Yam|11|
+|21.|Fulton County Taxpayers|10|
+|22.|Katherine Virginia Patel|10|
+|23.|Koko|10|
+|24.|Planet Earth|10|
+|25.|Olivia Chang|9|
+|26.|Kaitlyn|9|
+|27.|Peter Wasdin|9|
+|28.|Mr. Brown|8|
+|29.|Ben Ussery|8|
+|30.|Mysterious OwenHater856|8|
+|31.|Thomas Clancy's Airpods|8|
+|32.|Max Goldblatt|7|
+|33.|Mr. P. Crucifix|6|
+|34.|Katie Hanson|6|
+|35.|Mrs. Hart|6|
+|36.|Mallory Hatmaker|6|
+|37.|Aubrey Niemiec-Andorfer|5|
+|38.|Sharleen Wang|5|
+|39.|Geoff Keighley|5|
+|40.|James Henry Southern|4|
 |41.|Noam Kolt|4|
 |42.|Ava|3|
 |43.|Mr. Yeats|3|
@@ -68,6 +68,8 @@
 
 
 ## Owen Points Log:
+2025-05-06 16:30:34.620426 \| Edit Points \| James Henry Southern \| Change: -10 \| "Didn't sign my yearbook (him btw -> 💩)"
+
 2025-04-24 20:21:47.503108 \| Edit Points \| Owen Bridges \| Change: 4 \| "Proofread a script William N-A was about to run on his computer"
 
 2025-04-19 13:16:51.696929 \| Edit Points \| Daniel Duke \| Change: 5 \| "Saw Mr. Martin's bathroom pass in the bathroom and didn't bring it back"
