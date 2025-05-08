@@ -41,11 +41,11 @@
 |37.|Aubrey Niemiec-Andorfer|5|
 |38.|Sharleen Wang|5|
 |39.|Geoff Keighley|5|
-|40.|James Henry Southern|4|
-|41.|Noam Kolt|4|
-|42.|Ava|3|
-|43.|Mr. Yeats|3|
-|44.|Brendan McCarthy|2|
+|40.|Noam Kolt|4|
+|41.|Ava|3|
+|42.|Mr. Yeats|3|
+|43.|Brendan McCarthy|2|
+|44.|James Henry Southern|0|
 |45.|Gabby Urbelis|0|
 |46.|Wasps|0|
 |47.|Guy in library who took my seat|-1|
@@ -68,6 +68,8 @@
 
 
 ## Owen Points Log:
+2025-05-08 07:43:14.205246 \| Edit Points \| James Henry Southern \| Change: -4 \| "I didn't sleep that well last night either"
+
 2025-05-06 16:30:34.620426 \| Edit Points \| James Henry Southern \| Change: -10 \| "Didn't sign my yearbook (him btw -> 💩)"
 
 2025-04-24 20:21:47.503108 \| Edit Points \| Owen Bridges \| Change: 4 \| "Proofread a script William N-A was about to run on his computer"
