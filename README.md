@@ -17,35 +17,35 @@
 |13.|Rosie|14|
 |14.|Owen Bridges' Iphone|14|
 |15.|Shurifin|14|
-|16.|Isaiah Adegbenro|13|
-|17.|Mr. Lee|11|
-|18.|Mrs. Davis|11|
-|19.|Silas Weiler|11|
-|20.|Joanna Yam|11|
-|21.|Fulton County Taxpayers|10|
-|22.|Katherine Virginia Patel|10|
-|23.|Koko|10|
-|24.|Planet Earth|10|
-|25.|Olivia Chang|9|
-|26.|Kaitlyn|9|
-|27.|Peter Wasdin|9|
-|28.|Mr. Brown|8|
-|29.|Ben Ussery|8|
-|30.|Mysterious OwenHater856|8|
-|31.|Thomas Clancy's Airpods|8|
-|32.|Max Goldblatt|7|
-|33.|Mr. P. Crucifix|6|
-|34.|Katie Hanson|6|
-|35.|Mrs. Hart|6|
-|36.|Mallory Hatmaker|6|
-|37.|Aubrey Niemiec-Andorfer|5|
-|38.|Sharleen Wang|5|
-|39.|Geoff Keighley|5|
-|40.|Noam Kolt|4|
-|41.|Ava|3|
-|42.|Mr. Yeats|3|
-|43.|Brendan McCarthy|2|
-|44.|James Henry Southern|0|
+|16.|James Henry Southern|14|
+|17.|Isaiah Adegbenro|13|
+|18.|Mr. Lee|11|
+|19.|Mrs. Davis|11|
+|20.|Silas Weiler|11|
+|21.|Joanna Yam|11|
+|22.|Fulton County Taxpayers|10|
+|23.|Katherine Virginia Patel|10|
+|24.|Koko|10|
+|25.|Planet Earth|10|
+|26.|Olivia Chang|9|
+|27.|Kaitlyn|9|
+|28.|Peter Wasdin|9|
+|29.|Mr. Brown|8|
+|30.|Ben Ussery|8|
+|31.|Mysterious OwenHater856|8|
+|32.|Thomas Clancy's Airpods|8|
+|33.|Max Goldblatt|7|
+|34.|Mr. P. Crucifix|6|
+|35.|Katie Hanson|6|
+|36.|Mrs. Hart|6|
+|37.|Mallory Hatmaker|6|
+|38.|Aubrey Niemiec-Andorfer|5|
+|39.|Sharleen Wang|5|
+|40.|Geoff Keighley|5|
+|41.|Noam Kolt|4|
+|42.|Ava|3|
+|43.|Mr. Yeats|3|
+|44.|Brendan McCarthy|2|
 |45.|Gabby Urbelis|0|
 |46.|Wasps|0|
 |47.|Guy in library who took my seat|-1|
@@ -68,6 +68,8 @@
 
 
 ## Owen Points Log:
+2025-05-28 02:45:36.889560 \| Edit Points \| James Henry Southern \| Change: 14 \| "Finally did sign my yearbook and I forgor to give him his points back"
+
 2025-05-08 07:43:14.205246 \| Edit Points \| James Henry Southern \| Change: -4 \| "I didn't sleep that well last night either"
 
 2025-05-06 16:30:34.620426 \| Edit Points \| James Henry Southern \| Change: -10 \| "Didn't sign my yearbook (him btw -> 💩)"
