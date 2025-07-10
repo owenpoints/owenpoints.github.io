@@ -2,61 +2,60 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Grace Pyon|70,000,000,000|
-|2.|Thomas Clancy|60|
-|3.|Owen Bridges|50|
-|4.|Emerson Hamp|44|
-|5.|William Niemiec-Andorfer|43|
-|6.|Saanvi Chingireddy|25|
-|7.|Aidan McGeever|21|
-|8.|Kimaya Joshi|20|
-|9.|Mr. Dixon|17|
-|10.|Justin Ferrero|15.9999|
-|11.|NHS Esports Smash Team|15|
-|12.|Coach Bombard|15|
-|13.|Rosie|14|
-|14.|Owen Bridges' Iphone|14|
-|15.|Shurifin|14|
-|16.|James Henry Southern|14|
-|17.|Isaiah Adegbenro|13|
-|18.|Mr. Lee|11|
-|19.|Mrs. Davis|11|
-|20.|Silas Weiler|11|
-|21.|Joanna Yam|11|
-|22.|Fulton County Taxpayers|10|
-|23.|Katherine Virginia Patel|10|
-|24.|Koko|10|
-|25.|Planet Earth|10|
-|26.|Olivia Chang|9|
-|27.|Kaitlyn|9|
-|28.|Peter Wasdin|9|
-|29.|Mr. Brown|8|
-|30.|Ben Ussery|8|
-|31.|Mysterious OwenHater856|8|
-|32.|Thomas Clancy's Airpods|8|
-|33.|Max Goldblatt|7|
-|34.|Mr. P. Crucifix|6|
-|35.|Katie Hanson|6|
-|36.|Mrs. Hart|6|
-|37.|Mallory Hatmaker|6|
-|38.|Aubrey Niemiec-Andorfer|5|
-|39.|Sharleen Wang|5|
-|40.|Geoff Keighley|5|
-|41.|Noam Kolt|4|
-|42.|Ava|3|
-|43.|Mr. Yeats|3|
-|44.|Brendan McCarthy|2|
-|45.|Gabby Urbelis|0|
-|46.|Wasps|0|
-|47.|Guy in library who took my seat|-1|
-|48.|Avery Jones|-1|
-|49.|William Niemiec-Andorfer's Glasses|-5|
-|50.|Nolan|-5|
-|51.|Alec Aris|-7|
-|52.|Daniel Duke|-73|
-|53.|Northview High School|-77|
-|54.|godfearingman499|-489|
-|55.|Mr. Martin|-9,223,372,036,854,777,856|
+|1.|Thomas Clancy|60|
+|2.|Owen Bridges|50|
+|3.|Emerson Hamp|44|
+|4.|William Niemiec-Andorfer|43|
+|5.|Saanvi Chingireddy|25|
+|6.|Aidan McGeever|21|
+|7.|Kimaya Joshi|20|
+|8.|Mr. Dixon|17|
+|9.|Justin Ferrero|15.9999|
+|10.|NHS Esports Smash Team|15|
+|11.|Coach Bombard|15|
+|12.|Rosie|14|
+|13.|Owen Bridges' Iphone|14|
+|14.|Shurifin|14|
+|15.|James Henry Southern|14|
+|16.|Isaiah Adegbenro|13|
+|17.|Mr. Lee|11|
+|18.|Mrs. Davis|11|
+|19.|Silas Weiler|11|
+|20.|Joanna Yam|11|
+|21.|Fulton County Taxpayers|10|
+|22.|Katherine Virginia Patel|10|
+|23.|Koko|10|
+|24.|Planet Earth|10|
+|25.|Olivia Chang|9|
+|26.|Kaitlyn|9|
+|27.|Peter Wasdin|9|
+|28.|Mr. Brown|8|
+|29.|Ben Ussery|8|
+|30.|Mysterious OwenHater856|8|
+|31.|Thomas Clancy's Airpods|8|
+|32.|Max Goldblatt|7|
+|33.|Mr. P. Crucifix|6|
+|34.|Katie Hanson|6|
+|35.|Mrs. Hart|6|
+|36.|Mallory Hatmaker|6|
+|37.|Aubrey Niemiec-Andorfer|5|
+|38.|Sharleen Wang|5|
+|39.|Geoff Keighley|5|
+|40.|Noam Kolt|4|
+|41.|Ava|3|
+|42.|Mr. Yeats|3|
+|43.|Brendan McCarthy|2|
+|44.|Gabby Urbelis|0|
+|45.|Wasps|0|
+|46.|Guy in library who took my seat|-1|
+|47.|Avery Jones|-1|
+|48.|William Niemiec-Andorfer's Glasses|-5|
+|49.|Nolan|-5|
+|50.|Alec Aris|-7|
+|51.|Daniel Duke|-73|
+|52.|Northview High School|-77|
+|53.|godfearingman499|-489|
+|54.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -68,6 +67,8 @@
 
 
 ## Owen Points Log:
+2025-07-10 03:02:07.791608 \| Remove \| Grace Pyon
+
 2025-05-28 02:45:36.889560 \| Edit Points \| James Henry Southern \| Change: 14 \| "Finally did sign my yearbook and I forgor to give him his points back"
 
 2025-05-08 07:43:14.205246 \| Edit Points \| James Henry Southern \| Change: -4 \| "I didn't sleep that well last night either"
