@@ -11,45 +11,45 @@
 |7.|Kimaya Joshi|20|
 |8.|Mr. Dixon|17|
 |9.|Justin Ferrero|15.9999|
-|10.|NHS Esports Smash Team|15|
-|11.|Coach Bombard|15|
-|12.|Rosie|14|
+|10.|Coach Bombard|15|
+|11.|NHS Esports Smash Team|15|
+|12.|James Henry Southern|14|
 |13.|Owen Bridges' Iphone|14|
-|14.|James Henry Southern|14|
+|14.|Rosie|14|
 |15.|Isaiah Adegbenro|13|
-|16.|Mr. Lee|11|
-|17.|Mrs. Davis|11|
-|18.|Silas Weiler|11|
-|19.|Joanna Yam|11|
-|20.|Fulton County Taxpayers|10|
-|21.|Katherine Virginia Patel|10|
-|22.|Koko|10|
-|23.|Planet Earth|10|
-|24.|Olivia Chang|9|
+|16.|Joanna Yam|11|
+|17.|Silas Weiler|11|
+|18.|Mrs. Davis|11|
+|19.|Mr. Lee|11|
+|20.|Planet Earth|10|
+|21.|Koko|10|
+|22.|Katherine Virginia Patel|10|
+|23.|Fulton County Taxpayers|10|
+|24.|Peter Wasdin|9|
 |25.|Kaitlyn|9|
-|26.|Peter Wasdin|9|
-|27.|Mr. Brown|8|
-|28.|Ben Ussery|8|
-|29.|Mysterious OwenHater856|8|
-|30.|Thomas Clancy's Airpods|8|
+|26.|Olivia Chang|9|
+|27.|Thomas Clancy's Airpods|8|
+|28.|Mysterious OwenHater856|8|
+|29.|Ben Ussery|8|
+|30.|Mr. Brown|8|
 |31.|Max Goldblatt|7|
-|32.|Mr. P. Crucifix|6|
-|33.|Katie Hanson|6|
-|34.|Mrs. Hart|6|
-|35.|Mallory Hatmaker|6|
-|36.|Aubrey Niemiec-Andorfer|5|
+|32.|Mallory Hatmaker|6|
+|33.|Mrs. Hart|6|
+|34.|Katie Hanson|6|
+|35.|Mr. P. Crucifix|6|
+|36.|Geoff Keighley|5|
 |37.|Sharleen Wang|5|
-|38.|Geoff Keighley|5|
+|38.|Aubrey Niemiec-Andorfer|5|
 |39.|Noam Kolt|4|
-|40.|Ava|3|
-|41.|Mr. Yeats|3|
+|40.|Mr. Yeats|3|
+|41.|Ava|3|
 |42.|Brendan McCarthy|2|
-|43.|Gabby Urbelis|0|
-|44.|Wasps|0|
-|45.|Guy in library who took my seat|-1|
-|46.|Avery Jones|-1|
-|47.|William Niemiec-Andorfer's Glasses|-5|
-|48.|Nolan|-5|
+|43.|Wasps|0|
+|44.|Gabby Urbelis|0|
+|45.|Avery Jones|-1|
+|46.|Guy in library who took my seat|-1|
+|47.|Nolan|-5|
+|48.|William Niemiec-Andorfer's Glasses|-5|
 |49.|Alec Aris|-7|
 |50.|Daniel Duke|-73|
 |51.|Northview High School|-77|
@@ -66,8 +66,6 @@
 
 
 ## Owen Points Log:
-2025-07-10 03:06:26.483387 \| Remove \| Shurifin
-
 2025-07-10 03:02:07.791608 \| Remove \| Grace Pyon
 
 2025-05-28 02:45:36.889560 \| Edit Points \| James Henry Southern \| Change: 14 \| "Finally did sign my yearbook and I forgor to give him his points back"
