@@ -15,47 +15,46 @@
 |11.|Coach Bombard|15|
 |12.|Rosie|14|
 |13.|Owen Bridges' Iphone|14|
-|14.|Shurifin|14|
-|15.|James Henry Southern|14|
-|16.|Isaiah Adegbenro|13|
-|17.|Mr. Lee|11|
-|18.|Mrs. Davis|11|
-|19.|Silas Weiler|11|
-|20.|Joanna Yam|11|
-|21.|Fulton County Taxpayers|10|
-|22.|Katherine Virginia Patel|10|
-|23.|Koko|10|
-|24.|Planet Earth|10|
-|25.|Olivia Chang|9|
-|26.|Kaitlyn|9|
-|27.|Peter Wasdin|9|
-|28.|Mr. Brown|8|
-|29.|Ben Ussery|8|
-|30.|Mysterious OwenHater856|8|
-|31.|Thomas Clancy's Airpods|8|
-|32.|Max Goldblatt|7|
-|33.|Mr. P. Crucifix|6|
-|34.|Katie Hanson|6|
-|35.|Mrs. Hart|6|
-|36.|Mallory Hatmaker|6|
-|37.|Aubrey Niemiec-Andorfer|5|
-|38.|Sharleen Wang|5|
-|39.|Geoff Keighley|5|
-|40.|Noam Kolt|4|
-|41.|Ava|3|
-|42.|Mr. Yeats|3|
-|43.|Brendan McCarthy|2|
-|44.|Gabby Urbelis|0|
-|45.|Wasps|0|
-|46.|Guy in library who took my seat|-1|
-|47.|Avery Jones|-1|
-|48.|William Niemiec-Andorfer's Glasses|-5|
-|49.|Nolan|-5|
-|50.|Alec Aris|-7|
-|51.|Daniel Duke|-73|
-|52.|Northview High School|-77|
-|53.|godfearingman499|-489|
-|54.|Mr. Martin|-9,223,372,036,854,777,856|
+|14.|James Henry Southern|14|
+|15.|Isaiah Adegbenro|13|
+|16.|Mr. Lee|11|
+|17.|Mrs. Davis|11|
+|18.|Silas Weiler|11|
+|19.|Joanna Yam|11|
+|20.|Fulton County Taxpayers|10|
+|21.|Katherine Virginia Patel|10|
+|22.|Koko|10|
+|23.|Planet Earth|10|
+|24.|Olivia Chang|9|
+|25.|Kaitlyn|9|
+|26.|Peter Wasdin|9|
+|27.|Mr. Brown|8|
+|28.|Ben Ussery|8|
+|29.|Mysterious OwenHater856|8|
+|30.|Thomas Clancy's Airpods|8|
+|31.|Max Goldblatt|7|
+|32.|Mr. P. Crucifix|6|
+|33.|Katie Hanson|6|
+|34.|Mrs. Hart|6|
+|35.|Mallory Hatmaker|6|
+|36.|Aubrey Niemiec-Andorfer|5|
+|37.|Sharleen Wang|5|
+|38.|Geoff Keighley|5|
+|39.|Noam Kolt|4|
+|40.|Ava|3|
+|41.|Mr. Yeats|3|
+|42.|Brendan McCarthy|2|
+|43.|Gabby Urbelis|0|
+|44.|Wasps|0|
+|45.|Guy in library who took my seat|-1|
+|46.|Avery Jones|-1|
+|47.|William Niemiec-Andorfer's Glasses|-5|
+|48.|Nolan|-5|
+|49.|Alec Aris|-7|
+|50.|Daniel Duke|-73|
+|51.|Northview High School|-77|
+|52.|godfearingman499|-489|
+|53.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -67,6 +66,8 @@
 
 
 ## Owen Points Log:
+2025-07-10 03:06:26.483387 \| Remove \| Shurifin
+
 2025-07-10 03:02:07.791608 \| Remove \| Grace Pyon
 
 2025-05-28 02:45:36.889560 \| Edit Points \| James Henry Southern \| Change: 14 \| "Finally did sign my yearbook and I forgor to give him his points back"
