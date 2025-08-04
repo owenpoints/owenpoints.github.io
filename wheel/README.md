@@ -14,7 +14,7 @@
 |10.|Aidan McGeever|16|
 |11.|Joanna Yam|10|
 |12.|Owen Bridges|9|
-|13.|Alec Aris|7|
+|13.|Aleczandre Aris|7|
 |14.|William Niemiec-Andorfer|6|
 |15.|Daniel Duke|4|
 |16.|Mr. Yeats|3|
