@@ -12,7 +12,7 @@
 |8.|Thomas Clancy's Airpods|30|
 |9.|Rosie|30|
 |10.|Aidan McGeever|16|
-|11.|Joanna Yam|10|
+|11.|Joanna Yam|11|
 |12.|Owen Bridges|9|
 |13.|Aleczandre Aris|7|
 |14.|William Niemiec-Andorfer|6|
