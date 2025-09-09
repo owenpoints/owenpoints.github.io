@@ -51,10 +51,11 @@
 |47.|Guy in library who took my seat|-1|
 |48.|Nolan|-5|
 |49.|William Niemiec-Andorfer's Glasses|-5|
-|50.|Daniel Duke|-73|
-|51.|Northview High School|-77|
-|52.|godfearingman499|-489|
-|53.|Mr. Martin|-9,223,372,036,854,777,856|
+|50.|Mr. Hauck|-10|
+|51.|Daniel Duke|-73|
+|52.|Northview High School|-77|
+|53.|godfearingman499|-489|
+|54.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -66,6 +67,10 @@
 
 
 ## Owen Points Log:
+2025-09-09 17:18:17.465394 \| Edit Points \| Mr. Hauck \| Change: -10 \| "I have an 84 in his accursed class"
+
+2025-09-09 17:17:50.645057 \| Add \| Mr. Hauck
+
 2025-08-14 07:51:46.915308 \| Edit Points \| Aleczandre Aris \| Change: 0.11 \| "Real funny guy this one"
 
 2025-08-14 07:50:49.685183 \| Edit Points \| Mr. Brown \| Change: -3 \| "Called Owen Points Owen Bucks like three times in a row"

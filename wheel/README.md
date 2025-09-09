@@ -19,42 +19,43 @@
 |15.|Daniel Duke|4|
 |16.|Mr. Yeats|3|
 |17.|Sharleen Wang|2|
-|18.|Fulton County Taxpayers|0|
-|19.|Katherine Virginia Patel|0|
-|20.|Mallory Hatmaker|0|
-|21.|Geoff Keighley|0|
-|22.|Olivia Chang|0|
-|23.|Peter Wasdin|0|
-|24.|Kimaya Joshi|0|
-|25.|Mr. Dixon|0|
-|26.|Owen Bridges' Iphone|0|
-|27.|Max Goldblatt|0|
-|28.|Justin Ferrero|0|
-|29.|Silas Weiler|0|
-|30.|Mrs. Davis|0|
-|31.|Mr. Lee|0|
-|32.|Koko|0|
-|33.|Kaitlyn|0|
-|34.|Mysterious OwenHater856|0|
-|35.|Aubrey Niemiec-Andorfer|0|
-|36.|Ben Ussery|0|
-|37.|Mrs. Hart|0|
-|38.|Katie Hanson|0|
-|39.|Noam Kolt|0|
-|40.|Wasps|0|
-|41.|Guy in library who took my seat|0|
-|42.|Northview High School|0|
-|43.|godfearingman499|0|
-|44.|Mr. Martin|0|
-|45.|NHS Esports Smash Team|0|
-|46.|Planet Earth|0|
-|47.|Mr. P. Crucifix|0|
-|48.|Gabby Urbelis|0|
-|49.|Brendan McCarthy|0|
-|50.|William Niemiec-Andorfer's Glasses|0|
-|51.|Ava|0|
-|52.|Nolan|0|
-|53.|Thomas Clancy|-1|
+|18.|Mr. Hauck|0|
+|19.|Fulton County Taxpayers|0|
+|20.|Katherine Virginia Patel|0|
+|21.|Mallory Hatmaker|0|
+|22.|Geoff Keighley|0|
+|23.|Olivia Chang|0|
+|24.|Peter Wasdin|0|
+|25.|Kimaya Joshi|0|
+|26.|Mr. Dixon|0|
+|27.|Owen Bridges' Iphone|0|
+|28.|Max Goldblatt|0|
+|29.|Justin Ferrero|0|
+|30.|Silas Weiler|0|
+|31.|Mrs. Davis|0|
+|32.|Mr. Lee|0|
+|33.|Koko|0|
+|34.|Kaitlyn|0|
+|35.|Mysterious OwenHater856|0|
+|36.|Aubrey Niemiec-Andorfer|0|
+|37.|Ben Ussery|0|
+|38.|Mrs. Hart|0|
+|39.|Katie Hanson|0|
+|40.|Noam Kolt|0|
+|41.|Wasps|0|
+|42.|Guy in library who took my seat|0|
+|43.|Northview High School|0|
+|44.|godfearingman499|0|
+|45.|Mr. Martin|0|
+|46.|NHS Esports Smash Team|0|
+|47.|Planet Earth|0|
+|48.|Mr. P. Crucifix|0|
+|49.|Gabby Urbelis|0|
+|50.|Brendan McCarthy|0|
+|51.|William Niemiec-Andorfer's Glasses|0|
+|52.|Ava|0|
+|53.|Nolan|0|
+|54.|Thomas Clancy|-1|
 
 ## 10 Wheel Points can be exchanged for 1 Owen Point
 
