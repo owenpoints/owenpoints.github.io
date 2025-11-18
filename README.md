@@ -11,51 +11,52 @@
 |7.|Kimaya Joshi|20|
 |8.|Mr. Dixon|17|
 |9.|Justin Ferrero|15.9999|
-|10.|Coach Bombard|15|
-|11.|NHS Esports Smash Team|15|
-|12.|James Henry Southern|14|
-|13.|Owen Bridges' Iphone|14|
-|14.|Rosie|14|
-|15.|Isaiah Adegbenro|13|
-|16.|Joanna Yam|11|
-|17.|Silas Weiler|11|
-|18.|Mrs. Davis|11|
-|19.|Mr. Lee|11|
-|20.|Planet Earth|10|
-|21.|Koko|10|
-|22.|Katherine Virginia Patel|10|
-|23.|Fulton County Taxpayers|10|
-|24.|Peter Wasdin|9|
-|25.|Kaitlyn|9|
-|26.|Olivia Chang|9|
-|27.|Thomas Clancy's Airpods|8|
-|28.|Mysterious OwenHater856|8|
-|29.|Ben Ussery|8|
-|30.|Max Goldblatt|7|
-|31.|Mallory Hatmaker|6|
-|32.|Mrs. Hart|6|
-|33.|Katie Hanson|6|
-|34.|Mr. P. Crucifix|6|
-|35.|Mr. Brown|5|
-|36.|Geoff Keighley|5|
-|37.|Sharleen Wang|5|
-|38.|Aubrey Niemiec-Andorfer|5|
-|39.|Noam Kolt|4|
-|40.|Mr. Yeats|3|
-|41.|Ava|3|
-|42.|Brendan McCarthy|2|
-|43.|Wasps|0|
-|44.|Gabby Urbelis|0|
-|45.|Aleczandre Aris|-0.79|
-|46.|Avery Jones|-1|
-|47.|Guy in library who took my seat|-1|
-|48.|Nolan|-5|
-|49.|William Niemiec-Andorfer's Glasses|-5|
-|50.|Mr. Hauck|-10|
-|51.|Daniel Duke|-73|
-|52.|Northview High School|-77|
-|53.|godfearingman499|-489|
-|54.|Mr. Martin|-9,223,372,036,854,777,856|
+|10.|Mr. Brown|15|
+|11.|Coach Bombard|15|
+|12.|NHS Esports Smash Team|15|
+|13.|James Henry Southern|14|
+|14.|Owen Bridges' Iphone|14|
+|15.|Rosie|14|
+|16.|Isaiah Adegbenro|13|
+|17.|Joanna Yam|11|
+|18.|Silas Weiler|11|
+|19.|Mrs. Davis|11|
+|20.|Mr. Lee|11|
+|21.|Planet Earth|10|
+|22.|Koko|10|
+|23.|Katherine Virginia Patel|10|
+|24.|Fulton County Taxpayers|10|
+|25.|Wasps|10|
+|26.|Peter Wasdin|9|
+|27.|Kaitlyn|9|
+|28.|Olivia Chang|9|
+|29.|Thomas Clancy's Airpods|8|
+|30.|Mysterious OwenHater856|8|
+|31.|Ben Ussery|8|
+|32.|Max Goldblatt|7|
+|33.|Mallory Hatmaker|6|
+|34.|Mrs. Hart|6|
+|35.|Katie Hanson|6|
+|36.|Mr. P. Crucifix|6|
+|37.|Geoff Keighley|5|
+|38.|Sharleen Wang|5|
+|39.|Aubrey Niemiec-Andorfer|5|
+|40.|Noam Kolt|4|
+|41.|Mr. Yeats|3|
+|42.|Ava|3|
+|43.|Brendan McCarthy|2|
+|44.|Marissa|1|
+|45.|Gabby Urbelis|0|
+|46.|Aleczandre Aris|-0.79|
+|47.|Avery Jones|-1|
+|48.|Guy in library who took my seat|-1|
+|49.|Nolan|-5|
+|50.|William Niemiec-Andorfer's Glasses|-5|
+|51.|Mr. Hauck|-10|
+|52.|Daniel Duke|-73|
+|53.|Northview High School|-77|
+|54.|godfearingman499|-489|
+|55.|Mr. Martin|-9,223,372,036,854,777,856|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -67,6 +68,16 @@
 
 
 ## Owen Points Log:
+2025-11-18 18:56:45.650800 \| Edit Points \| Wasps \| Change: 10 \| "I'm feeling generous"
+
+2025-11-18 18:55:40.810541 \| Edit Points \| Mr. Brown \| Change: 5 \| "Also really cool"
+
+2025-11-18 18:55:32.662855 \| Edit Points \| Mr. Brown \| Change: 5 \| "Wrote me a college rec"
+
+2025-11-18 18:55:08.852039 \| Edit Points \| Marissa \| Change: 1 \| "Stupid idiot"
+
+2025-11-18 18:52:40.293388 \| Add \| Marissa
+
 2025-09-09 17:18:17.465394 \| Edit Points \| Mr. Hauck \| Change: -10 \| "I have an 84 in his accursed class"
 
 2025-09-09 17:17:50.645057 \| Add \| Mr. Hauck
