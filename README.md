@@ -4,8 +4,8 @@
 | ----------- | ----------- | ----------- |
 |1.|Owen Bridges|100|
 |2.|Tony Cerquira|5|
-|3.|Aidan Mcgeever|-2|
-|4.|Kali Bucklen|-2|
+|3.|Kali Bucklen|-2|
+|4.|Aidan Mcgeever|-2|
 |5.|West Village Dining Hall|-5|
 |6.|Fall 2026 CS 1100 Professor who shall not be named|-100|
 
@@ -21,7 +21,7 @@
 
 
 ## Owen Points Log:
-2026-09-15 23:22:40.179093 \| Edit Points \| Fall 2026 CS 1100 Professor who shall not be named \| Change: -100 \| "Every story must have a villain"
+2026-09-15 23:22:40.179093 \| Edit Points \| Fall 2026 CS 1100 Professor who shall not be named \| Change: -100 \| "Every story needs a villain"
 
 2026-09-15 23:06:40.424831 \| Add \| Fall 2026 CS 1100 Professor who shall not be named
 

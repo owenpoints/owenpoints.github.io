@@ -1,4 +1,4 @@
-2026-09-15 23:22:40.179093 \| Edit Points \| Fall 2026 CS 1100 Professor who shall not be named \| Change: -100 \| "Every story must have a villain"
+2026-09-15 23:22:40.179093 \| Edit Points \| Fall 2026 CS 1100 Professor who shall not be named \| Change: -100 \| "Every story needs a villain"
 2026-09-15 23:06:40.424831 \| Add \| Fall 2026 CS 1100 Professor who shall not be named
 2026-09-15 23:02:22.709082 \| Edit Points \| West Village Dining Hall \| Change: -5 \| "Too many people"
 2026-09-15 23:01:51.850400 \| Add \| West Village Dining Hall
