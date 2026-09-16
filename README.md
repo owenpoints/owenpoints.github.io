@@ -4,13 +4,14 @@
 | ----------- | ----------- | ----------- |
 |1.|Owen Bridges|100|
 |2.|Gold Bus Driver|10|
-|3.|Tony Cerquira|5|
-|4.|Kali Bucklen|-2|
+|3.|Watermelon Alani|5.1|
+|4.|Tony Cerquira|5|
 |5.|Aidan Mcgeever|-2|
-|6.|West Village Dining Hall|-5|
-|7.|Georgia Institute of Technology|-6|
-|8.|aiPlato|-10|
-|9.|Fall 2026 CS 1100 Professor who shall not be named|-100|
+|6.|Kali Bucklen|-2|
+|7.|West Village Dining Hall|-5|
+|8.|Georgia Institute of Technology|-6|
+|9.|aiPlato|-10|
+|10.|Fall 2026 CS 1100 Professor who shall not be named|-100|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -24,6 +25,10 @@
 
 
 ## Owen Points Log:
+2026-09-16 19:26:16.702941 \| Edit Points \| Watermelon Alani \| Change: 5.1 \| "Saved me from the brink of death"
+
+2026-09-16 19:25:53.686922 \| Add \| Watermelon Alani
+
 2026-09-16 16:54:04.215767 \| Edit Points \| Georgia Institute of Technology \| Change: -6 \| "I'm so tired man 🫩"
 
 2026-09-16 16:54:02.088428 \| Add \| Georgia Institute of Technology
