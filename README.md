@@ -4,9 +4,10 @@
 | ----------- | ----------- | ----------- |
 |1.|Owen Bridges|100|
 |2.|Tony Cerquira|5|
-|3.|Aidan Mcgeever|-2|
-|4.|Kali Bucklen|-2|
+|3.|Kali Bucklen|-2|
+|4.|Aidan Mcgeever|-2|
 |5.|West Village Dining Hall|-5|
+|6.|Fall 2026 CS 1100 Professor who shall not be named|-100|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -20,7 +21,11 @@
 
 
 ## Owen Points Log:
-2026-09-15 23:02:22.709082 \| Edit Points \| West Village Dining Hall \| Change: -5 \| "Too many people in it"
+2026-09-15 23:22:40.179093 \| Edit Points \| Fall 2026 CS 1100 Professor who shall not be named \| Change: -100 \| "Every story must have a villain"
+
+2026-09-15 23:06:40.424831 \| Add \| Fall 2026 CS 1100 Professor who shall not be named
+
+2026-09-15 23:02:22.709082 \| Edit Points \| West Village Dining Hall \| Change: -5 \| "Too many people"
 
 2026-09-15 23:01:51.850400 \| Add \| West Village Dining Hall
 

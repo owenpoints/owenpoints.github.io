@@ -2,11 +2,12 @@
 
 |Ranking|Name|Wheel Points|
 | ----------- | ----------- | ----------- |
-|1.|West Village Dining Hall|0|
-|2.|Kali Bucklen|0|
-|3.|Aidan Mcgeever|0|
-|4.|Tony Cerquira|0|
-|5.|Owen Bridges|0|
+|1.|Fall 2026 CS 1100 Professor who shall not be named|0|
+|2.|West Village Dining Hall|0|
+|3.|Kali Bucklen|0|
+|4.|Aidan Mcgeever|0|
+|5.|Tony Cerquira|0|
+|6.|Owen Bridges|0|
 
 ## 10 Wheel Points can be exchanged for 1 Owen Point
 

@@ -1,1 +1,1 @@
-{'Owen Bridges': 0, 'Tony Cerquira': 0, 'Aidan Mcgeever': 0, 'Kali Bucklen': 0, 'West Village Dining Hall': 0}
+{'Owen Bridges': 0, 'Tony Cerquira': 0, 'Aidan Mcgeever': 0, 'Kali Bucklen': 0, 'West Village Dining Hall': 0, 'Fall 2026 CS 1100 Professor who shall not be named': 0}
