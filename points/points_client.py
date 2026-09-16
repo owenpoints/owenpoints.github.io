@@ -291,6 +291,7 @@ while True:
         print('Operation: namechange , Syntax: namechange "old name" "new name" , Description: Edit names of existing people.')
         print('Operation: remove , Syntax: remove "name" , Description: Remove people from leaderboards.')
         print('Operation: transfer , Syntax: transfer "sender" "recipient" amount "reason" , Description: Transfer points between people.')
+        print('Operation: ofw , Syntax: ofw "name" quantity , Description: Turn wheel points into Owen Points.')
         print('Operation: help , Syntax: help , Description: Access this help message.')
         print('Operation: exit , Syntax: exit , Description: Exit the program.\n')
 
