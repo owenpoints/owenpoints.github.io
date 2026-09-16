@@ -3,7 +3,7 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Owen Bridges|100|
-|2.|Tony Cerquira|0|
+|2.|Tony Cerquira|5|
 
 ## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).
 
@@ -15,6 +15,8 @@
 
 
 ## Owen Points Log:
+2026-09-15 22:26:02.155476 \| Edit Points \| Tony Cerquira \| Change: 5 \| "It's a beautiful day for Owen Points"
+
 2026-09-15 22:24:22.936150 \| Add \| Tony Cerquira
 
 2026-09-15 22:13:05.150731 \| Edit Points \| Owen Bridges \| Change: 100 \| "Brought Owen Points back"
