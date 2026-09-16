@@ -2,6 +2,6 @@
 
 cd ..\
 
-python3 -m blog.blog_client
+py -m blog.blog_client
 
 call push.bat "Blog Update"
