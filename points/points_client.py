@@ -26,7 +26,7 @@ def output(store):
     for i, item in enumerate(store):
         output_str += f"|{i + 1}.|{list(store)[i]}|{pretty_num(store[item])}|\n"
 
-    output_str += "\n## Report Someone or Request Points [Here](https://forms.gle/cc2Y95JU66t6gKew9).\n"
+    output_str += "\n## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).\n"
     output_str += "\n## !! Those Under -500 Owen Points will be [Executed Live](https://www.twitch.tv/will_of_owen) !!\n"
     output_str += "\n## Top Owen Updates Can be Found [Here](./blog).\n"
     output_str += "\n## Wheel Points Leaderboard can be found [Here](./wheel)\n"

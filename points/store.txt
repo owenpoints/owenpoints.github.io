@@ -1,1 +1,1 @@
-{'Owen Bridges': 100, 'Tony Cerquira': 5}
+{'Owen Bridges': 100, 'Tony Cerquira': 5, 'Kali Bucklen': -2, 'Aidan Mcgeever': -2}
