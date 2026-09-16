@@ -7,8 +7,8 @@
 |3.|Watermelon Alani|5.1|
 |4.|Tony Cerquira|5|
 |5.|West Village Dining Hall|-1|
-|6.|Aidan Mcgeever|-2|
-|7.|Kali Bucklen|-2|
+|6.|Kali Bucklen|-2|
+|7.|Aidan Mcgeever|-2|
 |8.|Georgia Institute of Technology|-6|
 |9.|aiPlato|-10|
 |10.|Fall 2026 CS 1100 Professor who shall not be named|-105|
@@ -27,7 +27,7 @@
 ## Owen Points Log:
 2026-09-16 19:28:07.611658 \| Edit Points \| Fall 2026 CS 1100 Professor who shall not be named \| Change: -5 \| "WHat is this bum ahh handshake assignment"
 
-2026-09-16 19:27:00.821275 \| Edit Points \| West Village Dining Hall \| Change: 4 \| "I found the printer"
+2026-09-16 19:27:00.821275 \| Edit Points \| West Village Dining Hall \| Change: 4 \| "I found the printer 😈😈😈"
 
 2026-09-16 19:26:16.702941 \| Edit Points \| Watermelon Alani \| Change: 5.1 \| "Saved me from the brink of death"
 
