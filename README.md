@@ -3,11 +3,12 @@
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
 |1.|Owen Bridges|100|
-|2.|Tony Cerquira|5|
-|3.|Aidan Mcgeever|-2|
+|2.|Gold Bus Driver|10|
+|3.|Tony Cerquira|5|
 |4.|Kali Bucklen|-2|
-|5.|West Village Dining Hall|-5|
-|6.|Fall 2026 CS 1100 Professor who shall not be named|-100|
+|5.|Aidan Mcgeever|-2|
+|6.|West Village Dining Hall|-5|
+|7.|Fall 2026 CS 1100 Professor who shall not be named|-100|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -21,6 +22,12 @@
 
 
 ## Owen Points Log:
+2026-09-16 10:28:41.810638 \| Edit Points \| Gold Bus Driver \| Change: 10 \| "Stopped the bus and reopened the doors for me when he saw me coming"
+
+2026-09-16 10:28:00.907190 \| Name Change \| Gold Bus \| Changed To: Gold Bus Driver
+
+2026-09-16 10:27:36.378673 \| Add \| Gold Bus
+
 2026-09-15 23:22:40.179093 \| Edit Points \| Fall 2026 CS 1100 Professor who shall not be named \| Change: -100 \| "Every story needs a villain"
 
 2026-09-15 23:06:40.424831 \| Add \| Fall 2026 CS 1100 Professor who shall not be named
