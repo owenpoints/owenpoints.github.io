@@ -6,6 +6,7 @@
 |2.|Tony Cerquira|5|
 |3.|Aidan Mcgeever|-2|
 |4.|Kali Bucklen|-2|
+|5.|West Village Dining Hall|-5|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -13,10 +14,16 @@
 
 ## Top Owen Updates Can be Found [Here](./blog).
 
-## Wheel Points Leaderboard can be found [Here](./wheel)
+## Wheel Points Leaderboard can be Found [Here](./wheel)
+
+## Previous Seasons can be Found [Here](./seasons)
 
 
 ## Owen Points Log:
+2026-09-15 23:02:22.709082 \| Edit Points \| West Village Dining Hall \| Change: -5 \| "Too many people in it"
+
+2026-09-15 23:01:51.850400 \| Add \| West Village Dining Hall
+
 2026-09-15 22:43:58.354950 \| Edit Points \| Aidan Mcgeever \| Change: -1 \| "You guys suck"
 
 2026-09-15 22:43:51.177980 \| Edit Points \| Kali Bucklen \| Change: -1 \| "You guys suck"
@@ -27,7 +34,7 @@
 
 2026-09-15 22:41:38.082611 \| Edit Points \| Kali Bucklen \| Change: -1 \| "You guys are tearing each other down"
 
-2026-09-15 22:41:01.055205 \| Edit Points \| Aidan Mcgeever \| Change: -1 \| "Request form: 'keeping secret during fortnite time.'"
+2026-09-15 22:41:01.055205 \| Edit Points \| Aidan Mcgeever \| Change: -1 \| "Request form submitted by Kali Bucklen: 'keeping secret during fortnite time.'"
 
 2026-09-15 22:39:39.336408 \| Edit Points \| Kali Bucklen \| Change: -3 \| "Threw one million matches in gortnite"
 

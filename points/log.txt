@@ -1,9 +1,11 @@
+2026-09-15 23:02:22.709082 \| Edit Points \| West Village Dining Hall \| Change: -5 \| "Too many people in it"
+2026-09-15 23:01:51.850400 \| Add \| West Village Dining Hall
 2026-09-15 22:43:58.354950 \| Edit Points \| Aidan Mcgeever \| Change: -1 \| "You guys suck"
 2026-09-15 22:43:51.177980 \| Edit Points \| Kali Bucklen \| Change: -1 \| "You guys suck"
 2026-09-15 22:42:33.129642 \| Edit Points \| Kali Bucklen \| Change: 3 \| "Came up with 'Aidan Mcgeezer'"
 2026-09-15 22:41:56.736332 \| Edit Points \| Aidan Mcgeever \| Change: -1 \| "I can't believe you made me bring owen poitns back for this"
 2026-09-15 22:41:38.082611 \| Edit Points \| Kali Bucklen \| Change: -1 \| "You guys are tearing each other down"
-2026-09-15 22:41:01.055205 \| Edit Points \| Aidan Mcgeever \| Change: -1 \| "Request form: 'keeping secret during fortnite time.'"
+2026-09-15 22:41:01.055205 \| Edit Points \| Aidan Mcgeever \| Change: -1 \| "Request form submitted by Kali Bucklen: 'keeping secret during fortnite time.'"
 2026-09-15 22:39:39.336408 \| Edit Points \| Kali Bucklen \| Change: -3 \| "Threw one million matches in gortnite"
 2026-09-15 22:39:13.381640 \| Add \| Kali Bucklen
 2026-09-15 22:38:55.786186 \| Edit Points \| Aidan Mcgeever \| Change: 1 \| "Awesome sauscome"
