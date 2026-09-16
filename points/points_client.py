@@ -29,7 +29,8 @@ def output(store):
     output_str += "\n## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).\n"
     output_str += "\n## !! Those Under -500 Owen Points will be [Executed Live](https://www.twitch.tv/will_of_owen) !!\n"
     output_str += "\n## Top Owen Updates Can be Found [Here](./blog).\n"
-    output_str += "\n## Wheel Points Leaderboard can be found [Here](./wheel)\n"
+    output_str += "\n## Wheel Points Leaderboard can be Found [Here](./wheel)\n"
+    output_str += "\n## Previous Seasons can be Found [Here](./seasons)\n"
     output_str += "\n\n## Owen Points Log:\n"
 
     log = better_open('./points/log.txt', 'r')
