@@ -11,7 +11,7 @@
 |7.|Kali Bucklen|-2|
 |8.|Georgia Institute of Technology|-6|
 |9.|aiPlato|-10|
-|10.|Fall 2026 CS 1100 Professor who shall not be named|-100|
+|10.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -25,6 +25,8 @@
 
 
 ## Owen Points Log:
+2026-09-16 19:28:07.611658 \| Edit Points \| Fall 2026 CS 1100 Professor who shall not be named \| Change: -5 \| "WHat is this bum ahh handshake assignment"
+
 2026-09-16 19:27:00.821275 \| Edit Points \| West Village Dining Hall \| Change: 4 \| "I found the printer"
 
 2026-09-16 19:26:16.702941 \| Edit Points \| Watermelon Alani \| Change: 5.1 \| "Saved me from the brink of death"
