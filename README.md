@@ -5,11 +5,12 @@
 |1.|Owen Bridges|100|
 |2.|Gold Bus Driver|10|
 |3.|Tony Cerquira|5|
-|4.|Aidan Mcgeever|-2|
-|5.|Kali Bucklen|-2|
+|4.|Kali Bucklen|-2|
+|5.|Aidan Mcgeever|-2|
 |6.|West Village Dining Hall|-5|
-|7.|aiPlato|-10|
-|8.|Fall 2026 CS 1100 Professor who shall not be named|-100|
+|7.|Georgia Institute of Technology|-6|
+|8.|aiPlato|-10|
+|9.|Fall 2026 CS 1100 Professor who shall not be named|-100|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -23,6 +24,14 @@
 
 
 ## Owen Points Log:
+2026-09-16 16:54:04.215767 \| Edit Points \| Georgia Institute of Technology \| Change: -6 \| "I'm so tired man 🫩"
+
+2026-09-16 16:54:02.088428 \| Add \| Georgia Institute of Technology
+
+2026-09-16 16:53:04.891486 \| Add \| Georgia Insitute of Technology
+
+2026-09-16 16:51:54.029685 \| Add \| Georgia Institute of Technology
+
 2026-09-16 14:38:58.735704 \| Edit Points \| aiPlato \| Change: -10 \| "This stupid platform freaking sucks"
 
 2026-09-16 14:38:42.417015 \| Add \| aiPlato
