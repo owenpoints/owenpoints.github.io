@@ -1,0 +1,63 @@
+# Global Wheel Points Rankings
+
+|Ranking|Name|Wheel Points|
+| ----------- | ----------- | ----------- |
+|1.|Mr. Brown|408|
+|2.|Emerson Hamp|189|
+|3.|James Henry Southern|168|
+|4.|Saanvi Chingireddy|146|
+|5.|Avery Jones|40|
+|6.|Isaiah Adegbenro|30|
+|7.|Coach Bombard|30|
+|8.|Thomas Clancy's Airpods|30|
+|9.|Rosie|30|
+|10.|Aidan McGeever|16|
+|11.|Joanna Yam|11|
+|12.|Owen Bridges|9|
+|13.|Aleczandre Aris|7|
+|14.|William Niemiec-Andorfer|6|
+|15.|Daniel Duke|4|
+|16.|Mr. Yeats|3|
+|17.|Sharleen Wang|2|
+|18.|Marissa|0|
+|19.|Mr. Hauck|0|
+|20.|Fulton County Taxpayers|0|
+|21.|Katherine Virginia Patel|0|
+|22.|Mallory Hatmaker|0|
+|23.|Geoff Keighley|0|
+|24.|Olivia Chang|0|
+|25.|Peter Wasdin|0|
+|26.|Kimaya Joshi|0|
+|27.|Mr. Dixon|0|
+|28.|Owen Bridges' Iphone|0|
+|29.|Max Goldblatt|0|
+|30.|Justin Ferrero|0|
+|31.|Silas Weiler|0|
+|32.|Mrs. Davis|0|
+|33.|Mr. Lee|0|
+|34.|Koko|0|
+|35.|Kaitlyn|0|
+|36.|Mysterious OwenHater856|0|
+|37.|Aubrey Niemiec-Andorfer|0|
+|38.|Ben Ussery|0|
+|39.|Mrs. Hart|0|
+|40.|Katie Hanson|0|
+|41.|Noam Kolt|0|
+|42.|Wasps|0|
+|43.|Guy in library who took my seat|0|
+|44.|Northview High School|0|
+|45.|godfearingman499|0|
+|46.|Mr. Martin|0|
+|47.|NHS Esports Smash Team|0|
+|48.|Planet Earth|0|
+|49.|Mr. P. Crucifix|0|
+|50.|Gabby Urbelis|0|
+|51.|Brendan McCarthy|0|
+|52.|William Niemiec-Andorfer's Glasses|0|
+|53.|Ava|0|
+|54.|Nolan|0|
+|55.|Thomas Clancy|-1|
+
+## 10 Wheel Points can be exchanged for 1 Owen Point
+
+## [Back](../) to Owen Points Leaderboard
