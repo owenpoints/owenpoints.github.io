@@ -4,8 +4,8 @@
 | ----------- | ----------- | ----------- |
 |1.|Owen Bridges|100|
 |2.|Tony Cerquira|5|
-|3.|Kali Bucklen|-2|
-|4.|Aidan Mcgeever|-2|
+|3.|Aidan Mcgeever|-2|
+|4.|Kali Bucklen|-2|
 |5.|West Village Dining Hall|-5|
 |6.|Fall 2026 CS 1100 Professor who shall not be named|-100|
 
