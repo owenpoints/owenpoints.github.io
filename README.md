@@ -10,8 +10,9 @@
 |6.|Aidan Mcgeever|-2|
 |7.|Georgia Institute of Technology|-6|
 |8.|Kali Bucklen|-7|
-|9.|aiPlato|-10|
-|10.|Fall 2026 CS 1100 Professor who shall not be named|-105|
+|9.|Tracker (FOSS)|-9|
+|10.|aiPlato|-10|
+|11.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -25,6 +26,10 @@
 
 
 ## Owen Points Log:
+2026-09-17 12:25:05.160474 \| Edit Points \| Tracker (FOSS) \| Change: -9 \| "This application makes my life miserable"
+
+2026-09-17 12:23:47.039923 \| Add \| Tracker (FOSS)
+
 2026-09-17 12:17:06.258198 \| Edit Points \| Kali Bucklen \| Change: -2 \| "Didn't give me her NSA pen"
 
 2026-09-17 12:16:36.526014 \| Edit Points \| Kali Bucklen \| Change: -3 \| "Told Tony that I misspelled his name"
