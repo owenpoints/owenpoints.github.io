@@ -5,11 +5,11 @@
 |1.|Owen Bridges|100|
 |2.|Gold Bus Driver|10|
 |3.|Watermelon Alani|5.1|
-|4.|Tony Cerquira|5|
+|4.|Tony Cerqueira|5.0999|
 |5.|West Village Dining Hall|-1|
-|6.|Kali Bucklen|-2|
-|7.|Aidan Mcgeever|-2|
-|8.|Georgia Institute of Technology|-6|
+|6.|Aidan Mcgeever|-2|
+|7.|Georgia Institute of Technology|-6|
+|8.|Kali Bucklen|-7|
 |9.|aiPlato|-10|
 |10.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
@@ -25,6 +25,14 @@
 
 
 ## Owen Points Log:
+2026-09-17 12:17:06.258198 \| Edit Points \| Kali Bucklen \| Change: -2 \| "Didn't give me her NSA pen"
+
+2026-09-17 12:16:36.526014 \| Edit Points \| Kali Bucklen \| Change: -3 \| "Told Tony that I misspelled his name"
+
+2026-09-17 12:14:35.788468 \| Edit Points \| Tony Cerqueira \| Change: 0.0999 \| "Misspelled his name originally"
+
+2026-09-17 12:13:57.261081 \| Name Change \| Tony Cerquira \| Changed To: Tony Cerqueira
+
 2026-09-16 19:28:07.611658 \| Edit Points \| Fall 2026 CS 1100 Professor who shall not be named \| Change: -5 \| "WHat is this bum ahh handshake assignment"
 
 2026-09-16 19:27:00.821275 \| Edit Points \| West Village Dining Hall \| Change: 4 \| "I found the printer 😈😈😈"

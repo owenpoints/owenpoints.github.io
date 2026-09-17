@@ -1,1 +1,1 @@
-{'Owen Bridges': 100, 'Gold Bus Driver': 10, 'Watermelon Alani': 5.1, 'Tony Cerquira': 5, 'West Village Dining Hall': -1, 'Aidan Mcgeever': -2, 'Kali Bucklen': -2, 'Georgia Institute of Technology': -6, 'aiPlato': -10, 'Fall 2026 CS 1100 Professor who shall not be named': -105}
+{'Owen Bridges': 100, 'Gold Bus Driver': 10, 'Watermelon Alani': 5.1, 'Tony Cerqueira': 5.0999, 'West Village Dining Hall': -1, 'Aidan Mcgeever': -2, 'Georgia Institute of Technology': -6, 'Kali Bucklen': -7, 'aiPlato': -10, 'Fall 2026 CS 1100 Professor who shall not be named': -105}
