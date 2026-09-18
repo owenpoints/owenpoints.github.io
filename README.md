@@ -7,8 +7,8 @@
 |3.|Watermelon Alani|5.1|
 |4.|Tony Cerqueira|5.0999|
 |5.|West Village Dining Hall|-1|
-|6.|Aidan Mcgeever|-2|
-|7.|Georgia Institute of Technology|-6|
+|6.|Georgia Institute of Technology|-6|
+|7.|Aidan Mcgeever|-7|
 |8.|Kali Bucklen|-7|
 |9.|Tracker (FOSS)|-9|
 |10.|aiPlato|-10|
@@ -26,6 +26,8 @@
 
 
 ## Owen Points Log:
+2026-09-18 10:47:11.862599 \| Edit Points \| Aidan Mcgeever \| Change: -5 \| "Feeling a little frustrated today, needed to take someone's points away"
+
 2026-09-17 12:25:05.160474 \| Edit Points \| Tracker (FOSS) \| Change: -9 \| "This application makes my life miserable"
 
 2026-09-17 12:23:47.039923 \| Add \| Tracker (FOSS)
