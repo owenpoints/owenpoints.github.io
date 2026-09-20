@@ -9,8 +9,8 @@
 |5.|Aidan Mcgeever|1|
 |6.|West Village Dining Hall|-3|
 |7.|James Mao|-5.999|
-|8.|Georgia Institute of Technology|-6|
-|9.|Kali Bucklen|-6|
+|8.|Kali Bucklen|-6|
+|9.|Georgia Institute of Technology|-6|
 |10.|Tracker (FOSS)|-9|
 |11.|aiPlato|-10|
 |12.|Fall 2026 CS 1100 Professor who shall not be named|-105|
@@ -31,7 +31,7 @@
 
 2026-09-19 20:26:11.961194 \| Edit Points \| James Mao \| Change: -5 \| "Didn't know what Owen Points were"
 
-2026-09-19 20:25:44.659620 \| Edit Points \| Kali Bucklen \| Change: 1 \| "Told me James' last name"
+2026-09-19 20:25:44.659620 \| Edit Points \| Kali Bucklen \| Change: 1 \| "Bribe"
 
 2026-09-19 20:25:21.607271 \| Add \| James Mao
 
