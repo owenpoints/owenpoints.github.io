@@ -5,7 +5,7 @@
 |1.|Owen Bridges|12|
 |2.|Gold Bus Driver|10|
 |3.|Watermelon Alani|5.1|
-|4.|Tony Cerqueira|5.1|
+|4.|Tony Cerqueira|5.0999|
 |5.|Daniel Duke|3.27|
 |6.|Aidan McGeever|3.26|
 |7.|Mysterious Erin fellow|2|
