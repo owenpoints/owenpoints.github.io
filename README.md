@@ -2,7 +2,7 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Owen Bridges|19|
+|1.|Owen Bridges|12|
 |2.|Gold Bus Driver|10|
 |3.|Watermelon Alani|5.1|
 |4.|Tony Cerqueira|5.1|
@@ -29,9 +29,7 @@
 
 
 ## Owen Points Log:
-9/20/2026 3:24:28.900 \| Edit Points \| Owen Bridges \| Change: 2 \| "General codebase improvements and MADE THE TIMESTAMPS READABLE"
-
-2026-09-20 02:00:40.298106 \| Edit Points \| Owen Bridges \| Change: 5 \| "Completely refactored the points client and all related files"
+9/20/2026 3:24:28.900 \| Edit Points \| Owen Bridges \| Change: 2 \| "MADE THE TIMESTAMPS READABLE"
 
 2026-09-20 01:36:53.315993 \| Edit Points \| Daniel Duke \| Change: 1 \| "Quote 'can i get an owen point for farting'"
 
@@ -56,8 +54,6 @@
 2026-09-19 21:10:16.794949 \| Edit Points \| Mysterious Erin fellow \| Change: -1 \| "Keeps joining my spotify jam to put home depot music on"
 
 2026-09-19 21:09:56.768124 \| Add \| Mysterious Erin fellow
-
-2026-09-19 21:08:34.635227 \| Edit Points \| Owen Bridges \| Change: 2 \| "Revamped wheel quickspin all mechanic"
 
 2026-09-19 20:27:14.477378 \| Edit Points \| James Mao \| Change: -0.999 \| "Misused the term 'oxymoron'"
 

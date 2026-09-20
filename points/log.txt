@@ -1,5 +1,4 @@
-9/20/2026 3:24:28.900 \| Edit Points \| Owen Bridges \| Change: 2 \| "General codebase improvements and MADE THE TIMESTAMPS READABLE"
-2026-09-20 02:00:40.298106 \| Edit Points \| Owen Bridges \| Change: 5 \| "Completely refactored the points client and all related files"
+9/20/2026 3:24:28.900 \| Edit Points \| Owen Bridges \| Change: 2 \| "MADE THE TIMESTAMPS READABLE"
 2026-09-20 01:36:53.315993 \| Edit Points \| Daniel Duke \| Change: 1 \| "Quote 'can i get an owen point for farting'"
 2026-09-20 01:35:48.505392 \| Edit Points \| Daniel Duke \| Change: 0.27 \| "Being awesome"
 2026-09-20 01:35:33.248551 \| Edit Points \| Aidan McGeever \| Change: 0.26 \| "Being awesome"
@@ -12,7 +11,6 @@
 2026-09-19 21:17:02.797758 \| Edit Points \| Mysterious Erin fellow \| Change: 3 \| "Said my queue was fire"
 2026-09-19 21:10:16.794949 \| Edit Points \| Mysterious Erin fellow \| Change: -1 \| "Keeps joining my spotify jam to put home depot music on"
 2026-09-19 21:09:56.768124 \| Add \| Mysterious Erin fellow
-2026-09-19 21:08:34.635227 \| Edit Points \| Owen Bridges \| Change: 2 \| "Revamped wheel quickspin all mechanic"
 2026-09-19 20:27:14.477378 \| Edit Points \| James Mao \| Change: -0.999 \| "Misused the term 'oxymoron'"
 2026-09-19 20:26:11.961194 \| Edit Points \| James Mao \| Change: -5 \| "Didn't know what Owen Points were"
 2026-09-19 20:25:44.659620 \| Edit Points \| Kali Bucklen \| Change: 1 \| "Bribe"
