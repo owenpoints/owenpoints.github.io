@@ -86,7 +86,7 @@ while True:
         scores.pop(name)
         wheel_scores.pop(name)
         
-        send_to_log(f'{datetime.datetime.now()} \| Remove \| {name}')
+        send_to_log(f'{datetime.datetime.now()} \\| Remove \\| {name}')
 
     elif operation == "add":
         if len(arguments) != 1:
@@ -106,7 +106,7 @@ while True:
         scores[name] = Decimal(0)
         wheel_scores[name] = Decimal(0)
 
-        send_to_log(f'{datetime.datetime.now()} \| Add \| {name}')
+        send_to_log(f'{datetime.datetime.now()} \\| Add \\| {name}')
 
     elif operation == "edit":
         if len(arguments) != 3:
@@ -134,7 +134,7 @@ while True:
 
         reason = arguments[2]
 
-        send_to_log(f'{datetime.datetime.now()} \| Edit Points \| {name} \| Change: {pretty_num(amount)} \| "{reason}"')
+        send_to_log(f'{datetime.datetime.now()} \\| Edit Points \\| {name} \\| Change: {pretty_num(amount)} \\| "{reason}"')
 
     elif operation == "transfer":
         if len(arguments) != 4:
@@ -184,7 +184,7 @@ while True:
             scores[sender_name] -= amount
             scores[recipient_name] += amount
 
-        send_to_log(f'{datetime.datetime.now()} \| Points Transfer \| {sender_name} to {recipient_name} \| Amount: {pretty_num(amount)} \| "{reason}"')
+        send_to_log(f'{datetime.datetime.now()} \\| Points Transfer \\| {sender_name} to {recipient_name} \\| Amount: {pretty_num(amount)} \\| "{reason}"')
 
     elif operation == "namechange":
         if len(arguments) != 2:
@@ -209,7 +209,7 @@ while True:
         wheel_scores[new_name] = wheel_scores[old_name]
         wheel_scores.pop(old_name)
 
-        send_to_log(f'{datetime.datetime.now()} \| Name Change \| {old_name} \| Changed To: {new_name}')
+        send_to_log(f'{datetime.datetime.now()} \\| Name Change \\| {old_name} \\| Changed To: {new_name}')
 
     elif operation == "ofw":
         EXCHANGE_RATE = 10
@@ -235,7 +235,7 @@ while True:
 
         wheel_scores[name] -= amount * EXCHANGE_RATE
 
-        send_to_log(f'{datetime.datetime.now()} \| Wheel Exchange \| {name} \| {pretty_num(amount)} for {pretty_num(amount * EXCHANGE_RATE)}')
+        send_to_log(f'{datetime.datetime.now()} \\| Wheel Exchange \\| {name} \\| {pretty_num(amount)} for {pretty_num(amount * EXCHANGE_RATE)}')
         
     elif operation == "help":
         print('\nOperation: edit , Syntax: edit "name" increment "reason" , Description: Edit points of existing people.')
