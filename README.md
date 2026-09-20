@@ -6,11 +6,11 @@
 |2.|Gold Bus Driver|10|
 |3.|Watermelon Alani|5.1|
 |4.|Tony Cerqueira|5.0999|
-|5.|Aidan Mcgeever|1|
+|5.|Aidan McGeever|1|
 |6.|West Village Dining Hall|-3|
 |7.|James Mao|-5.999|
-|8.|Kali Bucklen|-6|
-|9.|Georgia Institute of Technology|-6|
+|8.|Georgia Institute of Technology|-6|
+|9.|Kali Bucklen|-6|
 |10.|Tracker (FOSS)|-9|
 |11.|aiPlato|-10|
 |12.|Fall 2026 CS 1100 Professor who shall not be named|-105|
@@ -37,9 +37,9 @@
 
 2026-09-19 20:18:44.786946 \| Edit Points \| West Village Dining Hall \| Change: -2 \| "I wanted cookies and they didn't have cookies."
 
-2026-09-18 21:21:28.975852 \| Edit Points \| Aidan Mcgeever \| Change: 8 \| "Mb squad"
+2026-09-18 21:21:28.975852 \| Edit Points \| Aidan McGeever \| Change: 8 \| "Mb squad"
 
-2026-09-18 10:47:11.862599 \| Edit Points \| Aidan Mcgeever \| Change: -5 \| "Feeling a little frustrated today, needed to take someone's points away"
+2026-09-18 10:47:11.862599 \| Edit Points \| Aidan McGeever \| Change: -5 \| "Feeling a little frustrated today, needed to take someone's points away"
 
 2026-09-17 12:25:05.160474 \| Edit Points \| Tracker (FOSS) \| Change: -9 \| "This application makes my life miserable"
 
@@ -87,25 +87,25 @@
 
 2026-09-15 23:01:51.850400 \| Add \| West Village Dining Hall
 
-2026-09-15 22:43:58.354950 \| Edit Points \| Aidan Mcgeever \| Change: -1 \| "You guys suck"
+2026-09-15 22:43:58.354950 \| Edit Points \| Aidan McGeever \| Change: -1 \| "You guys suck"
 
 2026-09-15 22:43:51.177980 \| Edit Points \| Kali Bucklen \| Change: -1 \| "You guys suck"
 
 2026-09-15 22:42:33.129642 \| Edit Points \| Kali Bucklen \| Change: 3 \| "Came up with 'Aidan Mcgeezer'"
 
-2026-09-15 22:41:56.736332 \| Edit Points \| Aidan Mcgeever \| Change: -1 \| "I can't believe you made me bring owen poitns back for this"
+2026-09-15 22:41:56.736332 \| Edit Points \| Aidan McGeever \| Change: -1 \| "I can't believe you made me bring owen poitns back for this"
 
 2026-09-15 22:41:38.082611 \| Edit Points \| Kali Bucklen \| Change: -1 \| "You guys are tearing each other down"
 
-2026-09-15 22:41:01.055205 \| Edit Points \| Aidan Mcgeever \| Change: -1 \| "Request form submitted by Kali Bucklen: 'keeping secret during fortnite time.'"
+2026-09-15 22:41:01.055205 \| Edit Points \| Aidan McGeever \| Change: -1 \| "Request form submitted by Kali Bucklen: 'keeping secret during fortnite time.'"
 
 2026-09-15 22:39:39.336408 \| Edit Points \| Kali Bucklen \| Change: -3 \| "Threw one million matches in gortnite"
 
 2026-09-15 22:39:13.381640 \| Add \| Kali Bucklen
 
-2026-09-15 22:38:55.786186 \| Edit Points \| Aidan Mcgeever \| Change: 1 \| "Awesome sauscome"
+2026-09-15 22:38:55.786186 \| Edit Points \| Aidan McGeever \| Change: 1 \| "Awesome sauscome"
 
-2026-09-15 22:38:40.985225 \| Add \| Aidan Mcgeever
+2026-09-15 22:38:40.985225 \| Add \| Aidan McGeever
 
 2026-09-15 22:26:02.155476 \| Edit Points \| Tony Cerquira \| Change: 5 \| "It's a beautiful day to be Owen Points"
 
