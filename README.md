@@ -6,15 +6,16 @@
 |2.|Gold Bus Driver|10|
 |3.|Watermelon Alani|5.1|
 |4.|Tony Cerqueira|5.0999|
-|5.|Mysterious Erin fellow|2|
-|6.|Aidan McGeever|1|
-|7.|West Village Dining Hall|-3|
-|8.|James Mao|-5.999|
-|9.|Georgia Institute of Technology|-6|
-|10.|Tracker (FOSS)|-9|
-|11.|aiPlato|-10|
-|12.|Kali Bucklen|-10.2|
-|13.|Fall 2026 CS 1100 Professor who shall not be named|-105|
+|5.|Aidan McGeever|3|
+|6.|Mysterious Erin fellow|2|
+|7.|Daniel Duke|2|
+|8.|West Village Dining Hall|-3|
+|9.|James Mao|-5.999|
+|10.|Georgia Institute of Technology|-6|
+|11.|Tracker (FOSS)|-9|
+|12.|aiPlato|-10|
+|13.|Kali Bucklen|-10.2|
+|14.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -28,6 +29,12 @@
 
 
 ## Owen Points Log:
+2026-09-20 01:13:54.602441 \| Edit Points \| Daniel Duke \| Change: 2 \| "Kept his first edition owen point in his wallet for all this time"
+
+2026-09-20 01:13:28.434379 \| Add \| Daniel Duke
+
+2026-09-20 01:13:15.248345 \| Edit Points \| Aidan McGeever \| Change: 2 \| "Kept his first edition owen points in his wallet for all this time"
+
 2026-09-19 23:56:18.793926 \| Edit Points \| Kali Bucklen \| Change: -0.2 \| "Threw in fortnite like 3 more times"
 
 2026-09-19 22:48:37.119030 \| Edit Points \| Kali Bucklen \| Change: -5 \| "Left me behind in fortnite"
