@@ -2,8 +2,8 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Gold Bus Driver|10|
-|2.|Owen Bridges|7|
+|1.|Owen Bridges|17|
+|2.|Gold Bus Driver|10|
 |3.|Watermelon Alani|5.1|
 |4.|Tony Cerqueira|5.1|
 |5.|Daniel Duke|3.27|
@@ -141,7 +141,7 @@
 
 2026-09-15 22:24:22.936150 \| Add \| Tony Cerquira
 
-2026-09-15 22:13:05.150731 \| Edit Points \| Owen Bridges \| Change: 100 \| "Brought Owen Points back"
+2026-09-15 22:13:05.150731 \| Edit Points \| Owen Bridges \| Change: 10 \| "Brought Owen Points back"
 
 2026-09-15 22:12:38.190548 \| Add \| Owen Bridges
 
