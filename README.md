@@ -2,7 +2,7 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Owen Bridges|100|
+|1.|Owen Bridges|102|
 |2.|Gold Bus Driver|10|
 |3.|Watermelon Alani|5.1|
 |4.|Tony Cerqueira|5.0999|
@@ -27,6 +27,8 @@
 
 
 ## Owen Points Log:
+2026-09-19 21:08:34.635227 \| Edit Points \| Owen Bridges \| Change: 2 \| "Revamped wheel quickspin all mechanic"
+
 2026-09-19 20:27:14.477378 \| Edit Points \| James Mao \| Change: -0.999 \| "Misused the term 'oxymoron'"
 
 2026-09-19 20:26:11.961194 \| Edit Points \| James Mao \| Change: -5 \| "Didn't know what Owen Points were"
