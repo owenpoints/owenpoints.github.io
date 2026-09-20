@@ -21,11 +21,21 @@ for key in op_scores:
 
         scores[key] = 0
 
+
+names_to_delete = []
+
 for key in scores:
 
     if key not in op_scores:
 
-        scores.pop(key)
+        names_to_delete.append(key)
+
+for key in names_to_delete:
+
+    scores.pop(key)
+
+del names_to_delete
+
 
 error_message = ''
 
