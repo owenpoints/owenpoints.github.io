@@ -2,22 +2,22 @@
 
 |Ranking|Name|Wheel Points|
 | ----------- | ----------- | ----------- |
-|1.|Aidan McGeever|25|
-|2.|Tracker (FOSS)|19|
-|3.|Tony Cerqueira|19|
-|4.|aiPlato|17|
-|5.|Gold Bus Driver|16|
-|6.|Kali Bucklen|15|
-|7.|Watermelon Alani|9|
-|8.|West Village Dining Hall|9|
-|9.|Georgia Institute of Technology|9|
-|10.|Fall 2026 CS 1100 Professor who shall not be named|6|
-|11.|James Mao|6|
-|12.|Owen Bridges|6|
-|13.|Kali's Dad|0|
-|14.|Kali's Mom|0|
-|15.|Daniel Duke|0|
-|16.|Mysterious Erin fellow|0|
+|1.|Aidan McGeever|45|
+|2.|Tracker (FOSS)|39|
+|3.|Gold Bus Driver|26|
+|4.|Fall 2026 CS 1100 Professor who shall not be named|26|
+|5.|Kali Bucklen|25|
+|6.|aiPlato|20|
+|7.|Watermelon Alani|19|
+|8.|West Village Dining Hall|19|
+|9.|Tony Cerqueira|18|
+|10.|Georgia Institute of Technology|8|
+|11.|Daniel Duke|8|
+|12.|James Mao|5|
+|13.|Owen Bridges|5|
+|14.|Kali's Dad|3|
+|15.|Kali's Mom|3|
+|16.|Mysterious Erin fellow|3|
 
 ## 10 Wheel Points can be exchanged for 1 Owen Point
 
