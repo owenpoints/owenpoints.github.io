@@ -1,4 +1,8 @@
 # Devlog Post
+9/20/2026 3:23:37.433 \| Owen Bridges \| went through and updated escape sequences for some of the peripheral scripst
+
+9/20/2026 3:23:21.706 \| Owen Bridges \| Remembered to copy wheel/wheel_assets/funcs.py over from the testing environment
+
 9/20/2026 3:15:5.279 \| Owen Bridges \| Made the timestamp format much more readable
 
 2026-09-20 03:02:23.655187 \| Owen Bridges \| Attempted to fix link to devlog

@@ -77,11 +77,11 @@ while True:
 
         while True:
             contents = input("Input post contents: ")
-            if not "\|" in contents:
+            if not "\\|" in contents:
                 break
             print("Post cannot contain '\|' (backslash pipeline).")
 
-        posts[title] =  f'{get_time_formatted()} \| {username} \| {contents}'
+        posts[title] =  f'{get_time_formatted()} \\| {username} \\| {contents}'
 
         temp = better_open(f'./blog/posts/{title}.md', 'w')
         temp.write(f'# {title}\n## {posts[title].split("|")[0] + "|" + posts[title].split("|")[1][:-1]}\n> {posts[title][33 + len(username):]} \n\n Click [Here](../) to Go Back')

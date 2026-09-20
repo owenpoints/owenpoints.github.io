@@ -36,5 +36,5 @@ while True:
         post = input("Input log post: ")
             
         
-        send_to_log(f'{get_time_formatted()} \| {username} \| {post}')
+        send_to_log(f'{get_time_formatted()} \\| {username} \\| {post}')
     os.system("cls")
