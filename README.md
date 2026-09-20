@@ -2,8 +2,8 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Owen Bridges|107|
-|2.|Gold Bus Driver|10|
+|1.|Gold Bus Driver|10|
+|2.|Owen Bridges|7|
 |3.|Watermelon Alani|5.1|
 |4.|Tony Cerqueira|5.1|
 |5.|Daniel Duke|3.27|
