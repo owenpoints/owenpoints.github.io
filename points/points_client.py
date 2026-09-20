@@ -283,8 +283,6 @@ while True:
 
         send_to_log(f'{datetime.datetime.now()} \| Wheel Exchange \| {arguments[0]} \| {pretty_num(arguments[1])} for {pretty_num(arguments[1] * exchange_rate)}')
         
-
-
     elif operation == "help":
 
         print('\nOperation: edit , Syntax: edit "name" increment "reason" , Description: Edit points of existing people.')
