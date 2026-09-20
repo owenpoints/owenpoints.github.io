@@ -6,8 +6,8 @@
 |2.|Gold Bus Driver|10|
 |3.|Watermelon Alani|5.1|
 |4.|Tony Cerqueira|5.0999|
-|5.|Aidan McGeever|1|
-|6.|Mysterious Erin fellow|-1|
+|5.|Mysterious Erin fellow|2|
+|6.|Aidan McGeever|1|
 |7.|West Village Dining Hall|-3|
 |8.|James Mao|-5.999|
 |9.|Kali Bucklen|-6|
@@ -28,6 +28,8 @@
 
 
 ## Owen Points Log:
+2026-09-19 21:17:02.797758 \| Edit Points \| Mysterious Erin fellow \| Change: 3 \| "Said my queue was fire"
+
 2026-09-19 21:10:16.794949 \| Edit Points \| Mysterious Erin fellow \| Change: -1 \| "Keeps joining my spotify jam to put home depot music on"
 
 2026-09-19 21:09:56.768124 \| Add \| Mysterious Erin fellow
