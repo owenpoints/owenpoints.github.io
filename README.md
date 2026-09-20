@@ -30,7 +30,7 @@
 
 
 ## Owen Points Log:
-9/20/2026 15:8:58.331 \| Edit Points \| Kali's Mom \| Change: 5 \| "Recognizing my genius"
+9/20/2026 15:8:58.331 \| Edit Points \| Kali's Mom \| Change: 5 \| "Recognizes my genius"
 
 9/20/2026 15:8:37.561 \| Add \| Kali's Mom
 
