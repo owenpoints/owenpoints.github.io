@@ -12,8 +12,8 @@
 |8.|James Mao|-5.999|
 |9.|Georgia Institute of Technology|-6|
 |10.|Tracker (FOSS)|-9|
-|11.|Kali Bucklen|-10|
-|12.|aiPlato|-10|
+|11.|aiPlato|-10|
+|12.|Kali Bucklen|-10.2|
 |13.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
@@ -28,6 +28,8 @@
 
 
 ## Owen Points Log:
+2026-09-19 23:56:18.793926 \| Edit Points \| Kali Bucklen \| Change: -0.2 \| "Threw in fortnite like 3 more times"
+
 2026-09-19 22:48:37.119030 \| Edit Points \| Kali Bucklen \| Change: -5 \| "Left me behind in fortnite"
 
 2026-09-19 22:38:04.124422 \| Edit Points \| Kali Bucklen \| Change: 1 \| "I actually entered with 86 fortnite levels"
