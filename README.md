@@ -7,13 +7,14 @@
 |3.|Watermelon Alani|5.1|
 |4.|Tony Cerqueira|5.0999|
 |5.|Aidan McGeever|1|
-|6.|West Village Dining Hall|-3|
-|7.|James Mao|-5.999|
-|8.|Georgia Institute of Technology|-6|
+|6.|Mysterious Erin fellow|-1|
+|7.|West Village Dining Hall|-3|
+|8.|James Mao|-5.999|
 |9.|Kali Bucklen|-6|
-|10.|Tracker (FOSS)|-9|
-|11.|aiPlato|-10|
-|12.|Fall 2026 CS 1100 Professor who shall not be named|-105|
+|10.|Georgia Institute of Technology|-6|
+|11.|Tracker (FOSS)|-9|
+|12.|aiPlato|-10|
+|13.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -27,6 +28,10 @@
 
 
 ## Owen Points Log:
+2026-09-19 21:10:16.794949 \| Edit Points \| Mysterious Erin fellow \| Change: -1 \| "Keeps joining my spotify jam to put home depot music on"
+
+2026-09-19 21:09:56.768124 \| Add \| Mysterious Erin fellow
+
 2026-09-19 21:08:34.635227 \| Edit Points \| Owen Bridges \| Change: 2 \| "Revamped wheel quickspin all mechanic"
 
 2026-09-19 20:27:14.477378 \| Edit Points \| James Mao \| Change: -0.999 \| "Misused the term 'oxymoron'"
