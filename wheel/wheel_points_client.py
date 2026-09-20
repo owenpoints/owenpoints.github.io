@@ -179,7 +179,7 @@ while True:
 
         if arguments[0] == "All":
 
-            scores = {key: scores[key] + increment for key in scores}
+            scores = {key: scores[key] + quick_spin(arguments[1]) for key in scores}
 
         else:
 
