@@ -6,9 +6,9 @@
 |2.|Gold Bus Driver|10|
 |3.|Watermelon Alani|5.1|
 |4.|Tony Cerqueira|5.0999|
-|5.|Aidan McGeever|3|
-|6.|Mysterious Erin fellow|2|
-|7.|Daniel Duke|2|
+|5.|Aidan McGeever|3.26|
+|6.|Daniel Duke|2.27|
+|7.|Mysterious Erin fellow|2|
 |8.|West Village Dining Hall|-3|
 |9.|James Mao|-5.999|
 |10.|Georgia Institute of Technology|-6|
@@ -29,6 +29,10 @@
 
 
 ## Owen Points Log:
+2026-09-20 01:35:48.505392 \| Edit Points \| Daniel Duke \| Change: 0.27 \| "Being awesome"
+
+2026-09-20 01:35:33.248551 \| Edit Points \| Aidan McGeever \| Change: 0.26 \| "Being awesome"
+
 2026-09-20 01:13:54.602441 \| Edit Points \| Daniel Duke \| Change: 2 \| "Kept his first edition owen point in his wallet for all this time"
 
 2026-09-20 01:13:28.434379 \| Add \| Daniel Duke
