@@ -6,8 +6,8 @@
 |2.|Gold Bus Driver|10|
 |3.|Watermelon Alani|5.1|
 |4.|Tony Cerqueira|5.0999|
-|5.|Aidan McGeever|3.26|
-|6.|Daniel Duke|2.27|
+|5.|Daniel Duke|3.27|
+|6.|Aidan McGeever|3.26|
 |7.|Mysterious Erin fellow|2|
 |8.|West Village Dining Hall|-3|
 |9.|James Mao|-5.999|
@@ -29,6 +29,8 @@
 
 
 ## Owen Points Log:
+2026-09-20 01:36:53.315993 \| Edit Points \| Daniel Duke \| Change: 1 \| "Quote 'can i get an owen point for farting'"
+
 2026-09-20 01:35:48.505392 \| Edit Points \| Daniel Duke \| Change: 0.27 \| "Being awesome"
 
 2026-09-20 01:35:33.248551 \| Edit Points \| Aidan McGeever \| Change: 0.26 \| "Being awesome"
