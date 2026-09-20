@@ -6,16 +6,17 @@
 |2.|Gold Bus Driver|10|
 |3.|Watermelon Alani|5.1|
 |4.|Tony Cerqueira|5.0999|
-|5.|Daniel Duke|3.27|
-|6.|Aidan McGeever|3.26|
-|7.|Mysterious Erin fellow|2|
-|8.|West Village Dining Hall|-3|
-|9.|James Mao|-6|
-|10.|Georgia Institute of Technology|-6|
-|11.|Tracker (FOSS)|-9|
-|12.|aiPlato|-10|
-|13.|Kali Bucklen|-10.2|
-|14.|Fall 2026 CS 1100 Professor who shall not be named|-105|
+|5.|Kali's Mom|5|
+|6.|Daniel Duke|3.27|
+|7.|Aidan McGeever|3.26|
+|8.|Mysterious Erin fellow|2|
+|9.|West Village Dining Hall|-3|
+|10.|James Mao|-6|
+|11.|Georgia Institute of Technology|-6|
+|12.|Kali Bucklen|-6.001|
+|13.|Tracker (FOSS)|-9|
+|14.|aiPlato|-10|
+|15.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -29,6 +30,12 @@
 
 
 ## Owen Points Log:
+9/20/2026 15:8:58.331 \| Edit Points \| Kali's Mom \| Change: 5 \| "Recognizing my genius"
+
+9/20/2026 15:8:37.561 \| Add \| Kali's Mom
+
+9/20/2026 15:7:42.354 \| Edit Points \| Kali Bucklen \| Change: 4.199 \| "Jumpscared her with a fake exam tmr"
+
 9/20/2026 3:24:28.900 \| Edit Points \| Owen Bridges \| Change: 2 \| "MADE THE TIMESTAMPS READABLE"
 
 2026-09-20 01:36:53.315993 \| Edit Points \| Daniel Duke \| Change: 1 \| "can i get an owen point for farting"
