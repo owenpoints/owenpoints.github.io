@@ -1,30 +1,23 @@
 import os
-import ast
 import datetime
-from assets import *
-from wheel.wheel_assets import *
+from assets.funcs import pretty_num, better_open, format_scores, save, import_scores
+from wheel.wheel_assets.funcs import wheel_output
+from decimal import Decimal
 
 def send_to_log(message):
+    with better_open('./points/log.txt', 'r') as log:
+        content = log.read()
 
-    log = better_open('./points/log.txt', 'r')
-    content = log.read()
-    log.close()
+    with better_open('./points/log.txt', 'w') as log:
+        log.write(message + '\n' + content)
 
-    log = better_open('./points/log.txt', 'w')
-    log.write(message + '\n' + content)
-    log.close()
-
-def output(store):
-
-    file = better_open('README.md', 'w')
-
+def output(scores):
     output_str = "# Global Owen Points Rankings\n\n|Ranking|Name|Owen Points|\n| ----------- | ----------- | ----------- |\n"
     
-    store = dict(sorted(store.items(), key=lambda item: item[1]))
-    store = {k: store[k] for k in reversed(store)}
+    scores = dict(sorted(scores.items(), key=lambda item: -1 * item[1]))
 
-    for i, item in enumerate(store):
-        output_str += f"|{i + 1}.|{list(store)[i]}|{pretty_num(store[item])}|\n"
+    for index, name in enumerate(scores):
+        output_str += f"|{index + 1}.|{name}|{pretty_num(scores[name])}|\n"
 
     output_str += "\n## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).\n"
     output_str += "\n## !! Those Under -500 Owen Points will be [Executed Live](https://www.twitch.tv/will_of_owen) !!\n"
@@ -33,258 +26,218 @@ def output(store):
     output_str += "\n## Previous Seasons can be Found [Here](./seasons)\n"
     output_str += "\n\n## Owen Points Log:\n"
 
-    log = better_open('./points/log.txt', 'r')
-    lines = log.readlines()
-    for i in lines:
-        output_str += i + '\n'
-    log.close()
+    with better_open('./points/log.txt', 'r') as log:
+        lines = log.readlines()
 
-    file.write(output_str)
-    file.close()
+    for line in lines:
+        output_str += line + '\n'
     
-def save(store):
-    
-    file = better_open('./points/store.txt', 'w')
+    with better_open('README.md', 'w') as page:
+        page.write(output_str)
 
-    file.write(str(store))
-
-    file.close()
-
-store = better_open('./points/store.txt', 'r')
-
-scores = ast.literal_eval(store.read())
-
-wheel_store = better_open('./wheel/store.txt', 'r')
-
-wheel_scores = ast.literal_eval(wheel_store.read())
-
-wheel_store.close()
+scores = import_scores('./points/scores.txt')
+wheel_scores = import_scores('./wheel/scores.txt')
 
 error_message = ''
 
 while True:
-
     os.system("cls")
 
-    scores = dict(sorted(scores.items(), key=lambda item: item[1]))
-    scores = {k: scores[k] for k in reversed(scores)}
-    scores = pretty_dict(scores)
+    scores = format_scores(scores)
 
-    for i in scores:
-
-        print(i, ":", scores[i])
+    for name, score in scores.items():
+        print(f"{name}: {score}")
     
     if error_message:
-
         print(f"\n!! {error_message} !!\n")
 
-        error_message = ""
+        error_message = ''
 
-    options = ("edit", "add", "namechange", "remove", "transfer", "ofw", "help", "exit")
+    commands = ("edit", "add", "namechange", "remove", "transfer", "ofw", "help", "exit")
     
-    raw_choice = input(f"Input operation {options}: ").strip()
+    raw_command = input(f"Input operation {commands}: ").strip()
 
-    if not raw_choice:
-
+    if not raw_command:
         error_message = "Please input a command."
-
         continue
 
-    operation = raw_choice.split()[0]
+    operation = raw_command.split()[0].lower()
 
-    arguments = [item.strip() for item in raw_choice.split('"') if item and item != " "]
-    arguments.pop(0)
- 
-    if operation not in options:
-
-        error_message = "Enter valid operation."
-
-        continue
+    arguments = [item.strip() for item in raw_command.split('"')[1:] if item and item != " "]
 
     if operation == "exit":
-
         break
+ 
+    if operation not in commands:
+        error_message = "Enter valid operation."
+        continue
 
     elif operation == "remove":
-
         if len(arguments) != 1:
-
             error_message = "Invalid command arguments, type help for help."
-        
             continue
 
-        if arguments[0] not in scores:
+        name = arguments[0]
 
-            error_message = "Person does not exist."
-
+        if name not in scores:
+            error_message = f"\"{name}\" does not exist."
             continue
         
-        scores.pop(arguments[0])
+        scores.pop(name)
+        wheel_scores.pop(name)
         
-        wheel_scores.pop(arguments[0])
-        
-        send_to_log(f'{datetime.datetime.now()} \| Remove \| {arguments[0]}')
+        send_to_log(f'{datetime.datetime.now()} \| Remove \| {name}')
 
     elif operation == "add":
-
         if len(arguments) != 1:
-
             error_message = "Invalid command arguments, type help for help."
-
             continue
 
-        if arguments[0] == "All":
-            
-            error_message = "Invalid name."
+        name = arguments[0]
 
+        if name == "All":
+            error_message = "Name cannot be \"All\"."
             continue
 
-        if arguments[0] in scores:
-
-            error_message = "Person already exists."
-            
+        if name in scores:
+            error_message = f"\"{name}\" already exists."
             continue
         
-        
-        scores[arguments[0]] = 0
-        
-        wheel_scores[arguments[0]] = 0
+        scores[name] = Decimal(0)
+        wheel_scores[name] = Decimal(0)
 
-        send_to_log(f'{datetime.datetime.now()} \| Add \| {arguments[0]}')
+        send_to_log(f'{datetime.datetime.now()} \| Add \| {name}')
 
     elif operation == "edit":
-
         if len(arguments) != 3:
-
             error_message = "Invalid command arguments, type help for help."
-        
             continue
 
+        name = arguments[0]
 
-        if arguments[0] not in scores and arguments[0] != "All":
-    
-            error_message = "Person does not exist."
-
+        if name not in scores and name != "All":
+            error_message = f"\"{name}\" does not exist."
             continue
 
         try:
-            
-            arguments[1] = float(arguments[1].strip())
+            amount = Decimal(arguments[1])
         
         except ValueError:
-            
             error_message = "Input float for points increment."
-
             continue
         
-        if arguments[0] == "All":
-
-            scores = {key: scores[key] + arguments[1] for key in scores}
+        if name == "All":
+            scores = {key: scores[key] + amount for key in scores}
 
         else:
+            scores[name] += amount
 
-            scores[arguments[0]] += arguments[1]
+        reason = arguments[2]
 
-        send_to_log(f'{datetime.datetime.now()} \| Edit Points \| {arguments[0]} \| Change: {pretty_num(arguments[1])} \| "{arguments[2]}"')
+        send_to_log(f'{datetime.datetime.now()} \| Edit Points \| {name} \| Change: {pretty_num(amount)} \| "{reason}"')
 
     elif operation == "transfer":
-
         if len(arguments) != 4:
-
             error_message = "Invalid command arguments, type help for help."
-        
             continue
 
-        if not (arguments[0] in scores and arguments[1] in scores) and arguments[1] != "All":
-    
-            error_message = "Person does not exist."
+        sender_name = arguments[0]
+        recipient_name = arguments[1]
+        reason = arguments[3]
 
+        if not sender_name in scores and sender_name != "All":
+            error_message = f"\"{sender_name}\" does not exist."
+            continue
+
+        if not recipient_name in scores and recipient_name != "All":
+            error_message = f"\"{recipient_name}\" does not exist."
+            continue
+
+        if recipient_name == "All" and sender_name == recipient_name:
+            error_message = "All cannot send to All"
             continue
 
         try:
-            
-            arguments[2] = float(arguments[2].strip())
+            amount = Decimal(arguments[2])
         
         except ValueError:
-            
             error_message = "Input float for points transfer."
-
             continue
         
-        if arguments[1] == "All":
+        if recipient_name == "All":
+            scores[sender_name] -= amount * len(scores)
+            scores = {key : scores[key] + amount for key in scores}
 
-            scores[arguments[0]] -= arguments[2] * len(scores)
-            scores = {key : scores[key] + arguments[2] for key in scores}
+        elif sender_name == "All":
+            amount_per_person = Decimal(round(amount / len(scores)))
+            total_to_recipient = amount_per_person * len(scores)
+
+            if amount_per_person == 0:
+                error_message = f"Amount rounds to zero ({amount / len(scores)})."
+
+            amount = total_to_recipient
+
+            scores = {key : scores[key] - amount_per_person for key in scores}
+            scores[recipient_name] += total_to_recipient
 
         else:
+            scores[sender_name] -= amount
+            scores[recipient_name] += amount
 
-            scores[arguments[0]] -= arguments[2]
-            scores[arguments[1]] += arguments[2]
-
-        send_to_log(f'{datetime.datetime.now()} \| Points Transfer \| {arguments[0]} to {arguments[1]} \| Amount: {pretty_num(arguments[2])} \| "{arguments[3]}"')
+        send_to_log(f'{datetime.datetime.now()} \| Points Transfer \| {sender_name} to {recipient_name} \| Amount: {pretty_num(amount)} \| "{reason}"')
 
     elif operation == "namechange":
-
         if len(arguments) != 2:
-
             error_message = "Invalid command arguments, type help for help."
-        
             continue
 
-        if arguments[0] not in scores:
-            
-            error_message = "Person does not exist."
+        old_name = arguments[0]
 
+        if old_name not in scores:
+            error_message = f"\"{old_name}\" does not exist."
             continue
 
-        if arguments[1] in scores:
+        new_name = arguments[1]
 
-            error_message = "Person already exists."
-
+        if new_name in scores:
+            error_message = f"\"{new_name}\" already exists."
             continue
 
-        scores[arguments[1]] = scores[arguments[0]]
-        scores.pop(arguments[0])
+        scores[new_name] = scores[old_name]
+        scores.pop(old_name)
 
-        wheel_scores[arguments[1]] = wheel_scores[arguments[0]]
-        wheel_scores.pop(arguments[0])
+        wheel_scores[new_name] = wheel_scores[old_name]
+        wheel_scores.pop(old_name)
 
-        send_to_log(f'{datetime.datetime.now()} \| Name Change \| {arguments[0]} \| Changed To: {arguments[1]}')
+        send_to_log(f'{datetime.datetime.now()} \| Name Change \| {old_name} \| Changed To: {new_name}')
 
     elif operation == "ofw":
-
-        exchange_rate = 10
+        EXCHANGE_RATE = 10
 
         if len(arguments) != 2:
-
             error_message = "Invalid command arguments, type help for help."
-
             continue
 
-        if arguments[0] not in scores and arguments[0] != "All":
+        name = arguments[0]
 
-            error_message = "Person does not exist."
-
+        if name not in scores and name != "All":
+            error_message = f"\"{name}\" does not exist."
             continue
 
         try:
-
-            arguments[1] = float(arguments[1].strip())
+            amount = Decimal(arguments[1])
 
         except ValueError:
-
             error_message = "Input float for points exchange"
-
             continue
 
-        scores[arguments[0]] += arguments[1]
+        scores[name] += amount
 
-        wheel_scores[arguments[0]] -= arguments[1] * exchange_rate
+        wheel_scores[name] -= amount * EXCHANGE_RATE
 
-        send_to_log(f'{datetime.datetime.now()} \| Wheel Exchange \| {arguments[0]} \| {pretty_num(arguments[1])} for {pretty_num(arguments[1] * exchange_rate)}')
+        send_to_log(f'{datetime.datetime.now()} \| Wheel Exchange \| {name} \| {pretty_num(amount)} for {pretty_num(amount * EXCHANGE_RATE)}')
         
     elif operation == "help":
-
         print('\nOperation: edit , Syntax: edit "name" increment "reason" , Description: Edit points of existing people.')
         print('Operation: add , Syntax: add "name" , Description: Add people to leaderboards.')
         print('Operation: namechange , Syntax: namechange "old name" "new name" , Description: Edit names of existing people.')
@@ -298,10 +251,8 @@ while True:
 
 output(scores)
 
-save(scores)
+save(scores, './points/scores.txt')
 
 wheel_output(wheel_scores)
 
-wheel_save(wheel_scores)
-
-store.close()
+save(wheel_scores, './wheel/scores.txt')

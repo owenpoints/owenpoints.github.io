@@ -1,34 +1,46 @@
-import random
+import ast
+from decimal import Decimal
 
 def pretty_num(num):
-
     if num == int(num):
-
         num = int(num)
 
-    out = f'{num:,}'
+    result = f'{num:,}'
     
-    return out
+    return result
 
 def better_open(filename, mode, codec = "utf-8"):
-    
     return open(filename, mode, encoding = codec)
 
+def import_scores(path):
+    with better_open(path, 'r') as score_file:
+        result = ast.literal_eval(score_file.read())
+
+    result = {name: Decimal(result[name]) for name in result}
+
+    return result
+
+def sort_scores(scores):
+    scores = dict(sorted(scores.items(), key=lambda item: -1 * item[1]))
+
+    return scores
+
 def pretty_dict(dictionary):
-
     for key, value in dictionary.items():
-
         if value == int(value):
-            
-            dictionary[key] = int(value)
+            dictionary[key] = Decimal(int(value))
 
     return dictionary
 
-def quick_spin(spins):
-    outcomes = [-1, -1, -1, 3, 7, 8, 10, 15, 20]
+def format_scores(scores):
+    scores = sort_scores(scores)
 
-    total = 0
-    for i in range(spins):
-        total += random.choice(outcomes)
+    scores = pretty_dict(scores)
 
-    return total
+    return scores
+
+def save(scores, path):
+    scores = {name: str(scores[name]) for name in scores}
+
+    with better_open(path, 'w') as scores_file:
+        scores_file.write(str(scores))

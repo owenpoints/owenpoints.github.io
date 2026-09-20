@@ -5,17 +5,10 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'assets'))
 from assets import *
 from wheel.wheel_assets import *
 
-store = better_open('./points/store.txt', 'r')
+owenpoints_scores = import_scores('./points/scores.txt')
+scores = import_scores('./wheel/scores.txt')
 
-op_scores = ast.literal_eval(store.read())
-
-store.close()
-
-store = better_open('./wheel/store.txt', 'r')
-
-scores = ast.literal_eval(store.read())
-
-for key in op_scores:
+for key in owenpoints_scores:
 
     if key not in scores:
 
@@ -26,7 +19,7 @@ names_to_delete = []
 
 for key in scores:
 
-    if key not in op_scores:
+    if key not in owenpoints_scores:
 
         names_to_delete.append(key)
 
@@ -207,6 +200,4 @@ while True:
 
 wheel_output(scores)
 
-wheel_save(scores)
-
-store.close()
+save(scores, './wheel/scores.txt')
