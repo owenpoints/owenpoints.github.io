@@ -14,9 +14,10 @@
 |10.|Fall 2026 CS 1100 Professor who shall not be named|6|
 |11.|James Mao|6|
 |12.|Owen Bridges|6|
-|13.|Kali's Mom|0|
-|14.|Daniel Duke|0|
-|15.|Mysterious Erin fellow|0|
+|13.|Kali's Dad|0|
+|14.|Kali's Mom|0|
+|15.|Daniel Duke|0|
+|16.|Mysterious Erin fellow|0|
 
 ## 10 Wheel Points can be exchanged for 1 Owen Point
 

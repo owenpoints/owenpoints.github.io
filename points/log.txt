@@ -1,4 +1,6 @@
-9/20/2026 15:8:58.331 \| Edit Points \| Kali's Mom \| Change: 5 \| "Recognizes my genius"
+9/20/2026 15:11:56.110 \| Edit Points \| Kali's Dad \| Change: 5 \| "Bought me pizza that one time"
+9/20/2026 15:11:36.80 \| Add \| Kali's Dad
+9/20/2026 15:8:58.331 \| Edit Points \| Kali's Mom \| Change: 5 \| "Recognized my genius"
 9/20/2026 15:8:37.561 \| Add \| Kali's Mom
 9/20/2026 15:7:42.354 \| Edit Points \| Kali Bucklen \| Change: 4.199 \| "Jumpscared her with a fake exam tmr"
 9/20/2026 3:24:28.900 \| Edit Points \| Owen Bridges \| Change: 2 \| "MADE THE TIMESTAMPS READABLE"

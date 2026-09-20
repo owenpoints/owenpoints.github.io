@@ -7,16 +7,17 @@
 |3.|Watermelon Alani|5.1|
 |4.|Tony Cerqueira|5.0999|
 |5.|Kali's Mom|5|
-|6.|Daniel Duke|3.27|
-|7.|Aidan McGeever|3.26|
-|8.|Mysterious Erin fellow|2|
-|9.|West Village Dining Hall|-3|
-|10.|James Mao|-6|
-|11.|Georgia Institute of Technology|-6|
-|12.|Kali Bucklen|-6.001|
-|13.|Tracker (FOSS)|-9|
-|14.|aiPlato|-10|
-|15.|Fall 2026 CS 1100 Professor who shall not be named|-105|
+|6.|Kali's Dad|5|
+|7.|Daniel Duke|3.27|
+|8.|Aidan McGeever|3.26|
+|9.|Mysterious Erin fellow|2|
+|10.|West Village Dining Hall|-3|
+|11.|James Mao|-6|
+|12.|Georgia Institute of Technology|-6|
+|13.|Kali Bucklen|-6.001|
+|14.|Tracker (FOSS)|-9|
+|15.|aiPlato|-10|
+|16.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -30,7 +31,11 @@
 
 
 ## Owen Points Log:
-9/20/2026 15:8:58.331 \| Edit Points \| Kali's Mom \| Change: 5 \| "Recognizes my genius"
+9/20/2026 15:11:56.110 \| Edit Points \| Kali's Dad \| Change: 5 \| "Bought me pizza that one time"
+
+9/20/2026 15:11:36.80 \| Add \| Kali's Dad
+
+9/20/2026 15:8:58.331 \| Edit Points \| Kali's Mom \| Change: 5 \| "Recognized my genius"
 
 9/20/2026 15:8:37.561 \| Add \| Kali's Mom
 
