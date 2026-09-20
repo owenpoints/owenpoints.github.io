@@ -1,4 +1,6 @@
 # Devlog Post
+9/20/2026 3:15:5.279 \| Owen Bridges \| Made the timestamp format much more readable
+
 2026-09-20 03:02:23.655187 \| Owen Bridges \| Attempted to fix link to devlog
 
 2026-09-20 02:59:51.427044 \| Owen Bridges \| Changed namechange to rename

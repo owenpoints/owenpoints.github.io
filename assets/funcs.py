@@ -1,5 +1,6 @@
 import ast
 from decimal import Decimal
+import datetime
 
 def pretty_num(num):
     if num == int(num):
@@ -44,3 +45,12 @@ def save(scores, path):
 
     with better_open(path, 'w') as scores_file:
         scores_file.write(str(scores))
+
+def get_time_formatted():
+    time = datetime.datetime.now()
+
+    result = f'{time.month}/{time.day}/{time.year} '
+    result += f'{time.hour}:{time.minute}:{time.second}.'
+    result += f'{str(time.microsecond)[:-3]}'
+
+    return result
