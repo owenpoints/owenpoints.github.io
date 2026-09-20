@@ -9,10 +9,10 @@
 |5.|Mysterious Erin fellow|2|
 |6.|Aidan McGeever|1|
 |7.|West Village Dining Hall|-3|
-|8.|Kali Bucklen|-5|
-|9.|James Mao|-5.999|
-|10.|Georgia Institute of Technology|-6|
-|11.|Tracker (FOSS)|-9|
+|8.|James Mao|-5.999|
+|9.|Georgia Institute of Technology|-6|
+|10.|Tracker (FOSS)|-9|
+|11.|Kali Bucklen|-10|
 |12.|aiPlato|-10|
 |13.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
@@ -28,6 +28,8 @@
 
 
 ## Owen Points Log:
+2026-09-19 22:48:37.119030 \| Edit Points \| Kali Bucklen \| Change: -5 \| "Left me behind in fortnite"
+
 2026-09-19 22:38:04.124422 \| Edit Points \| Kali Bucklen \| Change: 1 \| "I actually entered with 86 fortnite levels"
 
 2026-09-19 21:17:02.797758 \| Edit Points \| Mysterious Erin fellow \| Change: 3 \| "Said my queue was fire"
