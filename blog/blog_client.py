@@ -33,13 +33,13 @@ def output(store):
     file.close()
     
 def save(store):
-    file = better_open('./blog/store.txt', 'w')
+    file = better_open('./blog/posts.txt', 'w')
 
     file.write(str(store))
 
     file.close()
 
-store = better_open('./blog/store.txt', 'r')
+store = better_open('./blog/posts.txt', 'r')
 
 posts = ast.literal_eval(store.read())
 

@@ -2,15 +2,15 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Owen Bridges|102|
+|1.|Owen Bridges|107|
 |2.|Gold Bus Driver|10|
 |3.|Watermelon Alani|5.1|
-|4.|Tony Cerqueira|5.0999|
+|4.|Tony Cerqueira|5.1|
 |5.|Daniel Duke|3.27|
 |6.|Aidan McGeever|3.26|
 |7.|Mysterious Erin fellow|2|
 |8.|West Village Dining Hall|-3|
-|9.|James Mao|-5.999|
+|9.|James Mao|-6|
 |10.|Georgia Institute of Technology|-6|
 |11.|Tracker (FOSS)|-9|
 |12.|aiPlato|-10|
@@ -29,6 +29,8 @@
 
 
 ## Owen Points Log:
+2026-09-20 02:00:40.298106 \| Edit Points \| Owen Bridges \| Change: 5 \| "Completely refactored the points client and all related files"
+
 2026-09-20 01:36:53.315993 \| Edit Points \| Daniel Duke \| Change: 1 \| "Quote 'can i get an owen point for farting'"
 
 2026-09-20 01:35:48.505392 \| Edit Points \| Daniel Duke \| Change: 0.27 \| "Being awesome"
