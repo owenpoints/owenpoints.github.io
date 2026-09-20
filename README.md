@@ -2,7 +2,7 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Owen Bridges|17|
+|1.|Owen Bridges|19|
 |2.|Gold Bus Driver|10|
 |3.|Watermelon Alani|5.1|
 |4.|Tony Cerqueira|5.1|
@@ -29,6 +29,8 @@
 
 
 ## Owen Points Log:
+9/20/2026 3:24:28.900 \| Edit Points \| Owen Bridges \| Change: 2 \| "General codebase improvements and MADE THE TIMESTAMPS READABLE"
+
 2026-09-20 02:00:40.298106 \| Edit Points \| Owen Bridges \| Change: 5 \| "Completely refactored the points client and all related files"
 
 2026-09-20 01:36:53.315993 \| Edit Points \| Daniel Duke \| Change: 1 \| "Quote 'can i get an owen point for farting'"
