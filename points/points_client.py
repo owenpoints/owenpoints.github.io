@@ -53,7 +53,7 @@ while True:
 
         error_message = ''
 
-    commands = ("edit", "add", "namechange", "remove", "transfer", "ofw", "help", "exit")
+    commands = ("edit", "add", "rename", "remove", "transfer", "convertwheelpoints", "help", "exit")
     
     raw_command = input(f"Input operation {commands}: ").strip()
 
@@ -186,7 +186,7 @@ while True:
 
         send_to_log(f'{datetime.datetime.now()} \\| Points Transfer \\| {sender_name} to {recipient_name} \\| Amount: {pretty_num(amount)} \\| "{reason}"')
 
-    elif operation == "namechange":
+    elif operation == "rename":
         if len(arguments) != 2:
             error_message = "Invalid command arguments, type help for help."
             continue
@@ -209,9 +209,9 @@ while True:
         wheel_scores[new_name] = wheel_scores[old_name]
         wheel_scores.pop(old_name)
 
-        send_to_log(f'{datetime.datetime.now()} \\| Name Change \\| {old_name} \\| Changed To: {new_name}')
+        send_to_log(f'{datetime.datetime.now()} \\| Rename \\| {old_name} \\| Changed To: {new_name}')
 
-    elif operation == "ofw":
+    elif operation == "convertwheelpoints":
         EXCHANGE_RATE = 10
 
         if len(arguments) != 2:
@@ -240,10 +240,10 @@ while True:
     elif operation == "help":
         print('\nOperation: edit , Syntax: edit "name" increment "reason" , Description: Edit points of existing people.')
         print('Operation: add , Syntax: add "name" , Description: Add people to leaderboards.')
-        print('Operation: namechange , Syntax: namechange "old name" "new name" , Description: Edit names of existing people.')
+        print('Operation: rename , Syntax: rename "old name" "new name" , Description: Edit names of existing people.')
         print('Operation: remove , Syntax: remove "name" , Description: Remove people from leaderboards.')
         print('Operation: transfer , Syntax: transfer "sender" "recipient" amount "reason" , Description: Transfer points between people.')
-        print('Operation: ofw , Syntax: ofw "name" quantity , Description: Turn wheel points into Owen Points.')
+        print('Operation: convertwheelpoints , Syntax: convertwheelpoints "name" quantity , Description: Convert wheel points into Owen Points.')
         print('Operation: help , Syntax: help , Description: Access this help message.')
         print('Operation: exit , Syntax: exit , Description: Exit the program.\n')
 
