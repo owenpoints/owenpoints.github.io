@@ -8,11 +8,12 @@
 |4.|Tony Cerqueira|5.0999|
 |5.|Aidan Mcgeever|1|
 |6.|West Village Dining Hall|-3|
-|7.|Georgia Institute of Technology|-6|
-|8.|Kali Bucklen|-7|
-|9.|Tracker (FOSS)|-9|
-|10.|aiPlato|-10|
-|11.|Fall 2026 CS 1100 Professor who shall not be named|-105|
+|7.|James Mao|-5.999|
+|8.|Georgia Institute of Technology|-6|
+|9.|Kali Bucklen|-6|
+|10.|Tracker (FOSS)|-9|
+|11.|aiPlato|-10|
+|12.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -26,6 +27,14 @@
 
 
 ## Owen Points Log:
+2026-09-19 20:27:14.477378 \| Edit Points \| James Mao \| Change: -0.999 \| "Misused the term 'oxymoron'"
+
+2026-09-19 20:26:11.961194 \| Edit Points \| James Mao \| Change: -5 \| "Didn't know what Owen Points were"
+
+2026-09-19 20:25:44.659620 \| Edit Points \| Kali Bucklen \| Change: 1 \| "Told me James' last name"
+
+2026-09-19 20:25:21.607271 \| Add \| James Mao
+
 2026-09-19 20:18:44.786946 \| Edit Points \| West Village Dining Hall \| Change: -2 \| "I wanted cookies and they didn't have cookies."
 
 2026-09-18 21:21:28.975852 \| Edit Points \| Aidan Mcgeever \| Change: 8 \| "Mb squad"

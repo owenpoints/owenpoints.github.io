@@ -1,3 +1,7 @@
+2026-09-19 20:27:14.477378 \| Edit Points \| James Mao \| Change: -0.999 \| "Misused the term 'oxymoron'"
+2026-09-19 20:26:11.961194 \| Edit Points \| James Mao \| Change: -5 \| "Didn't know what Owen Points were"
+2026-09-19 20:25:44.659620 \| Edit Points \| Kali Bucklen \| Change: 1 \| "Told me James' last name"
+2026-09-19 20:25:21.607271 \| Add \| James Mao
 2026-09-19 20:18:44.786946 \| Edit Points \| West Village Dining Hall \| Change: -2 \| "I wanted cookies and they didn't have cookies."
 2026-09-18 21:21:28.975852 \| Edit Points \| Aidan Mcgeever \| Change: 8 \| "Mb squad"
 2026-09-18 10:47:11.862599 \| Edit Points \| Aidan Mcgeever \| Change: -5 \| "Feeling a little frustrated today, needed to take someone's points away"
