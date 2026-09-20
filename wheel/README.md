@@ -2,18 +2,18 @@
 
 |Ranking|Name|Wheel Points|
 | ----------- | ----------- | ----------- |
-|1.|Owen Bridges|4|
-|2.|Kali Bucklen|0|
-|3.|West Village Dining Hall|0|
-|4.|Fall 2026 CS 1100 Professor who shall not be named|0|
-|5.|Gold Bus Driver|0|
-|6.|aiPlato|0|
-|7.|Georgia Institute of Technology|0|
-|8.|Watermelon Alani|0|
-|9.|Tony Cerqueira|0|
-|10.|Tracker (FOSS)|0|
-|11.|James Mao|0|
-|12.|Aidan McGeever|0|
+|1.|Aidan McGeever|15|
+|2.|West Village Dining Hall|10|
+|3.|aiPlato|10|
+|4.|Watermelon Alani|10|
+|5.|Gold Bus Driver|8|
+|6.|Kali Bucklen|7|
+|7.|Fall 2026 CS 1100 Professor who shall not be named|7|
+|8.|Owen Bridges|3|
+|9.|James Mao|3|
+|10.|Georgia Institute of Technology|-1|
+|11.|Tony Cerqueira|-1|
+|12.|Tracker (FOSS)|-1|
 
 ## 10 Wheel Points can be exchanged for 1 Owen Point
 

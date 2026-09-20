@@ -174,15 +174,23 @@ while True:
 
             continue
         
-        increment = quick_spin(arguments[1])
-        error_message = f"You got {increment} wheel points."
-
         if arguments[0] == "All":
+            error_message = "\nPoints Gained:"
 
-            scores = {key: scores[key] + quick_spin(arguments[1]) for key in scores}
+            for key in scores:
+
+                increment = quick_spin(arguments[1])
+
+                error_message += f"{key}: {increment}\n"
+
+                scores[key] += increment
 
         else:
 
+            increment = quick_spin(arguments[1])
+
+            error_message = f"You got {increment} wheel points."
+            
             scores[arguments[0]] += increment
 
 
