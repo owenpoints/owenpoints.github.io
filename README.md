@@ -31,7 +31,7 @@
 ## Owen Points Log:
 9/20/2026 3:24:28.900 \| Edit Points \| Owen Bridges \| Change: 2 \| "MADE THE TIMESTAMPS READABLE"
 
-2026-09-20 01:36:53.315993 \| Edit Points \| Daniel Duke \| Change: 1 \| "Quote 'can i get an owen point for farting'"
+2026-09-20 01:36:53.315993 \| Edit Points \| Daniel Duke \| Change: 1 \| "can i get an owen point for farting"
 
 2026-09-20 01:35:48.505392 \| Edit Points \| Daniel Duke \| Change: 0.27 \| "Being awesome"
 
@@ -47,7 +47,7 @@
 
 2026-09-19 22:48:37.119030 \| Edit Points \| Kali Bucklen \| Change: -5 \| "Left me behind in fortnite"
 
-2026-09-19 22:38:04.124422 \| Edit Points \| Kali Bucklen \| Change: 1 \| "I actually entered with 86 fortnite levels"
+2026-09-19 22:38:04.124422 \| Edit Points \| Kali Bucklen \| Change: 1 \| "i actually entered with 86 fortnite levels"
 
 2026-09-19 21:17:02.797758 \| Edit Points \| Mysterious Erin fellow \| Change: 3 \| "Said my queue was fire"
 
