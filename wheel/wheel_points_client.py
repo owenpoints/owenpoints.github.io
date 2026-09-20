@@ -175,7 +175,7 @@ while True:
             continue
         
         if arguments[0] == "All":
-            error_message = "\nPoints Gained:"
+            error_message = "\nPoints Gained:\n"
 
             for key in scores:
 
