@@ -4,4 +4,4 @@
 
 2026-09-15 22:28:13.108148 \| Owen Bridges \| [We are so back baby](./posts/We are so back baby.md)
 
-Owen Bridges \| [Devlog post](./posts/Devlog post.md)
+Owen Bridges \| [Devlog post](./posts/Devlog Post.md)

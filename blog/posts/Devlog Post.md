@@ -1,4 +1,6 @@
 # Devlog Post
+2026-09-20 03:02:23.655187 \| Owen Bridges \| Attempted to fix link to devlog
+
 2026-09-20 02:59:51.427044 \| Owen Bridges \| Changed namechange to rename
 
 2026-09-20 02:59:29.104471 \| Owen Bridges \| Renamed ofw to convertwheelpoints
