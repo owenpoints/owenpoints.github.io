@@ -9,7 +9,7 @@
 |5.|Kali's Mom|5|
 |6.|Kali's Dad|5|
 |7.|Daniel Duke|3.27|
-|8.|Aidan McGeever|3.26|
+|8.|Aidan McGeever|3.16|
 |9.|Mysterious Erin fellow|2|
 |10.|West Village Dining Hall|-3|
 |11.|Georgia Institute of Technology|-5|
@@ -31,6 +31,8 @@
 
 
 ## Owen Points Log:
+9/23/2026 17:7:32.416 \| Edit Points \| Aidan McGeever \| Change: -0.1 \| "Somehow forgot what wheel points were after only like 2 years"
+
 9/22/2026 21:5:13.475 \| Edit Points \| Georgia Institute of Technology \| Change: 1 \| "I think I've finally found peace in life"
 
 9/20/2026 15:11:56.110 \| Edit Points \| Kali's Dad \| Change: 5 \| "Bought me pizza that one time"
