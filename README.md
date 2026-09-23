@@ -12,8 +12,8 @@
 |8.|Aidan McGeever|3.26|
 |9.|Mysterious Erin fellow|2|
 |10.|West Village Dining Hall|-3|
-|11.|James Mao|-6|
-|12.|Georgia Institute of Technology|-6|
+|11.|Georgia Institute of Technology|-5|
+|12.|James Mao|-6|
 |13.|Kali Bucklen|-6.001|
 |14.|Tracker (FOSS)|-9|
 |15.|aiPlato|-10|
@@ -31,6 +31,8 @@
 
 
 ## Owen Points Log:
+9/22/2026 21:5:13.475 \| Edit Points \| Georgia Institute of Technology \| Change: 1 \| "I think I've finally found peace in life"
+
 9/20/2026 15:11:56.110 \| Edit Points \| Kali's Dad \| Change: 5 \| "Bought me pizza that one time"
 
 9/20/2026 15:11:36.80 \| Add \| Kali's Dad
