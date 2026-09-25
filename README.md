@@ -15,9 +15,10 @@
 |11.|Georgia Institute of Technology|-5|
 |12.|James Mao|-6|
 |13.|Kali Bucklen|-6.001|
-|14.|Tracker (FOSS)|-9|
-|15.|aiPlato|-10|
-|16.|Fall 2026 CS 1100 Professor who shall not be named|-105|
+|14.|HackGT13|-7|
+|15.|Tracker (FOSS)|-9|
+|16.|aiPlato|-10|
+|17.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -31,6 +32,10 @@
 
 
 ## Owen Points Log:
+9/25/2026 11:2:27.866 \| Edit Points \| HackGT13 \| Change: -7 \| "Happening on the one weekend that I'm going home"
+
+9/25/2026 11:2:7.829 \| Add \| HackGT13
+
 9/23/2026 17:7:32.416 \| Edit Points \| Aidan McGeever \| Change: -0.1 \| "Somehow forgot what wheel points were after only like 2 years"
 
 9/22/2026 21:5:13.475 \| Edit Points \| Georgia Institute of Technology \| Change: 1 \| "I think I've finally found peace in life"
