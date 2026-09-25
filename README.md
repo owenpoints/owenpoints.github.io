@@ -32,7 +32,7 @@
 
 
 ## Owen Points Log:
-9/25/2026 11:2:27.866 \| Edit Points \| HackGT13 \| Change: -7 \| "Happening on the one weekend that I'm going home"
+9/25/2026 11:2:27.866 \| Edit Points \| HackGT13 \| Change: -7 \| "Happening on the ONE weekend that I'm going home"
 
 9/25/2026 11:2:7.829 \| Add \| HackGT13
 
