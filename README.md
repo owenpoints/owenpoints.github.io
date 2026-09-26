@@ -13,8 +13,8 @@
 |9.|Mysterious Erin fellow|2|
 |10.|West Village Dining Hall|-3|
 |11.|Georgia Institute of Technology|-5|
-|12.|James Mao|-6|
-|13.|Kali Bucklen|-6.001|
+|12.|Kali Bucklen|-5.001|
+|13.|James Mao|-6|
 |14.|HackGT13|-7|
 |15.|Tracker (FOSS)|-9|
 |16.|aiPlato|-10|
@@ -32,6 +32,8 @@
 
 
 ## Owen Points Log:
+9/25/2026 22:20:42.151 \| Edit Points \| Kali Bucklen \| Change: 1 \| "I bailed on HackGT13"
+
 9/25/2026 11:2:27.866 \| Edit Points \| HackGT13 \| Change: -7 \| "Happening on the ONE weekend that I'm going home"
 
 9/25/2026 11:2:7.829 \| Add \| HackGT13
