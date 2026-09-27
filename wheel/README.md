@@ -18,7 +18,8 @@
 |14.|Kali's Dad|3|
 |15.|Kali's Mom|3|
 |16.|Mysterious Erin fellow|3|
-|17.|HackGT13|0|
+|17.|Mango Loco Monster|0|
+|18.|HackGT13|0|
 
 ## 10 Wheel Points can be exchanged for 1 Owen Point
 

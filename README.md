@@ -2,23 +2,24 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Owen Bridges|12|
+|1.|Owen Bridges|13|
 |2.|Gold Bus Driver|10|
-|3.|Watermelon Alani|5.1|
-|4.|Tony Cerqueira|5.0999|
-|5.|Kali's Mom|5|
-|6.|Kali's Dad|5|
-|7.|Daniel Duke|3.27|
-|8.|Aidan McGeever|3.16|
+|3.|Aidan McGeever|6.16|
+|4.|Watermelon Alani|5.1|
+|5.|Tony Cerqueira|5.0999|
+|6.|Kali's Mom|5|
+|7.|Kali's Dad|5|
+|8.|Daniel Duke|3.27|
 |9.|Mysterious Erin fellow|2|
-|10.|West Village Dining Hall|-3|
-|11.|Georgia Institute of Technology|-5|
-|12.|Kali Bucklen|-5.001|
-|13.|James Mao|-6|
-|14.|HackGT13|-7|
-|15.|Tracker (FOSS)|-9|
-|16.|aiPlato|-10|
-|17.|Fall 2026 CS 1100 Professor who shall not be named|-105|
+|10.|Mango Loco Monster|1|
+|11.|West Village Dining Hall|-3|
+|12.|Georgia Institute of Technology|-5|
+|13.|Kali Bucklen|-5.001|
+|14.|James Mao|-6|
+|15.|HackGT13|-7|
+|16.|Tracker (FOSS)|-9|
+|17.|aiPlato|-10|
+|18.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -32,6 +33,18 @@
 
 
 ## Owen Points Log:
+9/27/2026 18:12:47.172 \| Edit Points \| Owen Bridges \| Change: 1 \| "Form: Aidan McGeever said: bailed on hackytronythingymcbob13 for epic birthday celly."
+
+9/27/2026 18:12:3.398 \| Edit Points \| Mango Loco Monster \| Change: -1 \| "Tastes mid-a-licious"
+
+9/27/2026 18:11:40.15 \| Edit Points \| Mango Loco Monster \| Change: 2 \| "Kept Aidan McGeever awake during econ"
+
+9/27/2026 18:11:19.558 \| Add \| Mango Loco Monster
+
+9/27/2026 18:11:11.782 \| Edit Points \| Aidan McGeever \| Change: -2 \| "Used my flawless google form wrong"
+
+9/27/2026 18:10:52.615 \| Edit Points \| Aidan McGeever \| Change: 5 \| "Birthday points"
+
 9/25/2026 22:20:42.151 \| Edit Points \| Kali Bucklen \| Change: 1 \| "I bailed on HackGT13"
 
 9/25/2026 11:2:27.866 \| Edit Points \| HackGT13 \| Change: -7 \| "Happening on the ONE weekend that I'm going home"
