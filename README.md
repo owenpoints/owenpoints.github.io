@@ -4,7 +4,7 @@
 | ----------- | ----------- | ----------- |
 |1.|Owen Bridges|13|
 |2.|Gold Bus Driver|10|
-|3.|Aidan McGeever|6.16|
+|3.|Aidan McGeever|5.16|
 |4.|Watermelon Alani|5.1|
 |5.|Tony Cerqueira|5.0999|
 |6.|Kali's Mom|5|
@@ -15,7 +15,7 @@
 |11.|Mango Loco Monster|1|
 |12.|West Village Dining Hall|-3|
 |13.|Georgia Institute of Technology|-5|
-|14.|Kali Bucklen|-5.001|
+|14.|Kali Bucklen|-6.001|
 |15.|James Mao|-7|
 |16.|HackGT13|-7|
 |17.|Tracker (FOSS)|-9|
@@ -34,6 +34,10 @@
 
 
 ## Owen Points Log:
+10/3/2026 1:27:13.942 \| Edit Points \| Kali Bucklen \| Change: -1 \| "Voter fraud"
+
+10/3/2026 1:27:3.166 \| Edit Points \| Aidan McGeever \| Change: -1 \| "Voter fraud"
+
 10/3/2026 1:26:12.120 \| Edit Points \| William Niemiec-Andorfer \| Change: 5 \| "Bribe"
 
 10/3/2026 1:26:0.691 \| Add \| William Niemiec-Andorfer
