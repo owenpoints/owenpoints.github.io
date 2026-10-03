@@ -15,7 +15,7 @@
 |11.|West Village Dining Hall|-3|
 |12.|Georgia Institute of Technology|-5|
 |13.|Kali Bucklen|-5.001|
-|14.|James Mao|-6|
+|14.|James Mao|-7|
 |15.|HackGT13|-7|
 |16.|Tracker (FOSS)|-9|
 |17.|aiPlato|-10|
@@ -33,6 +33,8 @@
 
 
 ## Owen Points Log:
+10/2/2026 22:33:22.569 \| Edit Points \| James Mao \| Change: -1 \| "Convinced me to go to an ayce hot pot place and now my body feels horrible"
+
 9/27/2026 18:12:47.172 \| Edit Points \| Owen Bridges \| Change: 1 \| "Form: Aidan McGeever said: bailed on hackytronythingymcbob13 for epic birthday celly."
 
 9/27/2026 18:12:3.398 \| Edit Points \| Mango Loco Monster \| Change: -1 \| "Tastes mid-a-licious"
