@@ -20,6 +20,7 @@
 |16.|Kali's Dad|11|
 |17.|HackGT13|10|
 |18.|Georgia Institute of Technology|7|
+|19.|William Niemiec-Andorfer|0|
 
 ## 10 Wheel Points can be exchanged for 1 Owen Point
 

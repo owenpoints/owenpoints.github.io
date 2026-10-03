@@ -9,17 +9,18 @@
 |5.|Tony Cerqueira|5.0999|
 |6.|Kali's Mom|5|
 |7.|Kali's Dad|5|
-|8.|Daniel Duke|3.27|
-|9.|Mysterious Erin fellow|2|
-|10.|Mango Loco Monster|1|
-|11.|West Village Dining Hall|-3|
-|12.|Georgia Institute of Technology|-5|
-|13.|Kali Bucklen|-5.001|
-|14.|James Mao|-7|
-|15.|HackGT13|-7|
-|16.|Tracker (FOSS)|-9|
-|17.|aiPlato|-10|
-|18.|Fall 2026 CS 1100 Professor who shall not be named|-105|
+|8.|William Niemiec-Andorfer|5|
+|9.|Daniel Duke|3.27|
+|10.|Mysterious Erin fellow|2|
+|11.|Mango Loco Monster|1|
+|12.|West Village Dining Hall|-3|
+|13.|Georgia Institute of Technology|-5|
+|14.|Kali Bucklen|-5.001|
+|15.|James Mao|-7|
+|16.|HackGT13|-7|
+|17.|Tracker (FOSS)|-9|
+|18.|aiPlato|-10|
+|19.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -33,6 +34,10 @@
 
 
 ## Owen Points Log:
+10/3/2026 1:26:12.120 \| Edit Points \| William Niemiec-Andorfer \| Change: 5 \| "Bribe"
+
+10/3/2026 1:26:0.691 \| Add \| William Niemiec-Andorfer
+
 10/2/2026 22:33:22.569 \| Edit Points \| James Mao \| Change: -1 \| "Convinced me to go to an ayce hot pot place and now my body feels horrible"
 
 9/27/2026 18:12:47.172 \| Edit Points \| Owen Bridges \| Change: 1 \| "Form: Aidan McGeever said: bailed on hackytronythingymcbob13 for epic birthday celly."
