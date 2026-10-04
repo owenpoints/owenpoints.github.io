@@ -15,11 +15,11 @@
 |11.|Mango Loco Monster|1|
 |12.|West Village Dining Hall|-3|
 |13.|Georgia Institute of Technology|-5|
-|14.|Kali Bucklen|-6.001|
-|15.|James Mao|-7|
-|16.|HackGT13|-7|
-|17.|Tracker (FOSS)|-9|
-|18.|aiPlato|-10|
+|14.|James Mao|-7|
+|15.|HackGT13|-7|
+|16.|Tracker (FOSS)|-9|
+|17.|aiPlato|-10|
+|18.|Kali Bucklen|-11.001|
 |19.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
@@ -34,6 +34,8 @@
 
 
 ## Owen Points Log:
+10/4/2026 0:40:49.858 \| Edit Points \| Kali Bucklen \| Change: -5 \| "Generational fortnite throw"
+
 10/3/2026 1:27:13.942 \| Edit Points \| Kali Bucklen \| Change: -1 \| "Voter fraud"
 
 10/3/2026 1:27:3.166 \| Edit Points \| Aidan McGeever \| Change: -1 \| "Voter fraud"
