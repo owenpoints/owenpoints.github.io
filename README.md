@@ -2,7 +2,7 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Owen Bridges|13|
+|1.|Owen Bridges|18|
 |2.|Gold Bus Driver|10|
 |3.|Aidan McGeever|8.16|
 |4.|William Niemiec-Andorfer|8|
@@ -34,6 +34,8 @@
 
 
 ## Owen Points Log:
+10/7/2026 19:14:23.605 \| Edit Points \| Owen Bridges \| Change: 5 \| "I'm pretty awesome if I do say so myself"
+
 10/7/2026 18:12:51.898 \| Edit Points \| Aidan McGeever \| Change: 3 \| "Lego batman 2 studs conversion"
 
 10/7/2026 18:12:4.512 \| Edit Points \| Aidan McGeever \| Change: 1 \| "Wait nvm my goat"
