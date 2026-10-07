@@ -18,7 +18,7 @@
 |14.|James Mao|-7|
 |15.|HackGT13|-7|
 |16.|Tracker (FOSS)|-9|
-|17.|aiPlato|-10|
+|17.|aiPlato|-11|
 |18.|Kali Bucklen|-11.001|
 |19.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
@@ -34,6 +34,8 @@
 
 
 ## Owen Points Log:
+10/7/2026 19:17:51.760 \| Edit Points \| aiPlato \| Change: -1 \| "Just submitted another assignment on this bum ahh platform"
+
 10/7/2026 19:14:23.605 \| Edit Points \| Owen Bridges \| Change: 5 \| "I'm pretty awesome if I do say so myself"
 
 10/7/2026 18:12:51.898 \| Edit Points \| Aidan McGeever \| Change: 3 \| "Lego batman 2 studs conversion"
