@@ -4,12 +4,12 @@
 | ----------- | ----------- | ----------- |
 |1.|Owen Bridges|13|
 |2.|Gold Bus Driver|10|
-|3.|Aidan McGeever|5.16|
-|4.|Watermelon Alani|5.1|
-|5.|Tony Cerqueira|5.0999|
-|6.|Kali's Mom|5|
-|7.|Kali's Dad|5|
-|8.|William Niemiec-Andorfer|5|
+|3.|Aidan McGeever|8.16|
+|4.|William Niemiec-Andorfer|8|
+|5.|Watermelon Alani|5.1|
+|6.|Tony Cerqueira|5.0999|
+|7.|Kali's Mom|5|
+|8.|Kali's Dad|5|
 |9.|Daniel Duke|3.27|
 |10.|Mysterious Erin fellow|2|
 |11.|Mango Loco Monster|1|
@@ -34,6 +34,14 @@
 
 
 ## Owen Points Log:
+10/7/2026 18:12:51.898 \| Edit Points \| Aidan McGeever \| Change: 3 \| "Lego batman 2 studs conversion"
+
+10/7/2026 18:12:4.512 \| Edit Points \| Aidan McGeever \| Change: 1 \| "Wait nvm my goat"
+
+10/7/2026 18:11:35.935 \| Edit Points \| Aidan McGeever \| Change: -1 \| "Fuck you"
+
+10/7/2026 18:10:35.668 \| Edit Points \| William Niemiec-Andorfer \| Change: 3 \| "Went to the gym for a month straight"
+
 10/4/2026 0:40:49.858 \| Edit Points \| Kali Bucklen \| Change: -5 \| "Generational fortnite throw"
 
 10/3/2026 1:27:13.942 \| Edit Points \| Kali Bucklen \| Change: -1 \| "Voter fraud"
