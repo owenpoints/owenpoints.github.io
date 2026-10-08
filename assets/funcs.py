@@ -50,7 +50,7 @@ def get_time_formatted():
     time = datetime.datetime.now()
 
     result = f'{time.month}/{time.day}/{time.year} '
-    result += f'{time.hour}:{time.minute}:{time.second}.'
+    result += f'{time.hour}:{time.minute} {time.second}.'
     result += f'{str(time.microsecond)[:-3]}'
 
     return result
