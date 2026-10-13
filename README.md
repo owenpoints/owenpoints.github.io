@@ -18,8 +18,8 @@
 |14.|James Mao|-7|
 |15.|HackGT13|-7|
 |16.|Tracker (FOSS)|-9|
-|17.|aiPlato|-11|
-|18.|Kali Bucklen|-11.001|
+|17.|Kali Bucklen|-10.001|
+|18.|aiPlato|-11|
 |19.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
@@ -34,6 +34,8 @@
 
 
 ## Owen Points Log:
+10/12/2026 21:45 6.218 \| Edit Points \| Kali Bucklen \| Change: 1 \| "I'm being generous"
+
 10/7/2026 19:17:51.760 \| Edit Points \| aiPlato \| Change: -1 \| "Just submitted another assignment on this bum ahh platform"
 
 10/7/2026 19:14:23.605 \| Edit Points \| Owen Bridges \| Change: 5 \| "I'm pretty awesome if I do say so myself"
