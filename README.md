@@ -4,22 +4,22 @@
 | ----------- | ----------- | ----------- |
 |1.|Owen Bridges|18|
 |2.|Gold Bus Driver|10|
-|3.|Aidan McGeever|8.16|
-|4.|William Niemiec-Andorfer|8|
-|5.|Watermelon Alani|5.1|
-|6.|Tony Cerqueira|5.0999|
-|7.|Kali's Mom|5|
-|8.|Kali's Dad|5|
-|9.|Daniel Duke|3.27|
-|10.|Mysterious Erin fellow|2|
-|11.|Mango Loco Monster|1|
-|12.|West Village Dining Hall|-3|
-|13.|Roblox Rivals|-4|
-|14.|Georgia Institute of Technology|-5|
-|15.|James Mao|-7|
-|16.|HackGT13|-7|
-|17.|Tracker (FOSS)|-9|
-|18.|Kali Bucklen|-10.001|
+|3.|Kali Bucklen|9.999|
+|4.|Aidan McGeever|8.16|
+|5.|William Niemiec-Andorfer|8|
+|6.|Watermelon Alani|5.1|
+|7.|Tony Cerqueira|5.0999|
+|8.|Kali's Mom|5|
+|9.|Kali's Dad|5|
+|10.|Daniel Duke|3.27|
+|11.|Mysterious Erin fellow|2|
+|12.|Mango Loco Monster|1|
+|13.|West Village Dining Hall|-3|
+|14.|Roblox Rivals|-4|
+|15.|Georgia Institute of Technology|-5|
+|16.|James Mao|-7|
+|17.|HackGT13|-7|
+|18.|Tracker (FOSS)|-9|
 |19.|aiPlato|-11|
 |20.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
@@ -35,6 +35,8 @@
 
 
 ## Owen Points Log:
+10/14/2026 12:38 24.965 \| Edit Points \| Kali Bucklen \| Change: 20 \| "Held my stuff so I could go to the bathroom because my head was about to explode, my face about to melt off, my bones about to shatter, my skin about to peel off, my hair about to fall out, and every atom on the planet earth about to undergo nuclear fission"
+
 10/12/2026 21:46 10.898 \| Edit Points \| Roblox Rivals \| Change: -4 \| "I got braindead teammates like three times in a row"
 
 10/12/2026 21:45 40.618 \| Add \| Roblox Rivals
