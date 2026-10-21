@@ -17,11 +17,12 @@
 |13.|West Village Dining Hall|-3|
 |14.|Roblox Rivals|-4|
 |15.|Georgia Institute of Technology|-5|
-|16.|James Mao|-7|
-|17.|HackGT13|-7|
-|18.|Tracker (FOSS)|-9|
-|19.|aiPlato|-11|
-|20.|Fall 2026 CS 1100 Professor who shall not be named|-105|
+|16.|Red Bus Driver|-6|
+|17.|James Mao|-7|
+|18.|HackGT13|-7|
+|19.|Tracker (FOSS)|-9|
+|20.|aiPlato|-11|
+|21.|Fall 2026 CS 1100 Professor who shall not be named|-105|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -35,6 +36,10 @@
 
 
 ## Owen Points Log:
+10/21/2026 19:26 8.938 \| Edit Points \| Red Bus Driver \| Change: -6 \| "Made me walk for 15 (rounds up to 100000000) minutes to get home because there were fire engines blockign the road"
+
+10/21/2026 19:25 11.692 \| Add \| Red Bus Driver
+
 10/14/2026 12:38 24.965 \| Edit Points \| Kali Bucklen \| Change: 20 \| "Held my stuff so I could go to the bathroom because my head was about to explode, my face about to melt off, my bones about to shatter, my skin about to peel off, my hair about to fall out, and every atom on the planet earth about to undergo nuclear fission"
 
 10/12/2026 21:46 10.898 \| Edit Points \| Roblox Rivals \| Change: -4 \| "I got braindead teammates like three times in a row"
