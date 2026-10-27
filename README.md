@@ -23,6 +23,7 @@
 |19.|Tracker (FOSS)|-9|
 |20.|aiPlato|-11|
 |21.|Fall 2026 CS 1100 Professor who shall not be named|-105|
+|22.|Dell Inc.|-10,021,000,000|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -36,6 +37,16 @@
 
 
 ## Owen Points Log:
+10/26/2026 23:7 26.475 \| Edit Points \| Dell Inc. \| Change: -10,000,000 \| "I HATE alienware command center"
+
+10/26/2026 23:6 59.384 \| Edit Points \| Dell Inc. \| Change: -10,000,000 \| "And they 100% used genai to make the user manual because it doesn't align with ANY version of the alienware command center"
+
+10/26/2026 23:6 27.441 \| Edit Points \| Dell Inc. \| Change: -1,000,000 \| "And the stupid app doesn't even do anything useful it just runs slowly and tries to get you to buy more alienwareslop"
+
+10/26/2026 23:5 49.559 \| Edit Points \| Dell Inc. \| Change: -10,000,000,000 \| "Created the alienware command center while they were boofed out of their minds and forced me to install it on MY computer to use the headset that I paid for"
+
+10/26/2026 23:4 53.471 \| Add \| Dell Inc.
+
 10/21/2026 19:26 8.938 \| Edit Points \| Red Bus Driver \| Change: -6 \| "Made me walk for 15 (rounds up to 100000000) minutes to get home because there were fire engines blockign the road"
 
 10/21/2026 19:25 11.692 \| Add \| Red Bus Driver
