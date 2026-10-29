@@ -43,7 +43,7 @@
 
 10/26/2026 23:6 27.441 \| Edit Points \| Dell Inc. \| Change: -1,000,000 \| "And the stupid app doesn't even do anything useful it just runs slowly and tries to get you to buy more alienwareslop"
 
-10/26/2026 23:5 49.559 \| Edit Points \| Dell Inc. \| Change: -10,000,000,000 \| "Created the alienware command center while they were boofed out of their minds and forced me to install it on MY computer to use the headset that I paid for"
+10/26/2026 23:5 49.559 \| Edit Points \| Dell Inc. \| Change: -10,000,000,000 \| "Created the alienware command center while they were gazoinkledoinked out of their minds and forced me to install it on MY computer to use the headset that I paid for"
 
 10/26/2026 23:4 53.471 \| Add \| Dell Inc.
 
