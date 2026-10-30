@@ -23,7 +23,7 @@
 |19.|Tracker (FOSS)|-9|
 |20.|aiPlato|-11|
 |21.|Fall 2026 CS 1100 Professor who shall not be named|-105|
-|22.|Dell Inc.|-10,021,000,000|
+|22.|Dastardly Dell Inc.|-10,021,000,000|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -37,6 +37,8 @@
 
 
 ## Owen Points Log:
+10/30/2026 15:50 7.175 \| Rename \| Dell Inc. \| Changed To: Dastardly Dell Inc.
+
 10/26/2026 23:7 26.475 \| Edit Points \| Dell Inc. \| Change: -10,000,000 \| "I HATE alienware command center"
 
 10/26/2026 23:6 59.384 \| Edit Points \| Dell Inc. \| Change: -10,000,000 \| "And they 100% used genai to make the user manual because it doesn't align with ANY version of the alienware command center"
