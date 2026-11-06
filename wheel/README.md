@@ -20,10 +20,11 @@
 |16.|Kali's Dad|11|
 |17.|HackGT13|10|
 |18.|Georgia Institute of Technology|7|
-|19.|Dastardly Dell Inc.|0|
-|20.|Red Bus Driver|0|
-|21.|Roblox Rivals|0|
-|22.|William Niemiec-Andorfer|0|
+|19.|Damian|0|
+|20.|Dastardly Dell Inc.|0|
+|21.|Red Bus Driver|0|
+|22.|Roblox Rivals|0|
+|23.|William Niemiec-Andorfer|0|
 
 ## 10 Wheel Points can be exchanged for 1 Owen Point
 

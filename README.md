@@ -12,18 +12,19 @@
 |8.|Kali's Mom|5|
 |9.|Kali's Dad|5|
 |10.|Daniel Duke|3.27|
-|11.|Mysterious Erin fellow|2|
-|12.|Mango Loco Monster|1|
-|13.|West Village Dining Hall|-3|
-|14.|Roblox Rivals|-4|
-|15.|Georgia Institute of Technology|-5|
-|16.|Red Bus Driver|-6|
-|17.|James Mao|-7|
-|18.|HackGT13|-7|
-|19.|Tracker (FOSS)|-9|
-|20.|aiPlato|-11|
-|21.|Fall 2026 CS 1100 Professor who shall not be named|-105|
-|22.|Dastardly Dell Inc.|-10,021,000,000|
+|11.|Damian|3|
+|12.|Mysterious Erin fellow|2|
+|13.|Mango Loco Monster|1|
+|14.|West Village Dining Hall|-3|
+|15.|Roblox Rivals|-4|
+|16.|Georgia Institute of Technology|-5|
+|17.|Red Bus Driver|-6|
+|18.|James Mao|-7|
+|19.|HackGT13|-7|
+|20.|Tracker (FOSS)|-9|
+|21.|aiPlato|-11|
+|22.|Fall 2026 CS 1100 Professor who shall not be named|-105|
+|23.|Dastardly Dell Inc.|-10,021,000,000|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -37,6 +38,10 @@
 
 
 ## Owen Points Log:
+11/6/2026 11:48 29.194 \| Edit Points \| Damian \| Change: 3 \| "Real funny guy"
+
+11/6/2026 11:48 16.54 \| Add \| Damian
+
 10/30/2026 15:50 7.175 \| Rename \| Dell Inc. \| Changed To: Dastardly Dell Inc.
 
 10/26/2026 23:7 26.475 \| Edit Points \| Dell Inc. \| Change: -10,000,000 \| "I HATE alienware command center"
