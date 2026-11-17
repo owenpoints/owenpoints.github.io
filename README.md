@@ -7,24 +7,25 @@
 |3.|Kali Bucklen|9.999|
 |4.|Aidan McGeever|8.16|
 |5.|William Niemiec-Andorfer|8|
-|6.|Watermelon Alani|5.1|
-|7.|Tony Cerqueira|5.0999|
-|8.|Kali's Mom|5|
-|9.|Kali's Dad|5|
-|10.|Daniel Duke|3.27|
-|11.|Damian|3|
-|12.|Mysterious Erin fellow|2|
-|13.|Mango Loco Monster|1|
-|14.|West Village Dining Hall|-3|
-|15.|Roblox Rivals|-4|
-|16.|Georgia Institute of Technology|-5|
-|17.|Red Bus Driver|-6|
-|18.|James Mao|-7|
-|19.|HackGT13|-7|
-|20.|Tracker (FOSS)|-9|
-|21.|aiPlato|-11|
-|22.|Fall 2026 CS 1100 Professor who shall not be named|-105|
-|23.|Dastardly Dell Inc.|-10,021,000,000|
+|6.|Emerson Hamp|7|
+|7.|Watermelon Alani|5.1|
+|8.|Tony Cerqueira|5.0999|
+|9.|Kali's Mom|5|
+|10.|Kali's Dad|5|
+|11.|Daniel Duke|3.27|
+|12.|Damian|3|
+|13.|Mysterious Erin fellow|2|
+|14.|Mango Loco Monster|1|
+|15.|West Village Dining Hall|-3|
+|16.|Roblox Rivals|-4|
+|17.|Georgia Institute of Technology|-5|
+|18.|Red Bus Driver|-6|
+|19.|James Mao|-7|
+|20.|HackGT13|-7|
+|21.|Tracker (FOSS)|-9|
+|22.|aiPlato|-11|
+|23.|Fall 2026 CS 1100 Professor who shall not be named|-105|
+|24.|Dastardly Dell Inc.|-10,021,000,000|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -38,6 +39,10 @@
 
 
 ## Owen Points Log:
+11/17/2026 18:36 39.178 \| Edit Points \| Emerson Hamp \| Change: 7 \| "Owen points season two epic rap"
+
+11/17/2026 18:32 31.98 \| Add \| Emerson Hamp
+
 11/6/2026 11:48 29.194 \| Edit Points \| Damian \| Change: 3 \| "Real funny guy"
 
 11/6/2026 11:48 16.54 \| Add \| Damian
