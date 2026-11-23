@@ -20,12 +20,13 @@
 |16.|Kali's Dad|11|
 |17.|HackGT13|10|
 |18.|Georgia Institute of Technology|7|
-|19.|Emerson Hamp|0|
-|20.|Damian|0|
-|21.|Dastardly Dell Inc.|0|
-|22.|Red Bus Driver|0|
-|23.|Roblox Rivals|0|
-|24.|William Niemiec-Andorfer|0|
+|19.|Fortnite Pirate Item Shop Token|0|
+|20.|Emerson Hamp|0|
+|21.|Damian|0|
+|22.|Dastardly Dell Inc.|0|
+|23.|Red Bus Driver|0|
+|24.|Roblox Rivals|0|
+|25.|William Niemiec-Andorfer|0|
 
 ## 10 Wheel Points can be exchanged for 1 Owen Point
 

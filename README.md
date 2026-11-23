@@ -2,30 +2,31 @@
 
 |Ranking|Name|Owen Points|
 | ----------- | ----------- | ----------- |
-|1.|Owen Bridges|18|
-|2.|Gold Bus Driver|10|
-|3.|Kali Bucklen|9.999|
-|4.|Aidan McGeever|8.16|
-|5.|William Niemiec-Andorfer|8|
-|6.|Emerson Hamp|7|
-|7.|Watermelon Alani|5.1|
-|8.|Tony Cerqueira|5.0999|
-|9.|Kali's Mom|5|
-|10.|Kali's Dad|5|
-|11.|Daniel Duke|3.27|
-|12.|Damian|3|
-|13.|Mysterious Erin fellow|2|
-|14.|Mango Loco Monster|1|
-|15.|West Village Dining Hall|-3|
-|16.|Roblox Rivals|-4|
-|17.|Georgia Institute of Technology|-5|
-|18.|Red Bus Driver|-7|
-|19.|James Mao|-7|
-|20.|HackGT13|-7|
-|21.|Tracker (FOSS)|-9|
-|22.|aiPlato|-11|
-|23.|Fall 2026 CS 1100 Professor who shall not be named|-105|
-|24.|Dastardly Dell Inc.|-10,021,000,000|
+|1.|Fortnite Pirate Item Shop Token|67|
+|2.|Owen Bridges|18|
+|3.|Gold Bus Driver|10|
+|4.|Kali Bucklen|9.999|
+|5.|Aidan McGeever|8.16|
+|6.|William Niemiec-Andorfer|8|
+|7.|Emerson Hamp|7|
+|8.|Watermelon Alani|5.1|
+|9.|Tony Cerqueira|5.0999|
+|10.|Kali's Mom|5|
+|11.|Kali's Dad|5|
+|12.|Daniel Duke|3.27|
+|13.|Damian|3|
+|14.|Mysterious Erin fellow|2|
+|15.|Mango Loco Monster|1|
+|16.|West Village Dining Hall|-3|
+|17.|Roblox Rivals|-4|
+|18.|Georgia Institute of Technology|-5|
+|19.|Red Bus Driver|-7|
+|20.|James Mao|-7|
+|21.|HackGT13|-7|
+|22.|Tracker (FOSS)|-9|
+|23.|aiPlato|-11|
+|24.|Fall 2026 CS 1100 Professor who shall not be named|-105|
+|25.|Dastardly Dell Inc.|-10,021,000,000|
 
 ## Report Someone or Request Points [Here](https://docs.google.com/forms/d/e/1FAIpQLScEe4ohzK1m1LlYeYMin0rPYx5sfSNmHLy6EeX2wYl5e1vPCQ/viewform?usp=publish-editor).
 
@@ -39,6 +40,10 @@
 
 
 ## Owen Points Log:
+11/23/2026 17:13 55.444 \| Edit Points \| Fortnite Pirate Item Shop Token \| Change: 67 \| "Gambling ritual"
+
+11/23/2026 17:13 37.622 \| Add \| Fortnite Pirate Item Shop Token
+
 11/23/2026 17:13 11.269 \| Edit Points \| Red Bus Driver \| Change: -1 \| "Made me walk home again (akin to traversing the apalachian trail)"
 
 11/17/2026 18:36 39.178 \| Edit Points \| Emerson Hamp \| Change: 7 \| "Owen points season two epic rap"
