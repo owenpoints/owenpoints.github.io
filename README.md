@@ -19,7 +19,7 @@
 |15.|West Village Dining Hall|-3|
 |16.|Roblox Rivals|-4|
 |17.|Georgia Institute of Technology|-5|
-|18.|Red Bus Driver|-6|
+|18.|Red Bus Driver|-7|
 |19.|James Mao|-7|
 |20.|HackGT13|-7|
 |21.|Tracker (FOSS)|-9|
@@ -39,6 +39,8 @@
 
 
 ## Owen Points Log:
+11/23/2026 17:13 11.269 \| Edit Points \| Red Bus Driver \| Change: -1 \| "Made me walk home again (akin to traversing the apalachian trail)"
+
 11/17/2026 18:36 39.178 \| Edit Points \| Emerson Hamp \| Change: 7 \| "Owen points season two epic rap"
 
 11/17/2026 18:32 31.98 \| Add \| Emerson Hamp
